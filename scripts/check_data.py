@@ -1,9 +1,8 @@
 from sdg.open_sdg import open_sdg_check
 
 def alter_data(df):
-    for col in df.columns:
-        if (df[col].dtype == dtype('O')):
-            df[col] = df[col].str.strip()
+    for col in df.loc[:, df.dtypes == object].columns:
+        df[col] = df[col].str.strip()
     return df
 
 # Validate the indicators.
