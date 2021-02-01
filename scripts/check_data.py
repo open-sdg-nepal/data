@@ -1,11 +1,8 @@
 from sdg.open_sdg import open_sdg_check
 
 def alter_data(df):
-    # if 'Source details' in df:
-    #   del df['Source details']
-    # if 'concept.COMMENT_TS' in df:
-    #     del df['concept.COMMENT_TS']
-    df = data_frame.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+    df['COMMENT_OBS'] = df['COMMENT_OBS'].str.strip()
+    df['SOURCE_DETAIL'] = df['SOURCE_DETAIL'].str.strip()
     return df
 
 # Validate the indicators.
