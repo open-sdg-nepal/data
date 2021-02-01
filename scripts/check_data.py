@@ -1,10 +1,9 @@
 from sdg.open_sdg import open_sdg_check
 
 def alter_data(df):
-    df['COMMENT_OBS'] = df['COMMENT_OBS'].str.strip()
-    df['SOURCE_DETAIL'] = df['SOURCE_DETAIL'].str.strip()
-    if not df['COMMENT_OBS']:
-        print("df['COMMENT_OBS'] does not exist")
+    for col in df.columns:
+        if (df[col].dtype == dtype('O')):
+            df[col] = df[col].str.strip()
     return df
 
 # Validate the indicators.
