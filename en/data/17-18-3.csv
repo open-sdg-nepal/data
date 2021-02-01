@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,COMMENT_OBS,SERIES,Value
+2019,Observation value represents the number of countries with national statistical plans with funding from donors,SG_STT_NSDSFDDNR,1
+2019,Observation value represents the number of countries with national statistical plans with funding from donors,SG_STT_NSDSFDGVT,1
+2019,Obs_Value = 0;  Observation value represents the number of countries with national statistical plans that are fully funded,SG_STT_NSDSFND,0
+2019,Observation value represents the number of countries with national statistical plans that are under implementation,SG_STT_NSDSIMPL,1

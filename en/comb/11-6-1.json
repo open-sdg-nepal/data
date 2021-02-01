@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":["2003","2009"],"CUST_BREAKDOWN":["C01","C02"],"CUST_BREAKDOWN_LB":["Kathmandu","Ghorai"],"Value":[94,83]},"edges":{"From":["CUST_BREAKDOWN"],"To":["CUST_BREAKDOWN_LB"]}}

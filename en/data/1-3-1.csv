@@ -1,7 +1,14 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,NATURE,SOURCE_DETAIL,SERIES,INCOME_WEALTH_QUANTILE,COMMENT_OBS,Value
+2019,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_BENFTS,,,21.0
+2019,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_CHLD,,,39.3
+2019,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_DISAB,,,3.9
+2000,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_PENSN,,,33.0
+2010,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_PENSN,,,62.5
+2019,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_PENSN,,,66.1
+2018,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_POOR,,,70.1
+2010,CA,"Central Bureau of Statistics - National Planning Commission Secretariat, Government of Nepal",SI_COV_SOCAST,,"Living Standards Survey 2010-2011, Third Round",40.13761
+2010,CA,"Central Bureau of Statistics - National Planning Commission Secretariat, Government of Nepal",SI_COV_SOCAST,Q1,"Living Standards Survey 2010-2011, Third Round",48.9455
+2010,CA,"Central Bureau of Statistics - National Planning Commission Secretariat, Government of Nepal",SI_COV_SOCINS,,"Living Standards Survey 2010-2011, Third Round",5.25896
+2010,CA,"Central Bureau of Statistics - National Planning Commission Secretariat, Government of Nepal",SI_COV_SOCINS,Q1,"Living Standards Survey 2010-2011, Third Round",0.56878
+2019,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_VULN,,,18.3
+2019,E,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),SI_COV_WKINJRY,,,3.8
