@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","AGE"],"To":["AGE","SEX"]}
+{"From":["SERIES","UNIT_MEASURE","AGE"],"To":["AGE","SEX","UNIT_MEASURE"]}

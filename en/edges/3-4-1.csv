@@ -1,5 +1,5 @@
 From,To
-SERIES,UNIT_MEASURE
-UNIT_MEASURE,SEX
-UNIT_MEASURE,AGE
-UNIT_MEASURE,COMPOSITE_BREAKDOWN
+SDG Series,Unit of measure
+Unit of measure,Sex
+Unit of measure,Age
+Unit of measure,Composite breakdown

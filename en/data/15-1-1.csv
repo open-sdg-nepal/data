@@ -1,18 +1,18 @@
-Year,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,UNIT_MEASURE,Value
-2000,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,40.3261946285316
-2010,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2015,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2016,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2017,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2018,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2019,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2020,0,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment and FAOSTAT",AG_LND_FRST,PT,41.5907220090687
-2000,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5780.76
-2010,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2015,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2016,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2017,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2018,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2019,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2020,3,Official country data submitted to FAO,"FAO, Global Forest Resources Assessment",AG_LND_FRSTN,HA,5962.03
-2015,3,,FAOSTAT,AG_LND_TOTL,HA,14335.0
+Year,SDG Series,Unit of measure,Value
+2000,Forest area as a proportion of total land area,Percent,40.3261946285316
+2010,Forest area as a proportion of total land area,Percent,41.5907220090687
+2015,Forest area as a proportion of total land area,Percent,41.5907220090687
+2016,Forest area as a proportion of total land area,Percent,41.5907220090687
+2017,Forest area as a proportion of total land area,Percent,41.5907220090687
+2018,Forest area as a proportion of total land area,Percent,41.5907220090687
+2019,Forest area as a proportion of total land area,Percent,41.5907220090687
+2020,Forest area as a proportion of total land area,Percent,41.5907220090687
+2000,Forest area (hectares),Hectares,5780.76
+2010,Forest area (hectares),Hectares,5962.03
+2015,Forest area (hectares),Hectares,5962.03
+2016,Forest area (hectares),Hectares,5962.03
+2017,Forest area (hectares),Hectares,5962.03
+2018,Forest area (hectares),Hectares,5962.03
+2019,Forest area (hectares),Hectares,5962.03
+2020,Forest area (hectares),Hectares,5962.03
+2015,Land area (hectares),Hectares,14335.0

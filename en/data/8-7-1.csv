@@ -1,7 +1,7 @@
-Year,SERIES,SEX,Value
-2014,SL_TLF_CHLDEA,,19.03
-2014,SL_TLF_CHLDEA,F,19.25039
-2014,SL_TLF_CHLDEA,M,19.15775
-2014,SL_TLF_CHLDEC,,21.71
-2014,SL_TLF_CHLDEC,F,23.07
-2014,SL_TLF_CHLDEC,M,20.29
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2014,Proportion of children engaged in economic activity,,5 to 17 years old,Percent,19.03
+2014,Proportion of children engaged in economic activity,Female,5 to 17 years old,Percent,19.25039
+2014,Proportion of children engaged in economic activity,Male,5 to 17 years old,Percent,19.15775
+2014,Proportion of children engaged in economic activity and household chores,,5 to 17 years old,Percent,21.71
+2014,Proportion of children engaged in economic activity and household chores,Female,5 to 17 years old,Percent,23.07
+2014,Proportion of children engaged in economic activity and household chores,Male,5 to 17 years old,Percent,20.29

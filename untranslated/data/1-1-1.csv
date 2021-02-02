@@ -1,22 +1,22 @@
-Year,NATURE,COMMENT_OBS,SOURCE_DETAIL,SERIES,SEX,AGE,Value
-1995,G,Estimated from unit-record consumption data.,"World Development Indicators database, World Bank",SI_POV_DAY1,,,66.0
-2003,G,Estimated from unit-record consumption data.,"World Development Indicators database, World Bank",SI_POV_DAY1,,,50.0
-2010,G,Estimated from unit-record consumption data.,"World Development Indicators database, World Bank",SI_POV_DAY1,,,15.0
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,,Y_GE15,41.2
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,,Y_GE15,12.6
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,,Y_GE25,41.1
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,,Y_GE25,12.7
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,,Y15T24,41.3
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,,Y15T24,12.5
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,F,Y_GE15,40.9
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,F,Y_GE15,12.9
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,F,Y_GE25,40.4
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,F,Y_GE25,12.3
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,F,Y15T24,41.9
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,F,Y15T24,14.1
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,M,Y_GE15,41.5
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,M,Y_GE15,12.4
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,M,Y_GE25,41.8
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,M,Y_GE25,13.0
-2003,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,M,Y15T24,40.7
-2010,E,,"ILO modelled estimates, November 2019, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.",SI_POV_EMP1,M,Y15T24,10.8
+Year,SERIES,SEX,AGE,UNIT_MEASURE,Value
+1995,SI_POV_DAY1,,,PT,66.0
+2003,SI_POV_DAY1,,,PT,50.0
+2010,SI_POV_DAY1,,,PT,15.0
+2003,SI_POV_EMP1,,Y_GE15,PT,41.2
+2010,SI_POV_EMP1,,Y_GE15,PT,12.6
+2003,SI_POV_EMP1,,Y_GE25,PT,41.1
+2010,SI_POV_EMP1,,Y_GE25,PT,12.7
+2003,SI_POV_EMP1,,Y15T24,PT,41.3
+2010,SI_POV_EMP1,,Y15T24,PT,12.5
+2003,SI_POV_EMP1,F,Y_GE15,PT,40.9
+2010,SI_POV_EMP1,F,Y_GE15,PT,12.9
+2003,SI_POV_EMP1,F,Y_GE25,PT,40.4
+2010,SI_POV_EMP1,F,Y_GE25,PT,12.3
+2003,SI_POV_EMP1,F,Y15T24,PT,41.9
+2010,SI_POV_EMP1,F,Y15T24,PT,14.1
+2003,SI_POV_EMP1,M,Y_GE15,PT,41.5
+2010,SI_POV_EMP1,M,Y_GE15,PT,12.4
+2003,SI_POV_EMP1,M,Y_GE25,PT,41.8
+2010,SI_POV_EMP1,M,Y_GE25,PT,13.0
+2003,SI_POV_EMP1,M,Y15T24,PT,40.7
+2010,SI_POV_EMP1,M,Y15T24,PT,10.8

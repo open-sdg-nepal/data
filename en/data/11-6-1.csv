@@ -1,3 +1,3 @@
-Year,CUST_BREAKDOWN,CUST_BREAKDOWN_LB,Value
-2003,C01,Kathmandu,94
-2009,C02,Ghorai,83
+Year,SDG Series,Custom Breakdown,Unit of measure,Label for custom breakdown,Value
+2003,"Municipal Solid Waste collection coverage, by cities (%)",Custom code 01,Percent,Kathmandu,94
+2009,"Municipal Solid Waste collection coverage, by cities (%)",Custom code 02,Percent,Ghorai,83

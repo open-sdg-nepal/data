@@ -1,27 +1,27 @@
-Year,SERIES,Value
-2000,SH_ACS_DTP3,74
-2001,SH_ACS_DTP3,72
-2002,SH_ACS_DTP3,72
-2003,SH_ACS_DTP3,78
-2004,SH_ACS_DTP3,80
-2005,SH_ACS_DTP3,75
-2006,SH_ACS_DTP3,89
-2007,SH_ACS_DTP3,82
-2008,SH_ACS_DTP3,82
-2009,SH_ACS_DTP3,89
-2010,SH_ACS_DTP3,82
-2011,SH_ACS_DTP3,92
-2012,SH_ACS_DTP3,90
-2013,SH_ACS_DTP3,92
-2014,SH_ACS_DTP3,92
-2015,SH_ACS_DTP3,91
-2016,SH_ACS_DTP3,87
-2017,SH_ACS_DTP3,90
-2018,SH_ACS_DTP3,91
-2016,SH_ACS_MCV2,25
-2017,SH_ACS_MCV2,59
-2018,SH_ACS_MCV2,69
-2015,SH_ACS_PCV3,5
-2016,SH_ACS_PCV3,46
-2017,SH_ACS_PCV3,80
-2018,SH_ACS_PCV3,82
+Year,SDG Series,Unit of measure,Value
+2000,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,74
+2001,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,72
+2002,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,72
+2003,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,78
+2004,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,80
+2005,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,75
+2006,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,89
+2007,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,82
+2008,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,82
+2009,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,89
+2010,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,82
+2011,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,92
+2012,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,90
+2013,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,92
+2014,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,92
+2015,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,91
+2016,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,87
+2017,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,90
+2018,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,91
+2016,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,25
+2017,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,59
+2018,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,69
+2015,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),Percent,5
+2016,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),Percent,46
+2017,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),Percent,80
+2018,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),Percent,82

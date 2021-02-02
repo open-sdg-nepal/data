@@ -1,7 +1,7 @@
-Year,SEX,Value
-2008,,23.1
-2017,,32.1
-2008,F,24.1
-2017,F,42.0
-2008,M,21.9
-2017,M,20.0
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2008,"Proportion of youth not in education, employment or training",,15 to 24 years old,Percent,23.1
+2017,"Proportion of youth not in education, employment or training",,15 to 24 years old,Percent,32.1
+2008,"Proportion of youth not in education, employment or training",Female,15 to 24 years old,Percent,24.1
+2017,"Proportion of youth not in education, employment or training",Female,15 to 24 years old,Percent,42.0
+2008,"Proportion of youth not in education, employment or training",Male,15 to 24 years old,Percent,21.9
+2017,"Proportion of youth not in education, employment or training",Male,15 to 24 years old,Percent,20.0

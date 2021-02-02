@@ -1,17 +1,17 @@
-Year,SERIES,Value
-2006,IT_MOB_2GNTWK,10.0
-2010,IT_MOB_2GNTWK,35.13
-2013,IT_MOB_2GNTWK,80.62
-2014,IT_MOB_2GNTWK,80.0
-2015,IT_MOB_2GNTWK,82.0
-2016,IT_MOB_2GNTWK,91.97
-2017,IT_MOB_2GNTWK,92.47
-2009,IT_MOB_3GNTWK,20.35
-2014,IT_MOB_3GNTWK,30.0
-2015,IT_MOB_3GNTWK,50.0
-2016,IT_MOB_3GNTWK,54.1
-2017,IT_MOB_3GNTWK,54.1
-2014,IT_MOB_4GNTWK,0.0
-2015,IT_MOB_4GNTWK,0.0
-2016,IT_MOB_4GNTWK,15.47
-2017,IT_MOB_4GNTWK,15.47
+Year,SDG Series,Unit of measure,Value
+2006,Proportion of population covered by at least a 2G mobile network,Percent,10.0
+2010,Proportion of population covered by at least a 2G mobile network,Percent,35.13
+2013,Proportion of population covered by at least a 2G mobile network,Percent,80.62
+2014,Proportion of population covered by at least a 2G mobile network,Percent,80.0
+2015,Proportion of population covered by at least a 2G mobile network,Percent,82.0
+2016,Proportion of population covered by at least a 2G mobile network,Percent,91.97
+2017,Proportion of population covered by at least a 2G mobile network,Percent,92.47
+2009,Proportion of population covered by at least a 3G mobile network,Percent,20.35
+2014,Proportion of population covered by at least a 3G mobile network,Percent,30.0
+2015,Proportion of population covered by at least a 3G mobile network,Percent,50.0
+2016,Proportion of population covered by at least a 3G mobile network,Percent,54.1
+2017,Proportion of population covered by at least a 3G mobile network,Percent,54.1
+2014,Proportion of population covered by at least a 4G mobile network,Percent,0.0
+2015,Proportion of population covered by at least a 4G mobile network,Percent,0.0
+2016,Proportion of population covered by at least a 4G mobile network,Percent,15.47
+2017,Proportion of population covered by at least a 4G mobile network,Percent,15.47

@@ -1,16 +1,16 @@
-Year,SERIES,SEX,AGE,Value
-2007,VC_HTF_DETV,,,147
-2008,VC_HTF_DETV,,,145
-2009,VC_HTF_DETV,,,197
-2010,VC_HTF_DETV,,,193
-2011,VC_HTF_DETV,,,141
-2012,VC_HTF_DETV,,,271
-2013,VC_HTF_DETV,,,237
-2014,VC_HTF_DETV,,,266
-2016,VC_HTF_DETV,,,350
-2018,VC_HTF_DETVFL,F,,141
-2018,VC_HTF_DETVFL,F,Y_GE18,115
-2018,VC_HTF_DETVFL,F,Y0T17,26
-2018,VC_HTF_DETVFL,M,,98
-2018,VC_HTF_DETVFL,M,Y_GE18,56
-2018,VC_HTF_DETVFL,M,Y0T17,42
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2007,Detected victims of human trafficking (number),,,Number,147
+2008,Detected victims of human trafficking (number),,,Number,145
+2009,Detected victims of human trafficking (number),,,Number,197
+2010,Detected victims of human trafficking (number),,,Number,193
+2011,Detected victims of human trafficking (number),,,Number,141
+2012,Detected victims of human trafficking (number),,,Number,271
+2013,Detected victims of human trafficking (number),,,Number,237
+2014,Detected victims of human trafficking (number),,,Number,266
+2016,Detected victims of human trafficking (number),,,Number,350
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Female,,Number,141
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Female,18 years old and over,Number,115
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Female,under 18 years old,Number,26
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Male,,Number,98
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Male,18 years old and over,Number,56
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Male,under 18 years old,Number,42

@@ -1,19 +1,19 @@
-Year,COMMENT_OBS,SEX,AGE,Value
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,,Y_GE15,1.33
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,,Y_GE15,11.36
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y_GE25,0.99
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y_GE25,8.82
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y15T24,2.18
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y15T24,21.36
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE15,1.08
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE15,13.06
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE25,0.86
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE25,10.2
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y15T24,1.59
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y15T24,23.91
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE15,1.59
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE15,10.31
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE25,1.11
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE25,7.98
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y15T24,2.91
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y15T24,19.71
+Year,SERIES,SEX,AGE,UNIT_MEASURE,Value
+2008,SL_TLF_UEM,,Y_GE15,PT,1.33
+2017,SL_TLF_UEM,,Y_GE15,PT,11.36
+2008,SL_TLF_UEM,,Y_GE25,PT,0.99
+2017,SL_TLF_UEM,,Y_GE25,PT,8.82
+2008,SL_TLF_UEM,,Y15T24,PT,2.18
+2017,SL_TLF_UEM,,Y15T24,PT,21.36
+2008,SL_TLF_UEM,F,Y_GE15,PT,1.08
+2017,SL_TLF_UEM,F,Y_GE15,PT,13.06
+2008,SL_TLF_UEM,F,Y_GE25,PT,0.86
+2017,SL_TLF_UEM,F,Y_GE25,PT,10.2
+2008,SL_TLF_UEM,F,Y15T24,PT,1.59
+2017,SL_TLF_UEM,F,Y15T24,PT,23.91
+2008,SL_TLF_UEM,M,Y_GE15,PT,1.59
+2017,SL_TLF_UEM,M,Y_GE15,PT,10.31
+2008,SL_TLF_UEM,M,Y_GE25,PT,1.11
+2017,SL_TLF_UEM,M,Y_GE25,PT,7.98
+2008,SL_TLF_UEM,M,Y15T24,PT,2.91
+2017,SL_TLF_UEM,M,Y15T24,PT,19.71

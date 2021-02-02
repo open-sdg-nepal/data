@@ -1,1 +1,1 @@
-{"data":{"Year":["2008","2009","2010"],"Value":[0.05439,0.25924,0.3022]},"edges":[]}
+{"data":{"Year":["2008","2009","2010"],"SDG Series":["Research and development expenditure as a proportion of GDP","Research and development expenditure as a proportion of GDP","Research and development expenditure as a proportion of GDP"],"Unit of measure":["Percent","Percent","Percent"],"Value":[0.05439,0.25924,0.3022]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}

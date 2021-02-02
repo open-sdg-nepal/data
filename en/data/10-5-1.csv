@@ -1,22 +1,22 @@
-Year,SERIES,Value
-2016,FI_FSI_FSANL,1.68433659406825
-2017,FI_FSI_FSANL,1.69908552229355
-2018,FI_FSI_FSANL,1.56237839101568
-2016,FI_FSI_FSERA,2.66184412953676
-2017,FI_FSI_FSERA,2.42650094740164
-2018,FI_FSI_FSERA,2.56865090047837
-2016,FI_FSI_FSKA,9.9899197056803
-2017,FI_FSI_FSKA,11.7274402846556
-2018,FI_FSI_FSKA,11.9265788720268
-2016,FI_FSI_FSKNL,3.6248645571737
-2017,FI_FSI_FSKNL,3.35546621722394
-2018,FI_FSI_FSKNL,3.08312426803746
-2016,FI_FSI_FSKRTC,11.4241400080771
-2017,FI_FSI_FSKRTC,12.7472923372318
-2018,FI_FSI_FSKRTC,12.1905699427095
-2016,FI_FSI_FSLS,27.0129072732941
-2017,FI_FSI_FSLS,22.019924441568
-2018,FI_FSI_FSLS,24.8063522160878
-2016,FI_FSI_FSSNO,5.82627827949399
-2017,FI_FSI_FSSNO,5.01533288696891
-2018,FI_FSI_FSSNO,1.67074843816722
+Year,SDG Series,Unit of measure,Value
+2016,Non-performing loans to total gross loans (%),Percent,1.68433659406825
+2017,Non-performing loans to total gross loans (%),Percent,1.69908552229355
+2018,Non-performing loans to total gross loans (%),Percent,1.56237839101568
+2016,Return on assets (%),Percent,2.66184412953676
+2017,Return on assets (%),Percent,2.42650094740164
+2018,Return on assets (%),Percent,2.56865090047837
+2016,Regulatory capital to assets (%),Percent,9.9899197056803
+2017,Regulatory capital to assets (%),Percent,11.7274402846556
+2018,Regulatory capital to assets (%),Percent,11.9265788720268
+2016,Non-performing loans net of provisions to capital (%),Percent,3.6248645571737
+2017,Non-performing loans net of provisions to capital (%),Percent,3.35546621722394
+2018,Non-performing loans net of provisions to capital (%),Percent,3.08312426803746
+2016,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,11.4241400080771
+2017,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,12.7472923372318
+2018,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,12.1905699427095
+2016,Liquid assets to short term liabilities (%),Percent,27.0129072732941
+2017,Liquid assets to short term liabilities (%),Percent,22.019924441568
+2018,Liquid assets to short term liabilities (%),Percent,24.8063522160878
+2016,Net open position in foreign exchange to capital (%),Percent,5.82627827949399
+2017,Net open position in foreign exchange to capital (%),Percent,5.01533288696891
+2018,Net open position in foreign exchange to capital (%),Percent,1.67074843816722

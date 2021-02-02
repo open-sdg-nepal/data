@@ -1,16 +1,16 @@
-Year,UPPER_BOUND,LOWER_BOUND,SEX,Value
-2000,3.08148,1.04849,,1.11963
-2005,3.08148,1.04849,,1.94675
-2010,3.08148,1.04849,,1.93656
-2015,3.08148,1.04849,,2.0529
-2018,3.08148,1.04849,,2.05294
-2000,1.02036,0.34957,F,0.40226
-2005,1.02036,0.34957,F,0.69489
-2010,1.02036,0.34957,F,0.70742
-2015,1.02036,0.34957,F,0.75987
-2018,1.02036,0.34957,F,0.76006
-2000,5.41843,1.81867,M,1.87519
-2005,5.41843,1.81867,M,3.27448
-2010,5.41843,1.81867,M,3.29874
-2015,5.41843,1.81867,M,3.50028
-2018,5.41843,1.81867,M,3.49371
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2000,Alcohol consumption per capita (aged 15 years and older) within a calendar year,,15 years old and over,Litres pure alcohol,1.11963
+2005,Alcohol consumption per capita (aged 15 years and older) within a calendar year,,15 years old and over,Litres pure alcohol,1.94675
+2010,Alcohol consumption per capita (aged 15 years and older) within a calendar year,,15 years old and over,Litres pure alcohol,1.93656
+2015,Alcohol consumption per capita (aged 15 years and older) within a calendar year,,15 years old and over,Litres pure alcohol,2.0529
+2018,Alcohol consumption per capita (aged 15 years and older) within a calendar year,,15 years old and over,Litres pure alcohol,2.05294
+2000,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Female,15 years old and over,Litres pure alcohol,0.40226
+2005,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Female,15 years old and over,Litres pure alcohol,0.69489
+2010,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Female,15 years old and over,Litres pure alcohol,0.70742
+2015,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Female,15 years old and over,Litres pure alcohol,0.75987
+2018,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Female,15 years old and over,Litres pure alcohol,0.76006
+2000,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Male,15 years old and over,Litres pure alcohol,1.87519
+2005,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Male,15 years old and over,Litres pure alcohol,3.27448
+2010,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Male,15 years old and over,Litres pure alcohol,3.29874
+2015,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Male,15 years old and over,Litres pure alcohol,3.50028
+2018,Alcohol consumption per capita (aged 15 years and older) within a calendar year,Male,15 years old and over,Litres pure alcohol,3.49371

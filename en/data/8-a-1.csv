@@ -1,28 +1,28 @@
-Year,COMMENT_OBS,SERIES,Value
-2005,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,164.60351
-2006,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,207.34817
-2007,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,206.84367
-2008,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,197.13493
-2009,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,281.05415
-2010,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,455.80748
-2011,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,415.95513
-2012,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,399.19279
-2013,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,944.15755
-2014,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,616.45874
-2015,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,343.31709
-2016,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,480.87607
-2017,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,798.03844
-2018,"Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDCML,774.33469
-2006,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,109.94607
-2007,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,120.40686
-2008,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,149.37707
-2009,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,154.77794
-2010,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,239.37515
-2011,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,252.49819
-2012,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,254.76187
-2013,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,304.38647
-2014,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,307.5205
-2015,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,416.14748
-2016,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,294.99382
-2017,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,510.64633
-2018,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_TRDDBML,440.53853
+Year,SDG Series,Unit of measure,Value
+2005,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,164.60351
+2006,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,207.34817
+2007,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,206.84367
+2008,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,197.13493
+2009,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,281.05415
+2010,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,455.80748
+2011,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,415.95513
+2012,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,399.19279
+2013,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,944.15755
+2014,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,616.45874
+2015,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,343.31709
+2016,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,480.87607
+2017,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,798.03844
+2018,"Total official flows (commitments) for Aid for Trade, by recipient countries",Constant USD,774.33469
+2006,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,109.94607
+2007,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,120.40686
+2008,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,149.37707
+2009,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,154.77794
+2010,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,239.37515
+2011,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,252.49819
+2012,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,254.76187
+2013,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,304.38647
+2014,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,307.5205
+2015,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,416.14748
+2016,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,294.99382
+2017,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,510.64633
+2018,"Total official flows (disbursement) for Aid for Trade, by recipient countries",Constant USD,440.53853

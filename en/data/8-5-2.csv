@@ -1,19 +1,19 @@
-Year,COMMENT_OBS,SEX,AGE,Value
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,,Y_GE15,1.33
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,,Y_GE15,11.36
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y_GE25,0.99
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y_GE25,8.82
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y15T24,2.18
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,,Y15T24,21.36
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE15,1.08
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE15,13.06
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE25,0.86
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y_GE25,10.2
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y15T24,1.59
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,F,Y15T24,23.91
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE15,1.59
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE15,10.31
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE25,1.11
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y_GE25,7.98
-2008,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y15T24,2.91
-2017,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers,M,Y15T24,19.71
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2008,Unemployment rate,,15 years old and over,Percent,1.33
+2017,Unemployment rate,,15 years old and over,Percent,11.36
+2008,Unemployment rate,,25 years old and over,Percent,0.99
+2017,Unemployment rate,,25 years old and over,Percent,8.82
+2008,Unemployment rate,,15 to 24 years old,Percent,2.18
+2017,Unemployment rate,,15 to 24 years old,Percent,21.36
+2008,Unemployment rate,Female,15 years old and over,Percent,1.08
+2017,Unemployment rate,Female,15 years old and over,Percent,13.06
+2008,Unemployment rate,Female,25 years old and over,Percent,0.86
+2017,Unemployment rate,Female,25 years old and over,Percent,10.2
+2008,Unemployment rate,Female,15 to 24 years old,Percent,1.59
+2017,Unemployment rate,Female,15 to 24 years old,Percent,23.91
+2008,Unemployment rate,Male,15 years old and over,Percent,1.59
+2017,Unemployment rate,Male,15 years old and over,Percent,10.31
+2008,Unemployment rate,Male,25 years old and over,Percent,1.11
+2017,Unemployment rate,Male,25 years old and over,Percent,7.98
+2008,Unemployment rate,Male,15 to 24 years old,Percent,2.91
+2017,Unemployment rate,Male,15 to 24 years old,Percent,19.71

@@ -1,2 +1,4 @@
 From,To
-CUST_BREAKDOWN,CUST_BREAKDOWN_LB
+SDG Series,Custom Breakdown
+Custom Breakdown,Unit of measure
+Unit of measure,Label for custom breakdown

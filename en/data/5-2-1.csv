@@ -1,9 +1,9 @@
-Year,AGE,Value
-2016,Y15T19,17.0
-2016,Y15T49,11.2
-2016,Y20T24,12.4
-2016,Y25T29,12.0
-2016,Y30T34,11.4
-2016,Y35T39,11.0
-2016,Y40T44,7.0
-2016,Y45T49,9.8
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,15 to 19 years old,Percent,17.0
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,15 to 49 years old,Percent,11.2
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,20 to 24 years old,Percent,12.4
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,25 to 29 years old,Percent,12.0
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,30 to 34 years old,Percent,11.4
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,35 to 39 years old,Percent,11.0
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,40 to 44 years old,Percent,7.0
+2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months,Female,45 to 49 years old,Percent,9.8

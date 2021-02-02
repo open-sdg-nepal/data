@@ -1,1 +1,1 @@
-{"data":{"Year":["2016"],"Value":[56.2]},"edges":[]}
+{"data":{"Year":["2016"],"SERIES":["SG_REG_BRTH"],"AGE":["Y0T4"],"UNIT_MEASURE":["PT"],"Value":[56.2]},"edges":{"From":["SERIES","AGE"],"To":["AGE","UNIT_MEASURE"]}}

@@ -1,4 +1,3 @@
 From,To
-SOURCE_DETAIL,SERIES
-SERIES,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,COMMENT_OBS
+SDG Series,Composite breakdown
+Composite breakdown,Unit of measure

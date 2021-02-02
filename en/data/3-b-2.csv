@@ -1,29 +1,29 @@
-Year,COMMENT_OBS,SERIES,Value
-2000,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,17.16501
-2001,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,39.7095
-2002,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,22.28263
-2003,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,20.93818
-2004,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,16.34356
-2005,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,20.66811
-2006,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,25.04582
-2007,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,40.26797
-2008,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,42.65092
-2009,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,38.51642
-2010,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,80.1602
-2011,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,57.64695
-2012,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,56.90202
-2013,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,79.24889
-2014,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,111.28459
-2015,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,103.98951
-2016,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,75.73755
-2017,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,63.83309
-2018,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,55.41997
-2010,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,79.98029
-2011,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,57.43507
-2012,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,56.66883
-2013,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,78.8784
-2014,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,110.1108
-2015,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,103.31307
-2016,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,74.33377
-2017,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,62.49575
-2018,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,53.99728
+Year,SDG Series,Unit of measure,Value
+2000,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,17.16501
+2001,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,39.7095
+2002,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,22.28263
+2003,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,20.93818
+2004,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,16.34356
+2005,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,20.66811
+2006,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,25.04582
+2007,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,40.26797
+2008,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,42.65092
+2009,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,38.51642
+2010,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,80.1602
+2011,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,57.64695
+2012,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,56.90202
+2013,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,79.24889
+2014,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,111.28459
+2015,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,103.98951
+2016,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,75.73755
+2017,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,63.83309
+2018,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries",Constant USD,55.41997
+2010,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,79.98029
+2011,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,57.43507
+2012,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,56.66883
+2013,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,78.8784
+2014,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,110.1108
+2015,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,103.31307
+2016,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,74.33377
+2017,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,62.49575
+2018,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",Constant USD,53.99728

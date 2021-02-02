@@ -1,29 +1,29 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2006,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.0
-2007,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.04
-2008,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.05
-2009,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.06
-2010,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.22
-2011,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.35
-2012,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.85
-2013,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,1.16
-2014,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.93
-2015,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,1.12
-2016,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,0.82
-2017,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,1.82
-2018,Obs_Value = 0.00;,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,2.82
-2017,,"Data based on the World Telecommunication/ICT Indicators Database, 2019, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,0.12
-2006,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,963.0
-2007,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,10957.0
-2008,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,12000.0
-2009,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,17078.0
-2010,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,60177.0
-2011,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,94656.0
-2012,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,230618.0
-2013,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,311457.0
-2014,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,250602.0
-2015,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,302705.0
-2016,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,224184.0
-2017,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,503206.0
-2018,"NTA MIS January report.DSL, fibre and cable modem.",Nepal Telecommunications Authority,IT_NET_BBNDN,,NUMBER,791961.0
-2017,From NTA,Nepal Telecommunications Authority,IT_NET_BBNDN,IS_2MT10M,NUMBER,33423.0
+Year,SDG Series,Composite breakdown,Unit of measure,Value
+2006,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.0
+2007,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.04
+2008,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.05
+2009,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.06
+2010,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.22
+2011,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.35
+2012,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.85
+2013,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,1.16
+2014,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.93
+2015,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,1.12
+2016,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,0.82
+2017,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,1.82
+2018,Fixed broadband subscriptions per 100 inhabitants,,Per 100 population,2.82
+2017,Fixed broadband subscriptions per 100 inhabitants,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,0.12
+2006,Fixed broadband subscriptions (number),,Number,963.0
+2007,Fixed broadband subscriptions (number),,Number,10957.0
+2008,Fixed broadband subscriptions (number),,Number,12000.0
+2009,Fixed broadband subscriptions (number),,Number,17078.0
+2010,Fixed broadband subscriptions (number),,Number,60177.0
+2011,Fixed broadband subscriptions (number),,Number,94656.0
+2012,Fixed broadband subscriptions (number),,Number,230618.0
+2013,Fixed broadband subscriptions (number),,Number,311457.0
+2014,Fixed broadband subscriptions (number),,Number,250602.0
+2015,Fixed broadband subscriptions (number),,Number,302705.0
+2016,Fixed broadband subscriptions (number),,Number,224184.0
+2017,Fixed broadband subscriptions (number),,Number,503206.0
+2018,Fixed broadband subscriptions (number),,Number,791961.0
+2017,Fixed broadband subscriptions (number),Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,33423.0

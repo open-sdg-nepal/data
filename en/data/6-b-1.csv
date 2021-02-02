@@ -1,15 +1,15 @@
-Year,COMMENT_OBS,SERIES,URBANISATION,Value
-2010,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_H2O_PRDU,R,10
-2012,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_H2O_PRDU,R,10
-2014,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_H2O_PRDU,R,10
-2017,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_H2O_PRDU,R,10
-2019,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_H2O_PRDU,R,10
-2010,Observation values: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_H2O_RURP,R,0
-2012,Observation values: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_H2O_RURP,R,0
-2014,Observation values: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_H2O_RURP,R,2
-2017,Observation values: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_H2O_RURP,R,3
-2019,Observation values: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_H2O_RURP,R,2
-2017,Observation value: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_WAT_PART,,1
-2019,Observation value: 3 = High level of participation; 2 = Moderate level of participation; 1 = Low level of participation; 0 = Not applicable.,ER_WAT_PART,,1
-2017,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_WAT_PRDU,,10
-2019,Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.,ER_WAT_PRDU,,10
+Year,SDG Series,Degree of urbanisation,Unit of measure,Value
+2010,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",Rural,Number,10
+2012,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",Rural,Number,10
+2014,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",Rural,Number,10
+2017,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",Rural,Number,10
+2019,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",Rural,Number,10
+2010,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",Rural,Number,0
+2012,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",Rural,Number,0
+2014,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",Rural,Number,2
+2017,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",Rural,Number,3
+2019,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",Rural,Number,2
+2017,"Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",,Number,1
+2019,"Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",,Number,1
+2017,"Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",,Number,10
+2019,"Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",,Number,10

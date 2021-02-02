@@ -1,5 +1,5 @@
-Year,COMMENT_OBS,SERIES,Value
-2019,Observation value represents the number of countries with national statistical plans with funding from donors,SG_STT_NSDSFDDNR,1
-2019,Observation value represents the number of countries with national statistical plans with funding from donors,SG_STT_NSDSFDGVT,1
-2019,Obs_Value = 0;  Observation value represents the number of countries with national statistical plans that are fully funded,SG_STT_NSDSFND,0
-2019,Observation value represents the number of countries with national statistical plans that are under implementation,SG_STT_NSDSIMPL,1
+Year,SDG Series,Unit of measure,Value
+2019,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),Number,1
+2019,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),Number,1
+2019,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),Number,0
+2019,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),Number,1

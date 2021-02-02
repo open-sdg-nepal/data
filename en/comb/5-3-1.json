@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2016"],"SERIES":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"Value":[7.0,39.5]},"edges":[]}
+{"data":{"Year":["2016","2016"],"SDG Series":["Proportion of women aged 20-24 years who were married or in a union before age 15","Proportion of women aged 20-24 years who were married or in a union before age 18"],"Sex":["Female","Female"],"Age":["20 to 24 years old","20 to 24 years old"],"Unit of measure":["Percent","Percent"],"Value":[7.0,39.5]},"edges":{"From":["SDG Series","Sex","Age"],"To":["Sex","Age","Unit of measure"]}}

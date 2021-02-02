@@ -1,3 +1,4 @@
 From,To
-COMMENT_OBS,AGE
-AGE,SEX
+SDG Series,Age
+Unit of measure,Sex
+Age,Unit of measure

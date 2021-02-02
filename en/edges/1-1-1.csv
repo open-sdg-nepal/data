@@ -1,6 +1,4 @@
 From,To
-NATURE,SOURCE_DETAIL
-SERIES,COMMENT_OBS
-SOURCE_DETAIL,SERIES
-SERIES,AGE
-AGE,SEX
+SDG Series,Unit of measure
+Age,Sex
+Unit of measure,Age

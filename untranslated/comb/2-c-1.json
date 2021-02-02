@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2016","2015","2016"],"PRODUCT":["CPC2_1_111","CPC2_1_111","CPC2_1_113","CPC2_1_113"],"Value":[-0.2,-0.9,-0.1,0.0]},"edges":[]}
+{"data":{"Year":["2015","2016","2015","2016"],"SERIES":["AG_FPA_COMM","AG_FPA_COMM","AG_FPA_COMM","AG_FPA_COMM"],"PRODUCT":["CPC2_1_111","CPC2_1_111","CPC2_1_113","CPC2_1_113"],"UNIT_MEASURE":["IX","IX","IX","IX"],"Value":[-0.2,-0.9,-0.1,0.0]},"edges":{"From":["SERIES","PRODUCT"],"To":["PRODUCT","UNIT_MEASURE"]}}

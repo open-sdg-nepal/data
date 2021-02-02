@@ -1,3 +1,4 @@
 From,To
-UPPER_BOUND,LOWER_BOUND
-LOWER_BOUND,SEX
+SDG Series,Age
+Unit of measure,Sex
+Age,Unit of measure

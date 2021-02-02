@@ -1,16 +1,16 @@
-Year,SERIES,UNIT_MEASURE,Value
-2015,SG_DSR_SILN,NUMBER,800.0
-2016,SG_DSR_SILN,NUMBER,825.0
-2017,SG_DSR_SILN,NUMBER,12.0
-2018,SG_DSR_SILN,NUMBER,56.0
-2019,SG_DSR_SILN,NUMBER,127.0
-2015,SG_DSR_SILS,PT,23.71073
-2016,SG_DSR_SILS,PT,24.45169
-2017,SG_DSR_SILS,PT,1.59363
-2018,SG_DSR_SILS,PT,7.43692
-2019,SG_DSR_SILS,PT,16.86587
-2015,SG_GOV_LOGV,NUMBER,3374.0
-2016,SG_GOV_LOGV,NUMBER,3374.0
-2017,SG_GOV_LOGV,NUMBER,753.0
-2018,SG_GOV_LOGV,NUMBER,753.0
-2019,SG_GOV_LOGV,NUMBER,753.0
+Year,SDG Series,Unit of measure,Value
+2015,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,800.0
+2016,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,825.0
+2017,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,12.0
+2018,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,56.0
+2019,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,127.0
+2015,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,23.71073
+2016,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,24.45169
+2017,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,1.59363
+2018,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,7.43692
+2019,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,16.86587
+2015,Number of local governments,Number,3374.0
+2016,Number of local governments,Number,3374.0
+2017,Number of local governments,Number,753.0
+2018,Number of local governments,Number,753.0
+2019,Number of local governments,Number,753.0

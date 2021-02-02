@@ -1,29 +1,29 @@
-Year,COMMENT_OBS,SERIES,Value
-2000,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,17.16501
-2001,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,39.7095
-2002,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,22.28263
-2003,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,20.93818
-2004,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,16.34356
-2005,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,20.66811
-2006,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,25.04582
-2007,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,40.26797
-2008,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,42.65092
-2009,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,38.51642
-2010,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,80.1602
-2011,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,57.64695
-2012,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,56.90202
-2013,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,79.24889
-2014,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,111.28459
-2015,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,103.98951
-2016,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,75.73755
-2017,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,63.83309
-2018,"Gross disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHL,55.41997
-2010,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,79.98029
-2011,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,57.43507
-2012,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,56.66883
-2013,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,78.8784
-2014,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,110.1108
-2015,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,103.31307
-2016,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,74.33377
-2017,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,62.49575
-2018,"Net Disbursements | Based on OECD, CRS databased, 2020 | Constant 2018 USD million",DC_TOF_HLTHNT,53.99728
+Year,SERIES,UNIT_MEASURE,Value
+2000,DC_TOF_HLTHL,CON_USD,17.16501
+2001,DC_TOF_HLTHL,CON_USD,39.7095
+2002,DC_TOF_HLTHL,CON_USD,22.28263
+2003,DC_TOF_HLTHL,CON_USD,20.93818
+2004,DC_TOF_HLTHL,CON_USD,16.34356
+2005,DC_TOF_HLTHL,CON_USD,20.66811
+2006,DC_TOF_HLTHL,CON_USD,25.04582
+2007,DC_TOF_HLTHL,CON_USD,40.26797
+2008,DC_TOF_HLTHL,CON_USD,42.65092
+2009,DC_TOF_HLTHL,CON_USD,38.51642
+2010,DC_TOF_HLTHL,CON_USD,80.1602
+2011,DC_TOF_HLTHL,CON_USD,57.64695
+2012,DC_TOF_HLTHL,CON_USD,56.90202
+2013,DC_TOF_HLTHL,CON_USD,79.24889
+2014,DC_TOF_HLTHL,CON_USD,111.28459
+2015,DC_TOF_HLTHL,CON_USD,103.98951
+2016,DC_TOF_HLTHL,CON_USD,75.73755
+2017,DC_TOF_HLTHL,CON_USD,63.83309
+2018,DC_TOF_HLTHL,CON_USD,55.41997
+2010,DC_TOF_HLTHNT,CON_USD,79.98029
+2011,DC_TOF_HLTHNT,CON_USD,57.43507
+2012,DC_TOF_HLTHNT,CON_USD,56.66883
+2013,DC_TOF_HLTHNT,CON_USD,78.8784
+2014,DC_TOF_HLTHNT,CON_USD,110.1108
+2015,DC_TOF_HLTHNT,CON_USD,103.31307
+2016,DC_TOF_HLTHNT,CON_USD,74.33377
+2017,DC_TOF_HLTHNT,CON_USD,62.49575
+2018,DC_TOF_HLTHNT,CON_USD,53.99728

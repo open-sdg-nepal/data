@@ -1,20 +1,20 @@
-Year,Value
-2000,19.15604
-2001,21.6562
-2002,20.44405
-2003,21.31265
-2004,21.61336
-2005,22.29422
-2006,25.50064
-2007,21.14614
-2008,22.23003
-2009,19.87293
-2010,16.03235
-2011,17.98384
-2012,17.43708
-2013,17.56964
-2014,18.28129
-2015,16.98966
-2016,19.1285
-2017,17.09639
-2018,14.10187
+Year,SDG Series,Unit of measure,Value
+2000,"Proportion of total government spending on essential services, education",Percent,19.15604
+2001,"Proportion of total government spending on essential services, education",Percent,21.6562
+2002,"Proportion of total government spending on essential services, education",Percent,20.44405
+2003,"Proportion of total government spending on essential services, education",Percent,21.31265
+2004,"Proportion of total government spending on essential services, education",Percent,21.61336
+2005,"Proportion of total government spending on essential services, education",Percent,22.29422
+2006,"Proportion of total government spending on essential services, education",Percent,25.50064
+2007,"Proportion of total government spending on essential services, education",Percent,21.14614
+2008,"Proportion of total government spending on essential services, education",Percent,22.23003
+2009,"Proportion of total government spending on essential services, education",Percent,19.87293
+2010,"Proportion of total government spending on essential services, education",Percent,16.03235
+2011,"Proportion of total government spending on essential services, education",Percent,17.98384
+2012,"Proportion of total government spending on essential services, education",Percent,17.43708
+2013,"Proportion of total government spending on essential services, education",Percent,17.56964
+2014,"Proportion of total government spending on essential services, education",Percent,18.28129
+2015,"Proportion of total government spending on essential services, education",Percent,16.98966
+2016,"Proportion of total government spending on essential services, education",Percent,19.1285
+2017,"Proportion of total government spending on essential services, education",Percent,17.09639
+2018,"Proportion of total government spending on essential services, education",Percent,14.10187

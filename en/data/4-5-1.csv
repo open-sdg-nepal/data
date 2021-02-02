@@ -1,61 +1,61 @@
-Year,SOURCE_DETAIL,SERIES,EDUCATION_LEV,Value
-2008,"Nepal Labour Force Survey. Reference period for participation in education and training: unknown, likely 1 month prior to the interview.",SE_GPI_PART,,0.312727179618072
-2011,UIS,SE_GPI_PTNPRE,,1.10474
-2014,UIS,SE_GPI_PTNPRE,,0.99238
-2015,UIS,SE_GPI_PTNPRE,,0.96029
-2016,UIS,SE_GPI_PTNPRE,,0.93215
-2017,UIS,SE_GPI_PTNPRE,,0.88944
-2019,UIS,SE_GPI_PTNPRE,,0.91143
-2008,UIS,SE_GPI_TCAQ,AGG_2_3,1.03501
-2010,UIS,SE_GPI_TCAQ,AGG_2_3,1.02885
-2011,UIS,SE_GPI_TCAQ,AGG_2_3,1.02093
-2013,UIS,SE_GPI_TCAQ,AGG_2_3,0.98162
-2014,UIS,SE_GPI_TCAQ,AGG_2_3,0.98159
-2015,UIS,SE_GPI_TCAQ,AGG_2_3,0.97563
-2019,UIS,SE_GPI_TCAQ,AGG_2_3,0.91888
-2010,UIS,SE_GPI_TCAQ,ISCED11_02,1.22458
-2011,UIS,SE_GPI_TCAQ,ISCED11_02,1.14222
-2012,UIS,SE_GPI_TCAQ,ISCED11_02,1.73479
-2013,UIS,SE_GPI_TCAQ,ISCED11_02,1.9661
-2014,UIS,SE_GPI_TCAQ,ISCED11_02,2.2321
-2015,UIS,SE_GPI_TCAQ,ISCED11_02,2.41418
-2016,UIS,SE_GPI_TCAQ,ISCED11_02,1.79051
-2017,UIS,SE_GPI_TCAQ,ISCED11_02,1.81144
-2019,UIS,SE_GPI_TCAQ,ISCED11_02,2.03382
-2001,UIS,SE_GPI_TCAQ,ISCED11_1,0.84935
-2002,UIS,SE_GPI_TCAQ,ISCED11_1,0.78902
-2003,UIS,SE_GPI_TCAQ,ISCED11_1,0.77887
-2004,UIS,SE_GPI_TCAQ,ISCED11_1,0.80123
-2005,UIS,SE_GPI_TCAQ,ISCED11_1,0.84493
-2007,UIS,SE_GPI_TCAQ,ISCED11_1,0.89537
-2008,UIS,SE_GPI_TCAQ,ISCED11_1,0.98292
-2010,UIS,SE_GPI_TCAQ,ISCED11_1,0.973
-2011,UIS,SE_GPI_TCAQ,ISCED11_1,0.98133
-2012,UIS,SE_GPI_TCAQ,ISCED11_1,0.99543
-2013,UIS,SE_GPI_TCAQ,ISCED11_1,0.99493
-2014,UIS,SE_GPI_TCAQ,ISCED11_1,0.99115
-2015,UIS,SE_GPI_TCAQ,ISCED11_1,0.9945
-2016,UIS,SE_GPI_TCAQ,ISCED11_1,1.00402
-2017,UIS,SE_GPI_TCAQ,ISCED11_1,1.00395
-2019,UIS,SE_GPI_TCAQ,ISCED11_1,0.97557
-2000,UIS,SE_GPI_TCAQ,ISCED11_2,1.02694
-2002,UIS,SE_GPI_TCAQ,ISCED11_2,0.92976
-2003,UIS,SE_GPI_TCAQ,ISCED11_2,0.82174
-2007,UIS,SE_GPI_TCAQ,ISCED11_2,1.14561
-2008,UIS,SE_GPI_TCAQ,ISCED11_2,1.11299
-2010,UIS,SE_GPI_TCAQ,ISCED11_2,1.11046
-2011,UIS,SE_GPI_TCAQ,ISCED11_2,1.00597
-2012,UIS,SE_GPI_TCAQ,ISCED11_2,0.98147
-2013,UIS,SE_GPI_TCAQ,ISCED11_2,0.97834
-2014,UIS,SE_GPI_TCAQ,ISCED11_2,0.97967
-2015,UIS,SE_GPI_TCAQ,ISCED11_2,0.983
-2016,UIS,SE_GPI_TCAQ,ISCED11_2,1.00868
-2017,UIS,SE_GPI_TCAQ,ISCED11_2,1.00904
-2019,UIS,SE_GPI_TCAQ,ISCED11_2,0.93066
-2008,UIS,SE_GPI_TCAQ,ISCED11_3,1.01186
-2010,UIS,SE_GPI_TCAQ,ISCED11_3,1.05284
-2011,UIS,SE_GPI_TCAQ,ISCED11_3,1.09219
-2013,UIS,SE_GPI_TCAQ,ISCED11_3,0.98818
-2014,UIS,SE_GPI_TCAQ,ISCED11_3,0.98578
-2015,UIS,SE_GPI_TCAQ,ISCED11_3,0.97606
-2019,UIS,SE_GPI_TCAQ,ISCED11_3,0.88254
+Year,SDG Series,Education level,Unit of measure,Value
+2008,Gender parity index for participation rate in formal and non-formal education and training,,Ratio,0.312727179618072
+2011,Gender parity index for participation rate in organized learning (one year before the official primary entry age),,Ratio,1.10474
+2014,Gender parity index for participation rate in organized learning (one year before the official primary entry age),,Ratio,0.99238
+2015,Gender parity index for participation rate in organized learning (one year before the official primary entry age),,Ratio,0.96029
+2016,Gender parity index for participation rate in organized learning (one year before the official primary entry age),,Ratio,0.93215
+2017,Gender parity index for participation rate in organized learning (one year before the official primary entry age),,Ratio,0.88944
+2019,Gender parity index for participation rate in organized learning (one year before the official primary entry age),,Ratio,0.91143
+2008,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,1.03501
+2010,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,1.02885
+2011,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,1.02093
+2013,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,0.98162
+2014,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,0.98159
+2015,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,0.97563
+2019,Gender parity index of trained teachers,Secondary education (lower and upper secondary education),Ratio,0.91888
+2010,Gender parity index of trained teachers,Pre-primary education,Ratio,1.22458
+2011,Gender parity index of trained teachers,Pre-primary education,Ratio,1.14222
+2012,Gender parity index of trained teachers,Pre-primary education,Ratio,1.73479
+2013,Gender parity index of trained teachers,Pre-primary education,Ratio,1.9661
+2014,Gender parity index of trained teachers,Pre-primary education,Ratio,2.2321
+2015,Gender parity index of trained teachers,Pre-primary education,Ratio,2.41418
+2016,Gender parity index of trained teachers,Pre-primary education,Ratio,1.79051
+2017,Gender parity index of trained teachers,Pre-primary education,Ratio,1.81144
+2019,Gender parity index of trained teachers,Pre-primary education,Ratio,2.03382
+2001,Gender parity index of trained teachers,Primary education,Ratio,0.84935
+2002,Gender parity index of trained teachers,Primary education,Ratio,0.78902
+2003,Gender parity index of trained teachers,Primary education,Ratio,0.77887
+2004,Gender parity index of trained teachers,Primary education,Ratio,0.80123
+2005,Gender parity index of trained teachers,Primary education,Ratio,0.84493
+2007,Gender parity index of trained teachers,Primary education,Ratio,0.89537
+2008,Gender parity index of trained teachers,Primary education,Ratio,0.98292
+2010,Gender parity index of trained teachers,Primary education,Ratio,0.973
+2011,Gender parity index of trained teachers,Primary education,Ratio,0.98133
+2012,Gender parity index of trained teachers,Primary education,Ratio,0.99543
+2013,Gender parity index of trained teachers,Primary education,Ratio,0.99493
+2014,Gender parity index of trained teachers,Primary education,Ratio,0.99115
+2015,Gender parity index of trained teachers,Primary education,Ratio,0.9945
+2016,Gender parity index of trained teachers,Primary education,Ratio,1.00402
+2017,Gender parity index of trained teachers,Primary education,Ratio,1.00395
+2019,Gender parity index of trained teachers,Primary education,Ratio,0.97557
+2000,Gender parity index of trained teachers,Lower secondary education,Ratio,1.02694
+2002,Gender parity index of trained teachers,Lower secondary education,Ratio,0.92976
+2003,Gender parity index of trained teachers,Lower secondary education,Ratio,0.82174
+2007,Gender parity index of trained teachers,Lower secondary education,Ratio,1.14561
+2008,Gender parity index of trained teachers,Lower secondary education,Ratio,1.11299
+2010,Gender parity index of trained teachers,Lower secondary education,Ratio,1.11046
+2011,Gender parity index of trained teachers,Lower secondary education,Ratio,1.00597
+2012,Gender parity index of trained teachers,Lower secondary education,Ratio,0.98147
+2013,Gender parity index of trained teachers,Lower secondary education,Ratio,0.97834
+2014,Gender parity index of trained teachers,Lower secondary education,Ratio,0.97967
+2015,Gender parity index of trained teachers,Lower secondary education,Ratio,0.983
+2016,Gender parity index of trained teachers,Lower secondary education,Ratio,1.00868
+2017,Gender parity index of trained teachers,Lower secondary education,Ratio,1.00904
+2019,Gender parity index of trained teachers,Lower secondary education,Ratio,0.93066
+2008,Gender parity index of trained teachers,Upper secondary education,Ratio,1.01186
+2010,Gender parity index of trained teachers,Upper secondary education,Ratio,1.05284
+2011,Gender parity index of trained teachers,Upper secondary education,Ratio,1.09219
+2013,Gender parity index of trained teachers,Upper secondary education,Ratio,0.98818
+2014,Gender parity index of trained teachers,Upper secondary education,Ratio,0.98578
+2015,Gender parity index of trained teachers,Upper secondary education,Ratio,0.97606
+2019,Gender parity index of trained teachers,Upper secondary education,Ratio,0.88254

@@ -1,7 +1,7 @@
-Year,SERIES,Value
-2016,SH_AAP_ASMORT,112
-2016,SH_AAP_MORT,76
-2016,SH_HAP_ASMORT,120
-2016,SH_HAP_MORT,81
-2016,SH_STA_AIRP,133
-2016,SH_STA_ASAIRP,194
+Year,SDG Series,Unit of measure,Value
+2016,Age-standardized mortality rate attributed to ambient air pollution,"Per 100,000 population",112
+2016,Crude death rate attributed to ambient air pollution,"Per 100,000 population",76
+2016,Age-standardized mortality rate attributed to household air pollution,"Per 100,000 population",120
+2016,Crude death rate attributed to household air pollution,"Per 100,000 population",81
+2016,Crude death rate attributed to household and ambient air pollution,"Per 100,000 population",133
+2016,Age-standardized mortality rate attributed to household and ambient air pollution,"Per 100,000 population",194

@@ -1,8 +1,8 @@
-Year,SERIES,EDUCATION_LEV,Value
-2011,SE_ACS_CMPTR,ISCED11_1,0.33962
-2011,SE_ACS_CMPTR,ISCED11_2,1.27314
-2011,SE_ACS_CMPTR,ISCED11_3,8.47808
-2011,SE_ACS_ELECT,ISCED11_1,6.59344
-2011,SE_ACS_ELECT,ISCED11_2,12.52199
-2011,SE_ACS_ELECT,ISCED11_3,47.29746
-2016,SE_ACS_H2O,ISCED11_1,39.01046
+Year,SDG Series,Education level,Unit of measure,Value
+2011,Proportion of schools with access to computers for pedagogical purposes,Primary education,Percent,0.33962
+2011,Proportion of schools with access to computers for pedagogical purposes,Lower secondary education,Percent,1.27314
+2011,Proportion of schools with access to computers for pedagogical purposes,Upper secondary education,Percent,8.47808
+2011,Proportion of schools with access to electricity,Primary education,Percent,6.59344
+2011,Proportion of schools with access to electricity,Lower secondary education,Percent,12.52199
+2011,Proportion of schools with access to electricity,Upper secondary education,Percent,47.29746
+2016,Proportion of schools with access to basic drinking water,Primary education,Percent,39.01046

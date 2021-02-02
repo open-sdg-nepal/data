@@ -1,1 +1,1 @@
-{"From":["SOURCE_DETAIL"],"To":["SERIES"]}
+{"From":["SERIES","SEX","AGE"],"To":["SEX","AGE","UNIT_MEASURE"]}

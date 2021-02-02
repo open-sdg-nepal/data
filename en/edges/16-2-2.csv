@@ -1,3 +1,4 @@
 From,To
-SERIES,SEX
-SEX,AGE
+SDG Series,Unit of measure
+Sex,Age
+Unit of measure,Sex

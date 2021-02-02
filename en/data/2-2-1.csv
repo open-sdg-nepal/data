@@ -1,11 +1,11 @@
-Year,UNIT_MULT,SERIES,UNIT_MEASURE,Value
-2001,0,SH_STA_STNT,PT,57.07563
-2006,0,SH_STA_STNT,PT,49.22741
-2011,0,SH_STA_STNT,PT,40.51385
-2014,0,SH_STA_STNT,PT,37.46835
-2016,0,SH_STA_STNT,PT,36.02018
-2001,3,SH_STA_STNTN,NUMBER,2055.38688
-2006,3,SH_STA_STNTN,NUMBER,1596.51079
-2011,3,SH_STA_STNTN,NUMBER,1208.71975
-2014,3,SH_STA_STNTN,NUMBER,1057.80054
-2016,3,SH_STA_STNTN,NUMBER,997.45743
+Year,SDG Series,Age,Unit of measure,Value
+2001,Proportion of children moderately or severely stunted,under 5 years old,Percent,57.07563
+2006,Proportion of children moderately or severely stunted,under 5 years old,Percent,49.22741
+2011,Proportion of children moderately or severely stunted,under 5 years old,Percent,40.51385
+2014,Proportion of children moderately or severely stunted,under 5 years old,Percent,37.46835
+2016,Proportion of children moderately or severely stunted,under 5 years old,Percent,36.02018
+2001,Children moderately or severely stunted (number),under 5 years old,Number,2055.38688
+2006,Children moderately or severely stunted (number),under 5 years old,Number,1596.51079
+2011,Children moderately or severely stunted (number),under 5 years old,Number,1208.71975
+2014,Children moderately or severely stunted (number),under 5 years old,Number,1057.80054
+2016,Children moderately or severely stunted (number),under 5 years old,Number,997.45743
