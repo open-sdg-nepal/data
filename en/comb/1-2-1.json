@@ -1,1 +1,1 @@
-{"data":{"Year":["2010","2010","2010"],"Series":["SI_POV_NAHC","SI_POV_NAHC","SI_POV_NAHC"],"Degree of urbanisation":[null,"Rural","Urban"],"Units":["PT","PT","PT"],"Value":[25.2,27.4,15.5]},"edges":{"From":["Series","Units"],"To":["Units","Degree of urbanisation"]}}
+{"data":{"Year":["2010","2010","2010"],"Series":["SI_POV_NAHC","SI_POV_NAHC","SI_POV_NAHC"],"Reference area":[null,null,null],"Degree of urbanisation":[null,"Rural","Urban"],"Units":["PT","PT","PT"],"Value":[25.2,27.4,15.5]},"edges":{"From":["Series","Units"],"To":["Units","Degree of urbanisation"]}}

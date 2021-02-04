@@ -1,8 +1,8 @@
-Year,Series,Composite breakdown,Units,Value
-2019,SG_CPA_MIGRS,,NUMBER,2
-2019,SG_CPA_MIGRS,Policy Domain 1. Migrant rights,NUMBER,3
-2019,SG_CPA_MIGRS,Policy Domain 2. Whole-of-government/ Evidence-based policies,NUMBER,2
-2019,SG_CPA_MIGRS,Policy Domain 3. Cooperation and partnerships,NUMBER,2
-2019,SG_CPA_MIGRS,Policy Domain 4. Socioeconomic well-being,NUMBER,3
-2019,SG_CPA_MIGRS,Policy Domain 5. Mobility dimensions of crises,NUMBER,4
-2019,SG_CPA_MIGRS,"Policy Domain 6. Safe, orderly and regular migration",NUMBER,3
+Year,Series,Reference area,Composite breakdown,Units,Value
+2019,SG_CPA_MIGRS,,,NUMBER,2
+2019,SG_CPA_MIGRS,,Policy Domain 1. Migrant rights,NUMBER,3
+2019,SG_CPA_MIGRS,,Policy Domain 2. Whole-of-government/ Evidence-based policies,NUMBER,2
+2019,SG_CPA_MIGRS,,Policy Domain 3. Cooperation and partnerships,NUMBER,2
+2019,SG_CPA_MIGRS,,Policy Domain 4. Socioeconomic well-being,NUMBER,3
+2019,SG_CPA_MIGRS,,Policy Domain 5. Mobility dimensions of crises,NUMBER,4
+2019,SG_CPA_MIGRS,,"Policy Domain 6. Safe, orderly and regular migration",NUMBER,3

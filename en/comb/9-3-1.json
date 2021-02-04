@@ -1,1 +1,1 @@
-{"data":{"Year":["2001","2006","2011"],"Series":["NV_IND_SSIS","NV_IND_SSIS","NV_IND_SSIS"],"Units":["PT","PT","PT"],"Value":[5.44,7.41,9.51]},"edges":{"From":["Series"],"To":["Units"]}}
+{"data":{"Year":["2001","2006","2011"],"Series":["NV_IND_SSIS","NV_IND_SSIS","NV_IND_SSIS"],"Reference area":[null,null,null],"Units":["PT","PT","PT"],"Value":[5.44,7.41,9.51]},"edges":{"From":["Series"],"To":["Units"]}}

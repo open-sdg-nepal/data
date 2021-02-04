@@ -1,8 +1,8 @@
-Year,Series,Education level,Units,Value
-2011,SE_ACS_CMPTR,Primary education,PT,0.33962
-2011,SE_ACS_CMPTR,Lower secondary education,PT,1.27314
-2011,SE_ACS_CMPTR,Upper secondary education,PT,8.47808
-2011,SE_ACS_ELECT,Primary education,PT,6.59344
-2011,SE_ACS_ELECT,Lower secondary education,PT,12.52199
-2011,SE_ACS_ELECT,Upper secondary education,PT,47.29746
-2016,SE_ACS_H2O,Primary education,PT,39.01046
+Year,Series,Reference area,Education level,Units,Value
+2011,SE_ACS_CMPTR,,Primary education,PT,0.33962
+2011,SE_ACS_CMPTR,,Lower secondary education,PT,1.27314
+2011,SE_ACS_CMPTR,,Upper secondary education,PT,8.47808
+2011,SE_ACS_ELECT,,Primary education,PT,6.59344
+2011,SE_ACS_ELECT,,Lower secondary education,PT,12.52199
+2011,SE_ACS_ELECT,,Upper secondary education,PT,47.29746
+2016,SE_ACS_H2O,,Primary education,PT,39.01046

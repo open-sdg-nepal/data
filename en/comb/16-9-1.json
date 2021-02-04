@@ -1,1 +1,1 @@
-{"data":{"Year":["2016"],"Series":["SG_REG_BRTH"],"Age":["under 5 years old"],"Units":["PT"],"Value":[56.2]},"edges":{"From":["Series","Age"],"To":["Age","Units"]}}
+{"data":{"Year":["2016"],"Series":["SG_REG_BRTH"],"Reference area":[null],"Age":["under 5 years old"],"Units":["PT"],"Value":[56.2]},"edges":{"From":["Series","Age"],"To":["Age","Units"]}}

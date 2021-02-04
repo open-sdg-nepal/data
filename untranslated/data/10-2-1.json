@@ -1,1 +1,1 @@
-{"Year":["1984","1995","2003","2010"],"Series":["SI_POV_50MI","SI_POV_50MI","SI_POV_50MI","SI_POV_50MI"],"INCOME_WEALTH_QUANTILE":["B50","B50","B50","B50"],"Units":["PT","PT","PT","PT"],"Value":[6,9,10,7]}
+{"Year":["1984","1995","2003","2010"],"Series":["SI_POV_50MI","SI_POV_50MI","SI_POV_50MI","SI_POV_50MI"],"REF_AREA":[null,null,null,null],"INCOME_WEALTH_QUANTILE":["B50","B50","B50","B50"],"Units":["PT","PT","PT","PT"],"Value":[6,9,10,7]}

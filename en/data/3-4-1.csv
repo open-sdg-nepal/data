@@ -1,76 +1,76 @@
-Year,Series,Sex,Age,Composite breakdown,Units,Value
-2000,SH_DTH_NCD,,,Non-communicable disease: Cardiovascular disease,NUMBER,36775.0
-2005,SH_DTH_NCD,,,Non-communicable disease: Cardiovascular disease,NUMBER,43208.0
-2010,SH_DTH_NCD,,,Non-communicable disease: Cardiovascular disease,NUMBER,47892.0
-2015,SH_DTH_NCD,,,Non-communicable disease: Cardiovascular disease,NUMBER,53981.0
-2016,SH_DTH_NCD,,,Non-communicable disease: Cardiovascular disease,NUMBER,55127.0
-2000,SH_DTH_NCD,,,Non-communicable disease: Cancer,NUMBER,11310.0
-2005,SH_DTH_NCD,,,Non-communicable disease: Cancer,NUMBER,13128.0
-2010,SH_DTH_NCD,,,Non-communicable disease: Cancer,NUMBER,14376.0
-2015,SH_DTH_NCD,,,Non-communicable disease: Cancer,NUMBER,16601.0
-2016,SH_DTH_NCD,,,Non-communicable disease: Cancer,NUMBER,17049.0
-2000,SH_DTH_NCD,,,Non-communicable disease: Chronic respiratory disease,NUMBER,15477.0
-2005,SH_DTH_NCD,,,Non-communicable disease: Chronic respiratory disease,NUMBER,16520.0
-2010,SH_DTH_NCD,,,Non-communicable disease: Chronic respiratory disease,NUMBER,17302.0
-2015,SH_DTH_NCD,,,Non-communicable disease: Chronic respiratory disease,NUMBER,18681.0
-2016,SH_DTH_NCD,,,Non-communicable disease: Chronic respiratory disease,NUMBER,18952.0
-2000,SH_DTH_NCD,,,Non-communicable disease: Diabetes,NUMBER,3270.0
-2005,SH_DTH_NCD,,,Non-communicable disease: Diabetes,NUMBER,4203.0
-2010,SH_DTH_NCD,,,Non-communicable disease: Diabetes,NUMBER,5020.0
-2015,SH_DTH_NCD,,,Non-communicable disease: Diabetes,NUMBER,6285.0
-2016,SH_DTH_NCD,,,Non-communicable disease: Diabetes,NUMBER,6555.0
-2000,SH_DTH_NCD,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,15952.0
-2005,SH_DTH_NCD,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,17803.0
-2010,SH_DTH_NCD,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,19391.0
-2015,SH_DTH_NCD,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,22088.0
-2016,SH_DTH_NCD,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,22577.0
-2000,SH_DTH_NCD,Female,,Non-communicable disease: Cancer,NUMBER,6266.0
-2005,SH_DTH_NCD,Female,,Non-communicable disease: Cancer,NUMBER,7086.0
-2010,SH_DTH_NCD,Female,,Non-communicable disease: Cancer,NUMBER,7568.0
-2015,SH_DTH_NCD,Female,,Non-communicable disease: Cancer,NUMBER,8770.0
-2016,SH_DTH_NCD,Female,,Non-communicable disease: Cancer,NUMBER,8998.0
-2000,SH_DTH_NCD,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,8433.0
-2005,SH_DTH_NCD,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,9084.0
-2010,SH_DTH_NCD,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,9482.0
-2015,SH_DTH_NCD,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,10262.0
-2016,SH_DTH_NCD,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,10413.0
-2000,SH_DTH_NCD,Female,,Non-communicable disease: Diabetes,NUMBER,1939.0
-2005,SH_DTH_NCD,Female,,Non-communicable disease: Diabetes,NUMBER,2514.0
-2010,SH_DTH_NCD,Female,,Non-communicable disease: Diabetes,NUMBER,2984.0
-2015,SH_DTH_NCD,Female,,Non-communicable disease: Diabetes,NUMBER,3790.0
-2016,SH_DTH_NCD,Female,,Non-communicable disease: Diabetes,NUMBER,3964.0
-2000,SH_DTH_NCD,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,20824.0
-2005,SH_DTH_NCD,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,25405.0
-2010,SH_DTH_NCD,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,28502.0
-2015,SH_DTH_NCD,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,31893.0
-2016,SH_DTH_NCD,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,32550.0
-2000,SH_DTH_NCD,Male,,Non-communicable disease: Cancer,NUMBER,5044.0
-2005,SH_DTH_NCD,Male,,Non-communicable disease: Cancer,NUMBER,6043.0
-2010,SH_DTH_NCD,Male,,Non-communicable disease: Cancer,NUMBER,6809.0
-2015,SH_DTH_NCD,Male,,Non-communicable disease: Cancer,NUMBER,7831.0
-2016,SH_DTH_NCD,Male,,Non-communicable disease: Cancer,NUMBER,8051.0
-2000,SH_DTH_NCD,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,7044.0
-2005,SH_DTH_NCD,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,7437.0
-2010,SH_DTH_NCD,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,7820.0
-2015,SH_DTH_NCD,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,8419.0
-2016,SH_DTH_NCD,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,8539.0
-2000,SH_DTH_NCD,Male,,Non-communicable disease: Diabetes,NUMBER,1331.0
-2005,SH_DTH_NCD,Male,,Non-communicable disease: Diabetes,NUMBER,1689.0
-2010,SH_DTH_NCD,Male,,Non-communicable disease: Diabetes,NUMBER,2037.0
-2015,SH_DTH_NCD,Male,,Non-communicable disease: Diabetes,NUMBER,2495.0
-2016,SH_DTH_NCD,Male,,Non-communicable disease: Diabetes,NUMBER,2591.0
-2000,SH_DTH_NCOM,,30 to exact 70 years old,,PT,27.3
-2005,SH_DTH_NCOM,,30 to exact 70 years old,,PT,25.8
-2010,SH_DTH_NCOM,,30 to exact 70 years old,,PT,23.8
-2015,SH_DTH_NCOM,,30 to exact 70 years old,,PT,22.2
-2016,SH_DTH_NCOM,,30 to exact 70 years old,,PT,21.8
-2000,SH_DTH_NCOM,Female,30 to exact 70 years old,,PT,24.2
-2005,SH_DTH_NCOM,Female,30 to exact 70 years old,,PT,22.9
-2010,SH_DTH_NCOM,Female,30 to exact 70 years old,,PT,21.1
-2015,SH_DTH_NCOM,Female,30 to exact 70 years old,,PT,19.6
-2016,SH_DTH_NCOM,Female,30 to exact 70 years old,,PT,19.2
-2000,SH_DTH_NCOM,Male,30 to exact 70 years old,,PT,30.7
-2005,SH_DTH_NCOM,Male,30 to exact 70 years old,,PT,28.7
-2010,SH_DTH_NCOM,Male,30 to exact 70 years old,,PT,26.5
-2015,SH_DTH_NCOM,Male,30 to exact 70 years old,,PT,25.2
-2016,SH_DTH_NCOM,Male,30 to exact 70 years old,,PT,24.8
+Year,Series,Reference area,Sex,Age,Composite breakdown,Units,Value
+2000,SH_DTH_NCD,,,,Non-communicable disease: Cardiovascular disease,NUMBER,36775.0
+2005,SH_DTH_NCD,,,,Non-communicable disease: Cardiovascular disease,NUMBER,43208.0
+2010,SH_DTH_NCD,,,,Non-communicable disease: Cardiovascular disease,NUMBER,47892.0
+2015,SH_DTH_NCD,,,,Non-communicable disease: Cardiovascular disease,NUMBER,53981.0
+2016,SH_DTH_NCD,,,,Non-communicable disease: Cardiovascular disease,NUMBER,55127.0
+2000,SH_DTH_NCD,,,,Non-communicable disease: Cancer,NUMBER,11310.0
+2005,SH_DTH_NCD,,,,Non-communicable disease: Cancer,NUMBER,13128.0
+2010,SH_DTH_NCD,,,,Non-communicable disease: Cancer,NUMBER,14376.0
+2015,SH_DTH_NCD,,,,Non-communicable disease: Cancer,NUMBER,16601.0
+2016,SH_DTH_NCD,,,,Non-communicable disease: Cancer,NUMBER,17049.0
+2000,SH_DTH_NCD,,,,Non-communicable disease: Chronic respiratory disease,NUMBER,15477.0
+2005,SH_DTH_NCD,,,,Non-communicable disease: Chronic respiratory disease,NUMBER,16520.0
+2010,SH_DTH_NCD,,,,Non-communicable disease: Chronic respiratory disease,NUMBER,17302.0
+2015,SH_DTH_NCD,,,,Non-communicable disease: Chronic respiratory disease,NUMBER,18681.0
+2016,SH_DTH_NCD,,,,Non-communicable disease: Chronic respiratory disease,NUMBER,18952.0
+2000,SH_DTH_NCD,,,,Non-communicable disease: Diabetes,NUMBER,3270.0
+2005,SH_DTH_NCD,,,,Non-communicable disease: Diabetes,NUMBER,4203.0
+2010,SH_DTH_NCD,,,,Non-communicable disease: Diabetes,NUMBER,5020.0
+2015,SH_DTH_NCD,,,,Non-communicable disease: Diabetes,NUMBER,6285.0
+2016,SH_DTH_NCD,,,,Non-communicable disease: Diabetes,NUMBER,6555.0
+2000,SH_DTH_NCD,,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,15952.0
+2005,SH_DTH_NCD,,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,17803.0
+2010,SH_DTH_NCD,,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,19391.0
+2015,SH_DTH_NCD,,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,22088.0
+2016,SH_DTH_NCD,,Female,,Non-communicable disease: Cardiovascular disease,NUMBER,22577.0
+2000,SH_DTH_NCD,,Female,,Non-communicable disease: Cancer,NUMBER,6266.0
+2005,SH_DTH_NCD,,Female,,Non-communicable disease: Cancer,NUMBER,7086.0
+2010,SH_DTH_NCD,,Female,,Non-communicable disease: Cancer,NUMBER,7568.0
+2015,SH_DTH_NCD,,Female,,Non-communicable disease: Cancer,NUMBER,8770.0
+2016,SH_DTH_NCD,,Female,,Non-communicable disease: Cancer,NUMBER,8998.0
+2000,SH_DTH_NCD,,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,8433.0
+2005,SH_DTH_NCD,,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,9084.0
+2010,SH_DTH_NCD,,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,9482.0
+2015,SH_DTH_NCD,,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,10262.0
+2016,SH_DTH_NCD,,Female,,Non-communicable disease: Chronic respiratory disease,NUMBER,10413.0
+2000,SH_DTH_NCD,,Female,,Non-communicable disease: Diabetes,NUMBER,1939.0
+2005,SH_DTH_NCD,,Female,,Non-communicable disease: Diabetes,NUMBER,2514.0
+2010,SH_DTH_NCD,,Female,,Non-communicable disease: Diabetes,NUMBER,2984.0
+2015,SH_DTH_NCD,,Female,,Non-communicable disease: Diabetes,NUMBER,3790.0
+2016,SH_DTH_NCD,,Female,,Non-communicable disease: Diabetes,NUMBER,3964.0
+2000,SH_DTH_NCD,,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,20824.0
+2005,SH_DTH_NCD,,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,25405.0
+2010,SH_DTH_NCD,,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,28502.0
+2015,SH_DTH_NCD,,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,31893.0
+2016,SH_DTH_NCD,,Male,,Non-communicable disease: Cardiovascular disease,NUMBER,32550.0
+2000,SH_DTH_NCD,,Male,,Non-communicable disease: Cancer,NUMBER,5044.0
+2005,SH_DTH_NCD,,Male,,Non-communicable disease: Cancer,NUMBER,6043.0
+2010,SH_DTH_NCD,,Male,,Non-communicable disease: Cancer,NUMBER,6809.0
+2015,SH_DTH_NCD,,Male,,Non-communicable disease: Cancer,NUMBER,7831.0
+2016,SH_DTH_NCD,,Male,,Non-communicable disease: Cancer,NUMBER,8051.0
+2000,SH_DTH_NCD,,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,7044.0
+2005,SH_DTH_NCD,,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,7437.0
+2010,SH_DTH_NCD,,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,7820.0
+2015,SH_DTH_NCD,,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,8419.0
+2016,SH_DTH_NCD,,Male,,Non-communicable disease: Chronic respiratory disease,NUMBER,8539.0
+2000,SH_DTH_NCD,,Male,,Non-communicable disease: Diabetes,NUMBER,1331.0
+2005,SH_DTH_NCD,,Male,,Non-communicable disease: Diabetes,NUMBER,1689.0
+2010,SH_DTH_NCD,,Male,,Non-communicable disease: Diabetes,NUMBER,2037.0
+2015,SH_DTH_NCD,,Male,,Non-communicable disease: Diabetes,NUMBER,2495.0
+2016,SH_DTH_NCD,,Male,,Non-communicable disease: Diabetes,NUMBER,2591.0
+2000,SH_DTH_NCOM,,,30 to exact 70 years old,,PT,27.3
+2005,SH_DTH_NCOM,,,30 to exact 70 years old,,PT,25.8
+2010,SH_DTH_NCOM,,,30 to exact 70 years old,,PT,23.8
+2015,SH_DTH_NCOM,,,30 to exact 70 years old,,PT,22.2
+2016,SH_DTH_NCOM,,,30 to exact 70 years old,,PT,21.8
+2000,SH_DTH_NCOM,,Female,30 to exact 70 years old,,PT,24.2
+2005,SH_DTH_NCOM,,Female,30 to exact 70 years old,,PT,22.9
+2010,SH_DTH_NCOM,,Female,30 to exact 70 years old,,PT,21.1
+2015,SH_DTH_NCOM,,Female,30 to exact 70 years old,,PT,19.6
+2016,SH_DTH_NCOM,,Female,30 to exact 70 years old,,PT,19.2
+2000,SH_DTH_NCOM,,Male,30 to exact 70 years old,,PT,30.7
+2005,SH_DTH_NCOM,,Male,30 to exact 70 years old,,PT,28.7
+2010,SH_DTH_NCOM,,Male,30 to exact 70 years old,,PT,26.5
+2015,SH_DTH_NCOM,,Male,30 to exact 70 years old,,PT,25.2
+2016,SH_DTH_NCOM,,Male,30 to exact 70 years old,,PT,24.8

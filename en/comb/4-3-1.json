@@ -1,1 +1,1 @@
-{"data":{"Year":["2008","2008","2008"],"Series":["SE_ADT_EDUCTRN","SE_ADT_EDUCTRN","SE_ADT_EDUCTRN"],"Sex":[null,"Female","Male"],"Units":["PT","PT","PT"],"Value":[1.9690555392,0.9781220075,3.127716653]},"edges":{"From":["Series","Units"],"To":["Units","Sex"]}}
+{"data":{"Year":["2008","2008","2008"],"Series":["SE_ADT_EDUCTRN","SE_ADT_EDUCTRN","SE_ADT_EDUCTRN"],"Reference area":[null,null,null],"Sex":[null,"Female","Male"],"Units":["PT","PT","PT"],"Value":[1.9690555392,0.9781220075,3.127716653]},"edges":{"From":["Series","Units"],"To":["Units","Sex"]}}
