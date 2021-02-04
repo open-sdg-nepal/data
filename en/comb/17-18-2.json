@@ -1,1 +1,1 @@
-{"data":{"Year":["2019"],"SDG Series":["Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2]"],"Unit of measure":["Number"],"Value":[0]},"edges":[]}
+{"data":{"Year":["2019"],"SDG Series":["Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2]"],"Unit of measure":["Number"],"Value":[0]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}

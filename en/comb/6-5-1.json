@@ -1,1 +1,1 @@
-{"data":{"Year":["2018"],"SDG Series":["Degree of integrated water resources management implementation [6.5.1]"],"Unit of measure":["Percent"],"Value":[33]},"edges":[]}
+{"data":{"Year":["2018"],"SDG Series":["Degree of integrated water resources management implementation [6.5.1]"],"Unit of measure":["Percent"],"Value":[33]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}

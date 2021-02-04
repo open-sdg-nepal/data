@@ -1,1 +1,1 @@
-{"data":{"Year":["2015"],"SDG Series":["Proportion of the rural population who live within 2\u00a0km of an all-season road [9.1.1]"],"Unit of measure":["Percent"],"Value":[54.2]},"edges":[]}
+{"data":{"Year":["2015"],"SDG Series":["Proportion of the rural population who live within 2\u00a0km of an all-season road [9.1.1]"],"Unit of measure":["Percent"],"Value":[54.2]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}

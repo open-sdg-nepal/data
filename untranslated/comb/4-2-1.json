@@ -1,1 +1,1 @@
-{"data":{"Year":["2014"],"SERIES":["SE_DEV_ONTRK"],"AGE":["M36T59"],"UNIT_MEASURE":["PT"],"Value":[64.4]},"edges":{"From":["SERIES","AGE"],"To":["AGE","UNIT_MEASURE"]}}
+{"data":{"Year":["2014"],"SERIES":["SE_DEV_ONTRK"],"AGE":["M36T59"],"UNIT_MEASURE":["PT"],"Value":[64.4]},"edges":[]}

@@ -1,1 +1,1 @@
-{"data":{"Year":["2008","2017","2017"],"SERIES":["IC_GEN_MGTL","IC_GEN_MGTL","IC_GEN_MGTN"],"SEX":["F","F","F"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[18.37,13.17,13.9]},"edges":{"From":["SERIES","SEX"],"To":["SEX","UNIT_MEASURE"]}}
+{"data":{"Year":["2008","2017","2017"],"SERIES":["IC_GEN_MGTL","IC_GEN_MGTL","IC_GEN_MGTN"],"SEX":["F","F","F"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[18.37,13.17,13.9]},"edges":[]}

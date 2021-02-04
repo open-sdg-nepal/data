@@ -1,1 +1,1 @@
-{"data":{"Year":["2016"],"SERIES":["VC_VAW_SXVLN"],"SEX":["F"],"AGE":["Y18T29"],"UNIT_MEASURE":["PT"],"Value":[3]},"edges":{"From":["SERIES","SEX","AGE"],"To":["SEX","AGE","UNIT_MEASURE"]}}
+{"data":{"Year":["2016"],"SERIES":["VC_VAW_SXVLN"],"SEX":["F"],"AGE":["Y18T29"],"UNIT_MEASURE":["PT"],"Value":[3]},"edges":{"From":["SEX"],"To":["AGE"]}}

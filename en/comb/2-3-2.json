@@ -1,1 +1,1 @@
-{"data":{"Year":["2011"],"SDG Series":["Average income of small-scale food producers [2.3.2]"],"Unit of measure":["Constant USD"],"Value":[897.39]},"edges":[]}
+{"data":{"Year":["2011"],"SDG Series":["Average income of small-scale food producers [2.3.2]"],"Unit of measure":["Constant USD"],"Value":[897.39]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}

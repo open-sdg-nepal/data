@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2016","2017","2018","2019"],"SERIES":["SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR"],"UNIT_MEASURE":["IX","IX","IX","IX","IX"],"Value":[0.05,0.05,0.05,0.375,0.75]},"edges":{"From":["SERIES"],"To":["UNIT_MEASURE"]}}
+{"data":{"Year":["2015","2016","2017","2018","2019"],"SERIES":["SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR"],"UNIT_MEASURE":["IX","IX","IX","IX","IX"],"Value":[0.05,0.05,0.05,0.375,0.75]},"edges":[]}
