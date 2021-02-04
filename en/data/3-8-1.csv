@@ -1,6 +1,6 @@
-Year,SDG Series,Unit of measure,Value
-2000,Universal health coverage (UHC) service coverage index [3.8.1],Index,24
-2005,Universal health coverage (UHC) service coverage index [3.8.1],Index,29
-2010,Universal health coverage (UHC) service coverage index [3.8.1],Index,42
-2015,Universal health coverage (UHC) service coverage index [3.8.1],Index,51
-2017,Universal health coverage (UHC) service coverage index [3.8.1],Index,48
+Year,Series,Units,Value
+2000,SH_ACS_UNHC,IX,24
+2005,SH_ACS_UNHC,IX,29
+2010,SH_ACS_UNHC,IX,42
+2015,SH_ACS_UNHC,IX,51
+2017,SH_ACS_UNHC,IX,48

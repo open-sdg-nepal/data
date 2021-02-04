@@ -1,4 +1,4 @@
-Year,SDG Series,Unit of measure,Value
-2010,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",Boolean or binary measure,0
-2016,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",Boolean or binary measure,1
-2016,"National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]",Boolean or binary measure,1
+Year,Series,Units,Value
+2010,ER_IAS_LEGIS,BOOL,0
+2016,ER_IAS_LEGIS,BOOL,1
+2016,ER_IAS_NBSAP,BOOL,1

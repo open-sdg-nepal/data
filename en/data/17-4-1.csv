@@ -1,29 +1,29 @@
-Year,SDG Series,Unit of measure,Value
-1990,Debt service as a proportion of exports of goods and services [17.4.1],Percent,14.53116
-1991,Debt service as a proportion of exports of goods and services [17.4.1],Percent,11.17499
-1992,Debt service as a proportion of exports of goods and services [17.4.1],Percent,9.18233
-1993,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.61512
-1994,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.81449
-1995,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.68718
-1996,Debt service as a proportion of exports of goods and services [17.4.1],Percent,6.52582
-1997,Debt service as a proportion of exports of goods and services [17.4.1],Percent,6.93006
-1998,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.93733
-1999,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.99309
-2000,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.39416
-2001,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.70669
-2002,Debt service as a proportion of exports of goods and services [17.4.1],Percent,10.20136
-2003,Debt service as a proportion of exports of goods and services [17.4.1],Percent,10.04593
-2004,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.97048
-2005,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.18599
-2006,Debt service as a proportion of exports of goods and services [17.4.1],Percent,9.68741
-2007,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.61938
-2008,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.27386
-2009,Debt service as a proportion of exports of goods and services [17.4.1],Percent,9.97659
-2010,Debt service as a proportion of exports of goods and services [17.4.1],Percent,10.41391
-2011,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.9984
-2012,Debt service as a proportion of exports of goods and services [17.4.1],Percent,10.03123
-2013,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.58646
-2014,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.84996
-2015,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.89666
-2016,Debt service as a proportion of exports of goods and services [17.4.1],Percent,8.67174
-2017,Debt service as a proportion of exports of goods and services [17.4.1],Percent,7.38106
+Year,Series,Units,Value
+1990,DT_TDS_DECT,PT,14.53116
+1991,DT_TDS_DECT,PT,11.17499
+1992,DT_TDS_DECT,PT,9.18233
+1993,DT_TDS_DECT,PT,8.61512
+1994,DT_TDS_DECT,PT,7.81449
+1995,DT_TDS_DECT,PT,7.68718
+1996,DT_TDS_DECT,PT,6.52582
+1997,DT_TDS_DECT,PT,6.93006
+1998,DT_TDS_DECT,PT,7.93733
+1999,DT_TDS_DECT,PT,7.99309
+2000,DT_TDS_DECT,PT,7.39416
+2001,DT_TDS_DECT,PT,7.70669
+2002,DT_TDS_DECT,PT,10.20136
+2003,DT_TDS_DECT,PT,10.04593
+2004,DT_TDS_DECT,PT,8.97048
+2005,DT_TDS_DECT,PT,8.18599
+2006,DT_TDS_DECT,PT,9.68741
+2007,DT_TDS_DECT,PT,8.61938
+2008,DT_TDS_DECT,PT,8.27386
+2009,DT_TDS_DECT,PT,9.97659
+2010,DT_TDS_DECT,PT,10.41391
+2011,DT_TDS_DECT,PT,8.9984
+2012,DT_TDS_DECT,PT,10.03123
+2013,DT_TDS_DECT,PT,8.58646
+2014,DT_TDS_DECT,PT,7.84996
+2015,DT_TDS_DECT,PT,7.89666
+2016,DT_TDS_DECT,PT,8.67174
+2017,DT_TDS_DECT,PT,7.38106

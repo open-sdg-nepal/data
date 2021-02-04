@@ -1,1 +1,1 @@
-{"data":{"Year":["2002"],"SDG Series":["Researchers (in full-time equivalent) per million inhabitants [9.5.2]"],"Unit of measure":["Per million population"],"Value":[60.6658]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}
+{"data":{"Year":["2002"],"Series":["GB_POP_SCIERD"],"Units":["PER_1000000_POP"],"Value":[60.6658]},"edges":{"From":["Series"],"To":["Units"]}}

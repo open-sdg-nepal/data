@@ -1,7 +1,7 @@
-Year,SDG Series,Unit of measure,Value
-2014,Total deaths and disappearances recorded during migration [10.7.3],Number,0
-2015,Total deaths and disappearances recorded during migration [10.7.3],Number,0
-2016,Total deaths and disappearances recorded during migration [10.7.3],Number,0
-2017,Total deaths and disappearances recorded during migration [10.7.3],Number,0
-2018,Total deaths and disappearances recorded during migration [10.7.3],Number,0
-2019,Total deaths and disappearances recorded during migration [10.7.3],Number,0
+Year,Series,Units,Value
+2014,SM_DTH_MIGR,NUMBER,0
+2015,SM_DTH_MIGR,NUMBER,0
+2016,SM_DTH_MIGR,NUMBER,0
+2017,SM_DTH_MIGR,NUMBER,0
+2018,SM_DTH_MIGR,NUMBER,0
+2019,SM_DTH_MIGR,NUMBER,0

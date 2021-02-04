@@ -1,24 +1,24 @@
-Year,SDG Series,Age,Unit of measure,Value
-2011,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,7.35187315184078
-2012,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,7.5989285510743
-2013,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,8.51632059953079
-2014,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,9.2973217072539
-2015,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,9.55867046391932
-2016,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,10.3416820192947
-2017,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,10.9700988632057
-2018,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",15 years old and over,Number,14.2797566516626
-2004,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,2.55628189320324
-2005,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,2.50715594753034
-2006,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,2.55036677462178
-2007,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,3.4999034467196
-2008,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,3.4803390546307
-2009,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,4.58851138192634
-2010,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,5.09576049577043
-2011,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,7.35187315184078
-2012,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,8.53735045045396
-2013,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,8.61858462274063
-2014,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,8.87522780407954
-2015,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,9.45314185333567
-2016,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,10.2820601627894
-2017,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,12.1351117650647
-2018,"Number of commercial bank branches per 100,000 adults [8.10.1]",15 years old and over,Number,15.4667518301598
+Year,Series,Age,Units,Value
+2011,FB_ATM_TOTL,15 years old and over,NUMBER,7.35187315184078
+2012,FB_ATM_TOTL,15 years old and over,NUMBER,7.5989285510743
+2013,FB_ATM_TOTL,15 years old and over,NUMBER,8.51632059953079
+2014,FB_ATM_TOTL,15 years old and over,NUMBER,9.2973217072539
+2015,FB_ATM_TOTL,15 years old and over,NUMBER,9.55867046391932
+2016,FB_ATM_TOTL,15 years old and over,NUMBER,10.3416820192947
+2017,FB_ATM_TOTL,15 years old and over,NUMBER,10.9700988632057
+2018,FB_ATM_TOTL,15 years old and over,NUMBER,14.2797566516626
+2004,FB_CBK_BRCH,15 years old and over,NUMBER,2.55628189320324
+2005,FB_CBK_BRCH,15 years old and over,NUMBER,2.50715594753034
+2006,FB_CBK_BRCH,15 years old and over,NUMBER,2.55036677462178
+2007,FB_CBK_BRCH,15 years old and over,NUMBER,3.4999034467196
+2008,FB_CBK_BRCH,15 years old and over,NUMBER,3.4803390546307
+2009,FB_CBK_BRCH,15 years old and over,NUMBER,4.58851138192634
+2010,FB_CBK_BRCH,15 years old and over,NUMBER,5.09576049577043
+2011,FB_CBK_BRCH,15 years old and over,NUMBER,7.35187315184078
+2012,FB_CBK_BRCH,15 years old and over,NUMBER,8.53735045045396
+2013,FB_CBK_BRCH,15 years old and over,NUMBER,8.61858462274063
+2014,FB_CBK_BRCH,15 years old and over,NUMBER,8.87522780407954
+2015,FB_CBK_BRCH,15 years old and over,NUMBER,9.45314185333567
+2016,FB_CBK_BRCH,15 years old and over,NUMBER,10.2820601627894
+2017,FB_CBK_BRCH,15 years old and over,NUMBER,12.1351117650647
+2018,FB_CBK_BRCH,15 years old and over,NUMBER,15.4667518301598

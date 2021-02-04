@@ -1,5 +1,5 @@
-Year,SDG Series,Unit of measure,Value
-2018,Proportion of new development interventions drawn from country-led result frameworks - data by recipient (%) [17.15.1],Percent,88.2352948188781
-2018,Proportion of results indicators drawn from country-led results frameworks - data by recipient (%) [17.15.1],Percent,62.3408079147338
-2018,Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%) [17.15.1],Percent,46.3491767644882
-2018,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%)  [17.15.1],Percent,65.6417598327001
+Year,Series,Units,Value
+2018,SG_PLN_RECNDI,PT,88.2352948188781
+2018,SG_PLN_RECRICTRY,PT,62.3408079147338
+2018,SG_PLN_RECRIMON,PT,46.3491767644882
+2018,SG_PLN_REPOLRES,PT,65.6417598327001

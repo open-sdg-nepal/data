@@ -1,1 +1,1 @@
-{"data":{"Year":["2017"],"SERIES":["SG_STT_CAPTY"],"UNIT_MEASURE":["USD"],"Value":[2266612.2999999998]},"edges":[]}
+{"data":{"Year":["2017"],"Series":["SG_STT_CAPTY"],"Units":["USD"],"Value":[2266612.2999999998]},"edges":{"From":["Series"],"To":["Units"]}}

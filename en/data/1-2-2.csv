@@ -1,6 +1,6 @@
-Year,SDG Series,Age,Unit of measure,Value
-2011,Average proportion of deprivations for people multidimensionally poor [1.2.2],,Percent,47.5
-2014,Average proportion of deprivations for people multidimensionally poor [1.2.2],,Percent,44.23
-2011,Proportion of population living in multidimensional poverty [1.2.2],,Percent,39.1
-2014,Proportion of population living in multidimensional poverty [1.2.2],,Percent,28.62
-2014,Proportion of population living in multidimensional poverty [1.2.2],under 10 years old,Percent,41.61
+Year,Series,Age,Units,Value
+2011,SD_MDP_ANDI,,PT,47.5
+2014,SD_MDP_ANDI,,PT,44.23
+2011,SD_MDP_MUHC,,PT,39.1
+2014,SD_MDP_MUHC,,PT,28.62
+2014,SD_MDP_MUHC,under 10 years old,PT,41.61

@@ -1,1 +1,1 @@
-{"data":{"Year":["2016"],"SDG Series":["Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1]"],"Age":["under 5 years old"],"Unit of measure":["Percent"],"Value":[56.2]},"edges":{"From":["SDG Series","Age"],"To":["Age","Unit of measure"]}}
+{"data":{"Year":["2016"],"Series":["SG_REG_BRTH"],"Age":["under 5 years old"],"Units":["PT"],"Value":[56.2]},"edges":{"From":["Series","Age"],"To":["Age","Units"]}}

@@ -1,19 +1,19 @@
-Year,SDG Series,Unit of measure,Value
-2000,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,9.29
-2001,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,9.15
-2002,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,9.24
-2003,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,9.15
-2004,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.86
-2005,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.85
-2006,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.57
-2007,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.44
-2008,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.24
-2009,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.11
-2010,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.97
-2011,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.97
-2012,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.27
-2013,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.79
-2014,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.65
-2015,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.4
-2016,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,8.02
-2017,Energy intensity level of primary energy [7.3.1],Megajoules per USD constant PPP GDP,7.84
+Year,Series,Units,Value
+2000,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,9.29
+2001,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,9.15
+2002,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,9.24
+2003,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,9.15
+2004,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.86
+2005,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.85
+2006,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.57
+2007,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.44
+2008,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.24
+2009,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.11
+2010,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.97
+2011,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.97
+2012,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.27
+2013,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.79
+2014,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.65
+2015,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.4
+2016,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,8.02
+2017,EG_EGY_PRIM,MJ_PER_GDP_CON_PPP_USD,7.84

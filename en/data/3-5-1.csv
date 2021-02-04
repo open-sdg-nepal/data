@@ -1,4 +1,4 @@
-Year,SDG Series,Sex,Age,Unit of measure,Value
-2016,"Alcohol use disorders, 12-month prevalence (%) [3.5.1]",,15 years old and over,Percent,1.8
-2016,"Alcohol use disorders, 12-month prevalence (%) [3.5.1]",Female,15 years old and over,Percent,0.6
-2016,"Alcohol use disorders, 12-month prevalence (%) [3.5.1]",Male,15 years old and over,Percent,3.1
+Year,Series,Sex,Age,Units,Value
+2016,SH_SUD_ALCOL,,15 years old and over,PT,1.8
+2016,SH_SUD_ALCOL,Female,15 years old and over,PT,0.6
+2016,SH_SUD_ALCOL,Male,15 years old and over,PT,3.1

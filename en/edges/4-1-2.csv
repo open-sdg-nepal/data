@@ -1,6 +1,6 @@
 From,To
-SDG Series,Education level
-Unit of measure,Sex
-Unit of measure,Degree of urbanisation
-Unit of measure,Income or wealth quantile
-Education level,Unit of measure
+Series,Education level
+Units,Sex
+Units,Degree of urbanisation
+Units,Income or wealth quantile
+Education level,Units

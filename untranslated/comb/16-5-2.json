@@ -1,1 +1,1 @@
-{"data":{"Year":["2009","2013"],"SERIES":["IC_FRM_BRIB","IC_FRM_BRIB"],"UNIT_MEASURE":["PT","PT"],"Value":[15.08182,14.44999]},"edges":[]}
+{"data":{"Year":["2009","2013"],"Series":["IC_FRM_BRIB","IC_FRM_BRIB"],"Units":["PT","PT"],"Value":[15.08182,14.44999]},"edges":{"From":["Series"],"To":["Units"]}}

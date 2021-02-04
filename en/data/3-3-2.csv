@@ -1,20 +1,20 @@
-Year,SDG Series,Unit of measure,Value
-2000,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2001,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2002,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2003,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2004,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2005,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2006,Tuberculosis incidence [3.3.2],"Per 100,000 population",164
-2007,Tuberculosis incidence [3.3.2],"Per 100,000 population",164
-2008,Tuberculosis incidence [3.3.2],"Per 100,000 population",164
-2009,Tuberculosis incidence [3.3.2],"Per 100,000 population",164
-2010,Tuberculosis incidence [3.3.2],"Per 100,000 population",163
-2011,Tuberculosis incidence [3.3.2],"Per 100,000 population",162
-2012,Tuberculosis incidence [3.3.2],"Per 100,000 population",161
-2013,Tuberculosis incidence [3.3.2],"Per 100,000 population",159
-2014,Tuberculosis incidence [3.3.2],"Per 100,000 population",158
-2015,Tuberculosis incidence [3.3.2],"Per 100,000 population",156
-2016,Tuberculosis incidence [3.3.2],"Per 100,000 population",154
-2017,Tuberculosis incidence [3.3.2],"Per 100,000 population",152
-2018,Tuberculosis incidence [3.3.2],"Per 100,000 population",151
+Year,Series,Units,Value
+2000,SH_TBS_INCD,PER_100000_POP,163
+2001,SH_TBS_INCD,PER_100000_POP,163
+2002,SH_TBS_INCD,PER_100000_POP,163
+2003,SH_TBS_INCD,PER_100000_POP,163
+2004,SH_TBS_INCD,PER_100000_POP,163
+2005,SH_TBS_INCD,PER_100000_POP,163
+2006,SH_TBS_INCD,PER_100000_POP,164
+2007,SH_TBS_INCD,PER_100000_POP,164
+2008,SH_TBS_INCD,PER_100000_POP,164
+2009,SH_TBS_INCD,PER_100000_POP,164
+2010,SH_TBS_INCD,PER_100000_POP,163
+2011,SH_TBS_INCD,PER_100000_POP,162
+2012,SH_TBS_INCD,PER_100000_POP,161
+2013,SH_TBS_INCD,PER_100000_POP,159
+2014,SH_TBS_INCD,PER_100000_POP,158
+2015,SH_TBS_INCD,PER_100000_POP,156
+2016,SH_TBS_INCD,PER_100000_POP,154
+2017,SH_TBS_INCD,PER_100000_POP,152
+2018,SH_TBS_INCD,PER_100000_POP,151

@@ -1,65 +1,164 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"SEX, AGE",2
-#1-2-1,URBANISATION,1
-#1-2-2,AGE,1
-#1-3-1,INCOME_WEALTH_QUANTILE,1
-#1-4-1,URBANISATION,1
-#10-2-1,INCOME_WEALTH_QUANTILE,1
-#10-6-1,COMPOSITE_BREAKDOWN,1
-#10-7-2,COMPOSITE_BREAKDOWN,1
-#10-a-1,PRODUCT,1
-#11-6-1,"CUST_BREAKDOWN, CUST_BREAKDOWN_LB",2
-#11-6-2,URBANISATION,1
-#15-4-2,COMPOSITE_BREAKDOWN,1
-#15-9-1,COMPOSITE_BREAKDOWN,1
-#16-2-1,AGE,1
-#16-2-2,"SEX, AGE",2
-#16-2-3,"SEX, AGE",2
-#16-7-1,"SEX, AGE, COMPOSITE_BREAKDOWN",3
-#16-8-1,COMPOSITE_BREAKDOWN,1
-#16-9-1,AGE,1
-#17-10-1,PRODUCT,1
-#17-12-1,PRODUCT,1
-#17-6-1,COMPOSITE_BREAKDOWN,1
-#2-1-2,"SEX, AGE",2
-#2-2-1,AGE,1
-#2-2-2,AGE,1
-#2-c-1,PRODUCT,1
-#3-2-1,"SEX, AGE",2
-#3-2-2,AGE,1
-#3-3-1,"SEX, AGE",2
-#3-3-4,AGE,1
-#3-4-1,"SEX, AGE, COMPOSITE_BREAKDOWN",3
-#3-4-2,SEX,1
-#3-5-1,"SEX, AGE",2
-#3-5-2,"SEX, AGE",2
-#3-7-1,"SEX, AGE",2
-#3-7-2,"SEX, AGE",2
-#3-9-3,SEX,1
-#3-a-1,"SEX, AGE",2
-#3-c-1,"SEX, OCCUPATION",2
-#3-d-1,COMPOSITE_BREAKDOWN,1
-#4-1-2,"SEX, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE",4
-#4-2-1,AGE,1
-#4-2-2,SEX,1
-#4-3-1,SEX,1
-#4-5-1,"SEX, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE",4
-#4-a-1,EDUCATION_LEV,1
-#4-c-1,"SEX, EDUCATION_LEV",2
-#5-2-1,"SEX, AGE",2
-#5-3-1,"SEX, AGE",2
-#5-5-1,SEX,1
-#5-5-2,SEX,1
-#5-6-1,"SEX, AGE",2
-#6-1-1,URBANISATION,1
-#6-2-1,URBANISATION,1
-#6-b-1,URBANISATION,1
-#7-1-1,URBANISATION,1
-#8-10-1,AGE,1
-#8-10-2,"SEX, AGE",2
-#8-3-1,"SEX, ACTIVITY",2
-#8-4-2,PRODUCT,1
-#8-5-2,"SEX, AGE",2
-#8-6-1,"SEX, AGE",2
-#8-7-1,"SEX, AGE",2
-#9-1-2,COMPOSITE_BREAKDOWN,1
+#1-1-1,"Series, Units, SEX, AGE",4
+#1-2-1,"Series, Units, URBANISATION",3
+#1-2-2,"Series, Units, AGE",3
+#1-3-1,"Series, Units, INCOME_WEALTH_QUANTILE",3
+#1-4-1,"Series, Units, URBANISATION",3
+#1-5-1,"Series, Units",2
+#1-5-2,"Series, Units",2
+#1-5-3,"Series, Units",2
+#1-5-4,"Series, Units",2
+#1-a-1,"Series, Units",2
+#1-a-2,"Series, Units",2
+#10-2-1,"Series, Units, INCOME_WEALTH_QUANTILE",3
+#10-4-1,"Series, Units",2
+#10-5-1,"Series, Units",2
+#10-6-1,"Series, Units, COMPOSITE_BREAKDOWN",3
+#10-7-2,"Series, Units, COMPOSITE_BREAKDOWN",3
+#10-7-3,"Series, Units",2
+#10-7-4,"Series, Units",2
+#10-a-1,"Series, PRODUCT, Units",3
+#10-b-1,"Series, Units",2
+#10-c-1,"Series, Units",2
+#11-1-1,"Series, Units",2
+#11-5-1,"Series, Units",2
+#11-5-2,"Series, Units",2
+#11-6-1,"Series, Units, CUST_BREAKDOWN, CUST_BREAKDOWN_LB",4
+#11-6-2,"Series, Units, URBANISATION",3
+#11-a-1,"Series, Units",2
+#11-b-1,"Series, Units",2
+#11-b-2,"Series, Units",2
+#12-4-1,"Series, Units",2
+#12-4-2,"Series, Units",2
+#12-a-1,"Series, Units",2
+#12-b-1,"Series, Units",2
+#13-1-1,"Series, Units",2
+#13-1-2,"Series, Units",2
+#13-1-3,"Series, Units",2
+#13-2-2,"Series, Units",2
+#14-b-1,"Series, Units",2
+#15-1-1,"Series, Units",2
+#15-1-2,"Series, Units",2
+#15-2-1,"Series, Units",2
+#15-4-1,"Series, Units",2
+#15-4-2,"Series, Units, COMPOSITE_BREAKDOWN",3
+#15-5-1,"Series, Units",2
+#15-6-1,"Series, Units",2
+#15-8-1,"Series, Units",2
+#15-9-1,"Series, Units, COMPOSITE_BREAKDOWN",3
+#15-a-1,"Series, Units",2
+#15-b-1,"Series, Units",2
+#16-10-2,"Series, Units",2
+#16-2-1,"Series, Units, AGE",3
+#16-2-2,"Series, Units, SEX, AGE",4
+#16-2-3,"Series, Units, SEX, AGE",4
+#16-5-2,"Series, Units",2
+#16-6-1,"Series, Units",2
+#16-7-1,"Series, Units, SEX, AGE, COMPOSITE_BREAKDOWN",5
+#16-8-1,"Series, Units, COMPOSITE_BREAKDOWN",3
+#16-9-1,"Series, Units, AGE",3
+#16-a-1,"Series, Units",2
+#17-1-1,"Series, Units",2
+#17-1-2,"Series, Units",2
+#17-10-1,"Series, PRODUCT, Units",3
+#17-12-1,"Series, PRODUCT, Units",3
+#17-15-1,"Series, Units",2
+#17-16-1,"Series, Units",2
+#17-17-1,"Series, Units",2
+#17-18-2,"Series, Units",2
+#17-18-3,"Series, Units",2
+#17-19-1,"Series, Units",2
+#17-19-2,"Series, Units",2
+#17-3-1,"Series, Units",2
+#17-3-2,"Series, Units",2
+#17-4-1,"Series, Units",2
+#17-6-1,"Series, Units, COMPOSITE_BREAKDOWN",3
+#17-8-1,"Series, Units",2
+#17-9-1,"Series, Units",2
+#2-1-1,"Series, Units",2
+#2-1-2,"Series, Units, SEX, AGE",4
+#2-2-1,"Series, Units, AGE",3
+#2-2-2,"Series, Units, AGE",3
+#2-3-2,"Series, Units",2
+#2-5-1,"Series, Units",2
+#2-a-1,"Series, Units",2
+#2-a-2,"Series, Units",2
+#2-c-1,"Series, PRODUCT, Units",3
+#3-1-1,"Series, Units",2
+#3-1-2,"Series, Units",2
+#3-2-1,"Series, Units, SEX, AGE",4
+#3-2-2,"Series, Units, AGE",3
+#3-3-1,"Series, Units, SEX, AGE",4
+#3-3-2,"Series, Units",2
+#3-3-3,"Series, Units",2
+#3-3-4,"Series, Units, AGE",3
+#3-3-5,"Series, Units",2
+#3-4-1,"Series, Units, SEX, AGE, COMPOSITE_BREAKDOWN",5
+#3-4-2,"Series, Units, SEX",3
+#3-5-1,"Series, Units, SEX, AGE",4
+#3-5-2,"Series, Units, SEX, AGE",4
+#3-6-1,"Series, Units",2
+#3-7-1,"Series, Units, SEX, AGE",4
+#3-7-2,"Series, Units, SEX, AGE",4
+#3-8-1,"Series, Units",2
+#3-8-2,"Series, Units",2
+#3-9-1,"Series, Units",2
+#3-9-2,"Series, Units",2
+#3-9-3,"Series, Units, SEX",3
+#3-a-1,"Series, Units, SEX, AGE",4
+#3-b-1,"Series, Units",2
+#3-b-2,"Series, Units",2
+#3-c-1,"Series, Units, SEX, OCCUPATION",4
+#3-d-1,"Series, Units, COMPOSITE_BREAKDOWN",3
+#3-d-2,"Series, Units",2
+#4-1-2,"Series, Units, SEX, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE",6
+#4-2-1,"Series, Units, AGE",3
+#4-2-2,"Series, Units, SEX",3
+#4-3-1,"Series, Units, SEX",3
+#4-5-1,"Series, Units, SEX, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE",6
+#4-a-1,"Series, Units, EDUCATION_LEV",3
+#4-b-1,"Series, Units",2
+#4-c-1,"Series, Units, SEX, EDUCATION_LEV",4
+#5-2-1,"Series, Units, SEX, AGE",4
+#5-3-1,"Series, Units, SEX, AGE",4
+#5-5-1,"Series, Units, SEX",3
+#5-5-2,"Series, Units, SEX",3
+#5-6-1,"Series, Units, SEX, AGE",4
+#5-6-2,"Series, Units",2
+#5-c-1,"Series, Units",2
+#6-1-1,"Series, Units, URBANISATION",3
+#6-2-1,"Series, Units, URBANISATION",3
+#6-4-1,"Series, Units",2
+#6-4-2,"Series, Units",2
+#6-5-1,"Series, Units",2
+#6-6-1,"Series, Units",2
+#6-a-1,"Series, Units",2
+#6-b-1,"Series, Units, URBANISATION",3
+#7-1-1,"Series, Units, URBANISATION",3
+#7-1-2,"Series, Units",2
+#7-2-1,"Series, Units",2
+#7-3-1,"Series, Units",2
+#7-a-1,"Series, Units",2
+#7-b-1,"Series, Units",2
+#8-1-1,"Series, Units",2
+#8-10-1,"Series, Units, AGE",3
+#8-10-2,"Series, Units, SEX, AGE",4
+#8-2-1,"Series, Units",2
+#8-3-1,"Series, Units, SEX, ACTIVITY",4
+#8-4-2,"Series, PRODUCT, Units",3
+#8-5-2,"Series, Units, SEX, AGE",4
+#8-6-1,"Series, Units, SEX, AGE",4
+#8-7-1,"Series, Units, SEX, AGE",4
+#8-a-1,"Series, Units",2
+#9-1-1,"Series, Units",2
+#9-1-2,"Series, Units, COMPOSITE_BREAKDOWN",3
+#9-2-1,"Series, Units",2
+#9-2-2,"Series, Units",2
+#9-3-1,"Series, Units",2
+#9-3-2,"Series, Units",2
+#9-4-1,"Series, Units",2
+#9-5-1,"Series, Units",2
+#9-5-2,"Series, Units",2
+#9-a-1,"Series, Units",2
+#9-b-1,"Series, Units",2
+#9-c-1,"Series, Units",2

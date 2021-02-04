@@ -1,4 +1,4 @@
-Year,SDG Series,Unit of measure,Value
-2001,Proportion of small-scale industries in total industry value added [9.3.1],Percent,5.44
-2006,Proportion of small-scale industries in total industry value added [9.3.1],Percent,7.41
-2011,Proportion of small-scale industries in total industry value added [9.3.1],Percent,9.51
+Year,Series,Units,Value
+2001,NV_IND_SSIS,PT,5.44
+2006,NV_IND_SSIS,PT,7.41
+2011,NV_IND_SSIS,PT,9.51

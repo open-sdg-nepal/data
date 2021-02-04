@@ -1,1 +1,1 @@
-{"data":{"Year":["2009","2013"],"SDG Series":["Proportion of small-scale industries with a loan or line of credit [9.3.2]","Proportion of small-scale industries with a loan or line of credit [9.3.2]"],"Unit of measure":["Percent","Percent"],"Value":[46.14,30.72]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}
+{"data":{"Year":["2009","2013"],"Series":["FC_ACC_SSID","FC_ACC_SSID"],"Units":["PT","PT"],"Value":[46.14,30.72]},"edges":{"From":["Series"],"To":["Units"]}}

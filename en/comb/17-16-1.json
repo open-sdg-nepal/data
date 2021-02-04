@@ -1,1 +1,1 @@
-{"data":{"Year":["2018"],"SDG Series":["Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals (1 = YES; 0 = NO) [17.16.1]"],"Unit of measure":["Boolean or binary measure"],"Value":[1]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}
+{"data":{"Year":["2018"],"Series":["SG_PLN_MSTKSDG"],"Units":["BOOL"],"Value":[1]},"edges":{"From":["Series"],"To":["Units"]}}

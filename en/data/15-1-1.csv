@@ -1,18 +1,18 @@
-Year,SDG Series,Unit of measure,Value
-2000,Forest area as a proportion of total land area [15.1.1],Percent,40.3261946285316
-2010,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2015,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2016,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2017,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2018,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2019,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2020,Forest area as a proportion of total land area [15.1.1],Percent,41.5907220090687
-2000,Forest area (hectares) [15.1.1],Hectares,5780.76
-2010,Forest area (hectares) [15.1.1],Hectares,5962.03
-2015,Forest area (hectares) [15.1.1],Hectares,5962.03
-2016,Forest area (hectares) [15.1.1],Hectares,5962.03
-2017,Forest area (hectares) [15.1.1],Hectares,5962.03
-2018,Forest area (hectares) [15.1.1],Hectares,5962.03
-2019,Forest area (hectares) [15.1.1],Hectares,5962.03
-2020,Forest area (hectares) [15.1.1],Hectares,5962.03
-2015,Land area (hectares) [15.1.1],Hectares,14335.0
+Year,Series,Units,Value
+2000,AG_LND_FRST,PT,40.3261946285316
+2010,AG_LND_FRST,PT,41.5907220090687
+2015,AG_LND_FRST,PT,41.5907220090687
+2016,AG_LND_FRST,PT,41.5907220090687
+2017,AG_LND_FRST,PT,41.5907220090687
+2018,AG_LND_FRST,PT,41.5907220090687
+2019,AG_LND_FRST,PT,41.5907220090687
+2020,AG_LND_FRST,PT,41.5907220090687
+2000,AG_LND_FRSTN,HA,5780.76
+2010,AG_LND_FRSTN,HA,5962.03
+2015,AG_LND_FRSTN,HA,5962.03
+2016,AG_LND_FRSTN,HA,5962.03
+2017,AG_LND_FRSTN,HA,5962.03
+2018,AG_LND_FRSTN,HA,5962.03
+2019,AG_LND_FRSTN,HA,5962.03
+2020,AG_LND_FRSTN,HA,5962.03
+2015,AG_LND_TOTL,HA,14335.0

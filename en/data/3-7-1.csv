@@ -1,6 +1,6 @@
-Year,SDG Series,Sex,Age,Unit of measure,Value
-2001,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Female,15 to 49 years old,Percent,52.8
-2006,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Female,15 to 49 years old,Percent,60.9
-2011,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Female,15 to 49 years old,Percent,56.2
-2014,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Female,15 to 49 years old,Percent,62.9
-2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Female,15 to 49 years old,Percent,56.0
+Year,Series,Sex,Age,Units,Value
+2001,SH_FPL_MTMM,Female,15 to 49 years old,PT,52.8
+2006,SH_FPL_MTMM,Female,15 to 49 years old,PT,60.9
+2011,SH_FPL_MTMM,Female,15 to 49 years old,PT,56.2
+2014,SH_FPL_MTMM,Female,15 to 49 years old,PT,62.9
+2017,SH_FPL_MTMM,Female,15 to 49 years old,PT,56.0

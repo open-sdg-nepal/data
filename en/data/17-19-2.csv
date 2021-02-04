@@ -1,10 +1,10 @@
-Year,SDG Series,Unit of measure,Value
-2015,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2016,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2017,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2018,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2011,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],Number,1
-2015,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2016,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2017,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
-2018,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],Number,0
+Year,Series,Units,Value
+2015,SG_REG_BRTH90N,NUMBER,0
+2016,SG_REG_BRTH90N,NUMBER,0
+2017,SG_REG_BRTH90N,NUMBER,0
+2018,SG_REG_BRTH90N,NUMBER,0
+2011,SG_REG_CENSUSN,NUMBER,1
+2015,SG_REG_DETH75N,NUMBER,0
+2016,SG_REG_DETH75N,NUMBER,0
+2017,SG_REG_DETH75N,NUMBER,0
+2018,SG_REG_DETH75N,NUMBER,0

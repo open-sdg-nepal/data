@@ -1,36 +1,36 @@
-Year,SDG Series,Unit of measure,Value
-2000,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2010,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2015,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2016,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2017,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2018,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2019,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2020,Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1],Tonnes per hectare,172.23
-2000,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,0.0
-2005,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,14.145
-2010,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,14.145
-2015,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,0.0
-2016,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,0.0
-2017,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,0.0
-2018,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,0.0
-2019,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],Hectares,12.282
-2010,Forest area net change rate (%) [15.2.1],Percent,0.31
-2015,Forest area net change rate (%) [15.2.1],Percent,0.0
-2020,Forest area net change rate (%) [15.2.1],Percent,0.0
-2000,Proportion of forest area with a long-term management plan [15.2.1],Percent,13.69
-2010,Proportion of forest area with a long-term management plan [15.2.1],Percent,20.12
-2015,Proportion of forest area with a long-term management plan [15.2.1],Percent,20.3
-2016,Proportion of forest area with a long-term management plan [15.2.1],Percent,20.3
-2017,Proportion of forest area with a long-term management plan [15.2.1],Percent,21.99
-2018,Proportion of forest area with a long-term management plan [15.2.1],Percent,21.99
-2019,Proportion of forest area with a long-term management plan [15.2.1],Percent,24.3
-2020,Proportion of forest area with a long-term management plan [15.2.1],Percent,24.23
-2000,Proportion of forest area within legally established protected areas [15.2.1],Percent,44.99
-2010,Proportion of forest area within legally established protected areas [15.2.1],Percent,56.46
-2015,Proportion of forest area within legally established protected areas [15.2.1],Percent,56.46
-2016,Proportion of forest area within legally established protected areas [15.2.1],Percent,56.46
-2017,Proportion of forest area within legally established protected areas [15.2.1],Percent,56.46
-2018,Proportion of forest area within legally established protected areas [15.2.1],Percent,57.73
-2019,Proportion of forest area within legally established protected areas [15.2.1],Percent,57.73
-2020,Proportion of forest area within legally established protected areas [15.2.1],Percent,57.73
+Year,Series,Units,Value
+2000,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2010,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2015,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2016,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2017,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2018,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2019,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2020,AG_LND_FRSTBIOPHA,T_PER_HA,172.23
+2000,AG_LND_FRSTCERT,HA,0.0
+2005,AG_LND_FRSTCERT,HA,14.145
+2010,AG_LND_FRSTCERT,HA,14.145
+2015,AG_LND_FRSTCERT,HA,0.0
+2016,AG_LND_FRSTCERT,HA,0.0
+2017,AG_LND_FRSTCERT,HA,0.0
+2018,AG_LND_FRSTCERT,HA,0.0
+2019,AG_LND_FRSTCERT,HA,12.282
+2010,AG_LND_FRSTCHG,PT,0.31
+2015,AG_LND_FRSTCHG,PT,0.0
+2020,AG_LND_FRSTCHG,PT,0.0
+2000,AG_LND_FRSTMGT,PT,13.69
+2010,AG_LND_FRSTMGT,PT,20.12
+2015,AG_LND_FRSTMGT,PT,20.3
+2016,AG_LND_FRSTMGT,PT,20.3
+2017,AG_LND_FRSTMGT,PT,21.99
+2018,AG_LND_FRSTMGT,PT,21.99
+2019,AG_LND_FRSTMGT,PT,24.3
+2020,AG_LND_FRSTMGT,PT,24.23
+2000,AG_LND_FRSTPRCT,PT,44.99
+2010,AG_LND_FRSTPRCT,PT,56.46
+2015,AG_LND_FRSTPRCT,PT,56.46
+2016,AG_LND_FRSTPRCT,PT,56.46
+2017,AG_LND_FRSTPRCT,PT,56.46
+2018,AG_LND_FRSTPRCT,PT,57.73
+2019,AG_LND_FRSTPRCT,PT,57.73
+2020,AG_LND_FRSTPRCT,PT,57.73

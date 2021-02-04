@@ -1,9 +1,9 @@
-Year,SDG Series,Sex,Age,Unit of measure,Value
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,15 to 19 years old,Percent,17.0
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,15 to 49 years old,Percent,11.2
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,20 to 24 years old,Percent,12.4
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,25 to 29 years old,Percent,12.0
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,30 to 34 years old,Percent,11.4
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,35 to 39 years old,Percent,11.0
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,40 to 44 years old,Percent,7.0
-2016,Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],Female,45 to 49 years old,Percent,9.8
+Year,Series,Sex,Age,Units,Value
+2016,VC_VAW_MARR,Female,15 to 19 years old,PT,17.0
+2016,VC_VAW_MARR,Female,15 to 49 years old,PT,11.2
+2016,VC_VAW_MARR,Female,20 to 24 years old,PT,12.4
+2016,VC_VAW_MARR,Female,25 to 29 years old,PT,12.0
+2016,VC_VAW_MARR,Female,30 to 34 years old,PT,11.4
+2016,VC_VAW_MARR,Female,35 to 39 years old,PT,11.0
+2016,VC_VAW_MARR,Female,40 to 44 years old,PT,7.0
+2016,VC_VAW_MARR,Female,45 to 49 years old,PT,9.8

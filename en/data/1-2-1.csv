@@ -1,4 +1,4 @@
-Year,SDG Series,Degree of urbanisation,Unit of measure,Value
-2010,Proportion of population living below the national poverty line [1.2.1],,Percent,25.2
-2010,Proportion of population living below the national poverty line [1.2.1],Rural,Percent,27.4
-2010,Proportion of population living below the national poverty line [1.2.1],Urban,Percent,15.5
+Year,Series,Degree of urbanisation,Units,Value
+2010,SI_POV_NAHC,,PT,25.2
+2010,SI_POV_NAHC,Rural,PT,27.4
+2010,SI_POV_NAHC,Urban,PT,15.5

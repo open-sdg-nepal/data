@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2016"],"SERIES":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"SEX":["F","F"],"AGE":["Y20T24","Y20T24"],"UNIT_MEASURE":["PT","PT"],"Value":[7.0,39.5]},"edges":{"From":["SEX"],"To":["AGE"]}}
+{"data":{"Year":["2016","2016"],"Series":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"SEX":["F","F"],"AGE":["Y20T24","Y20T24"],"Units":["PT","PT"],"Value":[7.0,39.5]},"edges":{"From":["Series","SEX","AGE"],"To":["SEX","AGE","Units"]}}

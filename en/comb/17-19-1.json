@@ -1,1 +1,1 @@
-{"data":{"Year":["2017"],"SDG Series":["Dollar value of all resources made available to strengthen statistical capacity in developing countries [17.19.1]"],"Unit of measure":["USD"],"Value":[2266612.2999999998]},"edges":{"From":["SDG Series"],"To":["Unit of measure"]}}
+{"data":{"Year":["2017"],"Series":["SG_STT_CAPTY"],"Units":["USD"],"Value":[2266612.2999999998]},"edges":{"From":["Series"],"To":["Units"]}}

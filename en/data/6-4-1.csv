@@ -1,13 +1,13 @@
-Year,SDG Series,Unit of measure,Value
-2006,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.38
-2007,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.42
-2008,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.5
-2009,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.56
-2010,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.62
-2011,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.68
-2012,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.76
-2013,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.82
-2014,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.92
-2015,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.98
-2016,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,1.98
-2017,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],United States dollars per cubic metre,2.13
+Year,Series,Units,Value
+2006,ER_H2O_WUEYST,USD_PER_M3,1.38
+2007,ER_H2O_WUEYST,USD_PER_M3,1.42
+2008,ER_H2O_WUEYST,USD_PER_M3,1.5
+2009,ER_H2O_WUEYST,USD_PER_M3,1.56
+2010,ER_H2O_WUEYST,USD_PER_M3,1.62
+2011,ER_H2O_WUEYST,USD_PER_M3,1.68
+2012,ER_H2O_WUEYST,USD_PER_M3,1.76
+2013,ER_H2O_WUEYST,USD_PER_M3,1.82
+2014,ER_H2O_WUEYST,USD_PER_M3,1.92
+2015,ER_H2O_WUEYST,USD_PER_M3,1.98
+2016,ER_H2O_WUEYST,USD_PER_M3,1.98
+2017,ER_H2O_WUEYST,USD_PER_M3,2.13

@@ -1,16 +1,16 @@
-Year,SDG Series,Sex,Age,Unit of measure,Value
-2007,Detected victims of human trafficking (number) [16.2.2],,,Number,147
-2008,Detected victims of human trafficking (number) [16.2.2],,,Number,145
-2009,Detected victims of human trafficking (number) [16.2.2],,,Number,197
-2010,Detected victims of human trafficking (number) [16.2.2],,,Number,193
-2011,Detected victims of human trafficking (number) [16.2.2],,,Number,141
-2012,Detected victims of human trafficking (number) [16.2.2],,,Number,271
-2013,Detected victims of human trafficking (number) [16.2.2],,,Number,237
-2014,Detected victims of human trafficking (number) [16.2.2],,,Number,266
-2016,Detected victims of human trafficking (number) [16.2.2],,,Number,350
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,Number,141
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,18 years old and over,Number,115
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,under 18 years old,Number,26
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,Number,98
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,18 years old and over,Number,56
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,under 18 years old,Number,42
+Year,Series,Sex,Age,Units,Value
+2007,VC_HTF_DETV,,,NUMBER,147
+2008,VC_HTF_DETV,,,NUMBER,145
+2009,VC_HTF_DETV,,,NUMBER,197
+2010,VC_HTF_DETV,,,NUMBER,193
+2011,VC_HTF_DETV,,,NUMBER,141
+2012,VC_HTF_DETV,,,NUMBER,271
+2013,VC_HTF_DETV,,,NUMBER,237
+2014,VC_HTF_DETV,,,NUMBER,266
+2016,VC_HTF_DETV,,,NUMBER,350
+2018,VC_HTF_DETVFL,Female,,NUMBER,141
+2018,VC_HTF_DETVFL,Female,18 years old and over,NUMBER,115
+2018,VC_HTF_DETVFL,Female,under 18 years old,NUMBER,26
+2018,VC_HTF_DETVFL,Male,,NUMBER,98
+2018,VC_HTF_DETVFL,Male,18 years old and over,NUMBER,56
+2018,VC_HTF_DETVFL,Male,under 18 years old,NUMBER,42

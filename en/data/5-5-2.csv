@@ -1,4 +1,4 @@
-Year,SDG Series,Sex,Unit of measure,Value
-2008,Proportion of women in managerial positions [5.5.2],Female,Percent,18.37
-2017,Proportion of women in managerial positions [5.5.2],Female,Percent,13.17
-2017,Proportion of women in senior and middle management positions [5.5.2],Female,Percent,13.9
+Year,Series,Sex,Units,Value
+2008,IC_GEN_MGTL,Female,PT,18.37
+2017,IC_GEN_MGTL,Female,PT,13.17
+2017,IC_GEN_MGTN,Female,PT,13.9
