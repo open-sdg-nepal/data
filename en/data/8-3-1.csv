@@ -1,1 +1,19 @@
-Year,Value
+Year,SDG Series,Sex,Economic activity,Unit of measure,Value
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Percent,99.65251
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Percent,80.81036
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,"Agriculture, forestry and fishing",Percent,99.96175
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,"Agriculture, forestry and fishing",Percent,92.45345
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Non-agriculture,Percent,98.88971
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Non-agriculture,Percent,77.622
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Female,,Percent,99.87675
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Female,,Percent,86.46877
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Female,"Agriculture, forestry and fishing",Percent,99.96736
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Female,"Agriculture, forestry and fishing",Percent,94.68054
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Female,Non-agriculture,Percent,99.42901
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Female,Non-agriculture,Percent,82.42536
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Male,,Percent,99.41107
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Male,,Percent,77.45089
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Male,"Agriculture, forestry and fishing",Percent,99.95311
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Male,"Agriculture, forestry and fishing",Percent,89.48003
+2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Male,Non-agriculture,Percent,98.65579
+2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",Male,Non-agriculture,Percent,75.38253

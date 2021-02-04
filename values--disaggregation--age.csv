@@ -1,10 +1,13 @@
 Value,Disaggregation combinations using this value,Number of indicators
+_U,10,1
+_X,1,1
 M0,2,1
 M36T59,1,1
 Y0,6,1
 Y0T14,1,1
 Y0T17,2,1
 Y0T4,14,5
+Y0T9,1,1
 Y15T19,2,2
 Y15T24,12,4
 Y15T49,9,4
@@ -18,7 +21,8 @@ Y35T39,1,1
 Y40T44,1,1
 Y45T49,1,1
 Y5T17,6,1
-Y_GE15,25,7
+Y_GE15,28,8
 Y_GE18,2,1
 Y_GE25,6,2
+Y_GE46,1,1
 Y_GE50,3,1

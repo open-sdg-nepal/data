@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":["2020","2017"],"SERIES":["ER_BDY_ABT2NP","ER_BDY_SEEA"],"COMPOSITE_BREAKDOWN":["ABT2_INSUFNT",null],"UNIT_MEASURE":["NUMBER","NUMBER"],"Value":[1,1]},"edges":{"From":["SERIES","UNIT_MEASURE"],"To":["UNIT_MEASURE","COMPOSITE_BREAKDOWN"]}}
