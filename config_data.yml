@@ -57,7 +57,6 @@ inputs:
       - DATA_LAST_UPDATE
       - FREQ
       - REPORTING_TYPE
-      - REF_AREA
       - TIME_DETAIL
       - OBS_STATUS
 
