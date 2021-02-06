@@ -1,1 +1,1 @@
-{"data":{"Year":["2008","2009","2010"],"Series":["GB_XPD_RSDV","GB_XPD_RSDV","GB_XPD_RSDV"],"Reference area":[null,null,null],"Units":["PT","PT","PT"],"Value":[0.05439,0.25924,0.3022]},"edges":{"From":["Series"],"To":["Units"]}}
+{"data":{"Year":["2008","2009","2010"],"Series":["GB_XPD_RSDV","GB_XPD_RSDV","GB_XPD_RSDV"],"Reference area":[null,null,null],"Units":["PT","PT","PT"],"Value":[0.05439,0.25924,0.3022]},"edges":[]}

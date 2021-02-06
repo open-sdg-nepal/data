@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2016"],"Series":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"Reference area":[null,null],"Sex":["Female","Female"],"Age":["20 to 24 years old","20 to 24 years old"],"Units":["PT","PT"],"Value":[7.0,39.5]},"edges":{"From":["Series","Sex","Age"],"To":["Sex","Age","Units"]}}
+{"data":{"Year":["2016","2016"],"Series":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"Reference area":[null,null],"Sex":["Female","Female"],"Age":["20 to 24 years old","20 to 24 years old"],"Units":["PT","PT"],"Value":[7.0,39.5]},"edges":{"From":["Sex"],"To":["Age"]}}

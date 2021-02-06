@@ -1,6 +1,4 @@
 From,To
-Series,Education level
-Units,Sex
-Units,Degree of urbanisation
-Units,Income or wealth quantile
-Education level,Units
+Education level,Sex
+Education level,Degree of urbanisation
+Education level,Income or wealth quantile

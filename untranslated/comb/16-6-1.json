@@ -1,1 +1,1 @@
-{"data":{"Year":["2011","2012","2013"],"Series":["GF_XPD_GBPC","GF_XPD_GBPC","GF_XPD_GBPC"],"REF_AREA":[null,null,null],"Units":["PT","PT","PT"],"Value":[95.95,101.92,94.05]},"edges":{"From":["Series"],"To":["Units"]}}
+{"data":{"Year":["2011","2012","2013"],"Series":["GF_XPD_GBPC","GF_XPD_GBPC","GF_XPD_GBPC"],"REF_AREA":[null,null,null],"Units":["PT","PT","PT"],"Value":[95.95,101.92,94.05]},"edges":[]}

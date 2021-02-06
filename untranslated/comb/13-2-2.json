@@ -1,1 +1,1 @@
-{"data":{"Year":["2000"],"Series":["EN_ATM_GHGT_NAIP"],"REF_AREA":[null],"Units":["TCO2E"],"Value":[26.03133]},"edges":{"From":["Series"],"To":["Units"]}}
+{"data":{"Year":["2000"],"Series":["EN_ATM_GHGT_NAIP"],"REF_AREA":[null],"Units":["TCO2E"],"Value":[26.03133]},"edges":[]}

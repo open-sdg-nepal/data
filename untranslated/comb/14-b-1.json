@@ -1,1 +1,1 @@
-{"data":{"Year":["2018"],"Series":["ER_REG_SSFRAR"],"REF_AREA":[null],"Units":["NUMBER"],"Value":[1]},"edges":{"From":["Series"],"To":["Units"]}}
+{"data":{"Year":["2018"],"Series":["ER_REG_SSFRAR"],"REF_AREA":[null],"Units":["NUMBER"],"Value":[1]},"edges":[]}
