@@ -1,4 +1,4 @@
-Year,Series,Reference area,Sex,Units,Value
-2008,IC_GEN_MGTL,,Female,PT,18.37
-2017,IC_GEN_MGTL,,Female,PT,13.17
-2017,IC_GEN_MGTN,,Female,PT,13.9
+Year,Series,Sex,Units,Value
+2008,IC_GEN_MGTL,Female,PT,18.37
+2017,IC_GEN_MGTL,Female,PT,13.17
+2017,IC_GEN_MGTN,Female,PT,13.9

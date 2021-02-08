@@ -1,22 +1,22 @@
-Year,Series,Reference area,Sex,Age,Units,Value
-1995,SI_POV_DAY1,,,,PT,66.0
-2003,SI_POV_DAY1,,,,PT,50.0
-2010,SI_POV_DAY1,,,,PT,15.0
-2003,SI_POV_EMP1,,,15 years old and over,PT,41.2
-2010,SI_POV_EMP1,,,15 years old and over,PT,12.6
-2003,SI_POV_EMP1,,,25 years old and over,PT,41.1
-2010,SI_POV_EMP1,,,25 years old and over,PT,12.7
-2003,SI_POV_EMP1,,,15 to 24 years old,PT,41.3
-2010,SI_POV_EMP1,,,15 to 24 years old,PT,12.5
-2003,SI_POV_EMP1,,Female,15 years old and over,PT,40.9
-2010,SI_POV_EMP1,,Female,15 years old and over,PT,12.9
-2003,SI_POV_EMP1,,Female,25 years old and over,PT,40.4
-2010,SI_POV_EMP1,,Female,25 years old and over,PT,12.3
-2003,SI_POV_EMP1,,Female,15 to 24 years old,PT,41.9
-2010,SI_POV_EMP1,,Female,15 to 24 years old,PT,14.1
-2003,SI_POV_EMP1,,Male,15 years old and over,PT,41.5
-2010,SI_POV_EMP1,,Male,15 years old and over,PT,12.4
-2003,SI_POV_EMP1,,Male,25 years old and over,PT,41.8
-2010,SI_POV_EMP1,,Male,25 years old and over,PT,13.0
-2003,SI_POV_EMP1,,Male,15 to 24 years old,PT,40.7
-2010,SI_POV_EMP1,,Male,15 to 24 years old,PT,10.8
+Year,Series,Sex,Age,Units,Value
+1995,SI_POV_DAY1,,,PT,66.0
+2003,SI_POV_DAY1,,,PT,50.0
+2010,SI_POV_DAY1,,,PT,15.0
+2003,SI_POV_EMP1,,15 years old and over,PT,41.2
+2010,SI_POV_EMP1,,15 years old and over,PT,12.6
+2003,SI_POV_EMP1,,25 years old and over,PT,41.1
+2010,SI_POV_EMP1,,25 years old and over,PT,12.7
+2003,SI_POV_EMP1,,15 to 24 years old,PT,41.3
+2010,SI_POV_EMP1,,15 to 24 years old,PT,12.5
+2003,SI_POV_EMP1,Female,15 years old and over,PT,40.9
+2010,SI_POV_EMP1,Female,15 years old and over,PT,12.9
+2003,SI_POV_EMP1,Female,25 years old and over,PT,40.4
+2010,SI_POV_EMP1,Female,25 years old and over,PT,12.3
+2003,SI_POV_EMP1,Female,15 to 24 years old,PT,41.9
+2010,SI_POV_EMP1,Female,15 to 24 years old,PT,14.1
+2003,SI_POV_EMP1,Male,15 years old and over,PT,41.5
+2010,SI_POV_EMP1,Male,15 years old and over,PT,12.4
+2003,SI_POV_EMP1,Male,25 years old and over,PT,41.8
+2010,SI_POV_EMP1,Male,25 years old and over,PT,13.0
+2003,SI_POV_EMP1,Male,15 to 24 years old,PT,40.7
+2010,SI_POV_EMP1,Male,15 to 24 years old,PT,10.8

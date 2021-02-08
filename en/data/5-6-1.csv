@@ -1,9 +1,9 @@
-Year,Series,Reference area,Sex,Age,Units,Value
-2011,SH_FPL_INFM,,Female,15 to 49 years old,PT,59.5
-2016,SH_FPL_INFM,,Female,15 to 49 years old,PT,47.7
-2011,SH_FPL_INFMCU,,Female,15 to 49 years old,PT,87.4
-2016,SH_FPL_INFMCU,,Female,15 to 49 years old,PT,85.2
-2011,SH_FPL_INFMRH,,Female,15 to 49 years old,PT,69.8
-2016,SH_FPL_INFMRH,,Female,15 to 49 years old,PT,59.1
-2011,SH_FPL_INFMSR,,Female,15 to 49 years old,PT,94.3
-2016,SH_FPL_INFMSR,,Female,15 to 49 years old,PT,91.4
+Year,Series,Sex,Age,Units,Value
+2011,SH_FPL_INFM,Female,15 to 49 years old,PT,59.5
+2016,SH_FPL_INFM,Female,15 to 49 years old,PT,47.7
+2011,SH_FPL_INFMCU,Female,15 to 49 years old,PT,87.4
+2016,SH_FPL_INFMCU,Female,15 to 49 years old,PT,85.2
+2011,SH_FPL_INFMRH,Female,15 to 49 years old,PT,69.8
+2016,SH_FPL_INFMRH,Female,15 to 49 years old,PT,59.1
+2011,SH_FPL_INFMSR,Female,15 to 49 years old,PT,94.3
+2016,SH_FPL_INFMSR,Female,15 to 49 years old,PT,91.4

@@ -1,1 +1,1 @@
-{"data":{"Year":["1984","1995","2003","2010"],"Series":["SI_POV_50MI","SI_POV_50MI","SI_POV_50MI","SI_POV_50MI"],"Reference area":[null,null,null,null],"Income or wealth quantile":["Bottom 50%","Bottom 50%","Bottom 50%","Bottom 50%"],"Units":["PT","PT","PT","PT"],"Value":[6,9,10,7]},"edges":[]}
+{"data":{"Year":["1984","1995","2003","2010"],"Series":["SI_POV_50MI","SI_POV_50MI","SI_POV_50MI","SI_POV_50MI"],"Income or wealth quantile":["Bottom 50%","Bottom 50%","Bottom 50%","Bottom 50%"],"Units":["PT","PT","PT","PT"],"Value":[6,9,10,7]},"edges":[]}

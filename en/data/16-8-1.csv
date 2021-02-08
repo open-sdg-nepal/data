@@ -1,97 +1,97 @@
-Year,Series,Reference area,Composite breakdown,Units,Value
-2000,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.69492
-2005,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.5625
-2010,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.49254
-2015,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.49254
-2016,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.493
-2017,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.493
-2018,SG_INT_MBRDEV,,International Organisation: Asian Development Bank,PT,1.493
-2015,SG_INT_MBRDEV,,International Organisation: UN Economic and Social Council,PT,1.85185
-2000,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.54945
-2005,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.54348
-2010,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.53476
-2015,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.53191
-2016,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.53191
-2017,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.5291
-2018,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.5291
-2019,SG_INT_MBRDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.529
-2000,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.57471
-2005,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.5618
-2010,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.54945
-2015,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.54348
-2016,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.54348
-2017,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.54348
-2018,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.54348
-2019,SG_INT_MBRDEV,,International Organisation: International Finance Corporation,PT,0.543
-2000,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.5618
-2005,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.55249
-2010,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.54945
-2015,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.53191
-2016,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.53191
-2017,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.5291
-2018,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.5291
-2019,SG_INT_MBRDEV,,International Organisation: International Monetary Fund,PT,0.529
-2000,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.5291
-2005,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.52356
-2010,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.52083
-2015,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.51813
-2016,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.51813
-2017,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.51813
-2018,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.51813
-2019,SG_INT_MBRDEV,,International Organisation: UN General Assembly,PT,0.518
-2000,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.0
-2005,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.67114
-2010,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.65359
-2015,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.625
-2016,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.61728
-2017,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.60976
-2018,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.60976
-2019,SG_INT_MBRDEV,,International Organisation: World Trade Organisation,PT,0.61
-2000,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.459
-2005,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.431
-2010,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.432
-2015,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.416
-2016,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.416
-2017,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.416
-2018,SG_INT_VRTDEV,,International Organisation: Asian Development Bank,PT,0.41585
-2015,SG_INT_VRTDEV,,International Organisation: UN Economic and Social Council,PT,1.85185
-2000,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.07567
-2005,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.07525
-2010,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.07513
-2015,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.07314
-2016,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.07
-2017,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.08889
-2018,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.08763
-2019,SG_INT_VRTDEV,,International Organisation: International Bank for Reconstruction and Development,PT,0.08656
-2000,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.04465
-2005,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.04451
-2010,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.04439
-2015,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.0605
-2016,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.0605
-2017,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.0605
-2018,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.06043
-2019,SG_INT_VRTDEV,,International Organisation: International Finance Corporation,PT,0.05985
-2000,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.04498
-2005,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.04427
-2010,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.04348
-2015,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.05757
-2016,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.061
-2017,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.06029
-2018,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.0603
-2019,SG_INT_VRTDEV,,International Organisation: International Monetary Fund,PT,0.06028
-2000,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.5291
-2005,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.52356
-2010,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.52083
-2015,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.51813
-2016,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.51813
-2017,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.51813
-2018,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.51813
-2019,SG_INT_VRTDEV,,International Organisation: UN General Assembly,PT,0.51813
-2000,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.0
-2005,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.67114
-2010,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.65359
-2015,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.625
-2016,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.61728
-2017,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.60976
-2018,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.60976
-2019,SG_INT_VRTDEV,,International Organisation: World Trade Organisation,PT,0.60976
+Year,Series,Composite breakdown,Units,Value
+2000,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.69492
+2005,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.5625
+2010,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.49254
+2015,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.49254
+2016,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.493
+2017,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.493
+2018,SG_INT_MBRDEV,International Organisation: Asian Development Bank,PT,1.493
+2015,SG_INT_MBRDEV,International Organisation: UN Economic and Social Council,PT,1.85185
+2000,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.54945
+2005,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.54348
+2010,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.53476
+2015,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.53191
+2016,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.53191
+2017,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.5291
+2018,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.5291
+2019,SG_INT_MBRDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.529
+2000,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.57471
+2005,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.5618
+2010,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.54945
+2015,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.54348
+2016,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.54348
+2017,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.54348
+2018,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.54348
+2019,SG_INT_MBRDEV,International Organisation: International Finance Corporation,PT,0.543
+2000,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.5618
+2005,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.55249
+2010,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.54945
+2015,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.53191
+2016,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.53191
+2017,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.5291
+2018,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.5291
+2019,SG_INT_MBRDEV,International Organisation: International Monetary Fund,PT,0.529
+2000,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.5291
+2005,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.52356
+2010,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.52083
+2015,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.51813
+2016,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.51813
+2017,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.51813
+2018,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.51813
+2019,SG_INT_MBRDEV,International Organisation: UN General Assembly,PT,0.518
+2000,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.0
+2005,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.67114
+2010,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.65359
+2015,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.625
+2016,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.61728
+2017,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.60976
+2018,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.60976
+2019,SG_INT_MBRDEV,International Organisation: World Trade Organisation,PT,0.61
+2000,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.459
+2005,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.431
+2010,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.432
+2015,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.416
+2016,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.416
+2017,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.416
+2018,SG_INT_VRTDEV,International Organisation: Asian Development Bank,PT,0.41585
+2015,SG_INT_VRTDEV,International Organisation: UN Economic and Social Council,PT,1.85185
+2000,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.07567
+2005,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.07525
+2010,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.07513
+2015,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.07314
+2016,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.07
+2017,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.08889
+2018,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.08763
+2019,SG_INT_VRTDEV,International Organisation: International Bank for Reconstruction and Development,PT,0.08656
+2000,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.04465
+2005,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.04451
+2010,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.04439
+2015,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.0605
+2016,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.0605
+2017,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.0605
+2018,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.06043
+2019,SG_INT_VRTDEV,International Organisation: International Finance Corporation,PT,0.05985
+2000,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.04498
+2005,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.04427
+2010,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.04348
+2015,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.05757
+2016,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.061
+2017,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.06029
+2018,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.0603
+2019,SG_INT_VRTDEV,International Organisation: International Monetary Fund,PT,0.06028
+2000,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.5291
+2005,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.52356
+2010,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.52083
+2015,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.51813
+2016,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.51813
+2017,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.51813
+2018,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.51813
+2019,SG_INT_VRTDEV,International Organisation: UN General Assembly,PT,0.51813
+2000,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.0
+2005,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.67114
+2010,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.65359
+2015,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.625
+2016,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.61728
+2017,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.60976
+2018,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.60976
+2019,SG_INT_VRTDEV,International Organisation: World Trade Organisation,PT,0.60976

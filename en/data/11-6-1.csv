@@ -1,3 +1,3 @@
-Year,Series,Reference area,Custom Breakdown,Units,Label for custom breakdown,Value
-2003,EN_REF_WASCOL,,Custom code 01,PT,Kathmandu,94
-2009,EN_REF_WASCOL,,Custom code 02,PT,Ghorai,83
+Year,Series,Custom Breakdown,Units,Label for custom breakdown,Value
+2003,EN_REF_WASCOL,Custom code 01,PT,Kathmandu,94
+2009,EN_REF_WASCOL,Custom code 02,PT,Ghorai,83

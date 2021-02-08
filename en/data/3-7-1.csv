@@ -1,6 +1,6 @@
-Year,Series,Reference area,Sex,Age,Units,Value
-2001,SH_FPL_MTMM,,Female,15 to 49 years old,PT,52.8
-2006,SH_FPL_MTMM,,Female,15 to 49 years old,PT,60.9
-2011,SH_FPL_MTMM,,Female,15 to 49 years old,PT,56.2
-2014,SH_FPL_MTMM,,Female,15 to 49 years old,PT,62.9
-2017,SH_FPL_MTMM,,Female,15 to 49 years old,PT,56.0
+Year,Series,Sex,Age,Units,Value
+2001,SH_FPL_MTMM,Female,15 to 49 years old,PT,52.8
+2006,SH_FPL_MTMM,Female,15 to 49 years old,PT,60.9
+2011,SH_FPL_MTMM,Female,15 to 49 years old,PT,56.2
+2014,SH_FPL_MTMM,Female,15 to 49 years old,PT,62.9
+2017,SH_FPL_MTMM,Female,15 to 49 years old,PT,56.0
