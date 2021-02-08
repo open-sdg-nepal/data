@@ -4,28 +4,28 @@ Year,Series,Reference area,Composite breakdown,Units,Value
 2010,ER_MTN_GRNCVI,,,PT,94.09709
 2015,ER_MTN_GRNCVI,,,PT,94.05521
 2018,ER_MTN_GRNCVI,,,PT,94.0279
-2000,ER_MTN_GRNCVI,,Elevation > 4.500 meters,PT,70.80438
-2010,ER_MTN_GRNCVI,,Elevation > 4.500 meters,PT,70.8463
-2015,ER_MTN_GRNCVI,,Elevation > 4.500 meters,PT,70.85611
-2018,ER_MTN_GRNCVI,,Elevation > 4.500 meters,PT,70.73571
-2000,ER_MTN_GRNCVI,,Elevation 3.500–4.500 meters,PT,97.63495
-2010,ER_MTN_GRNCVI,,Elevation 3.500–4.500 meters,PT,97.73437
-2015,ER_MTN_GRNCVI,,Elevation 3.500–4.500 meters,PT,97.73577
-2018,ER_MTN_GRNCVI,,Elevation 3.500–4.500 meters,PT,97.70496
-2000,ER_MTN_GRNCVI,,Elevation 2.500–3.500 meters,PT,99.75098
-2010,ER_MTN_GRNCVI,,Elevation 2.500–3.500 meters,PT,99.75098
-2015,ER_MTN_GRNCVI,,Elevation 2.500–3.500 meters,PT,99.75098
-2018,ER_MTN_GRNCVI,,Elevation 2.500–3.500 meters,PT,99.75098
-2000,ER_MTN_GRNCVI,,Elevation 1.500–2.500 meters and slope > 2,PT,99.99097
-2010,ER_MTN_GRNCVI,,Elevation 1.500–2.500 meters and slope > 2,PT,99.99015
-2015,ER_MTN_GRNCVI,,Elevation 1.500–2.500 meters and slope > 2,PT,99.98605
-2018,ER_MTN_GRNCVI,,Elevation 1.500–2.500 meters and slope > 2,PT,99.98605
-2000,ER_MTN_GRNCVI,,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,PT,99.61838
-2010,ER_MTN_GRNCVI,,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,PT,99.29786
-2015,ER_MTN_GRNCVI,,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,PT,99.17244
-2018,ER_MTN_GRNCVI,,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,PT,99.17244
-2000,ER_MTN_GRNCVI,,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,PT,99.69925
-2010,ER_MTN_GRNCVI,,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,PT,99.61321
-2015,ER_MTN_GRNCVI,,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,PT,99.50034
-2018,ER_MTN_GRNCVI,,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,PT,99.49402
+2000,ER_MTN_GRNCVI,,ELV_1,PT,70.80438
+2010,ER_MTN_GRNCVI,,ELV_1,PT,70.8463
+2015,ER_MTN_GRNCVI,,ELV_1,PT,70.85611
+2018,ER_MTN_GRNCVI,,ELV_1,PT,70.73571
+2000,ER_MTN_GRNCVI,,ELV_2,PT,97.63495
+2010,ER_MTN_GRNCVI,,ELV_2,PT,97.73437
+2015,ER_MTN_GRNCVI,,ELV_2,PT,97.73577
+2018,ER_MTN_GRNCVI,,ELV_2,PT,97.70496
+2000,ER_MTN_GRNCVI,,ELV_3,PT,99.75098
+2010,ER_MTN_GRNCVI,,ELV_3,PT,99.75098
+2015,ER_MTN_GRNCVI,,ELV_3,PT,99.75098
+2018,ER_MTN_GRNCVI,,ELV_3,PT,99.75098
+2000,ER_MTN_GRNCVI,,ELV_4,PT,99.99097
+2010,ER_MTN_GRNCVI,,ELV_4,PT,99.99015
+2015,ER_MTN_GRNCVI,,ELV_4,PT,99.98605
+2018,ER_MTN_GRNCVI,,ELV_4,PT,99.98605
+2000,ER_MTN_GRNCVI,,ELV_5,PT,99.61838
+2010,ER_MTN_GRNCVI,,ELV_5,PT,99.29786
+2015,ER_MTN_GRNCVI,,ELV_5,PT,99.17244
+2018,ER_MTN_GRNCVI,,ELV_5,PT,99.17244
+2000,ER_MTN_GRNCVI,,ELV_6,PT,99.69925
+2010,ER_MTN_GRNCVI,,ELV_6,PT,99.61321
+2015,ER_MTN_GRNCVI,,ELV_6,PT,99.50034
+2018,ER_MTN_GRNCVI,,ELV_6,PT,99.49402
 2017,ER_MTN_TOTL,,,KM2,121.82354671875

@@ -10,7 +10,7 @@ Year,Series,Reference area,Sex,Age,Units,Value
 2016,VC_HTF_DETV,,,,NUMBER,350
 2018,VC_HTF_DETVFL,,Female,,NUMBER,141
 2018,VC_HTF_DETVFL,,Female,18 years old and over,NUMBER,115
-2018,VC_HTF_DETVFL,,Female,under 18 years old,NUMBER,26
+2018,VC_HTF_DETVFL,,Female,under 17 years old,NUMBER,26
 2018,VC_HTF_DETVFL,,Male,,NUMBER,98
 2018,VC_HTF_DETVFL,,Male,18 years old and over,NUMBER,56
-2018,VC_HTF_DETVFL,,Male,under 18 years old,NUMBER,42
+2018,VC_HTF_DETVFL,,Male,under 17 years old,NUMBER,42

@@ -1,7 +1,7 @@
 Year,Series,Reference area,Composite breakdown,Units,Value
 2017,IS_RDP_FRGVOL,,Mode of Transport: Air,T_KM,4566839.9023
 2018,IS_RDP_FRGVOL,,Mode of Transport: Air,T_KM,4655766.324
-2018,IS_RDP_FRGVOL,,Mode of transport: Inland waterway transport,T_KM,0.0
+2018,IS_RDP_FRGVOL,,MOT_IWW,T_KM,0.0
 2018,IS_RDP_FRGVOL,,Mode of Transport: Rail,T_KM,0.0
 2018,IS_RDP_FRGVOL,,Mode of Transport: Road,T_KM,6847541232.27044
 2017,IS_RDP_PFVOL,,Mode of Transport: Air,P_KM,1970060556.36
