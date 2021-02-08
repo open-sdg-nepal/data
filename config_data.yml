@@ -59,6 +59,7 @@ inputs:
       - REPORTING_TYPE
       - TIME_DETAIL
       - OBS_STATUS
+      - REF_AREA
 
 # Translations
 # ------------
