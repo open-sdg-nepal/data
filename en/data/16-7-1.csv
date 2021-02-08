@@ -1,15 +1,15 @@
-Year,Series,Sex,Age,Composite breakdown,Units,Value
-2020,SG_DMK_PARLCC_LC,Female,Unknown,Parliamentary committee: Defence,NUMBER,1.0
-2020,SG_DMK_PARLCC_LC,Female,Unknown,Parliamentary committee: Foreign Affairs,NUMBER,1.0
-2020,SG_DMK_PARLCC_LC,Female,Unknown,Parliamentary committee: Gender Equality,NUMBER,1.0
-2020,SG_DMK_PARLCC_LC,Male,Unknown,Parliamentary committee: Finance,NUMBER,1.0
-2020,SG_DMK_PARLCC_LC,Male,Unknown,Parliamentary committee: Human Rights,NUMBER,1.0
-2020,SG_DMK_PARLCC_UC,Unknown,Unknown,Parliamentary committee: Defence,NUMBER,1.0
-2020,SG_DMK_PARLCC_UC,Unknown,Unknown,Parliamentary committee: Finance,NUMBER,1.0
-2020,SG_DMK_PARLCC_UC,Unknown,Unknown,Parliamentary committee: Foreign Affairs,NUMBER,1.0
-2020,SG_DMK_PARLCC_UC,Unknown,Unknown,Parliamentary committee: Gender Equality,NUMBER,1.0
-2020,SG_DMK_PARLCC_UC,Unknown,Unknown,Parliamentary committee: Human Rights,NUMBER,1.0
-2020,SG_DMK_PARLMP_LC,,,,RO,0.558003911803813
-2020,SG_DMK_PARLMP_UC,,,,RO,0.647289703699755
-2020,SG_DMK_PARLSP_LC,Not available,Not available,,NUMBER,0.0
-2020,SG_DMK_PARLSP_UC,Male,46 years old and over,,NUMBER,1.0
+Year,Series,Reference area,Sex,Age,Composite breakdown,Units,Value
+2020,SG_DMK_PARLCC_LC,,Female,Unknown,Parliamentary committee: Defence,NUMBER,1.0
+2020,SG_DMK_PARLCC_LC,,Female,Unknown,Parliamentary committee: Foreign Affairs,NUMBER,1.0
+2020,SG_DMK_PARLCC_LC,,Female,Unknown,Parliamentary committee: Gender Equality,NUMBER,1.0
+2020,SG_DMK_PARLCC_LC,,Male,Unknown,Parliamentary committee: Finance,NUMBER,1.0
+2020,SG_DMK_PARLCC_LC,,Male,Unknown,Parliamentary committee: Human Rights,NUMBER,1.0
+2020,SG_DMK_PARLCC_UC,,Unknown,Unknown,Parliamentary committee: Defence,NUMBER,1.0
+2020,SG_DMK_PARLCC_UC,,Unknown,Unknown,Parliamentary committee: Finance,NUMBER,1.0
+2020,SG_DMK_PARLCC_UC,,Unknown,Unknown,Parliamentary committee: Foreign Affairs,NUMBER,1.0
+2020,SG_DMK_PARLCC_UC,,Unknown,Unknown,Parliamentary committee: Gender Equality,NUMBER,1.0
+2020,SG_DMK_PARLCC_UC,,Unknown,Unknown,Parliamentary committee: Human Rights,NUMBER,1.0
+2020,SG_DMK_PARLMP_LC,,,,,RO,0.558003911803813
+2020,SG_DMK_PARLMP_UC,,,,,RO,0.647289703699755
+2020,SG_DMK_PARLSP_LC,,Not available,Not available,,NUMBER,0.0
+2020,SG_DMK_PARLSP_UC,,Male,46 years old and over,,NUMBER,1.0

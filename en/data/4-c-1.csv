@@ -1,164 +1,164 @@
-Year,Series,Sex,Education level,Units,Value
-2008,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,58.20877
-2010,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,65.07927
-2011,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,69.13699
-2013,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,79.76927
-2014,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,80.19325
-2015,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,81.87657
-2016,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,90.47581
-2017,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,88.70498
-2019,SE_TRA_GRDL,,Secondary education (lower and upper secondary education),PT,83.25529
-2010,SE_TRA_GRDL,,Pre-primary education,PT,81.54873
-2011,SE_TRA_GRDL,,Pre-primary education,PT,83.69693
-2012,SE_TRA_GRDL,,Pre-primary education,PT,84.65531
-2013,SE_TRA_GRDL,,Pre-primary education,PT,86.70061
-2014,SE_TRA_GRDL,,Pre-primary education,PT,86.8742
-2015,SE_TRA_GRDL,,Pre-primary education,PT,87.51005
-2016,SE_TRA_GRDL,,Pre-primary education,PT,88.44667
-2017,SE_TRA_GRDL,,Pre-primary education,PT,88.67411
-2019,SE_TRA_GRDL,,Pre-primary education,PT,83.38707
-2001,SE_TRA_GRDL,,Primary education,PT,15.37102
-2002,SE_TRA_GRDL,,Primary education,PT,14.68151
-2003,SE_TRA_GRDL,,Primary education,PT,16.22721
-2004,SE_TRA_GRDL,,Primary education,PT,17.38608
-2005,SE_TRA_GRDL,,Primary education,PT,30.51447
-2007,SE_TRA_GRDL,,Primary education,PT,61.36031
-2008,SE_TRA_GRDL,,Primary education,PT,66.43616
-2010,SE_TRA_GRDL,,Primary education,PT,73.6609
-2011,SE_TRA_GRDL,,Primary education,PT,80.72852
-2012,SE_TRA_GRDL,,Primary education,PT,92.55903
-2013,SE_TRA_GRDL,,Primary education,PT,92.18524
-2014,SE_TRA_GRDL,,Primary education,PT,93.58152
-2015,SE_TRA_GRDL,,Primary education,PT,94.42307
-2016,SE_TRA_GRDL,,Primary education,PT,97.01081
-2017,SE_TRA_GRDL,,Primary education,PT,97.27852
-2019,SE_TRA_GRDL,,Primary education,PT,97.29106
-2000,SE_TRA_GRDL,,Lower secondary education,PT,32.64496
-2002,SE_TRA_GRDL,,Lower secondary education,PT,27.8769
-2003,SE_TRA_GRDL,,Lower secondary education,PT,25.79545
-2007,SE_TRA_GRDL,,Lower secondary education,PT,46.44517
-2008,SE_TRA_GRDL,,Lower secondary education,PT,52.34563
-2010,SE_TRA_GRDL,,Lower secondary education,PT,57.18224
-2011,SE_TRA_GRDL,,Lower secondary education,PT,63.57534
-2012,SE_TRA_GRDL,,Lower secondary education,PT,77.28054
-2013,SE_TRA_GRDL,,Lower secondary education,PT,79.4082
-2014,SE_TRA_GRDL,,Lower secondary education,PT,79.90049
-2015,SE_TRA_GRDL,,Lower secondary education,PT,80.57996
-2016,SE_TRA_GRDL,,Lower secondary education,PT,89.16155
-2017,SE_TRA_GRDL,,Lower secondary education,PT,89.48284
-2019,SE_TRA_GRDL,,Lower secondary education,PT,85.40235
-2008,SE_TRA_GRDL,,Upper secondary education,PT,63.87043
-2010,SE_TRA_GRDL,,Upper secondary education,PT,72.30339
-2011,SE_TRA_GRDL,,Upper secondary education,PT,74.26403
-2013,SE_TRA_GRDL,,Upper secondary education,PT,80.09283
-2014,SE_TRA_GRDL,,Upper secondary education,PT,80.45373
-2015,SE_TRA_GRDL,,Upper secondary education,PT,83.03045
-2016,SE_TRA_GRDL,,Upper secondary education,PT,91.6417
-2017,SE_TRA_GRDL,,Upper secondary education,PT,88.00995
-2019,SE_TRA_GRDL,,Upper secondary education,PT,81.30517
-2008,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,59.93582
-2010,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,66.6097
-2011,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,70.27995
-2013,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,78.61703
-2014,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,79.03334
-2015,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,80.30926
-2019,SE_TRA_GRDL,Female,Secondary education (lower and upper secondary education),PT,78.04125
-2010,SE_TRA_GRDL,Female,Pre-primary education,PT,82.81864
-2011,SE_TRA_GRDL,Female,Pre-primary education,PT,84.79599
-2012,SE_TRA_GRDL,Female,Pre-primary education,PT,88.54082
-2013,SE_TRA_GRDL,Female,Pre-primary education,PT,91.2591
-2014,SE_TRA_GRDL,Female,Pre-primary education,PT,91.53719
-2015,SE_TRA_GRDL,Female,Pre-primary education,PT,92.90178
-2016,SE_TRA_GRDL,Female,Pre-primary education,PT,92.47426
-2017,SE_TRA_GRDL,Female,Pre-primary education,PT,92.98749
-2019,SE_TRA_GRDL,Female,Pre-primary education,PT,88.53509
-2001,SE_TRA_GRDL,Female,Primary education,PT,13.57287
-2002,SE_TRA_GRDL,Female,Primary education,PT,12.23646
-2003,SE_TRA_GRDL,Female,Primary education,PT,13.4933
-2004,SE_TRA_GRDL,Female,Primary education,PT,14.78665
-2005,SE_TRA_GRDL,Female,Primary education,PT,27.04473
-2007,SE_TRA_GRDL,Female,Primary education,PT,56.84566
-2008,SE_TRA_GRDL,Female,Primary education,PT,65.69982
-2010,SE_TRA_GRDL,Female,Primary education,PT,72.44695
-2011,SE_TRA_GRDL,Female,Primary education,PT,79.85137
-2012,SE_TRA_GRDL,Female,Primary education,PT,92.3143
-2013,SE_TRA_GRDL,Female,Primary education,PT,91.91172
-2014,SE_TRA_GRDL,Female,Primary education,PT,93.09656
-2015,SE_TRA_GRDL,Female,Primary education,PT,94.12056
-2016,SE_TRA_GRDL,Female,Primary education,PT,97.23556
-2017,SE_TRA_GRDL,Female,Primary education,PT,97.49373
-2019,SE_TRA_GRDL,Female,Primary education,PT,95.95972
-2000,SE_TRA_GRDL,Female,Lower secondary education,PT,33.40381
-2002,SE_TRA_GRDL,Female,Lower secondary education,PT,26.17647
-2003,SE_TRA_GRDL,Female,Lower secondary education,PT,21.81493
-2007,SE_TRA_GRDL,Female,Lower secondary education,PT,51.7083
-2008,SE_TRA_GRDL,Female,Lower secondary education,PT,57.06291
-2010,SE_TRA_GRDL,Female,Lower secondary education,PT,61.81324
-2011,SE_TRA_GRDL,Female,Lower secondary education,PT,63.85623
-2012,SE_TRA_GRDL,Female,Lower secondary education,PT,76.23149
-2013,SE_TRA_GRDL,Female,Lower secondary education,PT,78.15193
-2014,SE_TRA_GRDL,Female,Lower secondary education,PT,78.71591
-2015,SE_TRA_GRDL,Female,Lower secondary education,PT,79.58293
-2016,SE_TRA_GRDL,Female,Lower secondary education,PT,89.71856
-2017,SE_TRA_GRDL,Female,Lower secondary education,PT,90.0563
-2019,SE_TRA_GRDL,Female,Lower secondary education,PT,81.19802
-2008,SE_TRA_GRDL,Female,Upper secondary education,PT,64.54208
-2010,SE_TRA_GRDL,Female,Upper secondary education,PT,75.64443
-2011,SE_TRA_GRDL,Female,Upper secondary education,PT,79.9419
-2013,SE_TRA_GRDL,Female,Upper secondary education,PT,79.30225
-2014,SE_TRA_GRDL,Female,Upper secondary education,PT,79.4983
-2015,SE_TRA_GRDL,Female,Upper secondary education,PT,81.37017
-2019,SE_TRA_GRDL,Female,Upper secondary education,PT,73.36717
-2008,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,57.90844
-2010,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,64.74209
-2011,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,68.83939
-2013,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,80.08941
-2014,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,80.51591
-2015,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,82.31535
-2019,SE_TRA_GRDL,Male,Secondary education (lower and upper secondary education),PT,84.93106
-2010,SE_TRA_GRDL,Male,Pre-primary education,PT,67.63042
-2011,SE_TRA_GRDL,Male,Pre-primary education,PT,74.23816
-2012,SE_TRA_GRDL,Male,Pre-primary education,PT,51.03832
-2013,SE_TRA_GRDL,Male,Pre-primary education,PT,46.41623
-2014,SE_TRA_GRDL,Male,Pre-primary education,PT,41.00939
-2015,SE_TRA_GRDL,Male,Pre-primary education,PT,38.48179
-2016,SE_TRA_GRDL,Male,Pre-primary education,PT,51.64693
-2017,SE_TRA_GRDL,Male,Pre-primary education,PT,51.33333
-2019,SE_TRA_GRDL,Male,Pre-primary education,PT,43.53141
-2001,SE_TRA_GRDL,Male,Primary education,PT,15.98025
-2002,SE_TRA_GRDL,Male,Primary education,PT,15.50836
-2003,SE_TRA_GRDL,Male,Primary education,PT,17.32423
-2004,SE_TRA_GRDL,Male,Primary education,PT,18.45493
-2005,SE_TRA_GRDL,Male,Primary education,PT,32.00829
-2007,SE_TRA_GRDL,Male,Primary education,PT,63.48852
-2008,SE_TRA_GRDL,Male,Primary education,PT,66.84136
-2010,SE_TRA_GRDL,Male,Primary education,PT,74.45764
-2011,SE_TRA_GRDL,Male,Primary education,PT,81.37018
-2012,SE_TRA_GRDL,Male,Primary education,PT,92.73804
-2013,SE_TRA_GRDL,Male,Primary education,PT,92.37963
-2014,SE_TRA_GRDL,Male,Primary education,PT,93.92754
-2015,SE_TRA_GRDL,Male,Primary education,PT,94.64119
-2016,SE_TRA_GRDL,Male,Primary education,PT,96.84635
-2017,SE_TRA_GRDL,Male,Primary education,PT,97.10974
-2019,SE_TRA_GRDL,Male,Primary education,PT,98.3627
-2000,SE_TRA_GRDL,Male,Lower secondary education,PT,32.52747
-2002,SE_TRA_GRDL,Male,Lower secondary education,PT,28.15415
-2003,SE_TRA_GRDL,Male,Lower secondary education,PT,26.54733
-2007,SE_TRA_GRDL,Male,Lower secondary education,PT,45.13594
-2008,SE_TRA_GRDL,Male,Lower secondary education,PT,51.26975
-2010,SE_TRA_GRDL,Male,Lower secondary education,PT,55.66439
-2011,SE_TRA_GRDL,Male,Lower secondary education,PT,63.47732
-2012,SE_TRA_GRDL,Male,Lower secondary education,PT,77.67045
-2013,SE_TRA_GRDL,Male,Lower secondary education,PT,79.88245
-2014,SE_TRA_GRDL,Male,Lower secondary education,PT,80.34914
-2015,SE_TRA_GRDL,Male,Lower secondary education,PT,80.95954
-2016,SE_TRA_GRDL,Male,Lower secondary education,PT,88.9464
-2017,SE_TRA_GRDL,Male,Lower secondary education,PT,89.24928
-2019,SE_TRA_GRDL,Male,Lower secondary education,PT,87.24753
-2008,SE_TRA_GRDL,Male,Upper secondary education,PT,63.78585
-2010,SE_TRA_GRDL,Male,Upper secondary education,PT,71.84829
-2011,SE_TRA_GRDL,Male,Upper secondary education,PT,73.19418
-2013,SE_TRA_GRDL,Male,Upper secondary education,PT,80.25097
-2014,SE_TRA_GRDL,Male,Upper secondary education,PT,80.64509
-2015,SE_TRA_GRDL,Male,Upper secondary education,PT,83.36569
-2019,SE_TRA_GRDL,Male,Upper secondary education,PT,83.13225
+Year,Series,Reference area,Sex,Education level,Units,Value
+2008,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,58.20877
+2010,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,65.07927
+2011,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,69.13699
+2013,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,79.76927
+2014,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,80.19325
+2015,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,81.87657
+2016,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,90.47581
+2017,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,88.70498
+2019,SE_TRA_GRDL,,,Secondary education (lower and upper secondary education),PT,83.25529
+2010,SE_TRA_GRDL,,,Pre-primary education,PT,81.54873
+2011,SE_TRA_GRDL,,,Pre-primary education,PT,83.69693
+2012,SE_TRA_GRDL,,,Pre-primary education,PT,84.65531
+2013,SE_TRA_GRDL,,,Pre-primary education,PT,86.70061
+2014,SE_TRA_GRDL,,,Pre-primary education,PT,86.8742
+2015,SE_TRA_GRDL,,,Pre-primary education,PT,87.51005
+2016,SE_TRA_GRDL,,,Pre-primary education,PT,88.44667
+2017,SE_TRA_GRDL,,,Pre-primary education,PT,88.67411
+2019,SE_TRA_GRDL,,,Pre-primary education,PT,83.38707
+2001,SE_TRA_GRDL,,,Primary education,PT,15.37102
+2002,SE_TRA_GRDL,,,Primary education,PT,14.68151
+2003,SE_TRA_GRDL,,,Primary education,PT,16.22721
+2004,SE_TRA_GRDL,,,Primary education,PT,17.38608
+2005,SE_TRA_GRDL,,,Primary education,PT,30.51447
+2007,SE_TRA_GRDL,,,Primary education,PT,61.36031
+2008,SE_TRA_GRDL,,,Primary education,PT,66.43616
+2010,SE_TRA_GRDL,,,Primary education,PT,73.6609
+2011,SE_TRA_GRDL,,,Primary education,PT,80.72852
+2012,SE_TRA_GRDL,,,Primary education,PT,92.55903
+2013,SE_TRA_GRDL,,,Primary education,PT,92.18524
+2014,SE_TRA_GRDL,,,Primary education,PT,93.58152
+2015,SE_TRA_GRDL,,,Primary education,PT,94.42307
+2016,SE_TRA_GRDL,,,Primary education,PT,97.01081
+2017,SE_TRA_GRDL,,,Primary education,PT,97.27852
+2019,SE_TRA_GRDL,,,Primary education,PT,97.29106
+2000,SE_TRA_GRDL,,,Lower secondary education,PT,32.64496
+2002,SE_TRA_GRDL,,,Lower secondary education,PT,27.8769
+2003,SE_TRA_GRDL,,,Lower secondary education,PT,25.79545
+2007,SE_TRA_GRDL,,,Lower secondary education,PT,46.44517
+2008,SE_TRA_GRDL,,,Lower secondary education,PT,52.34563
+2010,SE_TRA_GRDL,,,Lower secondary education,PT,57.18224
+2011,SE_TRA_GRDL,,,Lower secondary education,PT,63.57534
+2012,SE_TRA_GRDL,,,Lower secondary education,PT,77.28054
+2013,SE_TRA_GRDL,,,Lower secondary education,PT,79.4082
+2014,SE_TRA_GRDL,,,Lower secondary education,PT,79.90049
+2015,SE_TRA_GRDL,,,Lower secondary education,PT,80.57996
+2016,SE_TRA_GRDL,,,Lower secondary education,PT,89.16155
+2017,SE_TRA_GRDL,,,Lower secondary education,PT,89.48284
+2019,SE_TRA_GRDL,,,Lower secondary education,PT,85.40235
+2008,SE_TRA_GRDL,,,Upper secondary education,PT,63.87043
+2010,SE_TRA_GRDL,,,Upper secondary education,PT,72.30339
+2011,SE_TRA_GRDL,,,Upper secondary education,PT,74.26403
+2013,SE_TRA_GRDL,,,Upper secondary education,PT,80.09283
+2014,SE_TRA_GRDL,,,Upper secondary education,PT,80.45373
+2015,SE_TRA_GRDL,,,Upper secondary education,PT,83.03045
+2016,SE_TRA_GRDL,,,Upper secondary education,PT,91.6417
+2017,SE_TRA_GRDL,,,Upper secondary education,PT,88.00995
+2019,SE_TRA_GRDL,,,Upper secondary education,PT,81.30517
+2008,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,59.93582
+2010,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,66.6097
+2011,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,70.27995
+2013,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,78.61703
+2014,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,79.03334
+2015,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,80.30926
+2019,SE_TRA_GRDL,,Female,Secondary education (lower and upper secondary education),PT,78.04125
+2010,SE_TRA_GRDL,,Female,Pre-primary education,PT,82.81864
+2011,SE_TRA_GRDL,,Female,Pre-primary education,PT,84.79599
+2012,SE_TRA_GRDL,,Female,Pre-primary education,PT,88.54082
+2013,SE_TRA_GRDL,,Female,Pre-primary education,PT,91.2591
+2014,SE_TRA_GRDL,,Female,Pre-primary education,PT,91.53719
+2015,SE_TRA_GRDL,,Female,Pre-primary education,PT,92.90178
+2016,SE_TRA_GRDL,,Female,Pre-primary education,PT,92.47426
+2017,SE_TRA_GRDL,,Female,Pre-primary education,PT,92.98749
+2019,SE_TRA_GRDL,,Female,Pre-primary education,PT,88.53509
+2001,SE_TRA_GRDL,,Female,Primary education,PT,13.57287
+2002,SE_TRA_GRDL,,Female,Primary education,PT,12.23646
+2003,SE_TRA_GRDL,,Female,Primary education,PT,13.4933
+2004,SE_TRA_GRDL,,Female,Primary education,PT,14.78665
+2005,SE_TRA_GRDL,,Female,Primary education,PT,27.04473
+2007,SE_TRA_GRDL,,Female,Primary education,PT,56.84566
+2008,SE_TRA_GRDL,,Female,Primary education,PT,65.69982
+2010,SE_TRA_GRDL,,Female,Primary education,PT,72.44695
+2011,SE_TRA_GRDL,,Female,Primary education,PT,79.85137
+2012,SE_TRA_GRDL,,Female,Primary education,PT,92.3143
+2013,SE_TRA_GRDL,,Female,Primary education,PT,91.91172
+2014,SE_TRA_GRDL,,Female,Primary education,PT,93.09656
+2015,SE_TRA_GRDL,,Female,Primary education,PT,94.12056
+2016,SE_TRA_GRDL,,Female,Primary education,PT,97.23556
+2017,SE_TRA_GRDL,,Female,Primary education,PT,97.49373
+2019,SE_TRA_GRDL,,Female,Primary education,PT,95.95972
+2000,SE_TRA_GRDL,,Female,Lower secondary education,PT,33.40381
+2002,SE_TRA_GRDL,,Female,Lower secondary education,PT,26.17647
+2003,SE_TRA_GRDL,,Female,Lower secondary education,PT,21.81493
+2007,SE_TRA_GRDL,,Female,Lower secondary education,PT,51.7083
+2008,SE_TRA_GRDL,,Female,Lower secondary education,PT,57.06291
+2010,SE_TRA_GRDL,,Female,Lower secondary education,PT,61.81324
+2011,SE_TRA_GRDL,,Female,Lower secondary education,PT,63.85623
+2012,SE_TRA_GRDL,,Female,Lower secondary education,PT,76.23149
+2013,SE_TRA_GRDL,,Female,Lower secondary education,PT,78.15193
+2014,SE_TRA_GRDL,,Female,Lower secondary education,PT,78.71591
+2015,SE_TRA_GRDL,,Female,Lower secondary education,PT,79.58293
+2016,SE_TRA_GRDL,,Female,Lower secondary education,PT,89.71856
+2017,SE_TRA_GRDL,,Female,Lower secondary education,PT,90.0563
+2019,SE_TRA_GRDL,,Female,Lower secondary education,PT,81.19802
+2008,SE_TRA_GRDL,,Female,Upper secondary education,PT,64.54208
+2010,SE_TRA_GRDL,,Female,Upper secondary education,PT,75.64443
+2011,SE_TRA_GRDL,,Female,Upper secondary education,PT,79.9419
+2013,SE_TRA_GRDL,,Female,Upper secondary education,PT,79.30225
+2014,SE_TRA_GRDL,,Female,Upper secondary education,PT,79.4983
+2015,SE_TRA_GRDL,,Female,Upper secondary education,PT,81.37017
+2019,SE_TRA_GRDL,,Female,Upper secondary education,PT,73.36717
+2008,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,57.90844
+2010,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,64.74209
+2011,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,68.83939
+2013,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,80.08941
+2014,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,80.51591
+2015,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,82.31535
+2019,SE_TRA_GRDL,,Male,Secondary education (lower and upper secondary education),PT,84.93106
+2010,SE_TRA_GRDL,,Male,Pre-primary education,PT,67.63042
+2011,SE_TRA_GRDL,,Male,Pre-primary education,PT,74.23816
+2012,SE_TRA_GRDL,,Male,Pre-primary education,PT,51.03832
+2013,SE_TRA_GRDL,,Male,Pre-primary education,PT,46.41623
+2014,SE_TRA_GRDL,,Male,Pre-primary education,PT,41.00939
+2015,SE_TRA_GRDL,,Male,Pre-primary education,PT,38.48179
+2016,SE_TRA_GRDL,,Male,Pre-primary education,PT,51.64693
+2017,SE_TRA_GRDL,,Male,Pre-primary education,PT,51.33333
+2019,SE_TRA_GRDL,,Male,Pre-primary education,PT,43.53141
+2001,SE_TRA_GRDL,,Male,Primary education,PT,15.98025
+2002,SE_TRA_GRDL,,Male,Primary education,PT,15.50836
+2003,SE_TRA_GRDL,,Male,Primary education,PT,17.32423
+2004,SE_TRA_GRDL,,Male,Primary education,PT,18.45493
+2005,SE_TRA_GRDL,,Male,Primary education,PT,32.00829
+2007,SE_TRA_GRDL,,Male,Primary education,PT,63.48852
+2008,SE_TRA_GRDL,,Male,Primary education,PT,66.84136
+2010,SE_TRA_GRDL,,Male,Primary education,PT,74.45764
+2011,SE_TRA_GRDL,,Male,Primary education,PT,81.37018
+2012,SE_TRA_GRDL,,Male,Primary education,PT,92.73804
+2013,SE_TRA_GRDL,,Male,Primary education,PT,92.37963
+2014,SE_TRA_GRDL,,Male,Primary education,PT,93.92754
+2015,SE_TRA_GRDL,,Male,Primary education,PT,94.64119
+2016,SE_TRA_GRDL,,Male,Primary education,PT,96.84635
+2017,SE_TRA_GRDL,,Male,Primary education,PT,97.10974
+2019,SE_TRA_GRDL,,Male,Primary education,PT,98.3627
+2000,SE_TRA_GRDL,,Male,Lower secondary education,PT,32.52747
+2002,SE_TRA_GRDL,,Male,Lower secondary education,PT,28.15415
+2003,SE_TRA_GRDL,,Male,Lower secondary education,PT,26.54733
+2007,SE_TRA_GRDL,,Male,Lower secondary education,PT,45.13594
+2008,SE_TRA_GRDL,,Male,Lower secondary education,PT,51.26975
+2010,SE_TRA_GRDL,,Male,Lower secondary education,PT,55.66439
+2011,SE_TRA_GRDL,,Male,Lower secondary education,PT,63.47732
+2012,SE_TRA_GRDL,,Male,Lower secondary education,PT,77.67045
+2013,SE_TRA_GRDL,,Male,Lower secondary education,PT,79.88245
+2014,SE_TRA_GRDL,,Male,Lower secondary education,PT,80.34914
+2015,SE_TRA_GRDL,,Male,Lower secondary education,PT,80.95954
+2016,SE_TRA_GRDL,,Male,Lower secondary education,PT,88.9464
+2017,SE_TRA_GRDL,,Male,Lower secondary education,PT,89.24928
+2019,SE_TRA_GRDL,,Male,Lower secondary education,PT,87.24753
+2008,SE_TRA_GRDL,,Male,Upper secondary education,PT,63.78585
+2010,SE_TRA_GRDL,,Male,Upper secondary education,PT,71.84829
+2011,SE_TRA_GRDL,,Male,Upper secondary education,PT,73.19418
+2013,SE_TRA_GRDL,,Male,Upper secondary education,PT,80.25097
+2014,SE_TRA_GRDL,,Male,Upper secondary education,PT,80.64509
+2015,SE_TRA_GRDL,,Male,Upper secondary education,PT,83.36569
+2019,SE_TRA_GRDL,,Male,Upper secondary education,PT,83.13225

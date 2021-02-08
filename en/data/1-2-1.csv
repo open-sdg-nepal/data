@@ -1,4 +1,4 @@
-Year,Series,Degree of urbanisation,Units,Value
-2010,SI_POV_NAHC,,PT,25.2
-2010,SI_POV_NAHC,Rural,PT,27.4
-2010,SI_POV_NAHC,Urban,PT,15.5
+Year,Series,Reference area,Degree of urbanisation,Units,Value
+2010,SI_POV_NAHC,,,PT,25.2
+2010,SI_POV_NAHC,,Rural,PT,27.4
+2010,SI_POV_NAHC,,Urban,PT,15.5
