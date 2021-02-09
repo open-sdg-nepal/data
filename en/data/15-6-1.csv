@@ -1,23 +1,23 @@
 Year,Series,Reference area,Units,Value
-2012,ER_CBD_ABSCLRHS,,NUMBER,0
-2012,ER_CBD_NAGOYA,,NUMBER,1
-2016,ER_CBD_ORSPGRFA,,NUMBER,0
-2017,ER_CBD_ORSPGRFA,,NUMBER,0
-2018,ER_CBD_ORSPGRFA,,NUMBER,0
-2019,ER_CBD_ORSPGRFA,,NUMBER,1
-2012,ER_CBD_PTYPGRFA,,NUMBER,1
-2013,ER_CBD_PTYPGRFA,,NUMBER,1
-2014,ER_CBD_PTYPGRFA,,NUMBER,1
-2015,ER_CBD_PTYPGRFA,,NUMBER,1
-2016,ER_CBD_PTYPGRFA,,NUMBER,1
-2017,ER_CBD_PTYPGRFA,,NUMBER,1
-2018,ER_CBD_PTYPGRFA,,NUMBER,1
-2019,ER_CBD_PTYPGRFA,,NUMBER,1
-2012,ER_CBD_SMTA,,NUMBER,256
-2013,ER_CBD_SMTA,,NUMBER,346
-2014,ER_CBD_SMTA,,NUMBER,387
-2015,ER_CBD_SMTA,,NUMBER,488
-2016,ER_CBD_SMTA,,NUMBER,520
-2017,ER_CBD_SMTA,,NUMBER,552
-2018,ER_CBD_SMTA,,NUMBER,571
-2019,ER_CBD_SMTA,,NUMBER,573
+2012,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Nepal,Number,0
+2012,Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Nepal,Number,1
+2016,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Nepal,Number,0
+2017,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Nepal,Number,0
+2018,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Nepal,Number,0
+2019,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Nepal,Number,1
+2012,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2013,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2014,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2015,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2016,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2017,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2018,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2019,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Nepal,Number,1
+2012,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,256
+2013,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,346
+2014,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,387
+2015,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,488
+2016,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,520
+2017,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,552
+2018,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,571
+2019,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country,Nepal,Number,573

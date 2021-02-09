@@ -1,67 +1,67 @@
 Year,Series,Reference area,Degree of urbanisation,Units,Value
-1996,EG_ACS_ELEC,,,PT,17.9
-1997,EG_ACS_ELEC,,,PT,15.56461
-1998,EG_ACS_ELEC,,,PT,19.42928
-1999,EG_ACS_ELEC,,,PT,23.29445
-2000,EG_ACS_ELEC,,,PT,27.1552
-2001,EG_ACS_ELEC,,,PT,24.6
-2002,EG_ACS_ELEC,,,PT,34.84372
-2003,EG_ACS_ELEC,,,PT,38.66164
-2004,EG_ACS_ELEC,,,PT,37.2
-2005,EG_ACS_ELEC,,,PT,46.22322
-2006,EG_ACS_ELEC,,,PT,51.2
-2007,EG_ACS_ELEC,,,PT,53.72591
-2008,EG_ACS_ELEC,,,PT,57.48794
-2009,EG_ACS_ELEC,,,PT,61.27518
-2010,EG_ACS_ELEC,,,PT,65.10121
-2011,EG_ACS_ELEC,,,PT,67.26
-2012,EG_ACS_ELEC,,,PT,73.87317
-2013,EG_ACS_ELEC,,,PT,78.0357
-2014,EG_ACS_ELEC,,,PT,84.9
-2015,EG_ACS_ELEC,,,PT,86.65527
-2016,EG_ACS_ELEC,,,PT,90.7
-2017,EG_ACS_ELEC,,,PT,95.50748
-1996,EG_ACS_ELEC,,Rural,PT,10.15409
-1997,EG_ACS_ELEC,,Rural,PT,6.72057
-1998,EG_ACS_ELEC,,Rural,PT,10.58437
-1999,EG_ACS_ELEC,,Rural,PT,14.47127
-2000,EG_ACS_ELEC,,Rural,PT,18.37747
-2001,EG_ACS_ELEC,,Rural,PT,14.69725
-2002,EG_ACS_ELEC,,Rural,PT,26.43472
-2003,EG_ACS_ELEC,,Rural,PT,30.56021
-2004,EG_ACS_ELEC,,Rural,PT,28.45145
-2005,EG_ACS_ELEC,,Rural,PT,38.77897
-2006,EG_ACS_ELEC,,Rural,PT,44.08519
-2007,EG_ACS_ELEC,,Rural,PT,47.00284
-2008,EG_ACS_ELEC,,Rural,PT,51.15692
-2009,EG_ACS_ELEC,,Rural,PT,55.36198
-2010,EG_ACS_ELEC,,Rural,PT,59.21063
-2011,EG_ACS_ELEC,,Rural,PT,61.71845
-2012,EG_ACS_ELEC,,Rural,PT,69.34164
-2013,EG_ACS_ELEC,,Rural,PT,74.2997
-2014,EG_ACS_ELEC,,Rural,PT,82.05552
-2015,EG_ACS_ELEC,,Rural,PT,84.33872
-2016,EG_ACS_ELEC,,Rural,PT,89.812
-2017,EG_ACS_ELEC,,Rural,PT,94.74498
-1996,EG_ACS_ELEC,,Urban,PT,78.4
-1997,EG_ACS_ELEC,,Urban,PT,81.45478
-1998,EG_ACS_ELEC,,Urban,PT,82.28436
-1999,EG_ACS_ELEC,,Urban,PT,83.09678
-2000,EG_ACS_ELEC,,Urban,PT,83.89761
-2001,EG_ACS_ELEC,,Urban,PT,85.7
-2002,EG_ACS_ELEC,,Urban,PT,85.48672
-2003,EG_ACS_ELEC,,Urban,PT,86.28612
-2004,EG_ACS_ELEC,,Urban,PT,87.4
-2005,EG_ACS_ELEC,,Urban,PT,87.91917
-2006,EG_ACS_ELEC,,Urban,PT,90.1
-2007,EG_ACS_ELEC,,Urban,PT,89.60519
-2008,EG_ACS_ELEC,,Urban,PT,90.46785
-2009,EG_ACS_ELEC,,Urban,PT,91.3435
-2010,EG_ACS_ELEC,,Urban,PT,94.34054
-2011,EG_ACS_ELEC,,Urban,PT,94.11
-2012,EG_ACS_ELEC,,Urban,PT,95.29839
-2013,EG_ACS_ELEC,,Urban,PT,95.2708
-2014,EG_ACS_ELEC,,Urban,PT,97.7
-2015,EG_ACS_ELEC,,Urban,PT,96.82215
-2016,EG_ACS_ELEC,,Urban,PT,94.5
-2017,EG_ACS_ELEC,,Urban,PT,98.68839
+1996,Proportion of population with access to electricity,Nepal,,Percent,17.9
+1997,Proportion of population with access to electricity,Nepal,,Percent,15.56461
+1998,Proportion of population with access to electricity,Nepal,,Percent,19.42928
+1999,Proportion of population with access to electricity,Nepal,,Percent,23.29445
+2000,Proportion of population with access to electricity,Nepal,,Percent,27.1552
+2001,Proportion of population with access to electricity,Nepal,,Percent,24.6
+2002,Proportion of population with access to electricity,Nepal,,Percent,34.84372
+2003,Proportion of population with access to electricity,Nepal,,Percent,38.66164
+2004,Proportion of population with access to electricity,Nepal,,Percent,37.2
+2005,Proportion of population with access to electricity,Nepal,,Percent,46.22322
+2006,Proportion of population with access to electricity,Nepal,,Percent,51.2
+2007,Proportion of population with access to electricity,Nepal,,Percent,53.72591
+2008,Proportion of population with access to electricity,Nepal,,Percent,57.48794
+2009,Proportion of population with access to electricity,Nepal,,Percent,61.27518
+2010,Proportion of population with access to electricity,Nepal,,Percent,65.10121
+2011,Proportion of population with access to electricity,Nepal,,Percent,67.26
+2012,Proportion of population with access to electricity,Nepal,,Percent,73.87317
+2013,Proportion of population with access to electricity,Nepal,,Percent,78.0357
+2014,Proportion of population with access to electricity,Nepal,,Percent,84.9
+2015,Proportion of population with access to electricity,Nepal,,Percent,86.65527
+2016,Proportion of population with access to electricity,Nepal,,Percent,90.7
+2017,Proportion of population with access to electricity,Nepal,,Percent,95.50748
+1996,Proportion of population with access to electricity,Nepal,Rural,Percent,10.15409
+1997,Proportion of population with access to electricity,Nepal,Rural,Percent,6.72057
+1998,Proportion of population with access to electricity,Nepal,Rural,Percent,10.58437
+1999,Proportion of population with access to electricity,Nepal,Rural,Percent,14.47127
+2000,Proportion of population with access to electricity,Nepal,Rural,Percent,18.37747
+2001,Proportion of population with access to electricity,Nepal,Rural,Percent,14.69725
+2002,Proportion of population with access to electricity,Nepal,Rural,Percent,26.43472
+2003,Proportion of population with access to electricity,Nepal,Rural,Percent,30.56021
+2004,Proportion of population with access to electricity,Nepal,Rural,Percent,28.45145
+2005,Proportion of population with access to electricity,Nepal,Rural,Percent,38.77897
+2006,Proportion of population with access to electricity,Nepal,Rural,Percent,44.08519
+2007,Proportion of population with access to electricity,Nepal,Rural,Percent,47.00284
+2008,Proportion of population with access to electricity,Nepal,Rural,Percent,51.15692
+2009,Proportion of population with access to electricity,Nepal,Rural,Percent,55.36198
+2010,Proportion of population with access to electricity,Nepal,Rural,Percent,59.21063
+2011,Proportion of population with access to electricity,Nepal,Rural,Percent,61.71845
+2012,Proportion of population with access to electricity,Nepal,Rural,Percent,69.34164
+2013,Proportion of population with access to electricity,Nepal,Rural,Percent,74.2997
+2014,Proportion of population with access to electricity,Nepal,Rural,Percent,82.05552
+2015,Proportion of population with access to electricity,Nepal,Rural,Percent,84.33872
+2016,Proportion of population with access to electricity,Nepal,Rural,Percent,89.812
+2017,Proportion of population with access to electricity,Nepal,Rural,Percent,94.74498
+1996,Proportion of population with access to electricity,Nepal,Urban,Percent,78.4
+1997,Proportion of population with access to electricity,Nepal,Urban,Percent,81.45478
+1998,Proportion of population with access to electricity,Nepal,Urban,Percent,82.28436
+1999,Proportion of population with access to electricity,Nepal,Urban,Percent,83.09678
+2000,Proportion of population with access to electricity,Nepal,Urban,Percent,83.89761
+2001,Proportion of population with access to electricity,Nepal,Urban,Percent,85.7
+2002,Proportion of population with access to electricity,Nepal,Urban,Percent,85.48672
+2003,Proportion of population with access to electricity,Nepal,Urban,Percent,86.28612
+2004,Proportion of population with access to electricity,Nepal,Urban,Percent,87.4
+2005,Proportion of population with access to electricity,Nepal,Urban,Percent,87.91917
+2006,Proportion of population with access to electricity,Nepal,Urban,Percent,90.1
+2007,Proportion of population with access to electricity,Nepal,Urban,Percent,89.60519
+2008,Proportion of population with access to electricity,Nepal,Urban,Percent,90.46785
+2009,Proportion of population with access to electricity,Nepal,Urban,Percent,91.3435
+2010,Proportion of population with access to electricity,Nepal,Urban,Percent,94.34054
+2011,Proportion of population with access to electricity,Nepal,Urban,Percent,94.11
+2012,Proportion of population with access to electricity,Nepal,Urban,Percent,95.29839
+2013,Proportion of population with access to electricity,Nepal,Urban,Percent,95.2708
+2014,Proportion of population with access to electricity,Nepal,Urban,Percent,97.7
+2015,Proportion of population with access to electricity,Nepal,Urban,Percent,96.82215
+2016,Proportion of population with access to electricity,Nepal,Urban,Percent,94.5
+2017,Proportion of population with access to electricity,Nepal,Urban,Percent,98.68839

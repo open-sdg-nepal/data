@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2016","2017","2018","2019"],"Series":["SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR"],"REF_AREA":[null,null,null,null,null],"Units":["IX","IX","IX","IX","IX"],"Value":[0.05,0.05,0.05,0.375,0.75]},"edges":[]}
+{"data":{"Year":["2015","2016","2017","2018","2019"],"Series":["SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR","SG_DSR_LGRGSR"],"REF_AREA":["524","524","524","524","524"],"Units":["IX","IX","IX","IX","IX"],"Value":[0.05,0.05,0.05,0.375,0.75]},"edges":[]}

@@ -1,793 +1,793 @@
 Year,Series,Reference area,Type of product,Units,Value
-2000,EN_MAT_DOMCMPC,,,T,2.59902
-2001,EN_MAT_DOMCMPC,,,T,2.81879
-2002,EN_MAT_DOMCMPC,,,T,3.04334
-2003,EN_MAT_DOMCMPC,,,T,3.40207
-2004,EN_MAT_DOMCMPC,,,T,3.27398
-2005,EN_MAT_DOMCMPC,,,T,3.29353
-2006,EN_MAT_DOMCMPC,,,T,3.26253
-2007,EN_MAT_DOMCMPC,,,T,3.21553
-2008,EN_MAT_DOMCMPC,,,T,3.28745
-2009,EN_MAT_DOMCMPC,,,T,3.35746
-2010,EN_MAT_DOMCMPC,,,T,3.43356
-2011,EN_MAT_DOMCMPC,,,T,3.46799
-2012,EN_MAT_DOMCMPC,,,T,3.63113
-2013,EN_MAT_DOMCMPC,,,T,3.59206
-2014,EN_MAT_DOMCMPC,,,T,3.72122
-2015,EN_MAT_DOMCMPC,,,T,3.77572
-2016,EN_MAT_DOMCMPC,,,T,3.8397
-2017,EN_MAT_DOMCMPC,,,T,3.90282
-2000,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.11115
-2001,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.33372
-2002,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.55969
-2003,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.86773
-2004,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.74922
-2005,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.74007
-2006,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.73264
-2007,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.68619
-2008,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.68852
-2009,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.69788
-2010,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.73612
-2011,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.66374
-2012,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.68667
-2013,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.73171
-2014,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.765
-2015,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.80433
-2016,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.84296
-2017,EN_MAT_DOMCMPC,,Non-metallic minerals - construction dominant (material flows),T,0.88085
-2000,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00034
-2001,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00027
-2002,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00021
-2003,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00425
-2004,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00129
-2005,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00161
-2006,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00157
-2007,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00168
-2008,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00095
-2009,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00087
-2010,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.00746
-2011,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.01198
-2012,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.01148
-2013,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.01173
-2014,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.01213
-2015,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.0122
-2016,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.01226
-2017,EN_MAT_DOMCMPC,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,0.01233
-2000,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.44015
-2001,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.4353
-2002,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.4459
-2003,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.46978
-2004,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.48626
-2005,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.50805
-2006,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.49375
-2007,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.49237
-2008,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.5582
-2009,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.60524
-2010,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.60629
-2011,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.7083
-2012,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.83933
-2013,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.73814
-2014,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.82771
-2015,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.84926
-2016,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.87077
-2017,EN_MAT_DOMCMPC,,Biomass (material flows),T,2.89221
-2000,EN_MAT_DOMCMPC,,Crops (material flows),T,0.58381
-2001,EN_MAT_DOMCMPC,,Crops (material flows),T,0.58765
-2002,EN_MAT_DOMCMPC,,Crops (material flows),T,0.59957
-2003,EN_MAT_DOMCMPC,,Crops (material flows),T,0.62238
-2004,EN_MAT_DOMCMPC,,Crops (material flows),T,0.63436
-2005,EN_MAT_DOMCMPC,,Crops (material flows),T,0.6464
-2006,EN_MAT_DOMCMPC,,Crops (material flows),T,0.65064
-2007,EN_MAT_DOMCMPC,,Crops (material flows),T,0.64848
-2008,EN_MAT_DOMCMPC,,Crops (material flows),T,0.67683
-2009,EN_MAT_DOMCMPC,,Crops (material flows),T,0.69135
-2010,EN_MAT_DOMCMPC,,Crops (material flows),T,0.71013
-2011,EN_MAT_DOMCMPC,,Crops (material flows),T,0.76253
-2012,EN_MAT_DOMCMPC,,Crops (material flows),T,0.82522
-2013,EN_MAT_DOMCMPC,,Crops (material flows),T,0.78398
-2014,EN_MAT_DOMCMPC,,Crops (material flows),T,0.82205
-2015,EN_MAT_DOMCMPC,,Crops (material flows),T,0.83535
-2016,EN_MAT_DOMCMPC,,Crops (material flows),T,0.84853
-2017,EN_MAT_DOMCMPC,,Crops (material flows),T,0.86155
-2000,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.66483
-2001,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.66783
-2002,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.67173
-2003,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.677
-2004,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.69329
-2005,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.7013
-2006,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.69697
-2007,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.68116
-2008,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.71719
-2009,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.72226
-2010,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.7051
-2011,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.76161
-2012,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.80744
-2013,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.74564
-2014,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.80419
-2015,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.81108
-2016,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.81799
-2017,EN_MAT_DOMCMPC,,Crop residues (material flows),T,0.82487
-2000,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.78934
-2001,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.78509
-2002,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.78688
-2003,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.78771
-2004,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.7822
-2005,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.78913
-2006,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.78027
-2007,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.8011
-2008,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.80646
-2009,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.8372
-2010,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.83831
-2011,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.83505
-2012,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.86742
-2013,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.87434
-2014,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.86711
-2015,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.87244
-2016,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.87785
-2017,EN_MAT_DOMCMPC,,Grazed biomass and fodder crops (material flows),T,0.88327
-2000,EN_MAT_DOMCMPC,,Wood (material flows),T,0.40146
-2001,EN_MAT_DOMCMPC,,Wood (material flows),T,0.39404
-2002,EN_MAT_DOMCMPC,,Wood (material flows),T,0.38699
-2003,EN_MAT_DOMCMPC,,Wood (material flows),T,0.3819
-2004,EN_MAT_DOMCMPC,,Wood (material flows),T,0.37561
-2005,EN_MAT_DOMCMPC,,Wood (material flows),T,0.37043
-2006,EN_MAT_DOMCMPC,,Wood (material flows),T,0.36506
-2007,EN_MAT_DOMCMPC,,Wood (material flows),T,0.36083
-2008,EN_MAT_DOMCMPC,,Wood (material flows),T,0.35682
-2009,EN_MAT_DOMCMPC,,Wood (material flows),T,0.3534
-2010,EN_MAT_DOMCMPC,,Wood (material flows),T,0.35175
-2011,EN_MAT_DOMCMPC,,Wood (material flows),T,0.34785
-2012,EN_MAT_DOMCMPC,,Wood (material flows),T,0.33801
-2013,EN_MAT_DOMCMPC,,Wood (material flows),T,0.33305
-2014,EN_MAT_DOMCMPC,,Wood (material flows),T,0.33324
-2015,EN_MAT_DOMCMPC,,Wood (material flows),T,0.32924
-2016,EN_MAT_DOMCMPC,,Wood (material flows),T,0.32521
-2017,EN_MAT_DOMCMPC,,Wood (material flows),T,0.32132
-2000,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00071
-2001,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.0007
-2002,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00073
-2003,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00078
-2004,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.0008
-2005,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00079
-2006,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.0008
-2007,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00081
-2008,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.0009
-2009,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00103
-2010,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00099
-2011,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00124
-2012,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00124
-2013,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00113
-2014,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00112
-2015,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00115
-2016,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00118
-2017,EN_MAT_DOMCMPC,,Wild catch and harvest (material flows),T,0.00121
-2003,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.02007
-2009,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.00899
-2010,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.02963
-2011,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.02564
-2012,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.02862
-2013,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.04882
-2014,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.04115
-2015,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.04331
-2016,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.04544
-2017,EN_MAT_DOMCMPC,,Metal ores (material flows),T,0.04752
-2003,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.01895
-2009,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.00859
-2010,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.02867
-2011,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.02401
-2012,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.02662
-2013,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.04688
-2014,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.03957
-2015,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.04166
-2016,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.04371
-2017,EN_MAT_DOMCMPC,,Ferrous ores (material flows),T,0.04573
-2003,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00112
-2009,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.0004
-2010,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00097
-2011,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00163
-2012,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.002
-2013,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00193
-2014,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00157
-2015,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00165
-2016,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.00172
-2017,EN_MAT_DOMCMPC,,Non-ferrous ores (material flows),T,0.0018
-2000,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.11149
-2001,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.33399
-2002,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.5599
-2003,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.87198
-2004,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.75051
-2005,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.74168
-2006,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.7342
-2007,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.68787
-2008,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.68947
-2009,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.69876
-2010,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.74358
-2011,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.67572
-2012,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.69816
-2013,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.74343
-2014,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.77713
-2015,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.81653
-2016,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.85522
-2017,EN_MAT_DOMCMPC,,Non-metallic minerals (material flows),T,0.89317
-2000,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.04739
-2001,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.0495
-2002,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.03753
-2003,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.04024
-2004,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.03722
-2005,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.0438
-2006,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.03458
-2007,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.03529
-2008,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.03977
-2009,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.04446
-2010,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.05406
-2011,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.05833
-2012,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.06503
-2013,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.06168
-2014,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.07524
-2015,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.06662
-2016,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.06828
-2017,EN_MAT_DOMCMPC,,Fossil fuels (material flows),T,0.06991
-2000,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01811
-2001,EN_MAT_DOMCMPC,,Coal (material flows),T,0.02036
-2002,EN_MAT_DOMCMPC,,Coal (material flows),T,0.00928
-2003,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01162
-2004,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01015
-2005,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01611
-2006,EN_MAT_DOMCMPC,,Coal (material flows),T,0.00998
-2007,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01251
-2008,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01167
-2009,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01167
-2010,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01869
-2011,EN_MAT_DOMCMPC,,Coal (material flows),T,0.02196
-2012,EN_MAT_DOMCMPC,,Coal (material flows),T,0.02604
-2013,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01987
-2014,EN_MAT_DOMCMPC,,Coal (material flows),T,0.02846
-2015,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01895
-2016,EN_MAT_DOMCMPC,,Coal (material flows),T,0.01973
-2017,EN_MAT_DOMCMPC,,Coal (material flows),T,0.02049
-2000,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02927
-2001,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02914
-2002,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02825
-2003,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02862
-2004,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02706
-2005,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02769
-2006,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02459
-2007,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.02277
-2008,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.0281
-2009,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.0328
-2010,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.03538
-2011,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.03637
-2012,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.03899
-2013,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.04181
-2014,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.04678
-2015,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.04767
-2016,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.04855
-2017,EN_MAT_DOMCMPC,,Petroleum (material flows),T,0.04942
-2000,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.6082
-2001,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.86039
-2002,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,6.42547
-2003,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,7.01835
-2004,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,6.54478
-2005,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,6.44566
-2006,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,6.2495
-2007,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,6.01924
-2008,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.85756
-2009,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.78021
-2010,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.69908
-2011,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.62839
-2012,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.69069
-2013,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.47181
-2014,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.41284
-2015,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.37799
-2016,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.50868
-2017,EN_MAT_DOMCMPG,,,KG_PER_CON_USD,5.26654
-2000,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,0.23983
-2001,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,0.69382
-2002,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.18169
-2003,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.7901
-2004,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.4977
-2005,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.44837
-2006,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.40339
-2007,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.2845
-2008,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.2268
-2009,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.20148
-2010,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.22182
-2011,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.07721
-2012,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.07615
-2013,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.11461
-2014,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.11276
-2015,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.14566
-2016,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.20936
-2017,EN_MAT_DOMCMPG,,Non-metallic minerals - construction dominant (material flows),KG_PER_CON_USD,1.18863
-2000,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00074
-2001,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00057
-2002,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00045
-2003,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00877
-2004,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00258
-2005,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00316
-2006,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.003
-2007,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00315
-2008,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.0017
-2009,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.00151
-2010,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01238
-2011,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01945
-2012,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.018
-2013,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01786
-2014,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01765
-2015,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01737
-2016,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01759
-2017,EN_MAT_DOMCMPG,,Non-metallic minerals - industrial or agricultural dominant (material flows),KG_PER_CON_USD,0.01663
-2000,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,5.26538
-2001,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,5.06309
-2002,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,5.1641
-2003,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,5.09506
-2004,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.97009
-2005,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.90842
-2006,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.77687
-2007,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.66554
-2008,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.55819
-2009,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.48519
-2010,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.32596
-2011,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.39544
-2012,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.44978
-2013,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.17102
-2014,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.11315
-2015,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.05837
-2016,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,4.11859
-2017,EN_MAT_DOMCMPG,,Biomass (material flows),KG_PER_CON_USD,3.9028
-2000,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.25974
-2001,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.22175
-2002,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.26588
-2003,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.28394
-2004,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.2681
-2005,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.26505
-2006,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.24633
-2007,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.2139
-2008,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.20597
-2009,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.19024
-2010,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.17869
-2011,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.23756
-2012,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.29328
-2013,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.19424
-2014,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.19574
-2015,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.18984
-2016,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.21736
-2017,EN_MAT_DOMCMPG,,Crops (material flows),KG_PER_CON_USD,1.16259
-2000,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.43458
-2001,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.38844
-2002,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.41824
-2003,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.39663
-2004,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.3859
-2005,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.3725
-2006,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.33508
-2007,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.27509
-2008,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.27788
-2009,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.24345
-2010,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.17034
-2011,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.23606
-2012,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.26542
-2013,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.13584
-2014,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.16977
-2015,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.15526
-2016,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.17354
-2017,EN_MAT_DOMCMPG,,Crop residues (material flows),KG_PER_CON_USD,1.11309
-2000,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.70324
-2001,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.63223
-2002,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.66136
-2003,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.62502
-2004,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.56364
-2005,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.54438
-2006,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.49465
-2007,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.49959
-2008,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.43695
-2009,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.44133
-2010,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.39144
-2011,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.35525
-2012,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.35942
-2013,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.33188
-2014,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.26129
-2015,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.24268
-2016,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.25943
-2017,EN_MAT_DOMCMPG,,Grazed biomass and fodder crops (material flows),KG_PER_CON_USD,1.1919
-2000,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.86627
-2001,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.81923
-2002,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.81706
-2003,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.78785
-2004,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.75085
-2005,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.72495
-2006,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.69929
-2007,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.67545
-2008,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.63578
-2009,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.60841
-2010,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.58385
-2011,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.56455
-2012,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.52973
-2013,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.50733
-2014,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.48473
-2015,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.46896
-2016,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.46657
-2017,EN_MAT_DOMCMPG,,Wood (material flows),KG_PER_CON_USD,0.43359
-2000,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00153
-2001,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00145
-2002,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00155
-2003,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00161
-2004,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.0016
-2005,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00155
-2006,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00153
-2007,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00151
-2008,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00161
-2009,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00177
-2010,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00164
-2011,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00202
-2012,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00194
-2013,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00172
-2014,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00162
-2015,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00164
-2016,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.0017
-2017,EN_MAT_DOMCMPG,,Wild catch and harvest (material flows),KG_PER_CON_USD,0.00164
-2003,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.04141
-2009,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.01548
-2010,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.04918
-2011,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.04162
-2012,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.04485
-2013,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.07436
-2014,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.05985
-2015,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.06169
-2016,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.06519
-2017,EN_MAT_DOMCMPG,,Metal ores (material flows),KG_PER_CON_USD,0.06413
-2003,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.0391
-2009,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.01479
-2010,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.04758
-2011,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.03897
-2012,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.04172
-2013,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.07142
-2014,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.05756
-2015,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.05934
-2016,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.06272
-2017,EN_MAT_DOMCMPG,,Ferrous ores (material flows),KG_PER_CON_USD,0.06171
-2003,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00231
-2009,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.0007
-2010,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.0016
-2011,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00265
-2012,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00313
-2013,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00295
-2014,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00229
-2015,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00235
-2016,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00247
-2017,EN_MAT_DOMCMPG,,Non-ferrous ores (material flows),KG_PER_CON_USD,0.00243
-2000,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,0.24057
-2001,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,0.69439
-2002,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.18214
-2003,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.79887
-2004,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.50028
-2005,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.45153
-2006,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.40639
-2007,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.28765
-2008,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.2285
-2009,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.20298
-2010,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.2342
-2011,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.09666
-2012,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.09415
-2013,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.13248
-2014,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.13041
-2015,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.16304
-2016,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.22695
-2017,EN_MAT_DOMCMPG,,Non-metallic minerals (material flows),KG_PER_CON_USD,1.20527
-2000,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.10225
-2001,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.10291
-2002,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.07924
-2003,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.08301
-2004,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.0744
-2005,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.08572
-2006,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.06624
-2007,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.06605
-2008,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.07087
-2009,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.07655
-2010,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.08974
-2011,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.09467
-2012,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.10191
-2013,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.09395
-2014,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.10944
-2015,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.09489
-2016,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.09795
-2017,EN_MAT_DOMCMPG,,Fossil fuels (material flows),KG_PER_CON_USD,0.09434
-2000,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.03908
-2001,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.04234
-2002,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.0196
-2003,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.02398
-2004,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.0203
-2005,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.03152
-2006,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.01913
-2007,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.02342
-2008,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.0208
-2009,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.02009
-2010,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.03102
-2011,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.03563
-2012,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.04081
-2013,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.03026
-2014,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.04139
-2015,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.02699
-2016,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.0283
-2017,EN_MAT_DOMCMPG,,Coal (material flows),KG_PER_CON_USD,0.02765
-2000,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.06317
-2001,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.06058
-2002,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05965
-2003,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05903
-2004,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.0541
-2005,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05419
-2006,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.04711
-2007,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.04263
-2008,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05007
-2009,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05646
-2010,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05872
-2011,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.05903
-2012,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.0611
-2013,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.06369
-2014,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.06805
-2015,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.0679
-2016,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.06965
-2017,EN_MAT_DOMCMPG,,Petroleum (material flows),KG_PER_CON_USD,0.06669
-2000,EN_MAT_DOMCMPT,,,T,61703182.55898
-2001,EN_MAT_DOMCMPT,,,T,68107012.55107
-2002,EN_MAT_DOMCMPT,,,T,74763615.8179
-2003,EN_MAT_DOMCMPT,,,T,84883876.6121
-2004,EN_MAT_DOMCMPT,,,T,82862729.8526
-2005,EN_MAT_DOMCMPT,,,T,84447150.402
-2006,EN_MAT_DOMCMPT,,,T,84631997.9088
-2007,EN_MAT_DOMCMPT,,,T,84294623.674
-2008,EN_MAT_DOMCMPT,,,T,87038058.2117
-2009,EN_MAT_DOMCMPT,,,T,89782131.4024
-2010,EN_MAT_DOMCMPT,,,T,92785568.8746
-2011,EN_MAT_DOMCMPT,,,T,94770229.4649
-2012,EN_MAT_DOMCMPT,,,T,100400583.1501
-2013,EN_MAT_DOMCMPT,,,T,100524930.4864
-2014,EN_MAT_DOMCMPT,,,T,105397062.3218
-2015,EN_MAT_DOMCMPT,,,T,108198110.83704
-2016,EN_MAT_DOMCMPT,,,T,111285165.56742
-2017,EN_MAT_DOMCMPT,,,T,114372220.2977
-2000,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,2638721.0
-2001,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,8063237.0
-2002,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,13749533.0
-2003,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,21650464.0
-2004,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,18962235.0
-2005,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,18975667.0
-2006,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,19005007.0
-2007,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,17988415.0
-2008,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,18229154.0
-2009,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,18662177.0
-2010,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,19892157.0
-2011,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,18138026.0
-2012,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,18986500.0
-2013,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,20477003.0
-2014,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,21667206.0
-2015,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,23049224.0
-2016,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,24431242.0
-2017,EN_MAT_DOMCMPT,,Non-metallic minerals - construction dominant (material flows),T,25813259.0
-2000,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,8151.0
-2001,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,6623.0
-2002,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,5221.0
-2003,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,106095.0
-2004,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,32669.0
-2005,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,41343.0
-2006,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,40669.0
-2007,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,44061.0
-2008,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,25256.0
-2009,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,23390.0
-2010,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,201618.0
-2011,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,327463.0
-2012,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,317492.0
-2013,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,328194.0
-2014,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,343680.0
-2015,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,349531.0
-2016,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,355381.0
-2017,EN_MAT_DOMCMPT,,Non-metallic minerals - industrial or agricultural dominant (material flows),T,361231.0
-2000,EN_MAT_DOMCMPT,,Biomass (material flows),T,57931310.0
-2001,EN_MAT_DOMCMPT,,Biomass (material flows),T,58841153.0
-2002,EN_MAT_DOMCMPT,,Biomass (material flows),T,60086862.0
-2003,EN_MAT_DOMCMPT,,Biomass (material flows),T,61622440.0
-2004,EN_MAT_DOMCMPT,,Biomass (material flows),T,62925826.0
-2005,EN_MAT_DOMCMPT,,Biomass (material flows),T,64307140.0
-2006,EN_MAT_DOMCMPT,,Biomass (material flows),T,64689322.0
-2007,EN_MAT_DOMCMPT,,Biomass (material flows),T,65337148.0
-2008,EN_MAT_DOMCMPT,,Biomass (material flows),T,67730649.0
-2009,EN_MAT_DOMCMPT,,Biomass (material flows),T,69667079.0
-2010,EN_MAT_DOMCMPT,,Biomass (material flows),T,70430048.0
-2011,EN_MAT_DOMCMPT,,Biomass (material flows),T,74009990.0
-2012,EN_MAT_DOMCMPT,,Biomass (material flows),T,78507291.0
-2013,EN_MAT_DOMCMPT,,Biomass (material flows),T,76627615.0
-2014,EN_MAT_DOMCMPT,,Biomass (material flows),T,80089803.0
-2015,EN_MAT_DOMCMPT,,Biomass (material flows),T,81649135.0
-2016,EN_MAT_DOMCMPT,,Biomass (material flows),T,83202744.0
-2017,EN_MAT_DOMCMPT,,Biomass (material flows),T,84756354.0
-2000,EN_MAT_DOMCMPT,,Crops (material flows),T,13860106.0
-2001,EN_MAT_DOMCMPT,,Crops (material flows),T,14198615.0
-2002,EN_MAT_DOMCMPT,,Crops (material flows),T,14729185.0
-2003,EN_MAT_DOMCMPT,,Crops (material flows),T,15528734.0
-2004,EN_MAT_DOMCMPT,,Crops (material flows),T,16055332.0
-2005,EN_MAT_DOMCMPT,,Crops (material flows),T,16573955.0
-2006,EN_MAT_DOMCMPT,,Crops (material flows),T,16878033.0
-2007,EN_MAT_DOMCMPT,,Crops (material flows),T,16999687.0
-2008,EN_MAT_DOMCMPT,,Crops (material flows),T,17919693.0
-2009,EN_MAT_DOMCMPT,,Crops (material flows),T,18487568.0
-2010,EN_MAT_DOMCMPT,,Crops (material flows),T,19189984.0
-2011,EN_MAT_DOMCMPT,,Crops (material flows),T,20837849.0
-2012,EN_MAT_DOMCMPT,,Crops (material flows),T,22817306.0
-2013,EN_MAT_DOMCMPT,,Crops (material flows),T,21939967.0
-2014,EN_MAT_DOMCMPT,,Crops (material flows),T,23283094.0
-2015,EN_MAT_DOMCMPT,,Crops (material flows),T,23937940.0
-2016,EN_MAT_DOMCMPT,,Crops (material flows),T,24592786.0
-2017,EN_MAT_DOMCMPT,,Crops (material flows),T,25247632.0
-2000,EN_MAT_DOMCMPT,,Crop residues (material flows),T,15783743.0
-2001,EN_MAT_DOMCMPT,,Crop residues (material flows),T,16135844.0
-2002,EN_MAT_DOMCMPT,,Crop residues (material flows),T,16501975.0
-2003,EN_MAT_DOMCMPT,,Crop residues (material flows),T,16891631.0
-2004,EN_MAT_DOMCMPT,,Crop residues (material flows),T,17546791.0
-2005,EN_MAT_DOMCMPT,,Crop residues (material flows),T,17981600.0
-2006,EN_MAT_DOMCMPT,,Crop residues (material flows),T,18079873.0
-2007,EN_MAT_DOMCMPT,,Crop residues (material flows),T,17856592.0
-2008,EN_MAT_DOMCMPT,,Crop residues (material flows),T,18988171.0
-2009,EN_MAT_DOMCMPT,,Crop residues (material flows),T,19314126.0
-2010,EN_MAT_DOMCMPT,,Crop residues (material flows),T,19054109.0
-2011,EN_MAT_DOMCMPT,,Crop residues (material flows),T,20812705.0
-2012,EN_MAT_DOMCMPT,,Crop residues (material flows),T,22325670.0
-2013,EN_MAT_DOMCMPT,,Crop residues (material flows),T,20867026.0
-2014,EN_MAT_DOMCMPT,,Crop residues (material flows),T,22777272.0
-2015,EN_MAT_DOMCMPT,,Crop residues (material flows),T,23242415.0
-2016,EN_MAT_DOMCMPT,,Crop residues (material flows),T,23707557.0
-2017,EN_MAT_DOMCMPT,,Crop residues (material flows),T,24172700.0
-2000,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,18739611.0
-2001,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,18969080.0
-2002,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,19330811.0
-2003,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,19653887.0
-2004,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,19797029.0
-2005,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,20233496.0
-2006,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,20240803.0
-2007,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,21000593.0
-2008,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,21351757.0
-2009,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,22387723.0
-2010,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,22653791.0
-2011,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,22819644.0
-2012,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,23984160.0
-2013,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,24468586.0
-2014,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,24559381.0
-2015,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,25001006.0
-2016,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,25442630.0
-2017,EN_MAT_DOMCMPT,,Grazed biomass and fodder crops (material flows),T,25884255.0
-2000,EN_MAT_DOMCMPT,,Wood (material flows),T,9530980.0
-2001,EN_MAT_DOMCMPT,,Wood (material flows),T,9520762.0
-2002,EN_MAT_DOMCMPT,,Wood (material flows),T,9506851.0
-2003,EN_MAT_DOMCMPT,,Wood (material flows),T,9528734.0
-2004,EN_MAT_DOMCMPT,,Wood (material flows),T,9506458.0
-2005,EN_MAT_DOMCMPT,,Wood (material flows),T,9497818.0
-2006,EN_MAT_DOMCMPT,,Wood (material flows),T,9469882.0
-2007,EN_MAT_DOMCMPT,,Wood (material flows),T,9459152.0
-2008,EN_MAT_DOMCMPT,,Wood (material flows),T,9447138.0
-2009,EN_MAT_DOMCMPT,,Wood (material flows),T,9450200.0
-2010,EN_MAT_DOMCMPT,,Wood (material flows),T,9505514.0
-2011,EN_MAT_DOMCMPT,,Wood (material flows),T,9505842.0
-2012,EN_MAT_DOMCMPT,,Wood (material flows),T,9345940.0
-2013,EN_MAT_DOMCMPT,,Wood (material flows),T,9320421.0
-2014,EN_MAT_DOMCMPT,,Wood (material flows),T,9438441.0
-2015,EN_MAT_DOMCMPT,,Wood (material flows),T,9434845.0
-2016,EN_MAT_DOMCMPT,,Wood (material flows),T,9425527.0
-2017,EN_MAT_DOMCMPT,,Wood (material flows),T,9416208.0
-2000,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,16871.0
-2001,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,16852.0
-2002,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,18040.0
-2003,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,19454.0
-2004,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,20216.0
-2005,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,20271.0
-2006,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,20730.0
-2007,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,21124.0
-2008,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,23889.0
-2009,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,27463.0
-2010,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,26650.0
-2011,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,33949.0
-2012,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,34215.0
-2013,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,31615.0
-2014,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,31615.0
-2015,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,32929.0
-2016,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,34244.0
-2017,EN_MAT_DOMCMPT,,Wild catch and harvest (material flows),T,35558.0
-2003,EN_MAT_DOMCMPT,,Metal ores (material flows),T,500878.0
-2009,EN_MAT_DOMCMPT,,Metal ores (material flows),T,240486.0
-2010,EN_MAT_DOMCMPT,,Metal ores (material flows),T,800746.0
-2011,EN_MAT_DOMCMPT,,Metal ores (material flows),T,700751.0
-2012,EN_MAT_DOMCMPT,,Metal ores (material flows),T,791300.0
-2013,EN_MAT_DOMCMPT,,Metal ores (material flows),T,1366119.0
-2014,EN_MAT_DOMCMPT,,Metal ores (material flows),T,1165373.0
-2015,EN_MAT_DOMCMPT,,Metal ores (material flows),T,1241154.0
-2016,EN_MAT_DOMCMPT,,Metal ores (material flows),T,1316935.0
-2017,EN_MAT_DOMCMPT,,Metal ores (material flows),T,1392715.0
-2003,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,472891.0
-2009,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,229683.0
-2010,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,774644.0
-2011,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,656149.0
-2012,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,735995.0
-2013,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,1312000.0
-2014,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,1120783.0
-2015,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,1193870.0
-2016,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,1266957.0
-2017,EN_MAT_DOMCMPT,,Ferrous ores (material flows),T,1340045.0
-2003,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,27987.0
-2009,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,10803.0
-2010,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,26102.0
-2011,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,44603.0
-2012,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,55305.0
-2013,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,54119.0
-2014,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,44590.0
-2015,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,47284.0
-2016,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,49977.0
-2017,EN_MAT_DOMCMPT,,Non-ferrous ores (material flows),T,52671.0
-2000,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,2646872.0
-2001,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,8069860.0
-2002,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,13754754.0
-2003,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,21756559.0
-2004,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,18994904.0
-2005,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,19017010.0
-2006,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,19045676.0
-2007,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,18032476.0
-2008,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,18254410.0
-2009,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,18685567.0
-2010,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,20093775.0
-2011,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,18465488.0
-2012,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,19303992.0
-2013,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,20805197.0
-2014,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,22010887.0
-2015,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,23398755.0
-2016,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,24786623.0
-2017,EN_MAT_DOMCMPT,,Non-metallic minerals (material flows),T,26174491.0
-2000,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1125000.0
-2001,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1196000.0
-2002,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,922000.0
-2003,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1004000.0
-2004,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,942000.0
-2005,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1123000.0
-2006,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,897000.0
-2007,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,925000.0
-2008,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1053000.0
-2009,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1189000.0
-2010,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1461000.0
-2011,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1594000.0
-2012,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1798000.0
-2013,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1726000.0
-2014,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,2131000.0
-2015,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1909068.0
-2016,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,1978864.0
-2017,EN_MAT_DOMCMPT,,Fossil fuels (material flows),T,2048661.0
-2000,EN_MAT_DOMCMPT,,Coal (material flows),T,430000.0
-2001,EN_MAT_DOMCMPT,,Coal (material flows),T,492000.0
-2002,EN_MAT_DOMCMPT,,Coal (material flows),T,228000.0
-2003,EN_MAT_DOMCMPT,,Coal (material flows),T,290000.0
-2004,EN_MAT_DOMCMPT,,Coal (material flows),T,257000.0
-2005,EN_MAT_DOMCMPT,,Coal (material flows),T,413000.0
-2006,EN_MAT_DOMCMPT,,Coal (material flows),T,259000.0
-2007,EN_MAT_DOMCMPT,,Coal (material flows),T,328000.0
-2008,EN_MAT_DOMCMPT,,Coal (material flows),T,309000.0
-2009,EN_MAT_DOMCMPT,,Coal (material flows),T,312000.0
-2010,EN_MAT_DOMCMPT,,Coal (material flows),T,505000.0
-2011,EN_MAT_DOMCMPT,,Coal (material flows),T,600000.0
-2012,EN_MAT_DOMCMPT,,Coal (material flows),T,720000.0
-2013,EN_MAT_DOMCMPT,,Coal (material flows),T,556000.0
-2014,EN_MAT_DOMCMPT,,Coal (material flows),T,806000.0
-2015,EN_MAT_DOMCMPT,,Coal (material flows),T,543000.0
-2016,EN_MAT_DOMCMPT,,Coal (material flows),T,571729.0
-2017,EN_MAT_DOMCMPT,,Coal (material flows),T,600457.0
-2000,EN_MAT_DOMCMPT,,Petroleum (material flows),T,695000.0
-2001,EN_MAT_DOMCMPT,,Petroleum (material flows),T,704000.0
-2002,EN_MAT_DOMCMPT,,Petroleum (material flows),T,694000.0
-2003,EN_MAT_DOMCMPT,,Petroleum (material flows),T,714000.0
-2004,EN_MAT_DOMCMPT,,Petroleum (material flows),T,685000.0
-2005,EN_MAT_DOMCMPT,,Petroleum (material flows),T,710000.0
-2006,EN_MAT_DOMCMPT,,Petroleum (material flows),T,638000.0
-2007,EN_MAT_DOMCMPT,,Petroleum (material flows),T,597000.0
-2008,EN_MAT_DOMCMPT,,Petroleum (material flows),T,744000.0
-2009,EN_MAT_DOMCMPT,,Petroleum (material flows),T,877000.0
-2010,EN_MAT_DOMCMPT,,Petroleum (material flows),T,956000.0
-2011,EN_MAT_DOMCMPT,,Petroleum (material flows),T,994000.0
-2012,EN_MAT_DOMCMPT,,Petroleum (material flows),T,1078000.0
-2013,EN_MAT_DOMCMPT,,Petroleum (material flows),T,1170000.0
-2014,EN_MAT_DOMCMPT,,Petroleum (material flows),T,1325000.0
-2015,EN_MAT_DOMCMPT,,Petroleum (material flows),T,1366068.0
-2016,EN_MAT_DOMCMPT,,Petroleum (material flows),T,1407136.0
-2017,EN_MAT_DOMCMPT,,Petroleum (material flows),T,1448204.0
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,2.59902
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,2.81879
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.04334
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.40207
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.27398
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.29353
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.26253
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.21553
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.28745
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.35746
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.43356
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.46799
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.63113
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.59206
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.72122
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.77572
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.8397
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,,Metric Tons,3.90282
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.11115
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.33372
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.55969
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.86773
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.74922
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.74007
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.73264
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.68619
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.68852
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.69788
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.73612
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.66374
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.68667
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.73171
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.765
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.80433
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.84296
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,0.88085
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00034
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00027
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00021
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00425
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00129
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00161
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00157
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00168
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00095
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00087
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.00746
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.01198
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.01148
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.01173
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.01213
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.0122
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.01226
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,0.01233
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.44015
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.4353
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.4459
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.46978
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.48626
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.50805
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.49375
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.49237
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.5582
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.60524
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.60629
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.7083
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.83933
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.73814
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.82771
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.84926
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.87077
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Biomass (material flows),Metric Tons,2.89221
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.58381
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.58765
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.59957
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.62238
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.63436
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.6464
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.65064
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.64848
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.67683
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.69135
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.71013
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.76253
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.82522
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.78398
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.82205
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.83535
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.84853
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Crops (material flows),Metric Tons,0.86155
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.66483
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.66783
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.67173
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.677
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.69329
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.7013
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.69697
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.68116
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.71719
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.72226
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.7051
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.76161
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.80744
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.74564
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.80419
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.81108
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.81799
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Crop residues (material flows),Metric Tons,0.82487
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.78934
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.78509
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.78688
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.78771
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.7822
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.78913
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.78027
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.8011
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.80646
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.8372
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.83831
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.83505
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.86742
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.87434
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.86711
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.87244
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.87785
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,0.88327
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.40146
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.39404
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.38699
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.3819
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.37561
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.37043
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.36506
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.36083
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.35682
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.3534
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.35175
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.34785
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.33801
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.33305
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.33324
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.32924
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.32521
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Wood (material flows),Metric Tons,0.32132
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00071
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.0007
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00073
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00078
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.0008
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00079
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.0008
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00081
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.0009
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00103
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00099
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00124
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00124
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00113
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00112
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00115
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00118
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Wild catch and harvest (material flows),Metric Tons,0.00121
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.02007
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.00899
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.02963
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.02564
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.02862
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.04882
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.04115
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.04331
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.04544
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Metal ores (material flows),Metric Tons,0.04752
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.01895
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.00859
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.02867
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.02401
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.02662
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.04688
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.03957
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.04166
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.04371
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Ferrous ores (material flows),Metric Tons,0.04573
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00112
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.0004
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00097
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00163
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.002
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00193
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00157
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00165
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.00172
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Non-ferrous ores (material flows),Metric Tons,0.0018
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.11149
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.33399
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.5599
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.87198
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.75051
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.74168
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.7342
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.68787
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.68947
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.69876
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.74358
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.67572
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.69816
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.74343
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.77713
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.81653
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.85522
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Non-metallic minerals (material flows),Metric Tons,0.89317
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.04739
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.0495
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.03753
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.04024
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.03722
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.0438
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.03458
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.03529
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.03977
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.04446
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.05406
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.05833
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.06503
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.06168
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.07524
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.06662
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.06828
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Fossil fuels (material flows),Metric Tons,0.06991
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01811
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.02036
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.00928
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01162
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01015
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01611
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.00998
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01251
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01167
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01167
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01869
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.02196
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.02604
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01987
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.02846
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01895
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.01973
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Coal (material flows),Metric Tons,0.02049
+2000,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02927
+2001,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02914
+2002,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02825
+2003,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02862
+2004,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02706
+2005,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02769
+2006,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02459
+2007,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.02277
+2008,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.0281
+2009,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.0328
+2010,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.03538
+2011,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.03637
+2012,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.03899
+2013,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.04181
+2014,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.04678
+2015,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.04767
+2016,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.04855
+2017,"Domestic material consumption per capita, by type of raw material",Nepal,Petroleum (material flows),Metric Tons,0.04942
+2000,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.6082
+2001,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.86039
+2002,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,6.42547
+2003,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,7.01835
+2004,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,6.54478
+2005,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,6.44566
+2006,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,6.2495
+2007,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,6.01924
+2008,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.85756
+2009,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.78021
+2010,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.69908
+2011,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.62839
+2012,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.69069
+2013,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.47181
+2014,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.41284
+2015,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.37799
+2016,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.50868
+2017,Domestic material consumption per unit of GDP,Nepal,,Kilograms per constant USD,5.26654
+2000,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,0.23983
+2001,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,0.69382
+2002,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.18169
+2003,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.7901
+2004,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.4977
+2005,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.44837
+2006,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.40339
+2007,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.2845
+2008,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.2268
+2009,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.20148
+2010,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.22182
+2011,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.07721
+2012,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.07615
+2013,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.11461
+2014,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.11276
+2015,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.14566
+2016,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.20936
+2017,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - construction dominant (material flows),Kilograms per constant USD,1.18863
+2000,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00074
+2001,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00057
+2002,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00045
+2003,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00877
+2004,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00258
+2005,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00316
+2006,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.003
+2007,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00315
+2008,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.0017
+2009,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.00151
+2010,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01238
+2011,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01945
+2012,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.018
+2013,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01786
+2014,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01765
+2015,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01737
+2016,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01759
+2017,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Kilograms per constant USD,0.01663
+2000,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,5.26538
+2001,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,5.06309
+2002,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,5.1641
+2003,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,5.09506
+2004,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.97009
+2005,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.90842
+2006,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.77687
+2007,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.66554
+2008,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.55819
+2009,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.48519
+2010,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.32596
+2011,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.39544
+2012,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.44978
+2013,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.17102
+2014,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.11315
+2015,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.05837
+2016,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,4.11859
+2017,Domestic material consumption per unit of GDP,Nepal,Biomass (material flows),Kilograms per constant USD,3.9028
+2000,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.25974
+2001,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.22175
+2002,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.26588
+2003,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.28394
+2004,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.2681
+2005,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.26505
+2006,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.24633
+2007,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.2139
+2008,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.20597
+2009,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.19024
+2010,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.17869
+2011,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.23756
+2012,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.29328
+2013,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.19424
+2014,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.19574
+2015,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.18984
+2016,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.21736
+2017,Domestic material consumption per unit of GDP,Nepal,Crops (material flows),Kilograms per constant USD,1.16259
+2000,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.43458
+2001,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.38844
+2002,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.41824
+2003,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.39663
+2004,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.3859
+2005,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.3725
+2006,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.33508
+2007,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.27509
+2008,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.27788
+2009,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.24345
+2010,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.17034
+2011,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.23606
+2012,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.26542
+2013,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.13584
+2014,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.16977
+2015,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.15526
+2016,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.17354
+2017,Domestic material consumption per unit of GDP,Nepal,Crop residues (material flows),Kilograms per constant USD,1.11309
+2000,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.70324
+2001,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.63223
+2002,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.66136
+2003,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.62502
+2004,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.56364
+2005,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.54438
+2006,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.49465
+2007,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.49959
+2008,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.43695
+2009,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.44133
+2010,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.39144
+2011,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.35525
+2012,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.35942
+2013,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.33188
+2014,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.26129
+2015,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.24268
+2016,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.25943
+2017,Domestic material consumption per unit of GDP,Nepal,Grazed biomass and fodder crops (material flows),Kilograms per constant USD,1.1919
+2000,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.86627
+2001,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.81923
+2002,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.81706
+2003,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.78785
+2004,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.75085
+2005,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.72495
+2006,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.69929
+2007,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.67545
+2008,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.63578
+2009,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.60841
+2010,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.58385
+2011,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.56455
+2012,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.52973
+2013,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.50733
+2014,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.48473
+2015,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.46896
+2016,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.46657
+2017,Domestic material consumption per unit of GDP,Nepal,Wood (material flows),Kilograms per constant USD,0.43359
+2000,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00153
+2001,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00145
+2002,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00155
+2003,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00161
+2004,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.0016
+2005,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00155
+2006,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00153
+2007,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00151
+2008,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00161
+2009,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00177
+2010,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00164
+2011,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00202
+2012,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00194
+2013,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00172
+2014,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00162
+2015,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00164
+2016,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.0017
+2017,Domestic material consumption per unit of GDP,Nepal,Wild catch and harvest (material flows),Kilograms per constant USD,0.00164
+2003,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.04141
+2009,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.01548
+2010,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.04918
+2011,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.04162
+2012,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.04485
+2013,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.07436
+2014,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.05985
+2015,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.06169
+2016,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.06519
+2017,Domestic material consumption per unit of GDP,Nepal,Metal ores (material flows),Kilograms per constant USD,0.06413
+2003,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.0391
+2009,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.01479
+2010,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.04758
+2011,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.03897
+2012,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.04172
+2013,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.07142
+2014,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.05756
+2015,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.05934
+2016,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.06272
+2017,Domestic material consumption per unit of GDP,Nepal,Ferrous ores (material flows),Kilograms per constant USD,0.06171
+2003,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00231
+2009,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.0007
+2010,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.0016
+2011,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00265
+2012,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00313
+2013,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00295
+2014,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00229
+2015,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00235
+2016,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00247
+2017,Domestic material consumption per unit of GDP,Nepal,Non-ferrous ores (material flows),Kilograms per constant USD,0.00243
+2000,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,0.24057
+2001,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,0.69439
+2002,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.18214
+2003,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.79887
+2004,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.50028
+2005,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.45153
+2006,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.40639
+2007,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.28765
+2008,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.2285
+2009,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.20298
+2010,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.2342
+2011,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.09666
+2012,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.09415
+2013,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.13248
+2014,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.13041
+2015,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.16304
+2016,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.22695
+2017,Domestic material consumption per unit of GDP,Nepal,Non-metallic minerals (material flows),Kilograms per constant USD,1.20527
+2000,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.10225
+2001,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.10291
+2002,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.07924
+2003,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.08301
+2004,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.0744
+2005,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.08572
+2006,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.06624
+2007,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.06605
+2008,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.07087
+2009,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.07655
+2010,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.08974
+2011,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.09467
+2012,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.10191
+2013,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.09395
+2014,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.10944
+2015,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.09489
+2016,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.09795
+2017,Domestic material consumption per unit of GDP,Nepal,Fossil fuels (material flows),Kilograms per constant USD,0.09434
+2000,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.03908
+2001,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.04234
+2002,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.0196
+2003,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.02398
+2004,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.0203
+2005,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.03152
+2006,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.01913
+2007,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.02342
+2008,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.0208
+2009,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.02009
+2010,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.03102
+2011,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.03563
+2012,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.04081
+2013,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.03026
+2014,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.04139
+2015,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.02699
+2016,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.0283
+2017,Domestic material consumption per unit of GDP,Nepal,Coal (material flows),Kilograms per constant USD,0.02765
+2000,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.06317
+2001,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.06058
+2002,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05965
+2003,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05903
+2004,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.0541
+2005,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05419
+2006,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.04711
+2007,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.04263
+2008,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05007
+2009,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05646
+2010,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05872
+2011,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.05903
+2012,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.0611
+2013,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.06369
+2014,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.06805
+2015,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.0679
+2016,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.06965
+2017,Domestic material consumption per unit of GDP,Nepal,Petroleum (material flows),Kilograms per constant USD,0.06669
+2000,Domestic material consumption,Nepal,,Metric Tons,61703182.55898
+2001,Domestic material consumption,Nepal,,Metric Tons,68107012.55107
+2002,Domestic material consumption,Nepal,,Metric Tons,74763615.8179
+2003,Domestic material consumption,Nepal,,Metric Tons,84883876.6121
+2004,Domestic material consumption,Nepal,,Metric Tons,82862729.8526
+2005,Domestic material consumption,Nepal,,Metric Tons,84447150.402
+2006,Domestic material consumption,Nepal,,Metric Tons,84631997.9088
+2007,Domestic material consumption,Nepal,,Metric Tons,84294623.674
+2008,Domestic material consumption,Nepal,,Metric Tons,87038058.2117
+2009,Domestic material consumption,Nepal,,Metric Tons,89782131.4024
+2010,Domestic material consumption,Nepal,,Metric Tons,92785568.8746
+2011,Domestic material consumption,Nepal,,Metric Tons,94770229.4649
+2012,Domestic material consumption,Nepal,,Metric Tons,100400583.1501
+2013,Domestic material consumption,Nepal,,Metric Tons,100524930.4864
+2014,Domestic material consumption,Nepal,,Metric Tons,105397062.3218
+2015,Domestic material consumption,Nepal,,Metric Tons,108198110.83704
+2016,Domestic material consumption,Nepal,,Metric Tons,111285165.56742
+2017,Domestic material consumption,Nepal,,Metric Tons,114372220.2977
+2000,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,2638721.0
+2001,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,8063237.0
+2002,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,13749533.0
+2003,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,21650464.0
+2004,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,18962235.0
+2005,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,18975667.0
+2006,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,19005007.0
+2007,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,17988415.0
+2008,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,18229154.0
+2009,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,18662177.0
+2010,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,19892157.0
+2011,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,18138026.0
+2012,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,18986500.0
+2013,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,20477003.0
+2014,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,21667206.0
+2015,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,23049224.0
+2016,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,24431242.0
+2017,Domestic material consumption,Nepal,Non-metallic minerals - construction dominant (material flows),Metric Tons,25813259.0
+2000,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,8151.0
+2001,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,6623.0
+2002,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,5221.0
+2003,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,106095.0
+2004,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,32669.0
+2005,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,41343.0
+2006,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,40669.0
+2007,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,44061.0
+2008,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,25256.0
+2009,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,23390.0
+2010,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,201618.0
+2011,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,327463.0
+2012,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,317492.0
+2013,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,328194.0
+2014,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,343680.0
+2015,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,349531.0
+2016,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,355381.0
+2017,Domestic material consumption,Nepal,Non-metallic minerals - industrial or agricultural dominant (material flows),Metric Tons,361231.0
+2000,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,57931310.0
+2001,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,58841153.0
+2002,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,60086862.0
+2003,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,61622440.0
+2004,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,62925826.0
+2005,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,64307140.0
+2006,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,64689322.0
+2007,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,65337148.0
+2008,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,67730649.0
+2009,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,69667079.0
+2010,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,70430048.0
+2011,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,74009990.0
+2012,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,78507291.0
+2013,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,76627615.0
+2014,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,80089803.0
+2015,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,81649135.0
+2016,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,83202744.0
+2017,Domestic material consumption,Nepal,Biomass (material flows),Metric Tons,84756354.0
+2000,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,13860106.0
+2001,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,14198615.0
+2002,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,14729185.0
+2003,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,15528734.0
+2004,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,16055332.0
+2005,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,16573955.0
+2006,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,16878033.0
+2007,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,16999687.0
+2008,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,17919693.0
+2009,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,18487568.0
+2010,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,19189984.0
+2011,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,20837849.0
+2012,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,22817306.0
+2013,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,21939967.0
+2014,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,23283094.0
+2015,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,23937940.0
+2016,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,24592786.0
+2017,Domestic material consumption,Nepal,Crops (material flows),Metric Tons,25247632.0
+2000,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,15783743.0
+2001,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,16135844.0
+2002,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,16501975.0
+2003,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,16891631.0
+2004,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,17546791.0
+2005,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,17981600.0
+2006,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,18079873.0
+2007,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,17856592.0
+2008,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,18988171.0
+2009,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,19314126.0
+2010,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,19054109.0
+2011,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,20812705.0
+2012,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,22325670.0
+2013,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,20867026.0
+2014,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,22777272.0
+2015,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,23242415.0
+2016,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,23707557.0
+2017,Domestic material consumption,Nepal,Crop residues (material flows),Metric Tons,24172700.0
+2000,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,18739611.0
+2001,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,18969080.0
+2002,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,19330811.0
+2003,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,19653887.0
+2004,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,19797029.0
+2005,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,20233496.0
+2006,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,20240803.0
+2007,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,21000593.0
+2008,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,21351757.0
+2009,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,22387723.0
+2010,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,22653791.0
+2011,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,22819644.0
+2012,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,23984160.0
+2013,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,24468586.0
+2014,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,24559381.0
+2015,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,25001006.0
+2016,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,25442630.0
+2017,Domestic material consumption,Nepal,Grazed biomass and fodder crops (material flows),Metric Tons,25884255.0
+2000,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9530980.0
+2001,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9520762.0
+2002,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9506851.0
+2003,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9528734.0
+2004,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9506458.0
+2005,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9497818.0
+2006,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9469882.0
+2007,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9459152.0
+2008,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9447138.0
+2009,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9450200.0
+2010,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9505514.0
+2011,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9505842.0
+2012,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9345940.0
+2013,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9320421.0
+2014,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9438441.0
+2015,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9434845.0
+2016,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9425527.0
+2017,Domestic material consumption,Nepal,Wood (material flows),Metric Tons,9416208.0
+2000,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,16871.0
+2001,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,16852.0
+2002,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,18040.0
+2003,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,19454.0
+2004,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,20216.0
+2005,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,20271.0
+2006,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,20730.0
+2007,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,21124.0
+2008,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,23889.0
+2009,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,27463.0
+2010,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,26650.0
+2011,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,33949.0
+2012,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,34215.0
+2013,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,31615.0
+2014,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,31615.0
+2015,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,32929.0
+2016,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,34244.0
+2017,Domestic material consumption,Nepal,Wild catch and harvest (material flows),Metric Tons,35558.0
+2003,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,500878.0
+2009,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,240486.0
+2010,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,800746.0
+2011,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,700751.0
+2012,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,791300.0
+2013,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,1366119.0
+2014,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,1165373.0
+2015,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,1241154.0
+2016,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,1316935.0
+2017,Domestic material consumption,Nepal,Metal ores (material flows),Metric Tons,1392715.0
+2003,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,472891.0
+2009,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,229683.0
+2010,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,774644.0
+2011,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,656149.0
+2012,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,735995.0
+2013,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,1312000.0
+2014,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,1120783.0
+2015,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,1193870.0
+2016,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,1266957.0
+2017,Domestic material consumption,Nepal,Ferrous ores (material flows),Metric Tons,1340045.0
+2003,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,27987.0
+2009,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,10803.0
+2010,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,26102.0
+2011,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,44603.0
+2012,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,55305.0
+2013,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,54119.0
+2014,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,44590.0
+2015,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,47284.0
+2016,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,49977.0
+2017,Domestic material consumption,Nepal,Non-ferrous ores (material flows),Metric Tons,52671.0
+2000,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,2646872.0
+2001,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,8069860.0
+2002,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,13754754.0
+2003,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,21756559.0
+2004,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,18994904.0
+2005,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,19017010.0
+2006,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,19045676.0
+2007,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,18032476.0
+2008,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,18254410.0
+2009,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,18685567.0
+2010,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,20093775.0
+2011,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,18465488.0
+2012,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,19303992.0
+2013,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,20805197.0
+2014,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,22010887.0
+2015,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,23398755.0
+2016,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,24786623.0
+2017,Domestic material consumption,Nepal,Non-metallic minerals (material flows),Metric Tons,26174491.0
+2000,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1125000.0
+2001,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1196000.0
+2002,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,922000.0
+2003,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1004000.0
+2004,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,942000.0
+2005,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1123000.0
+2006,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,897000.0
+2007,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,925000.0
+2008,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1053000.0
+2009,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1189000.0
+2010,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1461000.0
+2011,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1594000.0
+2012,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1798000.0
+2013,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1726000.0
+2014,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,2131000.0
+2015,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1909068.0
+2016,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,1978864.0
+2017,Domestic material consumption,Nepal,Fossil fuels (material flows),Metric Tons,2048661.0
+2000,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,430000.0
+2001,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,492000.0
+2002,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,228000.0
+2003,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,290000.0
+2004,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,257000.0
+2005,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,413000.0
+2006,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,259000.0
+2007,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,328000.0
+2008,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,309000.0
+2009,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,312000.0
+2010,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,505000.0
+2011,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,600000.0
+2012,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,720000.0
+2013,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,556000.0
+2014,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,806000.0
+2015,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,543000.0
+2016,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,571729.0
+2017,Domestic material consumption,Nepal,Coal (material flows),Metric Tons,600457.0
+2000,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,695000.0
+2001,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,704000.0
+2002,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,694000.0
+2003,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,714000.0
+2004,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,685000.0
+2005,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,710000.0
+2006,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,638000.0
+2007,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,597000.0
+2008,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,744000.0
+2009,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,877000.0
+2010,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,956000.0
+2011,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,994000.0
+2012,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,1078000.0
+2013,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,1170000.0
+2014,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,1325000.0
+2015,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,1366068.0
+2016,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,1407136.0
+2017,Domestic material consumption,Nepal,Petroleum (material flows),Metric Tons,1448204.0

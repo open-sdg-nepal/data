@@ -1,52 +1,52 @@
 Year,Series,Reference area,Units,Value
-2002,AG_PRD_AGVAS,,PT,36.1503
-2003,AG_PRD_AGVAS,,PT,35.10608
-2004,AG_PRD_AGVAS,,PT,34.67636
-2005,AG_PRD_AGVAS,,PT,33.8249
-2006,AG_PRD_AGVAS,,PT,32.36654
-2007,AG_PRD_AGVAS,,PT,31.16441
-2008,AG_PRD_AGVAS,,PT,30.30572
-2009,AG_PRD_AGVAS,,PT,31.32265
-2010,AG_PRD_AGVAS,,PT,33.17949
-2011,AG_PRD_AGVAS,,PT,34.97926
-2012,AG_PRD_AGVAS,,PT,33.14809
-2013,AG_PRD_AGVAS,,PT,31.53462
-2014,AG_PRD_AGVAS,,PT,30.26714
-2015,AG_PRD_AGVAS,,PT,29.38292
-2016,AG_PRD_AGVAS,,PT,29.1492
-2017,AG_PRD_AGVAS,,PT,27.08417
-2018,AG_PRD_AGVAS,,PT,25.29236
-2002,AG_PRD_ORTIND,,IX,0.16339
-2003,AG_PRD_ORTIND,,IX,0.13877
-2004,AG_PRD_ORTIND,,IX,0.13986
-2005,AG_PRD_ORTIND,,IX,0.24323
-2006,AG_PRD_ORTIND,,IX,0.14738
-2007,AG_PRD_ORTIND,,IX,0.1374
-2008,AG_PRD_ORTIND,,IX,0.13563
-2009,AG_PRD_ORTIND,,IX,0.21903
-2010,AG_PRD_ORTIND,,IX,0.26008
-2011,AG_PRD_ORTIND,,IX,0.31883
-2012,AG_PRD_ORTIND,,IX,0.23666
-2013,AG_PRD_ORTIND,,IX,0.25513
-2014,AG_PRD_ORTIND,,IX,0.30729
-2015,AG_PRD_ORTIND,,IX,0.30193
-2016,AG_PRD_ORTIND,,IX,0.32679
-2017,AG_PRD_ORTIND,,IX,0.3901
-2018,AG_PRD_ORTIND,,IX,0.26252
-2002,AG_XPD_AGSGB,,PT,5.90648
-2003,AG_XPD_AGSGB,,PT,4.87181
-2004,AG_XPD_AGSGB,,PT,4.84992
-2005,AG_XPD_AGSGB,,PT,8.22728
-2006,AG_XPD_AGSGB,,PT,4.77029
-2007,AG_XPD_AGSGB,,PT,4.28196
-2008,AG_XPD_AGSGB,,PT,4.11038
-2009,AG_XPD_AGSGB,,PT,6.86073
-2010,AG_XPD_AGSGB,,PT,8.62925
-2011,AG_XPD_AGSGB,,PT,11.1525
-2012,AG_XPD_AGSGB,,PT,7.84481
-2013,AG_XPD_AGSGB,,PT,8.04544
-2014,AG_XPD_AGSGB,,PT,9.30073
-2015,AG_XPD_AGSGB,,PT,8.87166
-2016,AG_XPD_AGSGB,,PT,9.52572
-2017,AG_XPD_AGSGB,,PT,10.56541
-2018,AG_XPD_AGSGB,,PT,6.63971
+2002,Agriculture value added share of GDP,Nepal,Percent,36.1503
+2003,Agriculture value added share of GDP,Nepal,Percent,35.10608
+2004,Agriculture value added share of GDP,Nepal,Percent,34.67636
+2005,Agriculture value added share of GDP,Nepal,Percent,33.8249
+2006,Agriculture value added share of GDP,Nepal,Percent,32.36654
+2007,Agriculture value added share of GDP,Nepal,Percent,31.16441
+2008,Agriculture value added share of GDP,Nepal,Percent,30.30572
+2009,Agriculture value added share of GDP,Nepal,Percent,31.32265
+2010,Agriculture value added share of GDP,Nepal,Percent,33.17949
+2011,Agriculture value added share of GDP,Nepal,Percent,34.97926
+2012,Agriculture value added share of GDP,Nepal,Percent,33.14809
+2013,Agriculture value added share of GDP,Nepal,Percent,31.53462
+2014,Agriculture value added share of GDP,Nepal,Percent,30.26714
+2015,Agriculture value added share of GDP,Nepal,Percent,29.38292
+2016,Agriculture value added share of GDP,Nepal,Percent,29.1492
+2017,Agriculture value added share of GDP,Nepal,Percent,27.08417
+2018,Agriculture value added share of GDP,Nepal,Percent,25.29236
+2002,Agriculture orientation index for government expenditures,Nepal,Index,0.16339
+2003,Agriculture orientation index for government expenditures,Nepal,Index,0.13877
+2004,Agriculture orientation index for government expenditures,Nepal,Index,0.13986
+2005,Agriculture orientation index for government expenditures,Nepal,Index,0.24323
+2006,Agriculture orientation index for government expenditures,Nepal,Index,0.14738
+2007,Agriculture orientation index for government expenditures,Nepal,Index,0.1374
+2008,Agriculture orientation index for government expenditures,Nepal,Index,0.13563
+2009,Agriculture orientation index for government expenditures,Nepal,Index,0.21903
+2010,Agriculture orientation index for government expenditures,Nepal,Index,0.26008
+2011,Agriculture orientation index for government expenditures,Nepal,Index,0.31883
+2012,Agriculture orientation index for government expenditures,Nepal,Index,0.23666
+2013,Agriculture orientation index for government expenditures,Nepal,Index,0.25513
+2014,Agriculture orientation index for government expenditures,Nepal,Index,0.30729
+2015,Agriculture orientation index for government expenditures,Nepal,Index,0.30193
+2016,Agriculture orientation index for government expenditures,Nepal,Index,0.32679
+2017,Agriculture orientation index for government expenditures,Nepal,Index,0.3901
+2018,Agriculture orientation index for government expenditures,Nepal,Index,0.26252
+2002,Agriculture share of Government Expenditure,Nepal,Percent,5.90648
+2003,Agriculture share of Government Expenditure,Nepal,Percent,4.87181
+2004,Agriculture share of Government Expenditure,Nepal,Percent,4.84992
+2005,Agriculture share of Government Expenditure,Nepal,Percent,8.22728
+2006,Agriculture share of Government Expenditure,Nepal,Percent,4.77029
+2007,Agriculture share of Government Expenditure,Nepal,Percent,4.28196
+2008,Agriculture share of Government Expenditure,Nepal,Percent,4.11038
+2009,Agriculture share of Government Expenditure,Nepal,Percent,6.86073
+2010,Agriculture share of Government Expenditure,Nepal,Percent,8.62925
+2011,Agriculture share of Government Expenditure,Nepal,Percent,11.1525
+2012,Agriculture share of Government Expenditure,Nepal,Percent,7.84481
+2013,Agriculture share of Government Expenditure,Nepal,Percent,8.04544
+2014,Agriculture share of Government Expenditure,Nepal,Percent,9.30073
+2015,Agriculture share of Government Expenditure,Nepal,Percent,8.87166
+2016,Agriculture share of Government Expenditure,Nepal,Percent,9.52572
+2017,Agriculture share of Government Expenditure,Nepal,Percent,10.56541
+2018,Agriculture share of Government Expenditure,Nepal,Percent,6.63971
