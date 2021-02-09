@@ -1,482 +1,482 @@
 Year,Series,Reference area,Sex,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
-2001,SE_TOT_CPLR,,,,,Primary education,Percent,52.28
-2007,SE_TOT_CPLR,,,,,Primary education,Percent,63.63037
-2011,SE_TOT_CPLR,,,,,Primary education,Percent,75.22154
-2014,SE_TOT_CPLR,,,,,Primary education,Percent,76.22546
-2016,SE_TOT_CPLR,,,,,Primary education,Percent,83.15811
-2001,SE_TOT_CPLR,,,,,Lower secondary education,Percent,30.55
-2007,SE_TOT_CPLR,,,,,Lower secondary education,Percent,42.3212
-2011,SE_TOT_CPLR,,,,,Lower secondary education,Percent,59.57858
-2014,SE_TOT_CPLR,,,,,Lower secondary education,Percent,65.57288
-2016,SE_TOT_CPLR,,,,,Lower secondary education,Percent,69.67529
-2001,SE_TOT_CPLR,,,,,Upper secondary education,Percent,5.37
-2007,SE_TOT_CPLR,,,,,Upper secondary education,Percent,6.8714
-2007,SE_TOT_CPLR,,,,Quintile 1 (poorest),Primary education,Percent,46.44803
-2011,SE_TOT_CPLR,,,,Quintile 1 (poorest),Primary education,Percent,58.40978
-2014,SE_TOT_CPLR,,,,Quintile 1 (poorest),Primary education,Percent,73.74908
-2016,SE_TOT_CPLR,,,,Quintile 1 (poorest),Primary education,Percent,81.75453
-2007,SE_TOT_CPLR,,,,Quintile 1 (poorest),Lower secondary education,Percent,23.51568
-2011,SE_TOT_CPLR,,,,Quintile 1 (poorest),Lower secondary education,Percent,35.61232
-2014,SE_TOT_CPLR,,,,Quintile 1 (poorest),Lower secondary education,Percent,52.71674
-2016,SE_TOT_CPLR,,,,Quintile 1 (poorest),Lower secondary education,Percent,57.39732
-2007,SE_TOT_CPLR,,,,Quintile 1 (poorest),Upper secondary education,Percent,0.65415
-2007,SE_TOT_CPLR,,,,Quintile 2,Primary education,Percent,54.74792
-2011,SE_TOT_CPLR,,,,Quintile 2,Primary education,Percent,66.78314
-2014,SE_TOT_CPLR,,,,Quintile 2,Primary education,Percent,67.1669
-2016,SE_TOT_CPLR,,,,Quintile 2,Primary education,Percent,80.91962
-2007,SE_TOT_CPLR,,,,Quintile 2,Lower secondary education,Percent,23.61334
-2011,SE_TOT_CPLR,,,,Quintile 2,Lower secondary education,Percent,48.81865
-2014,SE_TOT_CPLR,,,,Quintile 2,Lower secondary education,Percent,53.26983
-2016,SE_TOT_CPLR,,,,Quintile 2,Lower secondary education,Percent,61.89754
-2007,SE_TOT_CPLR,,,,Quintile 2,Upper secondary education,Percent,1.80124
-2007,SE_TOT_CPLR,,,,Quintile 3,Primary education,Percent,61.38099
-2011,SE_TOT_CPLR,,,,Quintile 3,Primary education,Percent,76.71439
-2014,SE_TOT_CPLR,,,,Quintile 3,Primary education,Percent,73.6508
-2016,SE_TOT_CPLR,,,,Quintile 3,Primary education,Percent,76.18215
-2007,SE_TOT_CPLR,,,,Quintile 3,Lower secondary education,Percent,29.67866
-2011,SE_TOT_CPLR,,,,Quintile 3,Lower secondary education,Percent,51.81602
-2014,SE_TOT_CPLR,,,,Quintile 3,Lower secondary education,Percent,62.26228
-2016,SE_TOT_CPLR,,,,Quintile 3,Lower secondary education,Percent,63.22414
-2007,SE_TOT_CPLR,,,,Quintile 3,Upper secondary education,Percent,1.71919
-2007,SE_TOT_CPLR,,,,Quintile 4,Primary education,Percent,74.55323
-2011,SE_TOT_CPLR,,,,Quintile 4,Primary education,Percent,83.3955
-2014,SE_TOT_CPLR,,,,Quintile 4,Primary education,Percent,80.10947
-2016,SE_TOT_CPLR,,,,Quintile 4,Primary education,Percent,83.95754
-2007,SE_TOT_CPLR,,,,Quintile 4,Lower secondary education,Percent,52.89787
-2011,SE_TOT_CPLR,,,,Quintile 4,Lower secondary education,Percent,70.96967
-2014,SE_TOT_CPLR,,,,Quintile 4,Lower secondary education,Percent,72.35493
-2016,SE_TOT_CPLR,,,,Quintile 4,Lower secondary education,Percent,72.18283
-2007,SE_TOT_CPLR,,,,Quintile 4,Upper secondary education,Percent,4.66766
-2007,SE_TOT_CPLR,,,,Quintile 5 (richest),Primary education,Percent,83.46668
-2011,SE_TOT_CPLR,,,,Quintile 5 (richest),Primary education,Percent,94.23521
-2014,SE_TOT_CPLR,,,,Quintile 5 (richest),Primary education,Percent,91.15202
-2016,SE_TOT_CPLR,,,,Quintile 5 (richest),Primary education,Percent,94.67683
-2007,SE_TOT_CPLR,,,,Quintile 5 (richest),Lower secondary education,Percent,73.96413
-2011,SE_TOT_CPLR,,,,Quintile 5 (richest),Lower secondary education,Percent,88.52224
-2014,SE_TOT_CPLR,,,,Quintile 5 (richest),Lower secondary education,Percent,88.4768
-2016,SE_TOT_CPLR,,,,Quintile 5 (richest),Lower secondary education,Percent,91.8877
-2007,SE_TOT_CPLR,,,,Quintile 5 (richest),Upper secondary education,Percent,19.77886
-2001,SE_TOT_CPLR,,,Rural,,Primary education,Percent,49.46
-2007,SE_TOT_CPLR,,,Rural,,Primary education,Percent,61.67941
-2011,SE_TOT_CPLR,,,Rural,,Primary education,Percent,73.6719
-2014,SE_TOT_CPLR,,,Rural,,Primary education,Percent,74.39197
-2016,SE_TOT_CPLR,,,Rural,,Primary education,Percent,77.56304
-2001,SE_TOT_CPLR,,,Rural,,Lower secondary education,Percent,26.72
-2007,SE_TOT_CPLR,,,Rural,,Lower secondary education,Percent,37.89636
-2011,SE_TOT_CPLR,,,Rural,,Lower secondary education,Percent,56.52626
-2014,SE_TOT_CPLR,,,Rural,,Lower secondary education,Percent,62.08112
-2016,SE_TOT_CPLR,,,Rural,,Lower secondary education,Percent,60.05049
-2001,SE_TOT_CPLR,,,Rural,,Upper secondary education,Percent,3.38
-2007,SE_TOT_CPLR,,,Rural,,Upper secondary education,Percent,4.1991
-2007,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Primary education,Percent,46.36719
-2011,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Primary education,Percent,58.51268
-2014,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Primary education,Percent,73.46685
-2016,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Primary education,Percent,83.5969
-2007,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,23.61481
-2011,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,35.80956
-2014,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,53.16538
-2016,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,59.77013
-2007,SE_TOT_CPLR,,,Rural,Quintile 1 (poorest),Upper secondary education,Percent,0.66463
-2007,SE_TOT_CPLR,,,Rural,Quintile 2,Primary education,Percent,54.55914
-2011,SE_TOT_CPLR,,,Rural,Quintile 2,Primary education,Percent,67.08669
-2014,SE_TOT_CPLR,,,Rural,Quintile 2,Primary education,Percent,66.84954
-2016,SE_TOT_CPLR,,,Rural,Quintile 2,Primary education,Percent,76.21914
-2007,SE_TOT_CPLR,,,Rural,Quintile 2,Lower secondary education,Percent,23.71645
-2011,SE_TOT_CPLR,,,Rural,Quintile 2,Lower secondary education,Percent,49.17059
-2014,SE_TOT_CPLR,,,Rural,Quintile 2,Lower secondary education,Percent,52.59062
-2016,SE_TOT_CPLR,,,Rural,Quintile 2,Lower secondary education,Percent,59.6297
-2007,SE_TOT_CPLR,,,Rural,Quintile 2,Upper secondary education,Percent,1.93809
-2007,SE_TOT_CPLR,,,Rural,Quintile 3,Primary education,Percent,61.753
-2011,SE_TOT_CPLR,,,Rural,Quintile 3,Primary education,Percent,76.72974
-2014,SE_TOT_CPLR,,,Rural,Quintile 3,Primary education,Percent,73.19997
-2016,SE_TOT_CPLR,,,Rural,Quintile 3,Primary education,Percent,69.36705
-2007,SE_TOT_CPLR,,,Rural,Quintile 3,Lower secondary education,Percent,29.9015
-2011,SE_TOT_CPLR,,,Rural,Quintile 3,Lower secondary education,Percent,51.20454
-2014,SE_TOT_CPLR,,,Rural,Quintile 3,Lower secondary education,Percent,62.05598
-2016,SE_TOT_CPLR,,,Rural,Quintile 3,Lower secondary education,Percent,58.18361
-2007,SE_TOT_CPLR,,,Rural,Quintile 3,Upper secondary education,Percent,1.79686
-2007,SE_TOT_CPLR,,,Rural,Quintile 4,Primary education,Percent,75.98124
-2011,SE_TOT_CPLR,,,Rural,Quintile 4,Primary education,Percent,83.07404
-2014,SE_TOT_CPLR,,,Rural,Quintile 4,Primary education,Percent,81.05399
-2016,SE_TOT_CPLR,,,Rural,Quintile 4,Primary education,Percent,75.92036
-2007,SE_TOT_CPLR,,,Rural,Quintile 4,Lower secondary education,Percent,53.21393
-2011,SE_TOT_CPLR,,,Rural,Quintile 4,Lower secondary education,Percent,71.86572
-2014,SE_TOT_CPLR,,,Rural,Quintile 4,Lower secondary education,Percent,72.76559
-2016,SE_TOT_CPLR,,,Rural,Quintile 4,Lower secondary education,Percent,60.82517
-2007,SE_TOT_CPLR,,,Rural,Quintile 4,Upper secondary education,Percent,4.54065
-2007,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Primary education,Percent,84.56799
-2011,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Primary education,Percent,95.27268
-2014,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Primary education,Percent,87.08804
-2016,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Primary education,Percent,85.99329
-2007,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Lower secondary education,Percent,75.98495
-2011,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Lower secondary education,Percent,88.96557
-2014,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Lower secondary education,Percent,85.12705
-2016,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Lower secondary education,Percent,73.67974
-2007,SE_TOT_CPLR,,,Rural,Quintile 5 (richest),Upper secondary education,Percent,17.08885
-2001,SE_TOT_CPLR,,,Urban,,Primary education,Percent,75.83
-2007,SE_TOT_CPLR,,,Urban,,Primary education,Percent,75.84077
-2011,SE_TOT_CPLR,,,Urban,,Primary education,Percent,86.54192
-2014,SE_TOT_CPLR,,,Urban,,Primary education,Percent,87.52516
-2016,SE_TOT_CPLR,,,Urban,,Primary education,Percent,87.20386
-2001,SE_TOT_CPLR,,,Urban,,Lower secondary education,Percent,61.01
-2007,SE_TOT_CPLR,,,Urban,,Lower secondary education,Percent,63.84201
-2011,SE_TOT_CPLR,,,Urban,,Lower secondary education,Percent,77.52374
-2014,SE_TOT_CPLR,,,Urban,,Lower secondary education,Percent,82.03268
-2016,SE_TOT_CPLR,,,Urban,,Lower secondary education,Percent,75.34138
-2001,SE_TOT_CPLR,,,Urban,,Upper secondary education,Percent,18.22
-2007,SE_TOT_CPLR,,,Urban,,Upper secondary education,Percent,16.64811
-2007,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Primary education,Percent,50.11575
-2011,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Primary education,Percent,52.23219
-2014,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Primary education,Percent,82.53073
-2016,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Primary education,Percent,78.65067
-2007,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,18.5484
-2011,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,26.0511
-2014,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,36.73463
-2016,SE_TOT_CPLR,,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,53.14885
-2007,SE_TOT_CPLR,,,Urban,Quintile 2,Primary education,Percent,63.72432
-2011,SE_TOT_CPLR,,,Urban,Quintile 2,Primary education,Percent,53.66763
-2014,SE_TOT_CPLR,,,Urban,Quintile 2,Primary education,Percent,74.5393
-2016,SE_TOT_CPLR,,,Urban,Quintile 2,Primary education,Percent,84.80207
-2007,SE_TOT_CPLR,,,Urban,Quintile 2,Lower secondary education,Percent,20.47132
-2011,SE_TOT_CPLR,,,Urban,Quintile 2,Lower secondary education,Percent,36.00732
-2014,SE_TOT_CPLR,,,Urban,Quintile 2,Lower secondary education,Percent,67.8237
-2016,SE_TOT_CPLR,,,Urban,Quintile 2,Lower secondary education,Percent,63.33834
-2007,SE_TOT_CPLR,,,Urban,Quintile 3,Primary education,Percent,51.78432
-2011,SE_TOT_CPLR,,,Urban,Quintile 3,Primary education,Percent,76.42323
-2014,SE_TOT_CPLR,,,Urban,Quintile 3,Primary education,Percent,83.29626
-2016,SE_TOT_CPLR,,,Urban,Quintile 3,Primary education,Percent,83.02954
-2007,SE_TOT_CPLR,,,Urban,Quintile 3,Lower secondary education,Percent,24.7648
-2011,SE_TOT_CPLR,,,Urban,Quintile 3,Lower secondary education,Percent,65.50297
-2014,SE_TOT_CPLR,,,Urban,Quintile 3,Lower secondary education,Percent,66.10715
-2016,SE_TOT_CPLR,,,Urban,Quintile 3,Lower secondary education,Percent,67.75967
-2007,SE_TOT_CPLR,,,Urban,Quintile 4,Primary education,Percent,64.51801
-2011,SE_TOT_CPLR,,,Urban,Quintile 4,Primary education,Percent,85.08331
-2014,SE_TOT_CPLR,,,Urban,Quintile 4,Primary education,Percent,74.63296
-2016,SE_TOT_CPLR,,,Urban,Quintile 4,Primary education,Percent,88.35
-2007,SE_TOT_CPLR,,,Urban,Quintile 4,Lower secondary education,Percent,50.44034
-2011,SE_TOT_CPLR,,,Urban,Quintile 4,Lower secondary education,Percent,66.78238
-2014,SE_TOT_CPLR,,,Urban,Quintile 4,Lower secondary education,Percent,70.49654
-2016,SE_TOT_CPLR,,,Urban,Quintile 4,Lower secondary education,Percent,77.46302
-2007,SE_TOT_CPLR,,,Urban,Quintile 4,Upper secondary education,Percent,5.39116
-2007,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Primary education,Percent,82.50175
-2011,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Primary education,Percent,92.66089
-2014,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Primary education,Percent,94.24215
-2016,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Primary education,Percent,95.33183
-2007,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Lower secondary education,Percent,72.53409
-2011,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Lower secondary education,Percent,88.01306
-2014,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Lower secondary education,Percent,90.74529
-2016,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Lower secondary education,Percent,93.26904
-2007,SE_TOT_CPLR,,,Urban,Quintile 5 (richest),Upper secondary education,Percent,21.45358
-2001,SE_TOT_CPLR,,Female,,,Primary education,Percent,44.57
-2007,SE_TOT_CPLR,,Female,,,Primary education,Percent,58.81388
-2011,SE_TOT_CPLR,,Female,,,Primary education,Percent,71.70908
-2014,SE_TOT_CPLR,,Female,,,Primary education,Percent,75.60509
-2016,SE_TOT_CPLR,,Female,,,Primary education,Percent,82.3541
-2001,SE_TOT_CPLR,,Female,,,Lower secondary education,Percent,25.63
-2007,SE_TOT_CPLR,,Female,,,Lower secondary education,Percent,36.98014
-2011,SE_TOT_CPLR,,Female,,,Lower secondary education,Percent,54.55937
-2014,SE_TOT_CPLR,,Female,,,Lower secondary education,Percent,62.8549
-2016,SE_TOT_CPLR,,Female,,,Lower secondary education,Percent,67.96679
-2001,SE_TOT_CPLR,,Female,,,Upper secondary education,Percent,3.38
-2007,SE_TOT_CPLR,,Female,,,Upper secondary education,Percent,4.19913
-2007,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Primary education,Percent,35.75374
-2011,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Primary education,Percent,53.5021
-2014,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Primary education,Percent,73.81172
-2016,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Primary education,Percent,80.84746
-2007,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Lower secondary education,Percent,18.64259
-2011,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Lower secondary education,Percent,26.21393
-2014,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Lower secondary education,Percent,49.445
-2016,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Lower secondary education,Percent,58.581
-2007,SE_TOT_CPLR,,Female,,Quintile 1 (poorest),Upper secondary education,Percent,0.76451
-2007,SE_TOT_CPLR,,Female,,Quintile 2,Primary education,Percent,49.23765
-2011,SE_TOT_CPLR,,Female,,Quintile 2,Primary education,Percent,64.01551
-2014,SE_TOT_CPLR,,Female,,Quintile 2,Primary education,Percent,64.71143
-2016,SE_TOT_CPLR,,Female,,Quintile 2,Primary education,Percent,79.16949
-2007,SE_TOT_CPLR,,Female,,Quintile 2,Lower secondary education,Percent,20.67638
-2011,SE_TOT_CPLR,,Female,,Quintile 2,Lower secondary education,Percent,45.87336
-2014,SE_TOT_CPLR,,Female,,Quintile 2,Lower secondary education,Percent,48.16346
-2016,SE_TOT_CPLR,,Female,,Quintile 2,Lower secondary education,Percent,62.81736
-2007,SE_TOT_CPLR,,Female,,Quintile 2,Upper secondary education,Percent,0.61275
-2007,SE_TOT_CPLR,,Female,,Quintile 3,Primary education,Percent,56.12109
-2011,SE_TOT_CPLR,,Female,,Quintile 3,Primary education,Percent,70.84213
-2014,SE_TOT_CPLR,,Female,,Quintile 3,Primary education,Percent,72.32809
-2016,SE_TOT_CPLR,,Female,,Quintile 3,Primary education,Percent,74.01636
-2007,SE_TOT_CPLR,,Female,,Quintile 3,Lower secondary education,Percent,26.18271
-2011,SE_TOT_CPLR,,Female,,Quintile 3,Lower secondary education,Percent,46.39151
-2014,SE_TOT_CPLR,,Female,,Quintile 3,Lower secondary education,Percent,58.25831
-2016,SE_TOT_CPLR,,Female,,Quintile 3,Lower secondary education,Percent,60.05073
-2007,SE_TOT_CPLR,,Female,,Quintile 3,Upper secondary education,Percent,0.07218
-2007,SE_TOT_CPLR,,Female,,Quintile 4,Primary education,Percent,72.99531
-2011,SE_TOT_CPLR,,Female,,Quintile 4,Primary education,Percent,83.86273
-2014,SE_TOT_CPLR,,Female,,Quintile 4,Primary education,Percent,80.32063
-2016,SE_TOT_CPLR,,Female,,Quintile 4,Primary education,Percent,84.07494
-2007,SE_TOT_CPLR,,Female,,Quintile 4,Lower secondary education,Percent,50.0038
-2011,SE_TOT_CPLR,,Female,,Quintile 4,Lower secondary education,Percent,69.40162
-2014,SE_TOT_CPLR,,Female,,Quintile 4,Lower secondary education,Percent,69.75297
-2016,SE_TOT_CPLR,,Female,,Quintile 4,Lower secondary education,Percent,69.077
-2007,SE_TOT_CPLR,,Female,,Quintile 4,Upper secondary education,Percent,1.59582
-2007,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Primary education,Percent,83.55772
-2011,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Primary education,Percent,94.12934
-2014,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Primary education,Percent,92.25485
-2016,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Primary education,Percent,96.29373
-2007,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Lower secondary education,Percent,71.28803
-2011,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Lower secondary education,Percent,85.20126
-2014,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Lower secondary education,Percent,93.14192
-2016,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Lower secondary education,Percent,91.10503
-2007,SE_TOT_CPLR,,Female,,Quintile 5 (richest),Upper secondary education,Percent,16.12992
-2007,SE_TOT_CPLR,,Female,Rural,,Primary education,Percent,56.52259
-2011,SE_TOT_CPLR,,Female,Rural,,Primary education,Percent,69.99562
-2014,SE_TOT_CPLR,,Female,Rural,,Primary education,Percent,73.70902
-2016,SE_TOT_CPLR,,Female,Rural,,Primary education,Percent,75.11507
-2007,SE_TOT_CPLR,,Female,Rural,,Lower secondary education,Percent,33.45314
-2011,SE_TOT_CPLR,,Female,Rural,,Lower secondary education,Percent,50.97225
-2014,SE_TOT_CPLR,,Female,Rural,,Lower secondary education,Percent,58.83623
-2016,SE_TOT_CPLR,,Female,Rural,,Lower secondary education,Percent,56.89827
-2007,SE_TOT_CPLR,,Female,Rural,,Upper secondary education,Percent,2.02964
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Primary education,Percent,35.47561
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Primary education,Percent,53.69672
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Primary education,Percent,73.53191
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Primary education,Percent,80.96201
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,18.91756
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,26.2139
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,49.88022
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,59.57008
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 1 (poorest),Upper secondary education,Percent,0.77679
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 2,Primary education,Percent,49.0802
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 2,Primary education,Percent,64.16302
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 2,Primary education,Percent,64.44589
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 2,Primary education,Percent,73.87392
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 2,Lower secondary education,Percent,20.66905
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 2,Lower secondary education,Percent,46.07276
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 2,Lower secondary education,Percent,47.54568
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 2,Lower secondary education,Percent,57.40441
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 2,Upper secondary education,Percent,0.65745
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 3,Primary education,Percent,56.11734
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 3,Primary education,Percent,70.90469
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 3,Primary education,Percent,71.91736
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 3,Primary education,Percent,66.07231
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 3,Lower secondary education,Percent,26.41801
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 3,Lower secondary education,Percent,45.68939
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 3,Lower secondary education,Percent,58.41933
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 3,Lower secondary education,Percent,54.39867
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 3,Upper secondary education,Percent,0.07502
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 4,Primary education,Percent,74.4369
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 4,Primary education,Percent,83.87191
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 4,Primary education,Percent,80.94952
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 4,Primary education,Percent,75.05204
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 4,Lower secondary education,Percent,50.65564
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 4,Lower secondary education,Percent,69.28082
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 4,Lower secondary education,Percent,68.65011
-2016,SE_TOT_CPLR,,Female,Rural,Quintile 4,Lower secondary education,Percent,56.14554
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 4,Upper secondary education,Percent,1.35388
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Primary education,Percent,85.07551
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Primary education,Percent,94.86418
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Primary education,Percent,88.95193
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Lower secondary education,Percent,75.61576
-2011,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Lower secondary education,Percent,84.82095
-2014,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Lower secondary education,Percent,90.247
-2007,SE_TOT_CPLR,,Female,Rural,Quintile 5 (richest),Upper secondary education,Percent,11.55428
-2007,SE_TOT_CPLR,,Female,Urban,,Primary education,Percent,74.70972
-2011,SE_TOT_CPLR,,Female,Urban,,Primary education,Percent,85.54564
-2014,SE_TOT_CPLR,,Female,Urban,,Primary education,Percent,88.26855
-2016,SE_TOT_CPLR,,Female,Urban,,Primary education,Percent,88.25627
-2007,SE_TOT_CPLR,,Female,Urban,,Lower secondary education,Percent,57.64083
-2011,SE_TOT_CPLR,,Female,Urban,,Lower secondary education,Percent,76.89812
-2014,SE_TOT_CPLR,,Female,Urban,,Lower secondary education,Percent,84.86743
-2016,SE_TOT_CPLR,,Female,Urban,,Lower secondary education,Percent,74.70448
-2007,SE_TOT_CPLR,,Female,Urban,,Upper secondary education,Percent,14.23089
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 1 (poorest),Primary education,Percent,49.2142
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 1 (poorest),Primary education,Percent,39.6262
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 1 (poorest),Primary education,Percent,84.6346
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 1 (poorest),Primary education,Percent,80.63904
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 1 (poorest),Lower secondary education,Percent,6.47637
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 1 (poorest),Lower secondary education,Percent,56.9784
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 2,Primary education,Percent,55.31514
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 2,Primary education,Percent,56.98276
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 2,Primary education,Percent,72.13831
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 2,Primary education,Percent,84.41327
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 2,Lower secondary education,Percent,20.96828
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 2,Lower secondary education,Percent,37.811
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 2,Lower secondary education,Percent,60.78862
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 2,Lower secondary education,Percent,66.32334
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 3,Primary education,Percent,56.22236
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 3,Primary education,Percent,69.71805
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 3,Primary education,Percent,81.70695
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 3,Primary education,Percent,83.19475
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 3,Lower secondary education,Percent,21.51662
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 3,Lower secondary education,Percent,62.3705
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 3,Lower secondary education,Percent,55.55971
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 3,Lower secondary education,Percent,65.06721
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 4,Primary education,Percent,61.2252
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 4,Primary education,Percent,83.80869
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 4,Primary education,Percent,76.06761
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 4,Primary education,Percent,89.68022
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 4,Lower secondary education,Percent,44.58051
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 4,Lower secondary education,Percent,70.01537
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 4,Lower secondary education,Percent,76.3196
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 4,Lower secondary education,Percent,75.86554
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 4,Upper secondary education,Percent,3.07834
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Primary education,Percent,81.87231
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Primary education,Percent,92.93546
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Primary education,Percent,94.62802
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Primary education,Percent,97.07778
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,68.09111
-2011,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,85.62861
-2014,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,95.48434
-2016,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,93.13476
-2007,SE_TOT_CPLR,,Female,Urban,Quintile 5 (richest),Upper secondary education,Percent,19.85696
-2001,SE_TOT_CPLR,,Male,,,Primary education,Percent,60.28
-2007,SE_TOT_CPLR,,Male,,,Primary education,Percent,68.95041
-2011,SE_TOT_CPLR,,Male,,,Primary education,Percent,78.93256
-2014,SE_TOT_CPLR,,Male,,,Primary education,Percent,76.88139
-2016,SE_TOT_CPLR,,Male,,,Primary education,Percent,83.98817
-2001,SE_TOT_CPLR,,Male,,,Lower secondary education,Percent,36.67
-2007,SE_TOT_CPLR,,Male,,,Lower secondary education,Percent,49.06918
-2011,SE_TOT_CPLR,,Male,,,Lower secondary education,Percent,65.75764
-2014,SE_TOT_CPLR,,Male,,,Lower secondary education,Percent,68.36629
-2016,SE_TOT_CPLR,,Male,,,Lower secondary education,Percent,71.76302
-2001,SE_TOT_CPLR,,Male,,,Upper secondary education,Percent,8.1
-2007,SE_TOT_CPLR,,Male,,,Upper secondary education,Percent,10.9582
-2007,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Primary education,Percent,58.56118
-2011,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Primary education,Percent,64.87993
-2014,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Primary education,Percent,73.67831
-2016,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Primary education,Percent,82.71322
-2007,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Lower secondary education,Percent,31.57427
-2011,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Lower secondary education,Percent,48.57789
-2014,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Lower secondary education,Percent,56.40549
-2016,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Lower secondary education,Percent,55.62227
-2007,SE_TOT_CPLR,,Male,,Quintile 1 (poorest),Upper secondary education,Percent,0.46449
-2007,SE_TOT_CPLR,,Male,,Quintile 2,Primary education,Percent,61.89812
-2011,SE_TOT_CPLR,,Male,,Quintile 2,Primary education,Percent,69.97235
-2014,SE_TOT_CPLR,,Male,,Quintile 2,Primary education,Percent,69.55293
-2016,SE_TOT_CPLR,,Male,,Quintile 2,Primary education,Percent,82.87968
-2007,SE_TOT_CPLR,,Male,,Quintile 2,Lower secondary education,Percent,27.9605
-2011,SE_TOT_CPLR,,Male,,Quintile 2,Lower secondary education,Percent,52.47877
-2014,SE_TOT_CPLR,,Male,,Quintile 2,Lower secondary education,Percent,59.03199
-2016,SE_TOT_CPLR,,Male,,Quintile 2,Lower secondary education,Percent,60.72276
-2007,SE_TOT_CPLR,,Male,,Quintile 2,Upper secondary education,Percent,3.93287
-2007,SE_TOT_CPLR,,Male,,Quintile 3,Primary education,Percent,66.28458
-2011,SE_TOT_CPLR,,Male,,Quintile 3,Primary education,Percent,82.53158
-2014,SE_TOT_CPLR,,Male,,Quintile 3,Primary education,Percent,75.10269
-2016,SE_TOT_CPLR,,Male,,Quintile 3,Primary education,Percent,78.37257
-2007,SE_TOT_CPLR,,Male,,Quintile 3,Lower secondary education,Percent,34.68941
-2011,SE_TOT_CPLR,,Male,,Quintile 3,Lower secondary education,Percent,58.74224
-2014,SE_TOT_CPLR,,Male,,Quintile 3,Lower secondary education,Percent,66.41428
-2016,SE_TOT_CPLR,,Male,,Quintile 3,Lower secondary education,Percent,67.28465
-2007,SE_TOT_CPLR,,Male,,Quintile 3,Upper secondary education,Percent,4.48229
-2007,SE_TOT_CPLR,,Male,,Quintile 4,Primary education,Percent,76.18697
-2011,SE_TOT_CPLR,,Male,,Quintile 4,Primary education,Percent,83.0035
-2014,SE_TOT_CPLR,,Male,,Quintile 4,Primary education,Percent,79.87087
-2016,SE_TOT_CPLR,,Male,,Quintile 4,Primary education,Percent,83.83933
-2007,SE_TOT_CPLR,,Male,,Quintile 4,Lower secondary education,Percent,56.35163
-2011,SE_TOT_CPLR,,Male,,Quintile 4,Lower secondary education,Percent,72.81801
-2014,SE_TOT_CPLR,,Male,,Quintile 4,Lower secondary education,Percent,74.73174
-2016,SE_TOT_CPLR,,Male,,Quintile 4,Lower secondary education,Percent,75.64617
-2007,SE_TOT_CPLR,,Male,,Quintile 4,Upper secondary education,Percent,9.94208
-2007,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Primary education,Percent,83.35989
-2011,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Primary education,Percent,94.34474
-2014,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Primary education,Percent,90.12327
-2016,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Primary education,Percent,93.13516
-2007,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Lower secondary education,Percent,76.25385
-2011,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Lower secondary education,Percent,92.20203
-2014,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Lower secondary education,Percent,84.03764
-2016,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Lower secondary education,Percent,92.70837
-2007,SE_TOT_CPLR,,Male,,Quintile 5 (richest),Upper secondary education,Percent,23.77997
-2007,SE_TOT_CPLR,,Male,Rural,,Primary education,Percent,67.54168
-2011,SE_TOT_CPLR,,Male,Rural,,Primary education,Percent,77.64993
-2014,SE_TOT_CPLR,,Male,Rural,,Primary education,Percent,75.13045
-2016,SE_TOT_CPLR,,Male,Rural,,Primary education,Percent,80.4795
-2007,SE_TOT_CPLR,,Male,Rural,,Lower secondary education,Percent,43.90357
-2011,SE_TOT_CPLR,,Male,Rural,,Lower secondary education,Percent,63.49002
-2014,SE_TOT_CPLR,,Male,Rural,,Lower secondary education,Percent,65.58968
-2016,SE_TOT_CPLR,,Male,Rural,,Lower secondary education,Percent,64.08818
-2007,SE_TOT_CPLR,,Male,Rural,,Upper secondary education,Percent,7.94114
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Primary education,Percent,58.73935
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Primary education,Percent,64.90023
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Primary education,Percent,73.39239
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Primary education,Percent,86.54915
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,31.32955
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,49.08051
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,56.91075
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,60.04433
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 1 (poorest),Upper secondary education,Percent,0.4719
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 2,Primary education,Percent,61.59152
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 2,Primary education,Percent,70.47116
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 2,Primary education,Percent,69.21786
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 2,Primary education,Percent,79.47212
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 2,Lower secondary education,Percent,28.3118
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 2,Lower secondary education,Percent,53.04344
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 2,Lower secondary education,Percent,58.25738
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 2,Lower secondary education,Percent,62.54962
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 2,Upper secondary education,Percent,4.25313
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 3,Primary education,Percent,67.02373
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 3,Primary education,Percent,82.46835
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 3,Primary education,Percent,74.61621
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 3,Primary education,Percent,73.20076
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 3,Lower secondary education,Percent,34.83608
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 3,Lower secondary education,Percent,58.2578
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 3,Lower secondary education,Percent,65.78375
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 3,Lower secondary education,Percent,62.94761
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 3,Upper secondary education,Percent,4.72955
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 4,Primary education,Percent,77.66043
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 4,Primary education,Percent,82.38268
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 4,Primary education,Percent,81.17754
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 4,Primary education,Percent,76.95629
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 4,Lower secondary education,Percent,56.31774
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 4,Lower secondary education,Percent,75.00953
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 4,Lower secondary education,Percent,76.86573
-2016,SE_TOT_CPLR,,Male,Rural,Quintile 4,Lower secondary education,Percent,67.07607
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 4,Upper secondary education,Percent,10.17325
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Primary education,Percent,83.78006
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Primary education,Percent,95.71908
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Primary education,Percent,85.45391
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Lower secondary education,Percent,76.31595
-2011,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Lower secondary education,Percent,93.4605
-2014,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Lower secondary education,Percent,79.11438
-2007,SE_TOT_CPLR,,Male,Rural,Quintile 5 (richest),Upper secondary education,Percent,25.81477
-2007,SE_TOT_CPLR,,Male,Urban,,Primary education,Percent,76.88461
-2011,SE_TOT_CPLR,,Male,Urban,,Primary education,Percent,87.42595
-2014,SE_TOT_CPLR,,Male,Urban,,Primary education,Percent,86.84059
-2016,SE_TOT_CPLR,,Male,Urban,,Primary education,Percent,86.22394
-2007,SE_TOT_CPLR,,Male,Urban,,Lower secondary education,Percent,69.50385
-2011,SE_TOT_CPLR,,Male,Urban,,Lower secondary education,Percent,78.21576
-2014,SE_TOT_CPLR,,Male,Urban,,Lower secondary education,Percent,79.74046
-2016,SE_TOT_CPLR,,Male,Urban,,Lower secondary education,Percent,76.09844
-2007,SE_TOT_CPLR,,Male,Urban,,Upper secondary education,Percent,19.07345
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 1 (poorest),Primary education,Percent,51.01226
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 1 (poorest),Primary education,Percent,80.94787
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 1 (poorest),Primary education,Percent,76.74567
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 1 (poorest),Lower secondary education,Percent,41.6214
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 1 (poorest),Lower secondary education,Percent,46.37322
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 2,Primary education,Percent,50.53035
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 2,Primary education,Percent,76.22314
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 2,Primary education,Percent,85.16776
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 2,Lower secondary education,Percent,20.04698
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 2,Lower secondary education,Percent,76.58688
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 2,Lower secondary education,Percent,59.59055
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 3,Primary education,Percent,47.9758
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 3,Primary education,Percent,83.8007
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 3,Primary education,Percent,84.83354
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 3,Primary education,Percent,82.8844
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 3,Lower secondary education,Percent,30.84559
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 3,Lower secondary education,Percent,69.36165
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 3,Lower secondary education,Percent,79.68967
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 3,Lower secondary education,Percent,71.2562
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 4,Primary education,Percent,67.19431
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 4,Primary education,Percent,85.98402
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 4,Primary education,Percent,73.38802
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 4,Primary education,Percent,87.12906
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 4,Lower secondary education,Percent,56.59568
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 4,Lower secondary education,Percent,63.48729
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 4,Lower secondary education,Percent,66.93819
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 4,Lower secondary education,Percent,79.10221
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 4,Upper secondary education,Percent,8.77095
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Primary education,Percent,83.08259
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Primary education,Percent,92.39951
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Primary education,Percent,93.86486
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Primary education,Percent,93.66945
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,76.21151
-2011,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,90.72115
-2014,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,86.83593
-2016,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,93.41608
-2007,SE_TOT_CPLR,,Male,Urban,Quintile 5 (richest),Upper secondary education,Percent,22.85636
+2001,SE_TOT_CPLR,Nepal,,,,Primary education,Percent,52.28
+2007,SE_TOT_CPLR,Nepal,,,,Primary education,Percent,63.63037
+2011,SE_TOT_CPLR,Nepal,,,,Primary education,Percent,75.22154
+2014,SE_TOT_CPLR,Nepal,,,,Primary education,Percent,76.22546
+2016,SE_TOT_CPLR,Nepal,,,,Primary education,Percent,83.15811
+2001,SE_TOT_CPLR,Nepal,,,,Lower secondary education,Percent,30.55
+2007,SE_TOT_CPLR,Nepal,,,,Lower secondary education,Percent,42.3212
+2011,SE_TOT_CPLR,Nepal,,,,Lower secondary education,Percent,59.57858
+2014,SE_TOT_CPLR,Nepal,,,,Lower secondary education,Percent,65.57288
+2016,SE_TOT_CPLR,Nepal,,,,Lower secondary education,Percent,69.67529
+2001,SE_TOT_CPLR,Nepal,,,,Upper secondary education,Percent,5.37
+2007,SE_TOT_CPLR,Nepal,,,,Upper secondary education,Percent,6.8714
+2007,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Primary education,Percent,46.44803
+2011,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Primary education,Percent,58.40978
+2014,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Primary education,Percent,73.74908
+2016,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Primary education,Percent,81.75453
+2007,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Lower secondary education,Percent,23.51568
+2011,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Lower secondary education,Percent,35.61232
+2014,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Lower secondary education,Percent,52.71674
+2016,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Lower secondary education,Percent,57.39732
+2007,SE_TOT_CPLR,Nepal,,,Quintile 1 (poorest),Upper secondary education,Percent,0.65415
+2007,SE_TOT_CPLR,Nepal,,,Quintile 2,Primary education,Percent,54.74792
+2011,SE_TOT_CPLR,Nepal,,,Quintile 2,Primary education,Percent,66.78314
+2014,SE_TOT_CPLR,Nepal,,,Quintile 2,Primary education,Percent,67.1669
+2016,SE_TOT_CPLR,Nepal,,,Quintile 2,Primary education,Percent,80.91962
+2007,SE_TOT_CPLR,Nepal,,,Quintile 2,Lower secondary education,Percent,23.61334
+2011,SE_TOT_CPLR,Nepal,,,Quintile 2,Lower secondary education,Percent,48.81865
+2014,SE_TOT_CPLR,Nepal,,,Quintile 2,Lower secondary education,Percent,53.26983
+2016,SE_TOT_CPLR,Nepal,,,Quintile 2,Lower secondary education,Percent,61.89754
+2007,SE_TOT_CPLR,Nepal,,,Quintile 2,Upper secondary education,Percent,1.80124
+2007,SE_TOT_CPLR,Nepal,,,Quintile 3,Primary education,Percent,61.38099
+2011,SE_TOT_CPLR,Nepal,,,Quintile 3,Primary education,Percent,76.71439
+2014,SE_TOT_CPLR,Nepal,,,Quintile 3,Primary education,Percent,73.6508
+2016,SE_TOT_CPLR,Nepal,,,Quintile 3,Primary education,Percent,76.18215
+2007,SE_TOT_CPLR,Nepal,,,Quintile 3,Lower secondary education,Percent,29.67866
+2011,SE_TOT_CPLR,Nepal,,,Quintile 3,Lower secondary education,Percent,51.81602
+2014,SE_TOT_CPLR,Nepal,,,Quintile 3,Lower secondary education,Percent,62.26228
+2016,SE_TOT_CPLR,Nepal,,,Quintile 3,Lower secondary education,Percent,63.22414
+2007,SE_TOT_CPLR,Nepal,,,Quintile 3,Upper secondary education,Percent,1.71919
+2007,SE_TOT_CPLR,Nepal,,,Quintile 4,Primary education,Percent,74.55323
+2011,SE_TOT_CPLR,Nepal,,,Quintile 4,Primary education,Percent,83.3955
+2014,SE_TOT_CPLR,Nepal,,,Quintile 4,Primary education,Percent,80.10947
+2016,SE_TOT_CPLR,Nepal,,,Quintile 4,Primary education,Percent,83.95754
+2007,SE_TOT_CPLR,Nepal,,,Quintile 4,Lower secondary education,Percent,52.89787
+2011,SE_TOT_CPLR,Nepal,,,Quintile 4,Lower secondary education,Percent,70.96967
+2014,SE_TOT_CPLR,Nepal,,,Quintile 4,Lower secondary education,Percent,72.35493
+2016,SE_TOT_CPLR,Nepal,,,Quintile 4,Lower secondary education,Percent,72.18283
+2007,SE_TOT_CPLR,Nepal,,,Quintile 4,Upper secondary education,Percent,4.66766
+2007,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Primary education,Percent,83.46668
+2011,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Primary education,Percent,94.23521
+2014,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Primary education,Percent,91.15202
+2016,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Primary education,Percent,94.67683
+2007,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Lower secondary education,Percent,73.96413
+2011,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Lower secondary education,Percent,88.52224
+2014,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Lower secondary education,Percent,88.4768
+2016,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Lower secondary education,Percent,91.8877
+2007,SE_TOT_CPLR,Nepal,,,Quintile 5 (richest),Upper secondary education,Percent,19.77886
+2001,SE_TOT_CPLR,Nepal,,Rural,,Primary education,Percent,49.46
+2007,SE_TOT_CPLR,Nepal,,Rural,,Primary education,Percent,61.67941
+2011,SE_TOT_CPLR,Nepal,,Rural,,Primary education,Percent,73.6719
+2014,SE_TOT_CPLR,Nepal,,Rural,,Primary education,Percent,74.39197
+2016,SE_TOT_CPLR,Nepal,,Rural,,Primary education,Percent,77.56304
+2001,SE_TOT_CPLR,Nepal,,Rural,,Lower secondary education,Percent,26.72
+2007,SE_TOT_CPLR,Nepal,,Rural,,Lower secondary education,Percent,37.89636
+2011,SE_TOT_CPLR,Nepal,,Rural,,Lower secondary education,Percent,56.52626
+2014,SE_TOT_CPLR,Nepal,,Rural,,Lower secondary education,Percent,62.08112
+2016,SE_TOT_CPLR,Nepal,,Rural,,Lower secondary education,Percent,60.05049
+2001,SE_TOT_CPLR,Nepal,,Rural,,Upper secondary education,Percent,3.38
+2007,SE_TOT_CPLR,Nepal,,Rural,,Upper secondary education,Percent,4.1991
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Primary education,Percent,46.36719
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Primary education,Percent,58.51268
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Primary education,Percent,73.46685
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Primary education,Percent,83.5969
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,23.61481
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,35.80956
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,53.16538
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Lower secondary education,Percent,59.77013
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 1 (poorest),Upper secondary education,Percent,0.66463
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Primary education,Percent,54.55914
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Primary education,Percent,67.08669
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Primary education,Percent,66.84954
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Primary education,Percent,76.21914
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Lower secondary education,Percent,23.71645
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Lower secondary education,Percent,49.17059
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Lower secondary education,Percent,52.59062
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Lower secondary education,Percent,59.6297
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 2,Upper secondary education,Percent,1.93809
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Primary education,Percent,61.753
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Primary education,Percent,76.72974
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Primary education,Percent,73.19997
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Primary education,Percent,69.36705
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Lower secondary education,Percent,29.9015
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Lower secondary education,Percent,51.20454
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Lower secondary education,Percent,62.05598
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Lower secondary education,Percent,58.18361
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 3,Upper secondary education,Percent,1.79686
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Primary education,Percent,75.98124
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Primary education,Percent,83.07404
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Primary education,Percent,81.05399
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Primary education,Percent,75.92036
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Lower secondary education,Percent,53.21393
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Lower secondary education,Percent,71.86572
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Lower secondary education,Percent,72.76559
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Lower secondary education,Percent,60.82517
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 4,Upper secondary education,Percent,4.54065
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Primary education,Percent,84.56799
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Primary education,Percent,95.27268
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Primary education,Percent,87.08804
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Primary education,Percent,85.99329
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Lower secondary education,Percent,75.98495
+2011,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Lower secondary education,Percent,88.96557
+2014,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Lower secondary education,Percent,85.12705
+2016,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Lower secondary education,Percent,73.67974
+2007,SE_TOT_CPLR,Nepal,,Rural,Quintile 5 (richest),Upper secondary education,Percent,17.08885
+2001,SE_TOT_CPLR,Nepal,,Urban,,Primary education,Percent,75.83
+2007,SE_TOT_CPLR,Nepal,,Urban,,Primary education,Percent,75.84077
+2011,SE_TOT_CPLR,Nepal,,Urban,,Primary education,Percent,86.54192
+2014,SE_TOT_CPLR,Nepal,,Urban,,Primary education,Percent,87.52516
+2016,SE_TOT_CPLR,Nepal,,Urban,,Primary education,Percent,87.20386
+2001,SE_TOT_CPLR,Nepal,,Urban,,Lower secondary education,Percent,61.01
+2007,SE_TOT_CPLR,Nepal,,Urban,,Lower secondary education,Percent,63.84201
+2011,SE_TOT_CPLR,Nepal,,Urban,,Lower secondary education,Percent,77.52374
+2014,SE_TOT_CPLR,Nepal,,Urban,,Lower secondary education,Percent,82.03268
+2016,SE_TOT_CPLR,Nepal,,Urban,,Lower secondary education,Percent,75.34138
+2001,SE_TOT_CPLR,Nepal,,Urban,,Upper secondary education,Percent,18.22
+2007,SE_TOT_CPLR,Nepal,,Urban,,Upper secondary education,Percent,16.64811
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Primary education,Percent,50.11575
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Primary education,Percent,52.23219
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Primary education,Percent,82.53073
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Primary education,Percent,78.65067
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,18.5484
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,26.0511
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,36.73463
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 1 (poorest),Lower secondary education,Percent,53.14885
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Primary education,Percent,63.72432
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Primary education,Percent,53.66763
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Primary education,Percent,74.5393
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Primary education,Percent,84.80207
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Lower secondary education,Percent,20.47132
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Lower secondary education,Percent,36.00732
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Lower secondary education,Percent,67.8237
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 2,Lower secondary education,Percent,63.33834
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Primary education,Percent,51.78432
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Primary education,Percent,76.42323
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Primary education,Percent,83.29626
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Primary education,Percent,83.02954
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Lower secondary education,Percent,24.7648
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Lower secondary education,Percent,65.50297
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Lower secondary education,Percent,66.10715
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 3,Lower secondary education,Percent,67.75967
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Primary education,Percent,64.51801
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Primary education,Percent,85.08331
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Primary education,Percent,74.63296
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Primary education,Percent,88.35
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Lower secondary education,Percent,50.44034
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Lower secondary education,Percent,66.78238
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Lower secondary education,Percent,70.49654
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Lower secondary education,Percent,77.46302
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 4,Upper secondary education,Percent,5.39116
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Primary education,Percent,82.50175
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Primary education,Percent,92.66089
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Primary education,Percent,94.24215
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Primary education,Percent,95.33183
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Lower secondary education,Percent,72.53409
+2011,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Lower secondary education,Percent,88.01306
+2014,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Lower secondary education,Percent,90.74529
+2016,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Lower secondary education,Percent,93.26904
+2007,SE_TOT_CPLR,Nepal,,Urban,Quintile 5 (richest),Upper secondary education,Percent,21.45358
+2001,SE_TOT_CPLR,Nepal,Female,,,Primary education,Percent,44.57
+2007,SE_TOT_CPLR,Nepal,Female,,,Primary education,Percent,58.81388
+2011,SE_TOT_CPLR,Nepal,Female,,,Primary education,Percent,71.70908
+2014,SE_TOT_CPLR,Nepal,Female,,,Primary education,Percent,75.60509
+2016,SE_TOT_CPLR,Nepal,Female,,,Primary education,Percent,82.3541
+2001,SE_TOT_CPLR,Nepal,Female,,,Lower secondary education,Percent,25.63
+2007,SE_TOT_CPLR,Nepal,Female,,,Lower secondary education,Percent,36.98014
+2011,SE_TOT_CPLR,Nepal,Female,,,Lower secondary education,Percent,54.55937
+2014,SE_TOT_CPLR,Nepal,Female,,,Lower secondary education,Percent,62.8549
+2016,SE_TOT_CPLR,Nepal,Female,,,Lower secondary education,Percent,67.96679
+2001,SE_TOT_CPLR,Nepal,Female,,,Upper secondary education,Percent,3.38
+2007,SE_TOT_CPLR,Nepal,Female,,,Upper secondary education,Percent,4.19913
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Primary education,Percent,35.75374
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Primary education,Percent,53.5021
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Primary education,Percent,73.81172
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Primary education,Percent,80.84746
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Lower secondary education,Percent,18.64259
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Lower secondary education,Percent,26.21393
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Lower secondary education,Percent,49.445
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Lower secondary education,Percent,58.581
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 1 (poorest),Upper secondary education,Percent,0.76451
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Primary education,Percent,49.23765
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Primary education,Percent,64.01551
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Primary education,Percent,64.71143
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Primary education,Percent,79.16949
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Lower secondary education,Percent,20.67638
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Lower secondary education,Percent,45.87336
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Lower secondary education,Percent,48.16346
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Lower secondary education,Percent,62.81736
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 2,Upper secondary education,Percent,0.61275
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Primary education,Percent,56.12109
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Primary education,Percent,70.84213
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Primary education,Percent,72.32809
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Primary education,Percent,74.01636
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Lower secondary education,Percent,26.18271
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Lower secondary education,Percent,46.39151
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Lower secondary education,Percent,58.25831
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Lower secondary education,Percent,60.05073
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 3,Upper secondary education,Percent,0.07218
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Primary education,Percent,72.99531
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Primary education,Percent,83.86273
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Primary education,Percent,80.32063
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Primary education,Percent,84.07494
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Lower secondary education,Percent,50.0038
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Lower secondary education,Percent,69.40162
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Lower secondary education,Percent,69.75297
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Lower secondary education,Percent,69.077
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 4,Upper secondary education,Percent,1.59582
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Primary education,Percent,83.55772
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Primary education,Percent,94.12934
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Primary education,Percent,92.25485
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Primary education,Percent,96.29373
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Lower secondary education,Percent,71.28803
+2011,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Lower secondary education,Percent,85.20126
+2014,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Lower secondary education,Percent,93.14192
+2016,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Lower secondary education,Percent,91.10503
+2007,SE_TOT_CPLR,Nepal,Female,,Quintile 5 (richest),Upper secondary education,Percent,16.12992
+2007,SE_TOT_CPLR,Nepal,Female,Rural,,Primary education,Percent,56.52259
+2011,SE_TOT_CPLR,Nepal,Female,Rural,,Primary education,Percent,69.99562
+2014,SE_TOT_CPLR,Nepal,Female,Rural,,Primary education,Percent,73.70902
+2016,SE_TOT_CPLR,Nepal,Female,Rural,,Primary education,Percent,75.11507
+2007,SE_TOT_CPLR,Nepal,Female,Rural,,Lower secondary education,Percent,33.45314
+2011,SE_TOT_CPLR,Nepal,Female,Rural,,Lower secondary education,Percent,50.97225
+2014,SE_TOT_CPLR,Nepal,Female,Rural,,Lower secondary education,Percent,58.83623
+2016,SE_TOT_CPLR,Nepal,Female,Rural,,Lower secondary education,Percent,56.89827
+2007,SE_TOT_CPLR,Nepal,Female,Rural,,Upper secondary education,Percent,2.02964
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Primary education,Percent,35.47561
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Primary education,Percent,53.69672
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Primary education,Percent,73.53191
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Primary education,Percent,80.96201
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,18.91756
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,26.2139
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,49.88022
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Lower secondary education,Percent,59.57008
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 1 (poorest),Upper secondary education,Percent,0.77679
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Primary education,Percent,49.0802
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Primary education,Percent,64.16302
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Primary education,Percent,64.44589
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Primary education,Percent,73.87392
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Lower secondary education,Percent,20.66905
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Lower secondary education,Percent,46.07276
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Lower secondary education,Percent,47.54568
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Lower secondary education,Percent,57.40441
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 2,Upper secondary education,Percent,0.65745
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Primary education,Percent,56.11734
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Primary education,Percent,70.90469
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Primary education,Percent,71.91736
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Primary education,Percent,66.07231
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Lower secondary education,Percent,26.41801
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Lower secondary education,Percent,45.68939
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Lower secondary education,Percent,58.41933
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Lower secondary education,Percent,54.39867
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 3,Upper secondary education,Percent,0.07502
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Primary education,Percent,74.4369
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Primary education,Percent,83.87191
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Primary education,Percent,80.94952
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Primary education,Percent,75.05204
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Lower secondary education,Percent,50.65564
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Lower secondary education,Percent,69.28082
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Lower secondary education,Percent,68.65011
+2016,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Lower secondary education,Percent,56.14554
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 4,Upper secondary education,Percent,1.35388
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Primary education,Percent,85.07551
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Primary education,Percent,94.86418
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Primary education,Percent,88.95193
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Lower secondary education,Percent,75.61576
+2011,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Lower secondary education,Percent,84.82095
+2014,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Lower secondary education,Percent,90.247
+2007,SE_TOT_CPLR,Nepal,Female,Rural,Quintile 5 (richest),Upper secondary education,Percent,11.55428
+2007,SE_TOT_CPLR,Nepal,Female,Urban,,Primary education,Percent,74.70972
+2011,SE_TOT_CPLR,Nepal,Female,Urban,,Primary education,Percent,85.54564
+2014,SE_TOT_CPLR,Nepal,Female,Urban,,Primary education,Percent,88.26855
+2016,SE_TOT_CPLR,Nepal,Female,Urban,,Primary education,Percent,88.25627
+2007,SE_TOT_CPLR,Nepal,Female,Urban,,Lower secondary education,Percent,57.64083
+2011,SE_TOT_CPLR,Nepal,Female,Urban,,Lower secondary education,Percent,76.89812
+2014,SE_TOT_CPLR,Nepal,Female,Urban,,Lower secondary education,Percent,84.86743
+2016,SE_TOT_CPLR,Nepal,Female,Urban,,Lower secondary education,Percent,74.70448
+2007,SE_TOT_CPLR,Nepal,Female,Urban,,Upper secondary education,Percent,14.23089
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 1 (poorest),Primary education,Percent,49.2142
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 1 (poorest),Primary education,Percent,39.6262
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 1 (poorest),Primary education,Percent,84.6346
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 1 (poorest),Primary education,Percent,80.63904
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 1 (poorest),Lower secondary education,Percent,6.47637
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 1 (poorest),Lower secondary education,Percent,56.9784
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Primary education,Percent,55.31514
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Primary education,Percent,56.98276
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Primary education,Percent,72.13831
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Primary education,Percent,84.41327
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Lower secondary education,Percent,20.96828
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Lower secondary education,Percent,37.811
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Lower secondary education,Percent,60.78862
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 2,Lower secondary education,Percent,66.32334
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Primary education,Percent,56.22236
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Primary education,Percent,69.71805
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Primary education,Percent,81.70695
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Primary education,Percent,83.19475
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Lower secondary education,Percent,21.51662
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Lower secondary education,Percent,62.3705
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Lower secondary education,Percent,55.55971
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 3,Lower secondary education,Percent,65.06721
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Primary education,Percent,61.2252
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Primary education,Percent,83.80869
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Primary education,Percent,76.06761
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Primary education,Percent,89.68022
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Lower secondary education,Percent,44.58051
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Lower secondary education,Percent,70.01537
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Lower secondary education,Percent,76.3196
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Lower secondary education,Percent,75.86554
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 4,Upper secondary education,Percent,3.07834
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Primary education,Percent,81.87231
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Primary education,Percent,92.93546
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Primary education,Percent,94.62802
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Primary education,Percent,97.07778
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,68.09111
+2011,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,85.62861
+2014,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,95.48434
+2016,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Lower secondary education,Percent,93.13476
+2007,SE_TOT_CPLR,Nepal,Female,Urban,Quintile 5 (richest),Upper secondary education,Percent,19.85696
+2001,SE_TOT_CPLR,Nepal,Male,,,Primary education,Percent,60.28
+2007,SE_TOT_CPLR,Nepal,Male,,,Primary education,Percent,68.95041
+2011,SE_TOT_CPLR,Nepal,Male,,,Primary education,Percent,78.93256
+2014,SE_TOT_CPLR,Nepal,Male,,,Primary education,Percent,76.88139
+2016,SE_TOT_CPLR,Nepal,Male,,,Primary education,Percent,83.98817
+2001,SE_TOT_CPLR,Nepal,Male,,,Lower secondary education,Percent,36.67
+2007,SE_TOT_CPLR,Nepal,Male,,,Lower secondary education,Percent,49.06918
+2011,SE_TOT_CPLR,Nepal,Male,,,Lower secondary education,Percent,65.75764
+2014,SE_TOT_CPLR,Nepal,Male,,,Lower secondary education,Percent,68.36629
+2016,SE_TOT_CPLR,Nepal,Male,,,Lower secondary education,Percent,71.76302
+2001,SE_TOT_CPLR,Nepal,Male,,,Upper secondary education,Percent,8.1
+2007,SE_TOT_CPLR,Nepal,Male,,,Upper secondary education,Percent,10.9582
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Primary education,Percent,58.56118
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Primary education,Percent,64.87993
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Primary education,Percent,73.67831
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Primary education,Percent,82.71322
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Lower secondary education,Percent,31.57427
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Lower secondary education,Percent,48.57789
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Lower secondary education,Percent,56.40549
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Lower secondary education,Percent,55.62227
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 1 (poorest),Upper secondary education,Percent,0.46449
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Primary education,Percent,61.89812
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Primary education,Percent,69.97235
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Primary education,Percent,69.55293
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Primary education,Percent,82.87968
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Lower secondary education,Percent,27.9605
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Lower secondary education,Percent,52.47877
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Lower secondary education,Percent,59.03199
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Lower secondary education,Percent,60.72276
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 2,Upper secondary education,Percent,3.93287
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Primary education,Percent,66.28458
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Primary education,Percent,82.53158
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Primary education,Percent,75.10269
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Primary education,Percent,78.37257
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Lower secondary education,Percent,34.68941
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Lower secondary education,Percent,58.74224
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Lower secondary education,Percent,66.41428
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Lower secondary education,Percent,67.28465
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 3,Upper secondary education,Percent,4.48229
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Primary education,Percent,76.18697
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Primary education,Percent,83.0035
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Primary education,Percent,79.87087
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Primary education,Percent,83.83933
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Lower secondary education,Percent,56.35163
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Lower secondary education,Percent,72.81801
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Lower secondary education,Percent,74.73174
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Lower secondary education,Percent,75.64617
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 4,Upper secondary education,Percent,9.94208
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Primary education,Percent,83.35989
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Primary education,Percent,94.34474
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Primary education,Percent,90.12327
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Primary education,Percent,93.13516
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Lower secondary education,Percent,76.25385
+2011,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Lower secondary education,Percent,92.20203
+2014,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Lower secondary education,Percent,84.03764
+2016,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Lower secondary education,Percent,92.70837
+2007,SE_TOT_CPLR,Nepal,Male,,Quintile 5 (richest),Upper secondary education,Percent,23.77997
+2007,SE_TOT_CPLR,Nepal,Male,Rural,,Primary education,Percent,67.54168
+2011,SE_TOT_CPLR,Nepal,Male,Rural,,Primary education,Percent,77.64993
+2014,SE_TOT_CPLR,Nepal,Male,Rural,,Primary education,Percent,75.13045
+2016,SE_TOT_CPLR,Nepal,Male,Rural,,Primary education,Percent,80.4795
+2007,SE_TOT_CPLR,Nepal,Male,Rural,,Lower secondary education,Percent,43.90357
+2011,SE_TOT_CPLR,Nepal,Male,Rural,,Lower secondary education,Percent,63.49002
+2014,SE_TOT_CPLR,Nepal,Male,Rural,,Lower secondary education,Percent,65.58968
+2016,SE_TOT_CPLR,Nepal,Male,Rural,,Lower secondary education,Percent,64.08818
+2007,SE_TOT_CPLR,Nepal,Male,Rural,,Upper secondary education,Percent,7.94114
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Primary education,Percent,58.73935
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Primary education,Percent,64.90023
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Primary education,Percent,73.39239
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Primary education,Percent,86.54915
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,31.32955
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,49.08051
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,56.91075
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Lower secondary education,Percent,60.04433
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 1 (poorest),Upper secondary education,Percent,0.4719
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Primary education,Percent,61.59152
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Primary education,Percent,70.47116
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Primary education,Percent,69.21786
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Primary education,Percent,79.47212
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Lower secondary education,Percent,28.3118
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Lower secondary education,Percent,53.04344
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Lower secondary education,Percent,58.25738
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Lower secondary education,Percent,62.54962
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 2,Upper secondary education,Percent,4.25313
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Primary education,Percent,67.02373
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Primary education,Percent,82.46835
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Primary education,Percent,74.61621
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Primary education,Percent,73.20076
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Lower secondary education,Percent,34.83608
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Lower secondary education,Percent,58.2578
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Lower secondary education,Percent,65.78375
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Lower secondary education,Percent,62.94761
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 3,Upper secondary education,Percent,4.72955
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Primary education,Percent,77.66043
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Primary education,Percent,82.38268
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Primary education,Percent,81.17754
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Primary education,Percent,76.95629
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Lower secondary education,Percent,56.31774
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Lower secondary education,Percent,75.00953
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Lower secondary education,Percent,76.86573
+2016,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Lower secondary education,Percent,67.07607
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 4,Upper secondary education,Percent,10.17325
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Primary education,Percent,83.78006
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Primary education,Percent,95.71908
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Primary education,Percent,85.45391
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Lower secondary education,Percent,76.31595
+2011,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Lower secondary education,Percent,93.4605
+2014,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Lower secondary education,Percent,79.11438
+2007,SE_TOT_CPLR,Nepal,Male,Rural,Quintile 5 (richest),Upper secondary education,Percent,25.81477
+2007,SE_TOT_CPLR,Nepal,Male,Urban,,Primary education,Percent,76.88461
+2011,SE_TOT_CPLR,Nepal,Male,Urban,,Primary education,Percent,87.42595
+2014,SE_TOT_CPLR,Nepal,Male,Urban,,Primary education,Percent,86.84059
+2016,SE_TOT_CPLR,Nepal,Male,Urban,,Primary education,Percent,86.22394
+2007,SE_TOT_CPLR,Nepal,Male,Urban,,Lower secondary education,Percent,69.50385
+2011,SE_TOT_CPLR,Nepal,Male,Urban,,Lower secondary education,Percent,78.21576
+2014,SE_TOT_CPLR,Nepal,Male,Urban,,Lower secondary education,Percent,79.74046
+2016,SE_TOT_CPLR,Nepal,Male,Urban,,Lower secondary education,Percent,76.09844
+2007,SE_TOT_CPLR,Nepal,Male,Urban,,Upper secondary education,Percent,19.07345
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 1 (poorest),Primary education,Percent,51.01226
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 1 (poorest),Primary education,Percent,80.94787
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 1 (poorest),Primary education,Percent,76.74567
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 1 (poorest),Lower secondary education,Percent,41.6214
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 1 (poorest),Lower secondary education,Percent,46.37322
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 2,Primary education,Percent,50.53035
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 2,Primary education,Percent,76.22314
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 2,Primary education,Percent,85.16776
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 2,Lower secondary education,Percent,20.04698
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 2,Lower secondary education,Percent,76.58688
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 2,Lower secondary education,Percent,59.59055
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Primary education,Percent,47.9758
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Primary education,Percent,83.8007
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Primary education,Percent,84.83354
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Primary education,Percent,82.8844
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Lower secondary education,Percent,30.84559
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Lower secondary education,Percent,69.36165
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Lower secondary education,Percent,79.68967
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 3,Lower secondary education,Percent,71.2562
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Primary education,Percent,67.19431
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Primary education,Percent,85.98402
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Primary education,Percent,73.38802
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Primary education,Percent,87.12906
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Lower secondary education,Percent,56.59568
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Lower secondary education,Percent,63.48729
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Lower secondary education,Percent,66.93819
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Lower secondary education,Percent,79.10221
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 4,Upper secondary education,Percent,8.77095
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Primary education,Percent,83.08259
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Primary education,Percent,92.39951
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Primary education,Percent,93.86486
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Primary education,Percent,93.66945
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,76.21151
+2011,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,90.72115
+2014,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,86.83593
+2016,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Lower secondary education,Percent,93.41608
+2007,SE_TOT_CPLR,Nepal,Male,Urban,Quintile 5 (richest),Upper secondary education,Percent,22.85636

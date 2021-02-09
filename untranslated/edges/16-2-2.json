@@ -1,1 +1,1 @@
-{"From":["SEX"],"To":["AGE"]}
+{"From":["REF_AREA","SEX"],"To":["SEX","AGE"]}

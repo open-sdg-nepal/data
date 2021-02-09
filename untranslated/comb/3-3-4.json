@@ -1,1 +1,1 @@
-{"data":{"Year":["2015"],"Series":["SH_HAP_HBSAG"],"REF_AREA":[null],"AGE":["Y0T4"],"Units":["PT"],"Value":[0.3]},"edges":[]}
+{"data":{"Year":["2015"],"Series":["SH_HAP_HBSAG"],"REF_AREA":["524"],"AGE":["Y0T4"],"Units":["PT"],"Value":[0.3]},"edges":{"From":["REF_AREA"],"To":["AGE"]}}

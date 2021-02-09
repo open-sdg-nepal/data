@@ -1,6 +1,6 @@
 Year,Series,Reference area,Age,Units,Value
-2011,SD_MDP_ANDI,,,Percent,47.5
-2014,SD_MDP_ANDI,,,Percent,44.23
-2011,SD_MDP_MUHC,,,Percent,39.1
-2014,SD_MDP_MUHC,,,Percent,28.62
-2014,SD_MDP_MUHC,,under 10 years old,Percent,41.61
+2011,SD_MDP_ANDI,Nepal,,Percent,47.5
+2014,SD_MDP_ANDI,Nepal,,Percent,44.23
+2011,SD_MDP_MUHC,Nepal,,Percent,39.1
+2014,SD_MDP_MUHC,Nepal,,Percent,28.62
+2014,SD_MDP_MUHC,Nepal,under 10 years old,Percent,41.61
