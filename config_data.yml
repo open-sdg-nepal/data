@@ -42,7 +42,7 @@ inputs:
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
-      REF_AREA|Nepal: ''
+      REF_AREA|524: ''
     reference_area: 524
     import_codes: true
     drop_singleton_dimensions: false
