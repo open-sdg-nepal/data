@@ -1,49 +1,49 @@
 Year,Series,Reference area,Sex,Age,Units,Value
-2015,Prevalence of moderate or severe food insecurity in the population,Nepal,,,Percent,29.53218
-2016,Prevalence of moderate or severe food insecurity in the population,Nepal,,,Percent,31.15823
-2017,Prevalence of moderate or severe food insecurity in the population,Nepal,,,Percent,31.61175
-2018,Prevalence of moderate or severe food insecurity in the population,Nepal,,,Percent,33.81686
-2015,Prevalence of moderate or severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,27.77659
-2016,Prevalence of moderate or severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,30.47748
-2017,Prevalence of moderate or severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,30.47005
-2018,Prevalence of moderate or severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,30.75986
-2015,Prevalence of moderate or severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,26.886
-2016,Prevalence of moderate or severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,27.45748
-2017,Prevalence of moderate or severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,28.8108
-2018,Prevalence of moderate or severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,33.07161
-2015,Population in moderate or severe food insecurity (number),Nepal,,,Number,7991.8447
-2016,Population in moderate or severe food insecurity (number),Nepal,,,Number,8507.35421
-2017,Population in moderate or severe food insecurity (number),Nepal,,,Number,8745.05644
-2018,Population in moderate or severe food insecurity (number),Nepal,,,Number,9506.72119
-2015,Population in moderate or severe food insecurity (number),Nepal,Female,15 years old and over,Number,2830.86012
-2016,Population in moderate or severe food insecurity (number),Nepal,Female,15 years old and over,Number,3193.95464
-2017,Population in moderate or severe food insecurity (number),Nepal,Female,15 years old and over,Number,3283.71339
-2018,Population in moderate or severe food insecurity (number),Nepal,Female,15 years old and over,Number,3405.97619
-2015,Population in moderate or severe food insecurity (number),Nepal,Male,15 years old and over,Number,2120.13437
-2016,Population in moderate or severe food insecurity (number),Nepal,Male,15 years old and over,Number,2196.90535
-2017,Population in moderate or severe food insecurity (number),Nepal,Male,15 years old and over,Number,2368.67413
-2018,Population in moderate or severe food insecurity (number),Nepal,Male,15 years old and over,Number,2808.05848
-2015,Prevalence of severe food insecurity in the population,Nepal,,,Percent,10.43539
-2016,Prevalence of severe food insecurity in the population,Nepal,,,Percent,9.61212
-2017,Prevalence of severe food insecurity in the population,Nepal,,,Percent,9.56021
-2018,Prevalence of severe food insecurity in the population,Nepal,,,Percent,10.33187
-2015,Prevalence of severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,9.23996
-2016,Prevalence of severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,9.13465
-2017,Prevalence of severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,9.54288
-2018,Prevalence of severe food insecurity in the population,Nepal,Female,15 years old and over,Percent,9.30438
-2015,Prevalence of severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,9.85786
-2016,Prevalence of severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,8.24075
-2017,Prevalence of severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,7.83129
-2018,Prevalence of severe food insecurity in the population,Nepal,Male,15 years old and over,Percent,9.48336
-2015,Population in severe food insecurity (number),Nepal,,,Number,2823.97
-2016,Population in severe food insecurity (number),Nepal,,,Number,2624.47
-2017,Population in severe food insecurity (number),Nepal,,,Number,2644.73
-2018,Population in severe food insecurity (number),Nepal,,,Number,2904.53
-2015,Population in severe food insecurity (number),Nepal,Female,15 years old and over,Number,941.69
-2016,Population in severe food insecurity (number),Nepal,Female,15 years old and over,Number,957.29
-2017,Population in severe food insecurity (number),Nepal,Female,15 years old and over,Number,1028.42
-2018,Population in severe food insecurity (number),Nepal,Female,15 years old and over,Number,1030.26
-2015,Population in severe food insecurity (number),Nepal,Male,15 years old and over,Number,777.36
-2016,Population in severe food insecurity (number),Nepal,Male,15 years old and over,Number,659.35
-2017,Population in severe food insecurity (number),Nepal,Male,15 years old and over,Number,643.85
-2018,Population in severe food insecurity (number),Nepal,Male,15 years old and over,Number,805.22
+2015,Prevalence of moderate or severe food insecurity in the population,,,,Percent,29.53218
+2016,Prevalence of moderate or severe food insecurity in the population,,,,Percent,31.15823
+2017,Prevalence of moderate or severe food insecurity in the population,,,,Percent,31.61175
+2018,Prevalence of moderate or severe food insecurity in the population,,,,Percent,33.81686
+2015,Prevalence of moderate or severe food insecurity in the population,,Female,15 years old and over,Percent,27.77659
+2016,Prevalence of moderate or severe food insecurity in the population,,Female,15 years old and over,Percent,30.47748
+2017,Prevalence of moderate or severe food insecurity in the population,,Female,15 years old and over,Percent,30.47005
+2018,Prevalence of moderate or severe food insecurity in the population,,Female,15 years old and over,Percent,30.75986
+2015,Prevalence of moderate or severe food insecurity in the population,,Male,15 years old and over,Percent,26.886
+2016,Prevalence of moderate or severe food insecurity in the population,,Male,15 years old and over,Percent,27.45748
+2017,Prevalence of moderate or severe food insecurity in the population,,Male,15 years old and over,Percent,28.8108
+2018,Prevalence of moderate or severe food insecurity in the population,,Male,15 years old and over,Percent,33.07161
+2015,Population in moderate or severe food insecurity (number),,,,Number,7991.8447
+2016,Population in moderate or severe food insecurity (number),,,,Number,8507.35421
+2017,Population in moderate or severe food insecurity (number),,,,Number,8745.05644
+2018,Population in moderate or severe food insecurity (number),,,,Number,9506.72119
+2015,Population in moderate or severe food insecurity (number),,Female,15 years old and over,Number,2830.86012
+2016,Population in moderate or severe food insecurity (number),,Female,15 years old and over,Number,3193.95464
+2017,Population in moderate or severe food insecurity (number),,Female,15 years old and over,Number,3283.71339
+2018,Population in moderate or severe food insecurity (number),,Female,15 years old and over,Number,3405.97619
+2015,Population in moderate or severe food insecurity (number),,Male,15 years old and over,Number,2120.13437
+2016,Population in moderate or severe food insecurity (number),,Male,15 years old and over,Number,2196.90535
+2017,Population in moderate or severe food insecurity (number),,Male,15 years old and over,Number,2368.67413
+2018,Population in moderate or severe food insecurity (number),,Male,15 years old and over,Number,2808.05848
+2015,Prevalence of severe food insecurity in the population,,,,Percent,10.43539
+2016,Prevalence of severe food insecurity in the population,,,,Percent,9.61212
+2017,Prevalence of severe food insecurity in the population,,,,Percent,9.56021
+2018,Prevalence of severe food insecurity in the population,,,,Percent,10.33187
+2015,Prevalence of severe food insecurity in the population,,Female,15 years old and over,Percent,9.23996
+2016,Prevalence of severe food insecurity in the population,,Female,15 years old and over,Percent,9.13465
+2017,Prevalence of severe food insecurity in the population,,Female,15 years old and over,Percent,9.54288
+2018,Prevalence of severe food insecurity in the population,,Female,15 years old and over,Percent,9.30438
+2015,Prevalence of severe food insecurity in the population,,Male,15 years old and over,Percent,9.85786
+2016,Prevalence of severe food insecurity in the population,,Male,15 years old and over,Percent,8.24075
+2017,Prevalence of severe food insecurity in the population,,Male,15 years old and over,Percent,7.83129
+2018,Prevalence of severe food insecurity in the population,,Male,15 years old and over,Percent,9.48336
+2015,Population in severe food insecurity (number),,,,Number,2823.97
+2016,Population in severe food insecurity (number),,,,Number,2624.47
+2017,Population in severe food insecurity (number),,,,Number,2644.73
+2018,Population in severe food insecurity (number),,,,Number,2904.53
+2015,Population in severe food insecurity (number),,Female,15 years old and over,Number,941.69
+2016,Population in severe food insecurity (number),,Female,15 years old and over,Number,957.29
+2017,Population in severe food insecurity (number),,Female,15 years old and over,Number,1028.42
+2018,Population in severe food insecurity (number),,Female,15 years old and over,Number,1030.26
+2015,Population in severe food insecurity (number),,Male,15 years old and over,Number,777.36
+2016,Population in severe food insecurity (number),,Male,15 years old and over,Number,659.35
+2017,Population in severe food insecurity (number),,Male,15 years old and over,Number,643.85
+2018,Population in severe food insecurity (number),,Male,15 years old and over,Number,805.22

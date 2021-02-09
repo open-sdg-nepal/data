@@ -1,14 +1,14 @@
 Year,Series,Reference area,Income or wealth quantile,Units,Value
-2019,Proportion of population covered by at least one social protection benefit,Nepal,,Percent,21.0
-2019,Proportion of children/households receiving child/family cash benefit,Nepal,,Percent,39.3
-2019,Proportion of population with severe disabilities receiving disability cash benefit,Nepal,,Percent,3.9
-2000,Proportion of population above statutory pensionable age receiving a pension,Nepal,,Percent,33.0
-2010,Proportion of population above statutory pensionable age receiving a pension,Nepal,,Percent,62.5
-2019,Proportion of population above statutory pensionable age receiving a pension,Nepal,,Percent,66.1
-2018,Proportion of poor population receiving social assistance cash benefit,Nepal,,Percent,70.1
-2010,Proportion of population covered by social assistance programs,Nepal,,Percent,40.13761
-2010,Proportion of population covered by social assistance programs,Nepal,Quintile 1 (poorest),Percent,48.9455
-2010,Proportion of population covered by social insurance programs,Nepal,,Percent,5.25896
-2010,Proportion of population covered by social insurance programs,Nepal,Quintile 1 (poorest),Percent,0.56878
-2019,Proportion of vulnerable population receiving social assistance cash benefit,Nepal,,Percent,18.3
-2019,Proportion of employed population covered in the event of work injury,Nepal,,Percent,3.8
+2019,Proportion of population covered by at least one social protection benefit,,,Percent,21.0
+2019,Proportion of children/households receiving child/family cash benefit,,,Percent,39.3
+2019,Proportion of population with severe disabilities receiving disability cash benefit,,,Percent,3.9
+2000,Proportion of population above statutory pensionable age receiving a pension,,,Percent,33.0
+2010,Proportion of population above statutory pensionable age receiving a pension,,,Percent,62.5
+2019,Proportion of population above statutory pensionable age receiving a pension,,,Percent,66.1
+2018,Proportion of poor population receiving social assistance cash benefit,,,Percent,70.1
+2010,Proportion of population covered by social assistance programs,,,Percent,40.13761
+2010,Proportion of population covered by social assistance programs,,Quintile 1 (poorest),Percent,48.9455
+2010,Proportion of population covered by social insurance programs,,,Percent,5.25896
+2010,Proportion of population covered by social insurance programs,,Quintile 1 (poorest),Percent,0.56878
+2019,Proportion of vulnerable population receiving social assistance cash benefit,,,Percent,18.3
+2019,Proportion of employed population covered in the event of work injury,,,Percent,3.8

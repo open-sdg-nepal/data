@@ -1,31 +1,31 @@
 Year,Series,Reference area,Sex,Units,Value
-2000,Suicide mortality rate,Nepal,,"Per 100,000 population",15.4
-2005,Suicide mortality rate,Nepal,,"Per 100,000 population",12.5
-2010,Suicide mortality rate,Nepal,,"Per 100,000 population",10.5
-2015,Suicide mortality rate,Nepal,,"Per 100,000 population",9.1
-2016,Suicide mortality rate,Nepal,,"Per 100,000 population",8.8
-2000,Suicide mortality rate,Nepal,Female,"Per 100,000 population",14.0
-2005,Suicide mortality rate,Nepal,Female,"Per 100,000 population",12.0
-2010,Suicide mortality rate,Nepal,Female,"Per 100,000 population",10.2
-2015,Suicide mortality rate,Nepal,Female,"Per 100,000 population",8.3
-2016,Suicide mortality rate,Nepal,Female,"Per 100,000 population",7.9
-2000,Suicide mortality rate,Nepal,Male,"Per 100,000 population",16.8
-2005,Suicide mortality rate,Nepal,Male,"Per 100,000 population",13.0
-2010,Suicide mortality rate,Nepal,Male,"Per 100,000 population",10.7
-2015,Suicide mortality rate,Nepal,Male,"Per 100,000 population",10.0
-2016,Suicide mortality rate,Nepal,Male,"Per 100,000 population",9.7
-2000,Number of deaths attributed to suicide,Nepal,,Number,3649.0
-2005,Number of deaths attributed to suicide,Nepal,,Number,3208.0
-2010,Number of deaths attributed to suicide,Nepal,,Number,2827.0
-2015,Number of deaths attributed to suicide,Nepal,,Number,2620.0
-2016,Number of deaths attributed to suicide,Nepal,,Number,2544.0
-2000,Number of deaths attributed to suicide,Nepal,Female,Number,1671.0
-2005,Number of deaths attributed to suicide,Nepal,Female,Number,1554.0
-2010,Number of deaths attributed to suicide,Nepal,Female,Number,1411.0
-2015,Number of deaths attributed to suicide,Nepal,Female,Number,1231.0
-2016,Number of deaths attributed to suicide,Nepal,Female,Number,1176.0
-2000,Number of deaths attributed to suicide,Nepal,Male,Number,1978.0
-2005,Number of deaths attributed to suicide,Nepal,Male,Number,1654.0
-2010,Number of deaths attributed to suicide,Nepal,Male,Number,1416.0
-2015,Number of deaths attributed to suicide,Nepal,Male,Number,1390.0
-2016,Number of deaths attributed to suicide,Nepal,Male,Number,1368.0
+2000,Suicide mortality rate,,,"Per 100,000 population",15.4
+2005,Suicide mortality rate,,,"Per 100,000 population",12.5
+2010,Suicide mortality rate,,,"Per 100,000 population",10.5
+2015,Suicide mortality rate,,,"Per 100,000 population",9.1
+2016,Suicide mortality rate,,,"Per 100,000 population",8.8
+2000,Suicide mortality rate,,Female,"Per 100,000 population",14.0
+2005,Suicide mortality rate,,Female,"Per 100,000 population",12.0
+2010,Suicide mortality rate,,Female,"Per 100,000 population",10.2
+2015,Suicide mortality rate,,Female,"Per 100,000 population",8.3
+2016,Suicide mortality rate,,Female,"Per 100,000 population",7.9
+2000,Suicide mortality rate,,Male,"Per 100,000 population",16.8
+2005,Suicide mortality rate,,Male,"Per 100,000 population",13.0
+2010,Suicide mortality rate,,Male,"Per 100,000 population",10.7
+2015,Suicide mortality rate,,Male,"Per 100,000 population",10.0
+2016,Suicide mortality rate,,Male,"Per 100,000 population",9.7
+2000,Number of deaths attributed to suicide,,,Number,3649.0
+2005,Number of deaths attributed to suicide,,,Number,3208.0
+2010,Number of deaths attributed to suicide,,,Number,2827.0
+2015,Number of deaths attributed to suicide,,,Number,2620.0
+2016,Number of deaths attributed to suicide,,,Number,2544.0
+2000,Number of deaths attributed to suicide,,Female,Number,1671.0
+2005,Number of deaths attributed to suicide,,Female,Number,1554.0
+2010,Number of deaths attributed to suicide,,Female,Number,1411.0
+2015,Number of deaths attributed to suicide,,Female,Number,1231.0
+2016,Number of deaths attributed to suicide,,Female,Number,1176.0
+2000,Number of deaths attributed to suicide,,Male,Number,1978.0
+2005,Number of deaths attributed to suicide,,Male,Number,1654.0
+2010,Number of deaths attributed to suicide,,Male,Number,1416.0
+2015,Number of deaths attributed to suicide,,Male,Number,1390.0
+2016,Number of deaths attributed to suicide,,Male,Number,1368.0

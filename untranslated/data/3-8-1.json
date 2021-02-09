@@ -1,1 +1,1 @@
-{"Year":["2000","2005","2010","2015","2017"],"Series":["SH_ACS_UNHC","SH_ACS_UNHC","SH_ACS_UNHC","SH_ACS_UNHC","SH_ACS_UNHC"],"REF_AREA":["524","524","524","524","524"],"Units":["IX","IX","IX","IX","IX"],"Value":[24,29,42,51,48]}
+{"Year":["2000","2005","2010","2015","2017"],"Series":["SH_ACS_UNHC","SH_ACS_UNHC","SH_ACS_UNHC","SH_ACS_UNHC","SH_ACS_UNHC"],"REF_AREA":[null,null,null,null,null],"Units":["IX","IX","IX","IX","IX"],"Value":[24,29,42,51,48]}

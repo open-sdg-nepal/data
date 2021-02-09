@@ -1,1 +1,1 @@
-{"data":{"Year":["2014"],"Series":["SE_DEV_ONTRK"],"REF_AREA":["524"],"AGE":["M36T59"],"Units":["PT"],"Value":[64.4]},"edges":{"From":["REF_AREA"],"To":["AGE"]}}
+{"data":{"Year":["2014"],"Series":["SE_DEV_ONTRK"],"REF_AREA":[null],"AGE":["M36T59"],"Units":["PT"],"Value":[64.4]},"edges":[]}

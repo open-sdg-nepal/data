@@ -1,1 +1,1 @@
-{"data":{"Year":["2018","2018"],"Series":["SH_BLD_ECOLI","SH_BLD_MRSA"],"REF_AREA":["524","524"],"Units":["PT","PT"],"Value":[65.33,55.56]},"edges":[]}
+{"data":{"Year":["2018","2018"],"Series":["SH_BLD_ECOLI","SH_BLD_MRSA"],"REF_AREA":[null,null],"Units":["PT","PT"],"Value":[65.33,55.56]},"edges":[]}
