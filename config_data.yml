@@ -45,7 +45,6 @@ inputs:
       REF_AREA|524: ''
     reference_area: 524
     import_codes: true
-    drop_singleton_dimensions: false
     drop_dimensions:
       - UPPER_BOUND
       - LOWER_BOUND
