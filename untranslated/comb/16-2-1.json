@@ -1,1 +1,1 @@
-{"data":{"Year":["2014"],"Series":["VC_VAW_PHYPYV"],"REF_AREA":["524"],"AGE":["Y1T14"],"Units":["PT"],"Value":[81.7]},"edges":{"From":["REF_AREA"],"To":["AGE"]}}
+{"data":{"Year":["2014"],"Series":["VC_VAW_PHYPYV"],"REF_AREA":[null],"AGE":["Y1T14"],"Units":["PT"],"Value":[81.7]},"edges":[]}

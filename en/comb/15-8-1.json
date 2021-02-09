@@ -1,1 +1,1 @@
-{"data":{"Year":["2010","2016","2016"],"Series":["ER_IAS_LEGIS","ER_IAS_LEGIS","ER_IAS_NBSAP"],"Reference area":["Nepal","Nepal","Nepal"],"Units":["Boolean or binary measure","Boolean or binary measure","Boolean or binary measure"],"Value":[0,1,1]},"edges":[]}
+{"data":{"Year":["2010","2016","2016"],"Series":["ER_IAS_LEGIS","ER_IAS_LEGIS","ER_IAS_NBSAP"],"Reference area":[null,null,null],"Units":["Boolean or binary measure","Boolean or binary measure","Boolean or binary measure"],"Value":[0,1,1]},"edges":[]}

@@ -1,1 +1,1 @@
-{"data":{"Year":["2020","2017"],"Series":["ER_BDY_ABT2NP","ER_BDY_SEEA"],"Reference area":["Nepal","Nepal"],"Composite breakdown":["ABT2_INSUFNT",null],"Units":["Number","Number"],"Value":[1,1]},"edges":{"From":["Reference area"],"To":["Composite breakdown"]}}
+{"data":{"Year":["2020","2017"],"Series":["ER_BDY_ABT2NP","ER_BDY_SEEA"],"Reference area":[null,null],"Composite breakdown":["ABT2_INSUFNT",null],"Units":["Number","Number"],"Value":[1,1]},"edges":[]}

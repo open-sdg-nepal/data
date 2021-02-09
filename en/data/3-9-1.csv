@@ -1,7 +1,7 @@
 Year,Series,Reference area,Units,Value
-2016,Age-standardized mortality rate attributed to ambient air pollution,Nepal,"Per 100,000 population",112
-2016,Crude death rate attributed to ambient air pollution,Nepal,"Per 100,000 population",76
-2016,Age-standardized mortality rate attributed to household air pollution,Nepal,"Per 100,000 population",120
-2016,Crude death rate attributed to household air pollution,Nepal,"Per 100,000 population",81
-2016,Crude death rate attributed to household and ambient air pollution,Nepal,"Per 100,000 population",133
-2016,Age-standardized mortality rate attributed to household and ambient air pollution,Nepal,"Per 100,000 population",194
+2016,Age-standardized mortality rate attributed to ambient air pollution,,"Per 100,000 population",112
+2016,Crude death rate attributed to ambient air pollution,,"Per 100,000 population",76
+2016,Age-standardized mortality rate attributed to household air pollution,,"Per 100,000 population",120
+2016,Crude death rate attributed to household air pollution,,"Per 100,000 population",81
+2016,Crude death rate attributed to household and ambient air pollution,,"Per 100,000 population",133
+2016,Age-standardized mortality rate attributed to household and ambient air pollution,,"Per 100,000 population",194
