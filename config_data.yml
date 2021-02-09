@@ -42,7 +42,6 @@ inputs:
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
-      REF_AREA|524: ''
     reference_area: 524
     import_codes: true
     drop_singleton_dimensions: false
@@ -75,7 +74,6 @@ translations:
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
-      REF_AREA|524: ''
     # source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
