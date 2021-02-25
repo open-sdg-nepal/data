@@ -71,7 +71,7 @@ inputs:
 # The defaults below show what is used when this is omitted.
 translations:
   - class: TranslationInputSdmx
-    source: https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.1.6.xml
+    source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
