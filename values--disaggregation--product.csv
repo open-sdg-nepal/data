@@ -1,10 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-AGG_AGR,5,3
-AGG_ARMS,5,3
-AGG_CLTH,5,3
-AGG_IND,5,3
+AGG_AGR,3,2
+AGG_ARMS,3,2
+AGG_CLTH,3,2
+AGG_IND,3,2
 AGG_OIL,2,1
-AGG_TXT,5,3
+AGG_TXT,3,2
 CPC2_1_111,1,1
 CPC2_1_113,1,1
 MF1,3,1
@@ -22,3 +22,4 @@ MF41,3,1
 MF421,3,1
 MF_AGG3A,3,1
 MF_AGG3B,3,1
+None,481,138

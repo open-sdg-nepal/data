@@ -1,3 +1,3 @@
-Year,Series,Reference area,Degree of urbanisation,Units,Value
-2016,"Annual mean levels of fine particulate matter in cities, urban population",,,Micrograms per cubic meter,94.3306121826172
-2016,"Annual mean levels of fine particulate matter in cities, urban population",,Urban,Micrograms per cubic meter,99.4560394287109
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2016,"Annual mean levels of fine particulate matter in cities, urban population",,None,None,None,None,None,None,None,None,None,None,None,Micrograms per cubic meter,94.3306121826172
+2016,"Annual mean levels of fine particulate matter in cities, urban population",,None,None,Urban,None,None,None,None,None,None,None,None,Micrograms per cubic meter,99.4560394287109

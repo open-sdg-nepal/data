@@ -1,6 +1,6 @@
-Year,Series,Reference area,Units,Value
-2011,Remittance costs as a proportion of the amount remitted,,Percent,5.58
-2015,Remittance costs as a proportion of the amount remitted,,Percent,3.57
-2017,Remittance costs as a proportion of the amount remitted,,Percent,4.69
-2018,Remittance costs as a proportion of the amount remitted,,Percent,5.02
-2019,Remittance costs as a proportion of the amount remitted,,Percent,4.82
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2011,Remittance costs as a proportion of the amount remitted,,None,None,None,None,None,None,None,None,None,None,None,Percent,5.58
+2015,Remittance costs as a proportion of the amount remitted,,None,None,None,None,None,None,None,None,None,None,None,Percent,3.57
+2017,Remittance costs as a proportion of the amount remitted,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.69
+2018,Remittance costs as a proportion of the amount remitted,,None,None,None,None,None,None,None,None,None,None,None,Percent,5.02
+2019,Remittance costs as a proportion of the amount remitted,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.82

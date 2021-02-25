@@ -1,6 +1,6 @@
-Year,Series,REF_AREA,Units,Value
-2000,SH_ACS_UNHC,,IX,24
-2005,SH_ACS_UNHC,,IX,29
-2010,SH_ACS_UNHC,,IX,42
-2015,SH_ACS_UNHC,,IX,51
-2017,SH_ACS_UNHC,,IX,48
+Year,Series,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,OCCUPATION,CUST_BREAKDOWN,COMPOSITE_BREAKDOWN,DISABILITY_STATUS,ACTIVITY,PRODUCT,Units,Value
+2000,SH_ACS_UNHC,,None,None,None,None,None,None,None,None,None,None,None,IX,24
+2005,SH_ACS_UNHC,,None,None,None,None,None,None,None,None,None,None,None,IX,29
+2010,SH_ACS_UNHC,,None,None,None,None,None,None,None,None,None,None,None,IX,42
+2015,SH_ACS_UNHC,,None,None,None,None,None,None,None,None,None,None,None,IX,51
+2017,SH_ACS_UNHC,,None,None,None,None,None,None,None,None,None,None,None,IX,48

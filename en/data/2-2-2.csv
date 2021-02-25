@@ -1,21 +1,21 @@
-Year,Series,Reference area,Age,Units,Value
-2001,Proportion of children moderately or severely wasted (number),,under 5 years old,Percent,11.32216
-2006,Proportion of children moderately or severely wasted (number),,under 5 years old,Percent,12.6926
-2011,Proportion of children moderately or severely wasted (number),,under 5 years old,Percent,11.15965
-2014,Proportion of children moderately or severely wasted (number),,under 5 years old,Percent,11.26258
-2016,Proportion of children moderately or severely wasted (number),,under 5 years old,Percent,9.63605
-2001,Children moderately or severely wasted (number),,under 5 years old,Number,407.72953
-2006,Children moderately or severely wasted (number),,under 5 years old,Number,411.63814
-2011,Children moderately or severely wasted (number),,under 5 years old,Number,332.94506
-2014,Children moderately or severely wasted (number),,under 5 years old,Number,317.96342
-2016,Children moderately or severely wasted (number),,under 5 years old,Number,266.83784
-2001,Proportion of children moderately or severely overweight,,under 5 years old,Percent,0.7
-2006,Proportion of children moderately or severely overweight,,under 5 years old,Percent,0.6
-2011,Proportion of children moderately or severely overweight,,under 5 years old,Percent,1.5
-2014,Proportion of children moderately or severely overweight,,under 5 years old,Percent,2.1
-2016,Proportion of children moderately or severely overweight,,under 5 years old,Percent,1.2
-2001,Children moderately or severely overweight (number),,under 5 years old,Number,24.1039
-2006,Children moderately or severely overweight (number),,under 5 years old,Number,19.93786
-2011,Children moderately or severely overweight (number),,under 5 years old,Number,46.23215
-2014,Children moderately or severely overweight (number),,under 5 years old,Number,59.80126
-2016,Children moderately or severely overweight (number),,under 5 years old,Number,32.52635
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2001,Proportion of children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,11.32216
+2006,Proportion of children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,12.6926
+2011,Proportion of children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,11.15965
+2014,Proportion of children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,11.26258
+2016,Proportion of children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,9.63605
+2001,Children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,407.72953
+2006,Children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,411.63814
+2011,Children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,332.94506
+2014,Children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,317.96342
+2016,Children moderately or severely wasted (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,266.83784
+2001,Proportion of children moderately or severely overweight,,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,0.7
+2006,Proportion of children moderately or severely overweight,,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,0.6
+2011,Proportion of children moderately or severely overweight,,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,1.5
+2014,Proportion of children moderately or severely overweight,,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,2.1
+2016,Proportion of children moderately or severely overweight,,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,1.2
+2001,Children moderately or severely overweight (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,24.1039
+2006,Children moderately or severely overweight (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,19.93786
+2011,Children moderately or severely overweight (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,46.23215
+2014,Children moderately or severely overweight (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,59.80126
+2016,Children moderately or severely overweight (number),,None,under 5 years old,None,None,None,None,None,None,None,None,None,Number,32.52635

@@ -1,13 +1,13 @@
-Year,Series,Reference area,Units,Value
-2006,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.38
-2007,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.42
-2008,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.5
-2009,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.56
-2010,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.62
-2011,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.68
-2012,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.76
-2013,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.82
-2014,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.92
-2015,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.98
-2016,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,1.98
-2017,Water Use Efficiency (United States dollars per cubic meter),,United States dollars per cubic metre,2.13
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2006,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.38
+2007,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.42
+2008,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.5
+2009,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.56
+2010,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.62
+2011,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.68
+2012,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.76
+2013,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.82
+2014,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.92
+2015,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.98
+2016,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,1.98
+2017,Water Use Efficiency (United States dollars per cubic meter),,None,None,None,None,None,None,None,None,None,None,None,United States dollars per cubic metre,2.13

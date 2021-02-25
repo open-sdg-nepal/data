@@ -1,22 +1,22 @@
-Year,Series,Reference area,Sex,Age,Units,Value
-1995,Proportion of population below international poverty line,,,,Percent,66.0
-2003,Proportion of population below international poverty line,,,,Percent,50.0
-2010,Proportion of population below international poverty line,,,,Percent,15.0
-2003,Employed population below international poverty line,,,15 years old and over,Percent,41.2
-2010,Employed population below international poverty line,,,15 years old and over,Percent,12.6
-2003,Employed population below international poverty line,,,25 years old and over,Percent,41.1
-2010,Employed population below international poverty line,,,25 years old and over,Percent,12.7
-2003,Employed population below international poverty line,,,15 to 24 years old,Percent,41.3
-2010,Employed population below international poverty line,,,15 to 24 years old,Percent,12.5
-2003,Employed population below international poverty line,,Female,15 years old and over,Percent,40.9
-2010,Employed population below international poverty line,,Female,15 years old and over,Percent,12.9
-2003,Employed population below international poverty line,,Female,25 years old and over,Percent,40.4
-2010,Employed population below international poverty line,,Female,25 years old and over,Percent,12.3
-2003,Employed population below international poverty line,,Female,15 to 24 years old,Percent,41.9
-2010,Employed population below international poverty line,,Female,15 to 24 years old,Percent,14.1
-2003,Employed population below international poverty line,,Male,15 years old and over,Percent,41.5
-2010,Employed population below international poverty line,,Male,15 years old and over,Percent,12.4
-2003,Employed population below international poverty line,,Male,25 years old and over,Percent,41.8
-2010,Employed population below international poverty line,,Male,25 years old and over,Percent,13.0
-2003,Employed population below international poverty line,,Male,15 to 24 years old,Percent,40.7
-2010,Employed population below international poverty line,,Male,15 to 24 years old,Percent,10.8
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+1995,Proportion of population below international poverty line,,None,None,None,None,None,None,None,None,None,None,None,Percent,66.0
+2003,Proportion of population below international poverty line,,None,None,None,None,None,None,None,None,None,None,None,Percent,50.0
+2010,Proportion of population below international poverty line,,None,None,None,None,None,None,None,None,None,None,None,Percent,15.0
+2003,Employed population below international poverty line,,None,15 years old and over,None,None,None,None,None,None,None,None,None,Percent,41.2
+2010,Employed population below international poverty line,,None,15 years old and over,None,None,None,None,None,None,None,None,None,Percent,12.6
+2003,Employed population below international poverty line,,None,25 years old and over,None,None,None,None,None,None,None,None,None,Percent,41.1
+2010,Employed population below international poverty line,,None,25 years old and over,None,None,None,None,None,None,None,None,None,Percent,12.7
+2003,Employed population below international poverty line,,None,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,41.3
+2010,Employed population below international poverty line,,None,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,12.5
+2003,Employed population below international poverty line,,Female,15 years old and over,None,None,None,None,None,None,None,None,None,Percent,40.9
+2010,Employed population below international poverty line,,Female,15 years old and over,None,None,None,None,None,None,None,None,None,Percent,12.9
+2003,Employed population below international poverty line,,Female,25 years old and over,None,None,None,None,None,None,None,None,None,Percent,40.4
+2010,Employed population below international poverty line,,Female,25 years old and over,None,None,None,None,None,None,None,None,None,Percent,12.3
+2003,Employed population below international poverty line,,Female,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,41.9
+2010,Employed population below international poverty line,,Female,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,14.1
+2003,Employed population below international poverty line,,Male,15 years old and over,None,None,None,None,None,None,None,None,None,Percent,41.5
+2010,Employed population below international poverty line,,Male,15 years old and over,None,None,None,None,None,None,None,None,None,Percent,12.4
+2003,Employed population below international poverty line,,Male,25 years old and over,None,None,None,None,None,None,None,None,None,Percent,41.8
+2010,Employed population below international poverty line,,Male,25 years old and over,None,None,None,None,None,None,None,None,None,Percent,13.0
+2003,Employed population below international poverty line,,Male,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,40.7
+2010,Employed population below international poverty line,,Male,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,10.8

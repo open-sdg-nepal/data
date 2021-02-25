@@ -1,70 +1,70 @@
-Year,Series,Reference area,Units,Value
-2005,Direct agriculture loss attributed to disasters,,USD,134656.0
-2006,Direct agriculture loss attributed to disasters,,USD,23534154.0
-2007,Direct agriculture loss attributed to disasters,,USD,6991027.0
-2008,Direct agriculture loss attributed to disasters,,USD,39864900.0
-2009,Direct agriculture loss attributed to disasters,,USD,22561069.0
-2010,Direct agriculture loss attributed to disasters,,USD,8433786.0
-2015,Direct agriculture loss attributed to disasters,,USD,354391634.0
-2016,Direct agriculture loss attributed to disasters,,USD,1234143198.0
-2017,Direct agriculture loss attributed to disasters,,USD,843018942.0
-2018,Direct agriculture loss attributed to disasters,,USD,11535686.0
-2015,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,,USD,87300000.0
-2016,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,,USD,3185040.0
-2017,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,,USD,4750000.0
-2005,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,4855062.0
-2006,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,1380.0
-2007,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,1469802.0
-2008,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,6842509.0
-2009,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,4958950.0
-2010,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,1822486.0
-2015,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,593721878.0
-2016,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,16333447.0
-2017,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,221556150.0
-2018,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,USD,6058862.0
-2015,Direct economic loss to other damaged or destroyed productive assets attributed to disasters,,USD,1448898700.0
-2005,Direct economic loss attributed to disasters,,USD,41574343.0
-2006,Direct economic loss attributed to disasters,,USD,117206035.0
-2007,Direct economic loss attributed to disasters,,USD,236833953.0
-2008,Direct economic loss attributed to disasters,,USD,438411784.0
-2009,Direct economic loss attributed to disasters,,USD,168002332.0
-2010,Direct economic loss attributed to disasters,,USD,299374971.0
-2011,Direct economic loss attributed to disasters,,USD,37948950.0
-2012,Direct economic loss attributed to disasters,,USD,104036400.0
-2013,Direct economic loss attributed to disasters,,USD,59395050.0
-2014,Direct economic loss attributed to disasters,,USD,381645412.0
-2015,Direct economic loss attributed to disasters,,USD,22558608924.0
-2016,Direct economic loss attributed to disasters,,USD,1341650372.0
-2017,Direct economic loss attributed to disasters,,USD,3078776992.0
-2018,Direct economic loss attributed to disasters,,USD,21485688.0
-2019,Direct economic loss attributed to disasters,,USD,27742276.0
-2005,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,36584625.0
-2006,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,93670500.0
-2007,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,228373125.0
-2008,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,391704375.0
-2009,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,140482312.0
-2010,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,289118700.0
-2011,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,37948950.0
-2012,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,104036400.0
-2013,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,59395050.0
-2014,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,381645412.0
-2015,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,20074296712.0
-2016,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,87988688.0
-2017,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,2009451900.0
-2018,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,3891140.0
-2019,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,USD,27742276.0
-2005,Direct economic loss attributed to disasters relative to GDP,,Percent,0.00507
-2006,Direct economic loss attributed to disasters relative to GDP,,Percent,0.01318
-2007,Direct economic loss attributed to disasters relative to GDP,,Percent,0.02184
-2008,Direct economic loss attributed to disasters relative to GDP,,Percent,0.03785
-2009,Direct economic loss attributed to disasters relative to GDP,,Percent,0.01328
-2010,Direct economic loss attributed to disasters relative to GDP,,Percent,0.01846
-2011,Direct economic loss attributed to disasters relative to GDP,,Percent,0.00209
-2012,Direct economic loss attributed to disasters relative to GDP,,Percent,0.00587
-2013,Direct economic loss attributed to disasters relative to GDP,,Percent,0.00331
-2014,Direct economic loss attributed to disasters relative to GDP,,Percent,0.01905
-2015,Direct economic loss attributed to disasters relative to GDP,,Percent,1.09177
-2016,Direct economic loss attributed to disasters relative to GDP,,Percent,0.06472
-2017,Direct economic loss attributed to disasters relative to GDP,,Percent,0.12264
-2018,Direct economic loss attributed to disasters relative to GDP,,Percent,0.00078
-2019,Direct economic loss attributed to disasters relative to GDP,,Percent,0.00093
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2005,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,134656.0
+2006,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,23534154.0
+2007,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,6991027.0
+2008,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,39864900.0
+2009,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,22561069.0
+2010,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,8433786.0
+2015,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,354391634.0
+2016,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,1234143198.0
+2017,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,843018942.0
+2018,Direct agriculture loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,11535686.0
+2015,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,87300000.0
+2016,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,3185040.0
+2017,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,4750000.0
+2005,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,4855062.0
+2006,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,1380.0
+2007,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,1469802.0
+2008,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,6842509.0
+2009,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,4958950.0
+2010,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,1822486.0
+2015,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,593721878.0
+2016,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,16333447.0
+2017,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,221556150.0
+2018,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,6058862.0
+2015,Direct economic loss to other damaged or destroyed productive assets attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,1448898700.0
+2005,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,41574343.0
+2006,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,117206035.0
+2007,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,236833953.0
+2008,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,438411784.0
+2009,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,168002332.0
+2010,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,299374971.0
+2011,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,37948950.0
+2012,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,104036400.0
+2013,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,59395050.0
+2014,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,381645412.0
+2015,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,22558608924.0
+2016,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,1341650372.0
+2017,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,3078776992.0
+2018,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,21485688.0
+2019,Direct economic loss attributed to disasters,,None,None,None,None,None,None,None,None,None,None,None,USD,27742276.0
+2005,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,36584625.0
+2006,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,93670500.0
+2007,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,228373125.0
+2008,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,391704375.0
+2009,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,140482312.0
+2010,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,289118700.0
+2011,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,37948950.0
+2012,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,104036400.0
+2013,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,59395050.0
+2014,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,381645412.0
+2015,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,20074296712.0
+2016,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,87988688.0
+2017,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,2009451900.0
+2018,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,3891140.0
+2019,"Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",,None,None,None,None,None,None,None,None,None,None,None,USD,27742276.0
+2005,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.00507
+2006,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.01318
+2007,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.02184
+2008,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.03785
+2009,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.01328
+2010,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.01846
+2011,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.00209
+2012,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.00587
+2013,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.00331
+2014,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.01905
+2015,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,1.09177
+2016,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.06472
+2017,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.12264
+2018,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.00078
+2019,Direct economic loss attributed to disasters relative to GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,0.00093

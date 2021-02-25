@@ -1,2 +1,2 @@
-Year,Series,Reference area,Units,Value
-2018,Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals (1 = YES; 0 = NO),,Boolean or binary measure,1
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2018,Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals (1 = YES; 0 = NO),,None,None,None,None,None,None,None,None,None,None,None,Boolean or binary measure,1

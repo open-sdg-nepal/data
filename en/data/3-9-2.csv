@@ -1,2 +1,2 @@
-Year,Series,Reference area,Units,Value
-2016,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene",,"Per 100,000 population",19.8
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2016,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene",,None,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",19.8

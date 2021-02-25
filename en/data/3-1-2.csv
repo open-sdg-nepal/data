@@ -1,9 +1,9 @@
-Year,Series,Reference area,Units,Value
-1991,Proportion of births attended by skilled health personnel,,Percent,7.4
-1996,Proportion of births attended by skilled health personnel,,Percent,9.0
-2000,Proportion of births attended by skilled health personnel,,Percent,11.9
-2001,Proportion of births attended by skilled health personnel,,Percent,10.9
-2006,Proportion of births attended by skilled health personnel,,Percent,18.7
-2011,Proportion of births attended by skilled health personnel,,Percent,36.0
-2014,Proportion of births attended by skilled health personnel,,Percent,55.6
-2016,Proportion of births attended by skilled health personnel,,Percent,58.0
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+1991,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,7.4
+1996,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,9.0
+2000,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,11.9
+2001,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,10.9
+2006,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,18.7
+2011,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,36.0
+2014,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,55.6
+2016,Proportion of births attended by skilled health personnel,,None,None,None,None,None,None,None,None,None,None,None,Percent,58.0

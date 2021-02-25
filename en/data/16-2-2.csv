@@ -1,16 +1,16 @@
-Year,Series,Reference area,Sex,Age,Units,Value
-2007,Detected victims of human trafficking (number),,,,Number,147
-2008,Detected victims of human trafficking (number),,,,Number,145
-2009,Detected victims of human trafficking (number),,,,Number,197
-2010,Detected victims of human trafficking (number),,,,Number,193
-2011,Detected victims of human trafficking (number),,,,Number,141
-2012,Detected victims of human trafficking (number),,,,Number,271
-2013,Detected victims of human trafficking (number),,,,Number,237
-2014,Detected victims of human trafficking (number),,,,Number,266
-2016,Detected victims of human trafficking (number),,,,Number,350
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Female,,Number,141
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Female,18 years old and over,Number,115
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Female,under 17 years old,Number,26
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Male,,Number,98
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Male,18 years old and over,Number,56
-2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Male,under 17 years old,Number,42
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2007,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,147
+2008,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,145
+2009,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,197
+2010,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,193
+2011,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,141
+2012,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,271
+2013,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,237
+2014,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,266
+2016,Detected victims of human trafficking (number),,None,None,None,None,None,None,None,None,None,None,None,Number,350
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Female,None,None,None,None,None,None,None,None,None,None,Number,141
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Female,18 years old and over,None,None,None,None,None,None,None,None,None,Number,115
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Female,under 18 years old,None,None,None,None,None,None,None,None,None,Number,26
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Male,None,None,None,None,None,None,None,None,None,None,Number,98
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Male,18 years old and over,None,None,None,None,None,None,None,None,None,Number,56
+2018,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,Male,under 18 years old,None,None,None,None,None,None,None,None,None,Number,42

@@ -1,5 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-ABT2_INSUFNT,1,1
 ELV_1,1,1
 ELV_2,1,1
 ELV_3,1,1
@@ -35,17 +34,7 @@ NCD_CARDIO,3,1
 NCD_CNCR,3,1
 NCD_CRESPD,3,1
 NCD_DIABTS,3,1
-PC_DEFENCE,2,1
-PC_FINANCE,2,1
-PC_FOR_AFF,2,1
-PC_GEN_EQU,2,1
-PC_HUM_RIGH,2,1
-PD_1,1,1
-PD_2,1,1
-PD_3,1,1
-PD_4,1,1
-PD_5,1,1
-PD_6,1,1
+None,464,135
 SPAR_01,1,1
 SPAR_02,1,1
 SPAR_03,1,1

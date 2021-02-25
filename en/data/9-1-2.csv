@@ -1,10 +1,10 @@
-Year,Series,Reference area,Composite breakdown,Units,Value
-2017,Freight volume (tonne kilometres),,Mode of Transport: Air,Tonne kilometres,4566839.9023
-2018,Freight volume (tonne kilometres),,Mode of Transport: Air,Tonne kilometres,4655766.324
-2018,Freight volume (tonne kilometres),,MOT_IWW,Tonne kilometres,0.0
-2018,Freight volume (tonne kilometres),,Mode of Transport: Rail,Tonne kilometres,0.0
-2018,Freight volume (tonne kilometres),,Mode of Transport: Road,Tonne kilometres,6847541232.27044
-2017,Passenger volume (passenger kilometres),,Mode of Transport: Air,Passenger kilometres,1970060556.36
-2018,Passenger volume (passenger kilometres),,Mode of Transport: Air,Passenger kilometres,2269399668.0
-2018,Passenger volume (passenger kilometres),,Mode of Transport: Rail,Passenger kilometres,3635427323.33271
-2018,Passenger volume (passenger kilometres),,Mode of Transport: Road,Passenger kilometres,17311604297.0744
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2017,Freight volume (tonne kilometres),,None,None,None,None,None,None,None,Mode of Transport: Air,None,None,None,Tonne kilometres,4566839.9023
+2018,Freight volume (tonne kilometres),,None,None,None,None,None,None,None,Mode of Transport: Air,None,None,None,Tonne kilometres,4655766.324
+2018,Freight volume (tonne kilometres),,None,None,None,None,None,None,None,MOT_IWW,None,None,None,Tonne kilometres,0.0
+2018,Freight volume (tonne kilometres),,None,None,None,None,None,None,None,Mode of Transport: Rail,None,None,None,Tonne kilometres,0.0
+2018,Freight volume (tonne kilometres),,None,None,None,None,None,None,None,Mode of Transport: Road,None,None,None,Tonne kilometres,6847541232.27044
+2017,Passenger volume (passenger kilometres),,None,None,None,None,None,None,None,Mode of Transport: Air,None,None,None,Passenger kilometres,1970060556.36
+2018,Passenger volume (passenger kilometres),,None,None,None,None,None,None,None,Mode of Transport: Air,None,None,None,Passenger kilometres,2269399668.0
+2018,Passenger volume (passenger kilometres),,None,None,None,None,None,None,None,Mode of Transport: Rail,None,None,None,Passenger kilometres,3635427323.33271
+2018,Passenger volume (passenger kilometres),,None,None,None,None,None,None,None,Mode of Transport: Road,None,None,None,Passenger kilometres,17311604297.0744

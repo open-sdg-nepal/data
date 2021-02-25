@@ -1,23 +1,19 @@
-Year,Series,Reference area,Sex,Occupation,Units,Value
-2004,Health workder density,,,Medical doctors,"Per 10,000 population",2.118
-2012,Health workder density,,,Medical doctors,"Per 10,000 population",5.159
-2013,Health workder density,,,Medical doctors,"Per 10,000 population",5.64
-2017,Health workder density,,,Medical doctors,"Per 10,000 population",9.101
-2018,Health workder density,,,Medical doctors,"Per 10,000 population",7.486
-2004,Health workder density,,,Nursing and midwifery personnel,"Per 10,000 population",4.652
-2012,Health workder density,,,Nursing and midwifery personnel,"Per 10,000 population",15.98
-2013,Health workder density,,,Nursing and midwifery personnel,"Per 10,000 population",18.729
-2014,Health workder density,,,Nursing and midwifery personnel,"Per 10,000 population",21.369
-2017,Health workder density,,,Nursing and midwifery personnel,"Per 10,000 population",28.479
-2018,Health workder density,,,Nursing and midwifery personnel,"Per 10,000 population",31.084
-2004,Health workder density,,,Dentists,"Per 10,000 population",0.096
-2017,Health workder density,,,Dentists,"Per 10,000 population",2.2
-2018,Health workder density,,,Dentists,"Per 10,000 population",0.967
-2004,Health workder density,,,Pharmacists,"Per 10,000 population",0.105
-2012,Health workder density,,,Pharmacists,"Per 10,000 population",0.445
-2017,Health workder density,,,Pharmacists,"Per 10,000 population",0.981
-2018,Health workder density,,,Pharmacists,"Per 10,000 population",3.954
-2017,SH_MED_HWRKDIS,,Female,Medical doctors,Percent,31.6
-2017,SH_MED_HWRKDIS,,Female,ISCO08_2221_3221,Percent,88.2
-2017,SH_MED_HWRKDIS,,Male,Medical doctors,Percent,68.4
-2017,SH_MED_HWRKDIS,,Male,ISCO08_2221_3221,Percent,11.8
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2004,Health workder density,,None,None,None,None,None,Medical doctors,None,None,None,None,None,"Per 10,000 population",2.118
+2012,Health workder density,,None,None,None,None,None,Medical doctors,None,None,None,None,None,"Per 10,000 population",5.159
+2013,Health workder density,,None,None,None,None,None,Medical doctors,None,None,None,None,None,"Per 10,000 population",5.64
+2017,Health workder density,,None,None,None,None,None,Medical doctors,None,None,None,None,None,"Per 10,000 population",9.101
+2018,Health workder density,,None,None,None,None,None,Medical doctors,None,None,None,None,None,"Per 10,000 population",7.486
+2004,Health workder density,,None,None,None,None,None,Nursing and midwifery personnel,None,None,None,None,None,"Per 10,000 population",4.652
+2012,Health workder density,,None,None,None,None,None,Nursing and midwifery personnel,None,None,None,None,None,"Per 10,000 population",15.98
+2013,Health workder density,,None,None,None,None,None,Nursing and midwifery personnel,None,None,None,None,None,"Per 10,000 population",18.729
+2014,Health workder density,,None,None,None,None,None,Nursing and midwifery personnel,None,None,None,None,None,"Per 10,000 population",21.369
+2017,Health workder density,,None,None,None,None,None,Nursing and midwifery personnel,None,None,None,None,None,"Per 10,000 population",28.479
+2018,Health workder density,,None,None,None,None,None,Nursing and midwifery personnel,None,None,None,None,None,"Per 10,000 population",31.084
+2004,Health workder density,,None,None,None,None,None,Dentists,None,None,None,None,None,"Per 10,000 population",0.096
+2017,Health workder density,,None,None,None,None,None,Dentists,None,None,None,None,None,"Per 10,000 population",2.2
+2018,Health workder density,,None,None,None,None,None,Dentists,None,None,None,None,None,"Per 10,000 population",0.967
+2004,Health workder density,,None,None,None,None,None,Pharmacists,None,None,None,None,None,"Per 10,000 population",0.105
+2012,Health workder density,,None,None,None,None,None,Pharmacists,None,None,None,None,None,"Per 10,000 population",0.445
+2017,Health workder density,,None,None,None,None,None,Pharmacists,None,None,None,None,None,"Per 10,000 population",0.981
+2018,Health workder density,,None,None,None,None,None,Pharmacists,None,None,None,None,None,"Per 10,000 population",3.954

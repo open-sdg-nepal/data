@@ -1,5 +1,5 @@
-Year,Series,Reference area,Units,Value
-2019,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),,Number,1
-2019,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),,Number,1
-2019,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),,Number,0
-2019,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),,Number,1
+Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
+2019,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),,None,None,None,None,None,None,None,None,None,None,None,Number,1
+2019,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),,None,None,None,None,None,None,None,None,None,None,None,Number,1
+2019,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),,None,None,None,None,None,None,None,None,None,None,None,Number,0
+2019,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),,None,None,None,None,None,None,None,None,None,None,None,Number,1
