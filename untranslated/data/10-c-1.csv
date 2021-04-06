@@ -1,6 +1,6 @@
-Year,Series,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,OCCUPATION,CUST_BREAKDOWN,COMPOSITE_BREAKDOWN,DISABILITY_STATUS,ACTIVITY,PRODUCT,Units,Value
-2011,SI_RMT_COST,,None,None,None,None,None,None,None,None,None,None,None,PT,5.58
-2015,SI_RMT_COST,,None,None,None,None,None,None,None,None,None,None,None,PT,3.57
-2017,SI_RMT_COST,,None,None,None,None,None,None,None,None,None,None,None,PT,4.69
-2018,SI_RMT_COST,,None,None,None,None,None,None,None,None,None,None,None,PT,5.02
-2019,SI_RMT_COST,,None,None,None,None,None,None,None,None,None,None,None,PT,4.82
+Year,Series,REF_AREA,Units,Value
+2011,SI_RMT_COST,,PT,5.58
+2015,SI_RMT_COST,,PT,3.57
+2017,SI_RMT_COST,,PT,4.69
+2018,SI_RMT_COST,,PT,5.02
+2019,SI_RMT_COST,,PT,4.82

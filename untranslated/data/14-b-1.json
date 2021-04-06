@@ -1,1 +1,1 @@
-{"Year":["2018"],"Series":["ER_REG_SSFRAR"],"REF_AREA":[null],"SEX":["None"],"AGE":["None"],"URBANISATION":["None"],"INCOME_WEALTH_QUANTILE":["None"],"EDUCATION_LEV":["None"],"OCCUPATION":["None"],"CUST_BREAKDOWN":["None"],"COMPOSITE_BREAKDOWN":["None"],"DISABILITY_STATUS":["None"],"ACTIVITY":["None"],"PRODUCT":["None"],"Units":["NUMBER"],"Value":[1]}
+{"Year":["2018","2020"],"Series":["ER_REG_SSFRAR","ER_REG_SSFRAR"],"REF_AREA":[null,null],"Units":["NUMBER","NUMBER"],"Value":[1,1]}

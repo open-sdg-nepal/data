@@ -1,5 +1,5 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-1984,Proportion of people living below 50 percent of median income,,None,None,None,B50,None,None,None,None,None,None,None,Percent,6
-1995,Proportion of people living below 50 percent of median income,,None,None,None,B50,None,None,None,None,None,None,None,Percent,9
-2003,Proportion of people living below 50 percent of median income,,None,None,None,B50,None,None,None,None,None,None,None,Percent,10
-2010,Proportion of people living below 50 percent of median income,,None,None,None,B50,None,None,None,None,None,None,None,Percent,7
+Year,Series,Reference area,Income or wealth quantile,Units,Value
+1984,Proportion of people living below 50 percent of median income [10.2.1],,Bottom 50%,Percent,6
+1995,Proportion of people living below 50 percent of median income [10.2.1],,Bottom 50%,Percent,9
+2003,Proportion of people living below 50 percent of median income [10.2.1],,Bottom 50%,Percent,10
+2010,Proportion of people living below 50 percent of median income [10.2.1],,Bottom 50%,Percent,7

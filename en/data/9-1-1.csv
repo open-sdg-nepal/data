@@ -1,2 +1,2 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2015,Proportion of the rural population who live within 2 km of an all-season road,,None,None,None,None,None,None,None,None,None,None,None,Percent,54.2
+Year,Series,Reference area,Units,Value
+2015,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Percent,54.2

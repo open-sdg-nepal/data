@@ -1,11 +1,12 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-1995,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,1781
-2000,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,2532
-2005,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,2532
-2010,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,2776
-2012,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,4155
-2014,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,4667
-2016,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,4671
-2017,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,4671
-2018,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,4671
-2019,Plant breeds for which sufficient genetic resources are stored (number),,None,None,None,None,None,None,None,None,None,None,None,Number,4671
+Year,Series,Reference area,Units,Value
+1995,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,1781
+2000,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,2532
+2005,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,2532
+2010,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,2776
+2012,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,4155
+2014,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,4667
+2016,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,5383
+2017,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,5753
+2018,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,6073
+2019,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,6470
+2020,Plant breeds for which sufficient genetic resources are stored (number) [2.5.1],,Number,6470

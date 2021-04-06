@@ -1,31 +1,31 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2000,Suicide mortality rate,,None,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",15.4
-2005,Suicide mortality rate,,None,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",12.5
-2010,Suicide mortality rate,,None,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",10.5
-2015,Suicide mortality rate,,None,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",9.1
-2016,Suicide mortality rate,,None,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",8.8
-2000,Suicide mortality rate,,Female,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",14.0
-2005,Suicide mortality rate,,Female,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",12.0
-2010,Suicide mortality rate,,Female,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",10.2
-2015,Suicide mortality rate,,Female,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",8.3
-2016,Suicide mortality rate,,Female,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",7.9
-2000,Suicide mortality rate,,Male,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",16.8
-2005,Suicide mortality rate,,Male,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",13.0
-2010,Suicide mortality rate,,Male,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",10.7
-2015,Suicide mortality rate,,Male,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",10.0
-2016,Suicide mortality rate,,Male,None,None,None,None,None,None,None,None,None,None,"Per 100,000 population",9.7
-2000,Number of deaths attributed to suicide,,None,None,None,None,None,None,None,None,None,None,None,Number,3649.0
-2005,Number of deaths attributed to suicide,,None,None,None,None,None,None,None,None,None,None,None,Number,3208.0
-2010,Number of deaths attributed to suicide,,None,None,None,None,None,None,None,None,None,None,None,Number,2827.0
-2015,Number of deaths attributed to suicide,,None,None,None,None,None,None,None,None,None,None,None,Number,2620.0
-2016,Number of deaths attributed to suicide,,None,None,None,None,None,None,None,None,None,None,None,Number,2544.0
-2000,Number of deaths attributed to suicide,,Female,None,None,None,None,None,None,None,None,None,None,Number,1671.0
-2005,Number of deaths attributed to suicide,,Female,None,None,None,None,None,None,None,None,None,None,Number,1554.0
-2010,Number of deaths attributed to suicide,,Female,None,None,None,None,None,None,None,None,None,None,Number,1411.0
-2015,Number of deaths attributed to suicide,,Female,None,None,None,None,None,None,None,None,None,None,Number,1231.0
-2016,Number of deaths attributed to suicide,,Female,None,None,None,None,None,None,None,None,None,None,Number,1176.0
-2000,Number of deaths attributed to suicide,,Male,None,None,None,None,None,None,None,None,None,None,Number,1978.0
-2005,Number of deaths attributed to suicide,,Male,None,None,None,None,None,None,None,None,None,None,Number,1654.0
-2010,Number of deaths attributed to suicide,,Male,None,None,None,None,None,None,None,None,None,None,Number,1416.0
-2015,Number of deaths attributed to suicide,,Male,None,None,None,None,None,None,None,None,None,None,Number,1390.0
-2016,Number of deaths attributed to suicide,,Male,None,None,None,None,None,None,None,None,None,None,Number,1368.0
+Year,Series,Reference area,Sex,Units,Value
+2000,Suicide mortality rate [3.4.2],,,"Per 100,000 population",15.4
+2005,Suicide mortality rate [3.4.2],,,"Per 100,000 population",12.5
+2010,Suicide mortality rate [3.4.2],,,"Per 100,000 population",10.5
+2015,Suicide mortality rate [3.4.2],,,"Per 100,000 population",9.1
+2016,Suicide mortality rate [3.4.2],,,"Per 100,000 population",8.8
+2000,Suicide mortality rate [3.4.2],,Female,"Per 100,000 population",14.0
+2005,Suicide mortality rate [3.4.2],,Female,"Per 100,000 population",12.0
+2010,Suicide mortality rate [3.4.2],,Female,"Per 100,000 population",10.2
+2015,Suicide mortality rate [3.4.2],,Female,"Per 100,000 population",8.3
+2016,Suicide mortality rate [3.4.2],,Female,"Per 100,000 population",7.9
+2000,Suicide mortality rate [3.4.2],,Male,"Per 100,000 population",16.8
+2005,Suicide mortality rate [3.4.2],,Male,"Per 100,000 population",13.0
+2010,Suicide mortality rate [3.4.2],,Male,"Per 100,000 population",10.7
+2015,Suicide mortality rate [3.4.2],,Male,"Per 100,000 population",10.0
+2016,Suicide mortality rate [3.4.2],,Male,"Per 100,000 population",9.7
+2000,Number of deaths attributed to suicide [3.4.2],,,Number,3649.0
+2005,Number of deaths attributed to suicide [3.4.2],,,Number,3208.0
+2010,Number of deaths attributed to suicide [3.4.2],,,Number,2827.0
+2015,Number of deaths attributed to suicide [3.4.2],,,Number,2620.0
+2016,Number of deaths attributed to suicide [3.4.2],,,Number,2544.0
+2000,Number of deaths attributed to suicide [3.4.2],,Female,Number,1671.0
+2005,Number of deaths attributed to suicide [3.4.2],,Female,Number,1554.0
+2010,Number of deaths attributed to suicide [3.4.2],,Female,Number,1411.0
+2015,Number of deaths attributed to suicide [3.4.2],,Female,Number,1231.0
+2016,Number of deaths attributed to suicide [3.4.2],,Female,Number,1176.0
+2000,Number of deaths attributed to suicide [3.4.2],,Male,Number,1978.0
+2005,Number of deaths attributed to suicide [3.4.2],,Male,Number,1654.0
+2010,Number of deaths attributed to suicide [3.4.2],,Male,Number,1416.0
+2015,Number of deaths attributed to suicide [3.4.2],,Male,Number,1390.0
+2016,Number of deaths attributed to suicide [3.4.2],,Male,Number,1368.0

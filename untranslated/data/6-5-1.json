@@ -1,1 +1,1 @@
-{"Year":["2018"],"Series":["ER_H2O_IWRMD"],"REF_AREA":[null],"SEX":["None"],"AGE":["None"],"URBANISATION":["None"],"INCOME_WEALTH_QUANTILE":["None"],"EDUCATION_LEV":["None"],"OCCUPATION":["None"],"CUST_BREAKDOWN":["None"],"COMPOSITE_BREAKDOWN":["None"],"DISABILITY_STATUS":["None"],"ACTIVITY":["None"],"PRODUCT":["None"],"Units":["PT"],"Value":[33]}
+{"Year":["2017","2020"],"Series":["ER_H2O_IWRMD","ER_H2O_IWRMD"],"REF_AREA":[null,null],"Units":["PT","PT"],"Value":[32.93651,37.0]}

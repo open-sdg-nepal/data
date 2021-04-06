@@ -1,21 +1,21 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2000,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.2
-2001,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,2.9
-2002,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,-1.7
-2003,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,2.1
-2004,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,2.9
-2005,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,1.8
-2006,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,1.3
-2007,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,1.5
-2008,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.4
-2009,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,3.1
-2010,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,3.5
-2011,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,2.7
-2012,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.1
-2013,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,3.4
-2014,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.9
-2015,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,1.9
-2016,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,-2.2
-2017,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,4.7
-2018,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,3.0
-2019,Annual growth rate of real GDP per employed person,,None,None,None,None,None,None,None,None,None,None,None,Percent,3.9
+Year,Series,Reference area,Units,Value
+2000,Annual growth rate of real GDP per employed person [8.2.1],,Percent,4.2
+2001,Annual growth rate of real GDP per employed person [8.2.1],,Percent,2.8
+2002,Annual growth rate of real GDP per employed person [8.2.1],,Percent,-1.7
+2003,Annual growth rate of real GDP per employed person [8.2.1],,Percent,2.1
+2004,Annual growth rate of real GDP per employed person [8.2.1],,Percent,2.9
+2005,Annual growth rate of real GDP per employed person [8.2.1],,Percent,1.8
+2006,Annual growth rate of real GDP per employed person [8.2.1],,Percent,1.3
+2007,Annual growth rate of real GDP per employed person [8.2.1],,Percent,1.5
+2008,Annual growth rate of real GDP per employed person [8.2.1],,Percent,4.4
+2009,Annual growth rate of real GDP per employed person [8.2.1],,Percent,3.3
+2010,Annual growth rate of real GDP per employed person [8.2.1],,Percent,3.8
+2011,Annual growth rate of real GDP per employed person [8.2.1],,Percent,3.1
+2012,Annual growth rate of real GDP per employed person [8.2.1],,Percent,4.6
+2013,Annual growth rate of real GDP per employed person [8.2.1],,Percent,4.0
+2014,Annual growth rate of real GDP per employed person [8.2.1],,Percent,5.5
+2015,Annual growth rate of real GDP per employed person [8.2.1],,Percent,2.5
+2016,Annual growth rate of real GDP per employed person [8.2.1],,Percent,-2.0
+2017,Annual growth rate of real GDP per employed person [8.2.1],,Percent,5.0
+2018,Annual growth rate of real GDP per employed person [8.2.1],,Percent,3.3
+2019,Annual growth rate of real GDP per employed person [8.2.1],,Percent,3.6

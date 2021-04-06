@@ -1,7 +1,7 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2014,Proportion of children engaged in economic activity,,None,5 to 17 years old,None,None,None,None,None,None,None,None,None,Percent,19.03
-2014,Proportion of children engaged in economic activity,,Female,5 to 17 years old,None,None,None,None,None,None,None,None,None,Percent,19.25039
-2014,Proportion of children engaged in economic activity,,Male,5 to 17 years old,None,None,None,None,None,None,None,None,None,Percent,19.15775
-2014,Proportion of children engaged in economic activity and household chores,,None,5 to 17 years old,None,None,None,None,None,None,None,None,None,Percent,21.71
-2014,Proportion of children engaged in economic activity and household chores,,Female,5 to 17 years old,None,None,None,None,None,None,None,None,None,Percent,23.07
-2014,Proportion of children engaged in economic activity and household chores,,Male,5 to 17 years old,None,None,None,None,None,None,None,None,None,Percent,20.29
+Year,Series,Reference area,Sex,Age,Units,Value
+2014,Proportion of children engaged in economic activity [8.7.1],,,5 to 17 years old,Percent,19.0
+2014,Proportion of children engaged in economic activity [8.7.1],,Female,5 to 17 years old,Percent,19.3
+2014,Proportion of children engaged in economic activity [8.7.1],,Male,5 to 17 years old,Percent,19.2
+2014,Proportion of children engaged in economic activity and household chores [8.7.1],,,5 to 17 years old,Percent,21.7
+2014,Proportion of children engaged in economic activity and household chores [8.7.1],,Female,5 to 17 years old,Percent,23.1
+2014,Proportion of children engaged in economic activity and household chores [8.7.1],,Male,5 to 17 years old,Percent,20.3

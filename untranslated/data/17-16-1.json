@@ -1,1 +1,1 @@
-{"Year":["2018"],"Series":["SG_PLN_MSTKSDG"],"REF_AREA":[null],"SEX":["None"],"AGE":["None"],"URBANISATION":["None"],"INCOME_WEALTH_QUANTILE":["None"],"EDUCATION_LEV":["None"],"OCCUPATION":["None"],"CUST_BREAKDOWN":["None"],"COMPOSITE_BREAKDOWN":["None"],"DISABILITY_STATUS":["None"],"ACTIVITY":["None"],"PRODUCT":["None"],"Units":["BOOL"],"Value":[1]}
+{"Year":["2018"],"Series":["SG_PLN_MSTKSDG_R"],"REF_AREA":[null],"Units":["NUMBER"],"Value":[1]}

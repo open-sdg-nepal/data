@@ -1,2 +1,3 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2017,Manufacturing employment as a proportion of total employment,,None,None,None,None,None,None,None,None,None,None,None,Percent,15.1
+Year,Series,Reference area,Units,Value
+2008,Manufacturing employment as a proportion of total employment [9.2.2],,Percent,0.2
+2017,Manufacturing employment as a proportion of total employment [9.2.2],,Percent,15.1

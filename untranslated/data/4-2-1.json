@@ -1,1 +1,1 @@
-{"Year":["2014"],"Series":["SE_DEV_ONTRK"],"REF_AREA":[null],"SEX":["None"],"AGE":["M36T59"],"URBANISATION":["None"],"INCOME_WEALTH_QUANTILE":["None"],"EDUCATION_LEV":["None"],"OCCUPATION":["None"],"CUST_BREAKDOWN":["None"],"COMPOSITE_BREAKDOWN":["None"],"DISABILITY_STATUS":["None"],"ACTIVITY":["None"],"PRODUCT":["None"],"Units":["PT"],"Value":[64.4]}
+{"Year":["2019","2019","2019"],"Series":["SE_DEV_ONTRK","SE_DEV_ONTRK","SE_DEV_ONTRK"],"REF_AREA":[null,null,null],"SEX":[null,"F","M"],"AGE":["M36T59","M36T59","M36T59"],"Units":["PT","PT","PT"],"Value":[65.2,65.6,64.8]}

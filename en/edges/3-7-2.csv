@@ -1,11 +1,2 @@
 From,To
 Sex,Age
-Age,Degree of urbanisation
-Degree of urbanisation,Income or wealth quantile
-Income or wealth quantile,Education level
-Education level,Occupation
-Occupation,Custom Breakdown
-Custom Breakdown,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,Disability status
-Disability status,Economic activity
-Economic activity,Type of product

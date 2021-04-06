@@ -1,37 +1,41 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2000,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,11.2949750580379
-2001,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,11.981150174545
-2002,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,11.9581871279845
-2003,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,13.2088245525639
-2004,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,13.2397065913314
-2005,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,13.9895770220033
-2006,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,12.8576961810524
-2007,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,14.0401365563134
-2008,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,14.7917105286582
-2009,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,16.7994620379077
-2010,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,18.1299862554137
-2011,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,18.5017415775732
-2012,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,18.6641045554575
-2013,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,19.5229399488829
-2014,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,20.5967531932514
-2015,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,21.1259181456316
-2016,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,23.257906429021
-2017,Total government revenue as a proportion of GDP,,None,None,None,None,None,None,None,None,None,None,None,Percent,24.3811935039601
-2000,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,46015.0
-2001,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,52899.0
-2002,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,54941.0
-2003,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,65017.9
-2004,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,71064.0
-2005,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,82456.2
-2006,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,84100.2
-2007,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,102187.9
-2008,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,120649.8
-2009,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,166024.3
-2010,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,216249.7
-2011,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,252910.3
-2012,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,285065.0
-2013,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,330916.0
-2014,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,404631.4
-2015,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,450013.7
-2016,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,524038.6
-2017,"Total government revenue, in local currency",,None,None,None,None,None,None,None,None,None,None,None,Local currency,644296.3
+Year,Series,Reference area,Units,Value
+2000,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.2949750580379
+2001,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.981150174545
+2002,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.9581871279845
+2003,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.2088245525639
+2004,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.2397065913314
+2005,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.9895770220033
+2006,Total government revenue as a proportion of GDP [17.1.1],,Percent,12.8576961810524
+2007,Total government revenue as a proportion of GDP [17.1.1],,Percent,14.0401365563134
+2008,Total government revenue as a proportion of GDP [17.1.1],,Percent,14.7917105286582
+2009,Total government revenue as a proportion of GDP [17.1.1],,Percent,16.7994620379077
+2010,Total government revenue as a proportion of GDP [17.1.1],,Percent,18.1299862554137
+2011,Total government revenue as a proportion of GDP [17.1.1],,Percent,18.5017415775732
+2012,Total government revenue as a proportion of GDP [17.1.1],,Percent,18.6641045554575
+2013,Total government revenue as a proportion of GDP [17.1.1],,Percent,19.5229399488829
+2014,Total government revenue as a proportion of GDP [17.1.1],,Percent,20.5967531932514
+2015,Total government revenue as a proportion of GDP [17.1.1],,Percent,21.1259181456316
+2016,Total government revenue as a proportion of GDP [17.1.1],,Percent,23.257906429021
+2017,Total government revenue as a proportion of GDP [17.1.1],,Percent,24.4548781713341
+2018,Total government revenue as a proportion of GDP [17.1.1],,Percent,26.5034540463562
+2019,Total government revenue as a proportion of GDP [17.1.1],,Percent,27.3592151858698
+2000,"Total government revenue, in local currency [17.1.1]",,Local currency,46015.0
+2001,"Total government revenue, in local currency [17.1.1]",,Local currency,52899.0
+2002,"Total government revenue, in local currency [17.1.1]",,Local currency,54941.0
+2003,"Total government revenue, in local currency [17.1.1]",,Local currency,65017.9
+2004,"Total government revenue, in local currency [17.1.1]",,Local currency,71064.0
+2005,"Total government revenue, in local currency [17.1.1]",,Local currency,82456.2
+2006,"Total government revenue, in local currency [17.1.1]",,Local currency,84100.15
+2007,"Total government revenue, in local currency [17.1.1]",,Local currency,102187.9
+2008,"Total government revenue, in local currency [17.1.1]",,Local currency,120649.8
+2009,"Total government revenue, in local currency [17.1.1]",,Local currency,166024.3
+2010,"Total government revenue, in local currency [17.1.1]",,Local currency,216249.685
+2011,"Total government revenue, in local currency [17.1.1]",,Local currency,252910.309
+2012,"Total government revenue, in local currency [17.1.1]",,Local currency,285065.0
+2013,"Total government revenue, in local currency [17.1.1]",,Local currency,330916.0
+2014,"Total government revenue, in local currency [17.1.1]",,Local currency,404631.368
+2015,"Total government revenue, in local currency [17.1.1]",,Local currency,450013.6554597
+2016,"Total government revenue, in local currency [17.1.1]",,Local currency,524038.56580066
+2017,"Total government revenue, in local currency [17.1.1]",,Local currency,654043.94460947
+2018,"Total government revenue, in local currency [17.1.1]",,Local currency,803328.58749522
+2019,"Total government revenue, in local currency [17.1.1]",,Local currency,947810.524

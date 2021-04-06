@@ -1,9 +1,9 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2015,Compliance with the Basel Convention on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,50.0
-2020,Compliance with the Basel Convention on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,20.0
-2015,Compliance with the Montreal Protocol on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,100.0
-2020,Compliance with the Montreal Protocol on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,100.0
-2015,Compliance with the Rotterdam Convention on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,31.37
-2020,Compliance with the Rotterdam Convention on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,68.97
-2015,Compliance with the Stockholm Convention on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,66.67
-2020,Compliance with the Stockholm Convention on hazardous waste and other chemicals,,None,None,None,None,None,None,None,None,None,None,None,Percent,62.5
+Year,Series,Reference area,Units,Value
+2015,Compliance with the Basel Convention on hazardous waste and other chemicals [12.4.1],,Percent,50.0
+2020,Compliance with the Basel Convention on hazardous waste and other chemicals [12.4.1],,Percent,20.0
+2015,Compliance with the Montreal Protocol on hazardous waste and other chemicals [12.4.1],,Percent,100.0
+2020,Compliance with the Montreal Protocol on hazardous waste and other chemicals [12.4.1],,Percent,100.0
+2015,Compliance with the Rotterdam Convention on hazardous waste and other chemicals [12.4.1],,Percent,31.37
+2020,Compliance with the Rotterdam Convention on hazardous waste and other chemicals [12.4.1],,Percent,68.97
+2015,Compliance with the Stockholm Convention on hazardous waste and other chemicals [12.4.1],,Percent,66.67
+2020,Compliance with the Stockholm Convention on hazardous waste and other chemicals [12.4.1],,Percent,62.5

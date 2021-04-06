@@ -1,2 +1,2 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2016,Proportion of children under 5 years of age whose births have been registered with a civil authority,,None,under 5 years old,None,None,None,None,None,None,None,None,None,Percent,56.2
+Year,Series,Reference area,Age,Units,Value
+2019,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,under 5 years old,Percent,77.2

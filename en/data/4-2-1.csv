@@ -1,2 +1,4 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2014,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",,None,36 to 59 months old,None,None,None,None,None,None,None,None,None,Percent,64.4
+Year,Series,Reference area,Sex,Age,Units,Value
+2019,"Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]",,,36 to 59 months old,Percent,65.2
+2019,"Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]",,Female,36 to 59 months old,Percent,65.6
+2019,"Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]",,Male,36 to 59 months old,Percent,64.8

@@ -1,4 +1,4 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2010,Proportion of population living below the national poverty line,,None,None,None,None,None,None,None,None,None,None,None,Percent,25.2
-2010,Proportion of population living below the national poverty line,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,27.4
-2010,Proportion of population living below the national poverty line,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,15.5
+Year,Series,Reference area,Degree of urbanisation,Units,Value
+2010,Proportion of population living below the national poverty line [1.2.1],,,Percent,25.2
+2010,Proportion of population living below the national poverty line [1.2.1],,Rural,Percent,27.4
+2010,Proportion of population living below the national poverty line [1.2.1],,Urban,Percent,15.5

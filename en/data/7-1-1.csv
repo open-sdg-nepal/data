@@ -1,67 +1,86 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-1996,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,17.9
-1997,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,15.56461
-1998,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,19.42928
-1999,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,23.29445
-2000,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,27.1552
-2001,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,24.6
-2002,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,34.84372
-2003,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,38.66164
-2004,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,37.2
-2005,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,46.22322
-2006,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,51.2
-2007,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,53.72591
-2008,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,57.48794
-2009,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,61.27518
-2010,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,65.10121
-2011,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,67.26
-2012,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,73.87317
-2013,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,78.0357
-2014,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,84.9
-2015,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,86.65527
-2016,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,90.7
-2017,Proportion of population with access to electricity,,None,None,None,None,None,None,None,None,None,None,None,Percent,95.50748
-1996,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,10.15409
-1997,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,6.72057
-1998,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,10.58437
-1999,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,14.47127
-2000,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,18.37747
-2001,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,14.69725
-2002,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,26.43472
-2003,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,30.56021
-2004,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,28.45145
-2005,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,38.77897
-2006,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,44.08519
-2007,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,47.00284
-2008,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,51.15692
-2009,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,55.36198
-2010,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,59.21063
-2011,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,61.71845
-2012,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,69.34164
-2013,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,74.2997
-2014,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,82.05552
-2015,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,84.33872
-2016,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,89.812
-2017,Proportion of population with access to electricity,,None,None,Rural,None,None,None,None,None,None,None,None,Percent,94.74498
-1996,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,78.4
-1997,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,81.45478
-1998,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,82.28436
-1999,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,83.09678
-2000,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,83.89761
-2001,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,85.7
-2002,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,85.48672
-2003,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,86.28612
-2004,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,87.4
-2005,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,87.91917
-2006,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,90.1
-2007,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,89.60519
-2008,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,90.46785
-2009,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,91.3435
-2010,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,94.34054
-2011,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,94.11
-2012,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,95.29839
-2013,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,95.2708
-2014,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,97.7
-2015,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,96.82215
-2016,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,94.5
-2017,Proportion of population with access to electricity,,None,None,Urban,None,None,None,None,None,None,None,None,Percent,98.68839
+Year,Series,Reference area,Degree of urbanisation,Units,Value
+1990,Proportion of population with access to electricity [7.1.1],,,Percent,0
+1991,Proportion of population with access to electricity [7.1.1],,,Percent,0
+1992,Proportion of population with access to electricity [7.1.1],,,Percent,0
+1993,Proportion of population with access to electricity [7.1.1],,,Percent,4
+1994,Proportion of population with access to electricity [7.1.1],,,Percent,7
+1995,Proportion of population with access to electricity [7.1.1],,,Percent,11
+1996,Proportion of population with access to electricity [7.1.1],,,Percent,18
+1997,Proportion of population with access to electricity [7.1.1],,,Percent,18
+1998,Proportion of population with access to electricity [7.1.1],,,Percent,22
+1999,Proportion of population with access to electricity [7.1.1],,,Percent,25
+2000,Proportion of population with access to electricity [7.1.1],,,Percent,29
+2001,Proportion of population with access to electricity [7.1.1],,,Percent,25
+2002,Proportion of population with access to electricity [7.1.1],,,Percent,36
+2003,Proportion of population with access to electricity [7.1.1],,,Percent,42
+2004,Proportion of population with access to electricity [7.1.1],,,Percent,37
+2005,Proportion of population with access to electricity [7.1.1],,,Percent,47
+2006,Proportion of population with access to electricity [7.1.1],,,Percent,51
+2007,Proportion of population with access to electricity [7.1.1],,,Percent,54
+2008,Proportion of population with access to electricity [7.1.1],,,Percent,57
+2009,Proportion of population with access to electricity [7.1.1],,,Percent,61
+2010,Proportion of population with access to electricity [7.1.1],,,Percent,69
+2011,Proportion of population with access to electricity [7.1.1],,,Percent,67
+2012,Proportion of population with access to electricity [7.1.1],,,Percent,75
+2013,Proportion of population with access to electricity [7.1.1],,,Percent,78
+2014,Proportion of population with access to electricity [7.1.1],,,Percent,85
+2015,Proportion of population with access to electricity [7.1.1],,,Percent,84
+2016,Proportion of population with access to electricity [7.1.1],,,Percent,91
+2017,Proportion of population with access to electricity [7.1.1],,,Percent,90
+2018,Proportion of population with access to electricity [7.1.1],,,Percent,94
+2019,Proportion of population with access to electricity [7.1.1],,,Percent,90
+1995,Proportion of population with access to electricity [7.1.1],,Rural,Percent,2
+1996,Proportion of population with access to electricity [7.1.1],,Rural,Percent,10
+1997,Proportion of population with access to electricity [7.1.1],,Rural,Percent,9
+1998,Proportion of population with access to electricity [7.1.1],,Rural,Percent,13
+1999,Proportion of population with access to electricity [7.1.1],,Rural,Percent,17
+2000,Proportion of population with access to electricity [7.1.1],,Rural,Percent,20
+2001,Proportion of population with access to electricity [7.1.1],,Rural,Percent,15
+2002,Proportion of population with access to electricity [7.1.1],,Rural,Percent,28
+2003,Proportion of population with access to electricity [7.1.1],,Rural,Percent,35
+2004,Proportion of population with access to electricity [7.1.1],,Rural,Percent,28
+2005,Proportion of population with access to electricity [7.1.1],,Rural,Percent,39
+2006,Proportion of population with access to electricity [7.1.1],,Rural,Percent,44
+2007,Proportion of population with access to electricity [7.1.1],,Rural,Percent,47
+2008,Proportion of population with access to electricity [7.1.1],,Rural,Percent,51
+2009,Proportion of population with access to electricity [7.1.1],,Rural,Percent,55
+2010,Proportion of population with access to electricity [7.1.1],,Rural,Percent,63
+2011,Proportion of population with access to electricity [7.1.1],,Rural,Percent,62
+2012,Proportion of population with access to electricity [7.1.1],,Rural,Percent,71
+2013,Proportion of population with access to electricity [7.1.1],,Rural,Percent,74
+2014,Proportion of population with access to electricity [7.1.1],,Rural,Percent,82
+2015,Proportion of population with access to electricity [7.1.1],,Rural,Percent,81
+2016,Proportion of population with access to electricity [7.1.1],,Rural,Percent,90
+2017,Proportion of population with access to electricity [7.1.1],,Rural,Percent,88
+2018,Proportion of population with access to electricity [7.1.1],,Rural,Percent,93
+2019,Proportion of population with access to electricity [7.1.1],,Rural,Percent,89
+1990,Proportion of population with access to electricity [7.1.1],,Urban,Percent,78
+1991,Proportion of population with access to electricity [7.1.1],,Urban,Percent,79
+1992,Proportion of population with access to electricity [7.1.1],,Urban,Percent,79
+1993,Proportion of population with access to electricity [7.1.1],,Urban,Percent,80
+1994,Proportion of population with access to electricity [7.1.1],,Urban,Percent,81
+1995,Proportion of population with access to electricity [7.1.1],,Urban,Percent,82
+1996,Proportion of population with access to electricity [7.1.1],,Urban,Percent,78
+1997,Proportion of population with access to electricity [7.1.1],,Urban,Percent,83
+1998,Proportion of population with access to electricity [7.1.1],,Urban,Percent,84
+1999,Proportion of population with access to electricity [7.1.1],,Urban,Percent,84
+2000,Proportion of population with access to electricity [7.1.1],,Urban,Percent,85
+2001,Proportion of population with access to electricity [7.1.1],,Urban,Percent,86
+2002,Proportion of population with access to electricity [7.1.1],,Urban,Percent,86
+2003,Proportion of population with access to electricity [7.1.1],,Urban,Percent,87
+2004,Proportion of population with access to electricity [7.1.1],,Urban,Percent,87
+2005,Proportion of population with access to electricity [7.1.1],,Urban,Percent,88
+2006,Proportion of population with access to electricity [7.1.1],,Urban,Percent,90
+2007,Proportion of population with access to electricity [7.1.1],,Urban,Percent,90
+2008,Proportion of population with access to electricity [7.1.1],,Urban,Percent,90
+2009,Proportion of population with access to electricity [7.1.1],,Urban,Percent,91
+2010,Proportion of population with access to electricity [7.1.1],,Urban,Percent,96
+2011,Proportion of population with access to electricity [7.1.1],,Urban,Percent,94
+2012,Proportion of population with access to electricity [7.1.1],,Urban,Percent,96
+2013,Proportion of population with access to electricity [7.1.1],,Urban,Percent,96
+2014,Proportion of population with access to electricity [7.1.1],,Urban,Percent,98
+2015,Proportion of population with access to electricity [7.1.1],,Urban,Percent,95
+2016,Proportion of population with access to electricity [7.1.1],,Urban,Percent,95
+2017,Proportion of population with access to electricity [7.1.1],,Urban,Percent,97
+2018,Proportion of population with access to electricity [7.1.1],,Urban,Percent,96
+2019,Proportion of population with access to electricity [7.1.1],,Urban,Percent,94

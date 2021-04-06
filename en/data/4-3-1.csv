@@ -1,4 +1,4 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2008,Participation rate in formal and non-formal education and training,,None,None,None,None,None,None,None,None,None,None,None,Percent,1.96905553921671
-2008,Participation rate in formal and non-formal education and training,,Female,None,None,None,None,None,None,None,None,None,None,Percent,0.978122007542958
-2008,Participation rate in formal and non-formal education and training,,Male,None,None,None,None,None,None,None,None,None,None,Percent,3.12771665301852
+Year,Series,Reference area,Sex,Units,Value
+2008,Participation rate in formal and non-formal education and training [4.3.1],,,Percent,1.96905553921671
+2008,Participation rate in formal and non-formal education and training [4.3.1],,Female,Percent,0.978122007542958
+2008,Participation rate in formal and non-formal education and training [4.3.1],,Male,Percent,3.12771665301852

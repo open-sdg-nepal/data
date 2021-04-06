@@ -1,9 +1,8 @@
-Year,Series,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,OCCUPATION,CUST_BREAKDOWN,COMPOSITE_BREAKDOWN,DISABILITY_STATUS,ACTIVITY,PRODUCT,Units,Value
-1991,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,7.4
-1996,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,9.0
-2000,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,11.9
-2001,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,10.9
-2006,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,18.7
-2011,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,36.0
-2014,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,55.6
-2016,SH_STA_BRTC,,None,None,None,None,None,None,None,None,None,None,None,PT,58.0
+Year,Series,REF_AREA,Units,Value
+2000,SH_STA_BRTC,,PT,11.9
+2001,SH_STA_BRTC,,PT,10.9
+2006,SH_STA_BRTC,,PT,18.7
+2011,SH_STA_BRTC,,PT,36.0
+2014,SH_STA_BRTC,,PT,55.6
+2016,SH_STA_BRTC,,PT,58.0
+2019,SH_STA_BRTC,,PT,77.2

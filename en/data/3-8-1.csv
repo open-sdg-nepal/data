@@ -1,6 +1,6 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2000,Universal health coverage (UHC) service coverage index,,None,None,None,None,None,None,None,None,None,None,None,Index,24
-2005,Universal health coverage (UHC) service coverage index,,None,None,None,None,None,None,None,None,None,None,None,Index,29
-2010,Universal health coverage (UHC) service coverage index,,None,None,None,None,None,None,None,None,None,None,None,Index,42
-2015,Universal health coverage (UHC) service coverage index,,None,None,None,None,None,None,None,None,None,None,None,Index,51
-2017,Universal health coverage (UHC) service coverage index,,None,None,None,None,None,None,None,None,None,None,None,Index,48
+Year,Series,Reference area,Units,Value
+2000,Universal health coverage (UHC) service coverage index [3.8.1],,Index,24
+2005,Universal health coverage (UHC) service coverage index [3.8.1],,Index,29
+2010,Universal health coverage (UHC) service coverage index [3.8.1],,Index,42
+2015,Universal health coverage (UHC) service coverage index [3.8.1],,Index,51
+2017,Universal health coverage (UHC) service coverage index [3.8.1],,Index,48

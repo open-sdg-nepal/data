@@ -1,20 +1,20 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2011,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,82.20762
-2013,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,82.75045
-2014,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,88.74467
-2015,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,85.26952
-2016,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,87.73636
-2017,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,88.18694
-2019,Participation rate in organized learning (one year before the official primary entry age),,None,None,None,None,None,None,None,None,None,None,None,Percent,86.97027
-2011,Participation rate in organized learning (one year before the official primary entry age),,Female,None,None,None,None,None,None,None,None,None,None,Percent,86.90939
-2014,Participation rate in organized learning (one year before the official primary entry age),,Female,None,None,None,None,None,None,None,None,None,None,Percent,88.40214
-2015,Participation rate in organized learning (one year before the official primary entry age),,Female,None,None,None,None,None,None,None,None,None,None,Percent,83.54046
-2016,Participation rate in organized learning (one year before the official primary entry age),,Female,None,None,None,None,None,None,None,None,None,None,Percent,84.65127
-2017,Participation rate in organized learning (one year before the official primary entry age),,Female,None,None,None,None,None,None,None,None,None,None,Percent,83.03803
-2019,Participation rate in organized learning (one year before the official primary entry age),,Female,None,None,None,None,None,None,None,None,None,None,Percent,82.92236
-2011,Participation rate in organized learning (one year before the official primary entry age),,Male,None,None,None,None,None,None,None,None,None,None,Percent,77.80692
-2014,Participation rate in organized learning (one year before the official primary entry age),,Male,None,None,None,None,None,None,None,None,None,None,Percent,89.08111
-2015,Participation rate in organized learning (one year before the official primary entry age),,Male,None,None,None,None,None,None,None,None,None,None,Percent,86.99489
-2016,Participation rate in organized learning (one year before the official primary entry age),,Male,None,None,None,None,None,None,None,None,None,None,Percent,90.81327
-2017,Participation rate in organized learning (one year before the official primary entry age),,Male,None,None,None,None,None,None,None,None,None,None,Percent,93.35944
-2019,Participation rate in organized learning (one year before the official primary entry age),,Male,None,None,None,None,None,None,None,None,None,None,Percent,90.9807
+Year,Series,Reference area,Sex,Units,Value
+2011,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,82.20762
+2013,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,82.75045
+2014,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,88.74467
+2015,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,85.26952
+2016,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,87.73636
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,88.18694
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Percent,86.97027
+2011,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Percent,86.90939
+2014,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Percent,88.40214
+2015,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Percent,83.54046
+2016,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Percent,84.65127
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Percent,83.03803
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Percent,82.92236
+2011,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Percent,77.80692
+2014,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Percent,89.08111
+2015,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Percent,86.99489
+2016,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Percent,90.81327
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Percent,93.35944
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Percent,90.9807

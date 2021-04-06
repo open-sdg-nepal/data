@@ -1,7 +1,7 @@
-Year,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Occupation,Custom Breakdown,COMPOSITE_BREAKDOWN,Disability status,Economic activity,Type of product,Units,Value
-2008,"Proportion of youth not in education, employment or training",,None,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,23.1
-2017,"Proportion of youth not in education, employment or training",,None,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,32.1
-2008,"Proportion of youth not in education, employment or training",,Female,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,24.1
-2017,"Proportion of youth not in education, employment or training",,Female,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,42.0
-2008,"Proportion of youth not in education, employment or training",,Male,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,21.9
-2017,"Proportion of youth not in education, employment or training",,Male,15 to 24 years old,None,None,None,None,None,None,None,None,None,Percent,20.0
+Year,Series,Reference area,Sex,Age,Units,Value
+2008,"Proportion of youth not in education, employment or training [8.6.1]",,,15 to 24 years old,Percent,23.1
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,,15 to 24 years old,Percent,35.4
+2008,"Proportion of youth not in education, employment or training [8.6.1]",,Female,15 to 24 years old,Percent,24.1
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,Female,15 to 24 years old,Percent,46.6
+2008,"Proportion of youth not in education, employment or training [8.6.1]",,Male,15 to 24 years old,Percent,21.9
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,Male,15 to 24 years old,Percent,21.5
