@@ -11,15 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "M0"
+                "SH_DYN_NMRT",
+                "SH_DYN_NMRTN",
+                ""
               ]
             },
-            "title": "AGE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -32,25 +38,24 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_DYN_NMRT",
-                "SH_DYN_NMRTN"
+                "M0",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "AGE"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PER_1000_LIVE_BIRTHS",
                 "NUMBER",
-                "PER_1000_LIVE_BIRTHS"
+                ""
               ]
             },
             "title": "Units"
@@ -59,11 +64,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

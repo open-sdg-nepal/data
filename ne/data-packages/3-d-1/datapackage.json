@@ -11,11 +11,36 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_IHR_CAPS",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "IHR_01",
                 "IHR_02",
                 "IHR_03",
@@ -41,39 +66,19 @@
                 "SPAR_10",
                 "SPAR_11",
                 "SPAR_12",
-                "SPAR_13"
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "SPAR_13",
                 ""
               ]
             },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_IHR_CAPS"
-              ]
-            },
-            "title": "Series"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -82,11 +87,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

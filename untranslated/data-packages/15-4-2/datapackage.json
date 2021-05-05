@@ -11,17 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ELV_1",
-                "ELV_2",
-                "ELV_3",
-                "ELV_4",
-                "ELV_5",
-                "ELV_6"
+                "ER_MTN_GRNCVI",
+                ""
               ]
             }
           },
@@ -35,12 +34,17 @@
             }
           },
           {
-            "name": "Series",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ER_MTN_GRNCVI"
+                "ELV_1",
+                "ELV_2",
+                "ELV_3",
+                "ELV_4",
+                "ELV_5",
+                "ELV_6",
+                ""
               ]
             }
           },
@@ -49,18 +53,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

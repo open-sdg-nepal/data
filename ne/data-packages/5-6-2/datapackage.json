@@ -11,21 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "SH_LGR_ACSRHE",
                 "SH_LGR_ACSRHEC1",
                 "SH_LGR_ACSRHEC10",
@@ -43,18 +37,29 @@
                 "SH_LGR_ACSRHES1",
                 "SH_LGR_ACSRHES2",
                 "SH_LGR_ACSRHES3",
-                "SH_LGR_ACSRHES4"
+                "SH_LGR_ACSRHES4",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -63,11 +68,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

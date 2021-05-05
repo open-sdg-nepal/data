@@ -11,12 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y0T9"
+                "SD_MDP_ANDI",
+                "SD_MDP_MUHC",
+                ""
               ]
             }
           },
@@ -30,13 +35,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SD_MDP_ANDI",
-                "SD_MDP_MUHC"
+                "Y0T9",
+                ""
               ]
             }
           },
@@ -45,18 +49,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

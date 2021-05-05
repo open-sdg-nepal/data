@@ -11,6 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_ACS_UNHC",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,32 +34,18 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_ACS_UNHC"
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "IX"
+                "IX",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

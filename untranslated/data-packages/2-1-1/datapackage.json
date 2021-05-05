@@ -11,6 +11,21 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SN_ITK_DEFC",
+                "SN_ITK_DEFCN",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,34 +35,19 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SN_ITK_DEFC",
-                "SN_ITK_DEFCN"
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PT",
                 "NUMBER",
-                "PT"
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

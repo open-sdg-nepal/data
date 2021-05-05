@@ -11,16 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y0",
-                "Y0T4"
+                "SH_DYN_IMRT",
+                "SH_DYN_IMRTN",
+                "SH_DYN_MORT",
+                "SH_DYN_MORTN",
+                ""
               ]
             },
-            "title": "AGE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -37,35 +44,33 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_DYN_IMRT",
-                "SH_DYN_IMRTN",
-                "SH_DYN_MORT",
-                "SH_DYN_MORTN"
+                "Y0",
+                "Y0T4",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "AGE"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PER_1000_LIVE_BIRTHS",
                 "NUMBER",
-                "PER_1000_LIVE_BIRTHS"
+                ""
               ]
             },
             "title": "Units"
@@ -74,11 +79,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

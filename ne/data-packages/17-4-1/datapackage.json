@@ -11,6 +11,22 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DT_TDS_DECT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -21,23 +37,12 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "DT_TDS_DECT"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -46,11 +51,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

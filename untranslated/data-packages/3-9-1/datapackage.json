@@ -11,6 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_AAP_ASMORT",
+                "SH_AAP_MORT",
+                "SH_HAP_ASMORT",
+                "SH_HAP_MORT",
+                "SH_STA_AIRP",
+                "SH_STA_ASAIRP",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,37 +39,18 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_AAP_ASMORT",
-                "SH_AAP_MORT",
-                "SH_HAP_ASMORT",
-                "SH_HAP_MORT",
-                "SH_STA_AIRP",
-                "SH_STA_ASAIRP"
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PER_100000_POP"
+                "PER_100000_POP",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

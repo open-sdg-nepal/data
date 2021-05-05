@@ -11,15 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ISIC4_C10T32X19"
+                "EN_ATM_CO2",
+                "EN_ATM_CO2GDP",
+                "EN_ATM_CO2MVA",
+                ""
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -32,26 +39,24 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EN_ATM_CO2",
-                "EN_ATM_CO2GDP",
-                "EN_ATM_CO2MVA"
+                "ISIC4_C10T32X19",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "ACTIVITY"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "T",
                 "KG_PER_CON_USD",
-                "T"
+                ""
               ]
             },
             "title": "Units"
@@ -60,11 +65,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

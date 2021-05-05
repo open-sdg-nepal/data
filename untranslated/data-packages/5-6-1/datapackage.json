@@ -11,12 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y15T49"
+                "SH_FPL_INFM",
+                "SH_FPL_INFMCU",
+                "SH_FPL_INFMRH",
+                "SH_FPL_INFMSR",
+                ""
               ]
             }
           },
@@ -34,21 +41,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F"
+                "F",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_FPL_INFM",
-                "SH_FPL_INFMCU",
-                "SH_FPL_INFMRH",
-                "SH_FPL_INFMSR"
+                "Y15T49",
+                ""
               ]
             }
           },
@@ -57,18 +61,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

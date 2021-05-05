@@ -11,28 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "SE_TOT_CPLR",
+                ""
               ]
             }
           },
@@ -50,19 +38,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SE_TOT_CPLR"
+                "M",
+                ""
               ]
             }
           },
@@ -71,9 +49,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "R",
-                "U"
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                ""
               ]
             }
           },
@@ -82,18 +86,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

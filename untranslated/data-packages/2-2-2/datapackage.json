@@ -11,12 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y0T4"
+                "SH_STA_WAST",
+                "SH_STA_WASTN",
+                "SN_STA_OVWGT",
+                "SN_STA_OVWGTN",
+                ""
               ]
             }
           },
@@ -30,15 +37,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_STA_WAST",
-                "SH_STA_WASTN",
-                "SN_STA_OVWGT",
-                "SN_STA_OVWGTN"
+                "Y0T4",
+                ""
               ]
             }
           },
@@ -47,19 +51,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PT",
                 "NUMBER",
-                "PT"
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

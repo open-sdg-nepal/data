@@ -11,6 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_INFRAL",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,32 +34,18 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "DC_TOF_INFRAL"
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "CON_USD"
+                "CON_USD",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

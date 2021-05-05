@@ -11,12 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y15T19"
+                "SP_DYN_ADKL",
+                ""
               ]
             }
           },
@@ -34,18 +38,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F"
+                "F",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SP_DYN_ADKL"
+                "Y15T19",
+                ""
               ]
             }
           },
@@ -54,18 +58,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PER_1000_POP"
+                "PER_1000_POP",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

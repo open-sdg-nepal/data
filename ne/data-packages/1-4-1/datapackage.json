@@ -11,6 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_ACS_BSRVH2O",
+                "SP_ACS_BSRVSAN",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -21,25 +38,13 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SP_ACS_BSRVH2O",
-                "SP_ACS_BSRVSAN"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "R",
-                "U"
+                "U",
+                ""
               ]
             },
             "title": "URBANISATION"
@@ -49,8 +54,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -59,11 +64,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

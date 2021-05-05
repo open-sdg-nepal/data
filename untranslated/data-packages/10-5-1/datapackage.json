@@ -11,6 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FI_FSI_FSANL",
+                "FI_FSI_FSERA",
+                "FI_FSI_FSKA",
+                "FI_FSI_FSKNL",
+                "FI_FSI_FSKRTC",
+                "FI_FSI_FSLS",
+                "FI_FSI_FSSNO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,38 +40,18 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "FI_FSI_FSANL",
-                "FI_FSI_FSERA",
-                "FI_FSI_FSKA",
-                "FI_FSI_FSKNL",
-                "FI_FSI_FSKRTC",
-                "FI_FSI_FSLS",
-                "FI_FSI_FSSNO"
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

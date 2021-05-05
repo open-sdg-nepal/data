@@ -11,15 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y5T17"
+                "SL_TLF_CHLDEA",
+                "SL_TLF_CHLDEC",
+                ""
               ]
             },
-            "title": "AGE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -36,32 +42,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SL_TLF_CHLDEA",
-                "SL_TLF_CHLDEC"
+                "Y5T17",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "AGE"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -70,11 +75,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

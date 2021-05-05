@@ -11,28 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "CUST_BREAKDOWN",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "C01",
-                "C02"
-              ]
-            },
-            "title": "CUST_BREAKDOWN"
+            "title": "Year"
           },
           {
-            "name": "CUST_BREAKDOWN_LB",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Ghorai",
-                "Kathmandu"
+                "EN_REF_WASCOL",
+                ""
               ]
             },
-            "title": "CUST_BREAKDOWN_LB"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -45,36 +37,44 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "CUST_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EN_REF_WASCOL"
+                "C01",
+                "C02",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "CUST_BREAKDOWN"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kathmandu",
+                "Ghorai",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN_LB"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

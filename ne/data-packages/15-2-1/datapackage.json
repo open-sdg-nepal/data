@@ -11,6 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_LND_FRSTBIOPHA",
+                "AG_LND_FRSTCERT",
+                "AG_LND_FRSTCHG",
+                "AG_LND_FRSTMGT",
+                "AG_LND_FRSTPRCT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -21,29 +41,14 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "AG_LND_FRSTBIOPHA",
-                "AG_LND_FRSTCERT",
-                "AG_LND_FRSTCHG",
-                "AG_LND_FRSTMGT",
-                "AG_LND_FRSTPRCT"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "T_PER_HA",
                 "HA",
                 "PT",
-                "T_PER_HA"
+                ""
               ]
             },
             "title": "Units"
@@ -52,11 +57,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,12 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y_GE15"
+                "SH_ALC_CONSPT",
+                ""
               ]
             }
           },
@@ -34,19 +38,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_ALC_CONSPT"
+                "Y_GE15",
+                ""
               ]
             }
           },
@@ -55,18 +59,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "LITRES_PURE_ALCOHOL"
+                "LITRES_PURE_ALCOHOL",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

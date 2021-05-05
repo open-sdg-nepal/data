@@ -11,6 +11,24 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ST_EEV_ACCSEEA",
+                "ST_EEV_ACCTSA",
+                "ST_EEV_STDACCT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -21,25 +39,12 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ST_EEV_ACCSEEA",
-                "ST_EEV_ACCTSA",
-                "ST_EEV_STDACCT"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER"
+                "NUMBER",
+                ""
               ]
             },
             "title": "Units"
@@ -48,11 +53,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

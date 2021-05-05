@@ -11,15 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y0T4"
+                "SH_STA_WAST",
+                "SH_STA_WASTN",
+                "SN_STA_OVWGT",
+                "SN_STA_OVWGTN",
+                ""
               ]
             },
-            "title": "AGE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -32,27 +40,24 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_STA_WAST",
-                "SH_STA_WASTN",
-                "SN_STA_OVWGT",
-                "SN_STA_OVWGTN"
+                "Y0T4",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "AGE"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PT",
                 "NUMBER",
-                "PT"
+                ""
               ]
             },
             "title": "Units"
@@ -61,11 +66,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

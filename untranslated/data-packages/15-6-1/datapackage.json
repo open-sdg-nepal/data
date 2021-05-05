@@ -11,6 +11,24 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_CBD_ABSCLRHS",
+                "ER_CBD_NAGOYA",
+                "ER_CBD_ORSPGRFA",
+                "ER_CBD_PTYPGRFA",
+                "ER_CBD_SMTA",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,36 +38,18 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ER_CBD_ABSCLRHS",
-                "ER_CBD_NAGOYA",
-                "ER_CBD_ORSPGRFA",
-                "ER_CBD_PTYPGRFA",
-                "ER_CBD_SMTA"
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER"
+                "NUMBER",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

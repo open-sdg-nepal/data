@@ -11,6 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_BLD_ECOLI",
+                "SH_BLD_MRSA",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -21,24 +38,12 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SH_BLD_ECOLI",
-                "SH_BLD_MRSA"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -47,11 +52,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

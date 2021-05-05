@@ -11,21 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "OCCUPATION",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ISCO08_0",
-                "ISCO08_1",
-                "ISCO08_2",
-                "ISCO08_3",
-                "ISCO08_4",
-                "ISCO08_5",
-                "ISCO08_6",
-                "ISCO08_7",
-                "ISCO08_8",
-                "ISCO08_9"
+                "SL_EMP_EARN",
+                ""
               ]
             }
           },
@@ -43,19 +38,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SL_EMP_EARN"
+                "ISCO08_0",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9",
+                ""
               ]
             }
           },
@@ -64,18 +68,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "CUR_LCU"
+                "CUR_LCU",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

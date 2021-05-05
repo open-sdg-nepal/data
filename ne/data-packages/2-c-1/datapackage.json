@@ -11,16 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "CPC2_1_111",
-                "CPC2_1_113"
+                "AG_FPA_CFPI",
+                "AG_FPA_COMM",
+                ""
               ]
             },
-            "title": "PRODUCT"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -33,24 +38,24 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "AG_FPA_CFPI",
-                "AG_FPA_COMM"
+                "CPC2_1_111",
+                "CPC2_1_113",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "PRODUCT"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "IX"
+                "IX",
+                ""
               ]
             },
             "title": "Units"
@@ -59,11 +64,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

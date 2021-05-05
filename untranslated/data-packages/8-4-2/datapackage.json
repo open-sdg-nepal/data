@@ -11,26 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
-                "MF2",
-                "MF21",
-                "MF22",
-                "MF3",
-                "MF4",
-                "MF41",
-                "MF421",
-                "MF_AGG3A",
-                "MF_AGG3B"
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
+                "EN_MAT_DOMCMPT",
+                ""
               ]
             }
           },
@@ -44,14 +36,26 @@
             }
           },
           {
-            "name": "Series",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
-                "EN_MAT_DOMCMPT"
+                "MF_AGG3A",
+                "MF_AGG3B",
+                "MF1",
+                "MF11",
+                "MF121",
+                "MF122",
+                "MF13",
+                "MF14",
+                "MF2",
+                "MF21",
+                "MF22",
+                "MF3",
+                "MF4",
+                "MF41",
+                "MF421",
+                ""
               ]
             }
           },
@@ -60,19 +64,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "T",
                 "KG_PER_CON_USD",
-                "T"
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

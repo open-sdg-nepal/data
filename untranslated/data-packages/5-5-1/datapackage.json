@@ -11,6 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_GEN_LOCGELS",
+                "SG_GEN_PARL",
+                "SG_GEN_PARLN",
+                "SG_GEN_PARLNT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -24,21 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F"
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SG_GEN_LOCGELS",
-                "SG_GEN_PARL",
-                "SG_GEN_PARLN",
-                "SG_GEN_PARLNT"
+                "F",
+                ""
               ]
             }
           },
@@ -47,19 +51,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PT",
                 "NUMBER",
-                "PT"
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

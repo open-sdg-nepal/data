@@ -11,11 +11,40 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
+                "EN_MAT_DOMCMPT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
             "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "MF_AGG3A",
+                "MF_AGG3B",
                 "MF1",
                 "MF11",
                 "MF121",
@@ -29,43 +58,19 @@
                 "MF4",
                 "MF41",
                 "MF421",
-                "MF_AGG3A",
-                "MF_AGG3B"
-              ]
-            },
-            "title": "PRODUCT"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
                 ""
               ]
             },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
-                "EN_MAT_DOMCMPT"
-              ]
-            },
-            "title": "Series"
+            "title": "PRODUCT"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "T",
                 "KG_PER_CON_USD",
-                "T"
+                ""
               ]
             },
             "title": "Units"
@@ -74,11 +79,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

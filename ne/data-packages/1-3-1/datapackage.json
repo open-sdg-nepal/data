@@ -11,15 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Q1"
+                "SI_COV_BENFTS",
+                "SI_COV_CHLD",
+                "SI_COV_DISAB",
+                "SI_COV_MATNL",
+                "SI_COV_PENSN",
+                "SI_COV_POOR",
+                "SI_COV_SOCAST",
+                "SI_COV_SOCINS",
+                "SI_COV_UEMP",
+                "SI_COV_VULN",
+                "SI_COV_WKINJRY",
+                ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -36,41 +51,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "Series",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SI_COV_BENFTS",
-                "SI_COV_CHLD",
-                "SI_COV_DISAB",
-                "SI_COV_MATNL",
-                "SI_COV_PENSN",
-                "SI_COV_POOR",
-                "SI_COV_SOCAST",
-                "SI_COV_SOCINS",
-                "SI_COV_UEMP",
-                "SI_COV_VULN",
-                "SI_COV_WKINJRY"
+                "Q1",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -79,11 +84,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

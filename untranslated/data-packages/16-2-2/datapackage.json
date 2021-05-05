@@ -11,13 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y0T17",
-                "Y_GE18"
+                "VC_HTF_DETV",
+                "VC_HTF_DETVFL",
+                ""
               ]
             }
           },
@@ -35,20 +39,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "VC_HTF_DETV",
-                "VC_HTF_DETVFL"
+                "Y_GE18",
+                "Y0T17",
+                ""
               ]
             }
           },
@@ -57,18 +61,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER"
+                "NUMBER",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

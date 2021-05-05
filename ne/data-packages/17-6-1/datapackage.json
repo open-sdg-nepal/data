@@ -11,15 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "IS_2MT10M"
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
+                ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -32,25 +38,24 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "IT_NET_BBND",
-                "IT_NET_BBNDN"
+                "IS_2MT10M",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PER_100_POP",
                 "NUMBER",
-                "PER_100_POP"
+                ""
               ]
             },
             "title": "Units"
@@ -59,11 +64,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

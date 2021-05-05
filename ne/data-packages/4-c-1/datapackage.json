@@ -11,19 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "AGG_2_3",
-                "ISCED11_02",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3"
+                "SE_TRA_GRDL",
+                ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -40,31 +41,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "Series",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SE_TRA_GRDL"
+                "AGG_2_3",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -73,11 +78,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

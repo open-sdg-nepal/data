@@ -11,15 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "B50"
+                "SI_POV_50MI",
+                ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -32,23 +37,23 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SI_POV_50MI"
+                "B50",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -57,11 +62,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,6 +11,21 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_AGR_LSFP",
+                "SI_AGR_SSFP",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -24,20 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SI_AGR_LSFP",
-                "SI_AGR_SSFP"
+                "M",
+                ""
               ]
             }
           },
@@ -46,18 +50,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "CON_USD"
+                "CON_USD",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

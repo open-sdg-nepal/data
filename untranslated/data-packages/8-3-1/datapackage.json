@@ -11,13 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ISIC4_A",
-                "ISIC4_BTU"
+                "SL_ISV_IFEM",
+                ""
               ]
             }
           },
@@ -35,19 +38,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SL_ISV_IFEM"
+                "ISIC4_A",
+                "ISIC4_BTU",
+                ""
               ]
             }
           },
@@ -56,18 +60,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

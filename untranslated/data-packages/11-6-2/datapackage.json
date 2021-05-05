@@ -11,6 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_PM25",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -20,23 +34,13 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "EN_ATM_PM25"
-              ]
-            }
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "R",
-                "U"
+                "U",
+                ""
               ]
             }
           },
@@ -45,18 +49,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "GPERM3"
+                "GPERM3",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

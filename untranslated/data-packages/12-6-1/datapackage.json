@@ -11,13 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "LOR_ADVANCED",
-                "LOR_MINIMUM"
+                "EN_SCP_FRMN",
+                ""
               ]
             }
           },
@@ -31,12 +34,13 @@
             }
           },
           {
-            "name": "Series",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EN_SCP_FRMN"
+                "LOR_ADVANCED",
+                "LOR_MINIMUM",
+                ""
               ]
             }
           },
@@ -45,18 +49,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER"
+                "NUMBER",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

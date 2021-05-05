@@ -11,16 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "AGG_AGR",
-                "AGG_ARMS",
-                "AGG_CLTH",
-                "AGG_IND",
-                "AGG_TXT"
+                "TM_TRF_ZERO",
+                ""
               ]
             }
           },
@@ -34,12 +34,16 @@
             }
           },
           {
-            "name": "Series",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "TM_TRF_ZERO"
+                "AGG_AGR",
+                "AGG_ARMS",
+                "AGG_CLTH",
+                "AGG_IND",
+                "AGG_TXT",
+                ""
               ]
             }
           },
@@ -48,18 +52,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

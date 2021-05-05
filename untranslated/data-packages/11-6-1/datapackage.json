@@ -11,24 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "C01",
-                "C02"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
           },
           {
-            "name": "CUST_BREAKDOWN_LB",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Ghorai",
-                "Kathmandu"
+                "EN_REF_WASCOL",
+                ""
               ]
             }
           },
@@ -42,12 +34,13 @@
             }
           },
           {
-            "name": "Series",
+            "name": "CUST_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EN_REF_WASCOL"
+                "C01",
+                "C02",
+                ""
               ]
             }
           },
@@ -56,18 +49,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kathmandu",
+                "Ghorai",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

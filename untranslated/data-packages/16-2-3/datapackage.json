@@ -11,12 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y18T29"
+                "VC_VAW_SXVLN",
+                ""
               ]
             }
           },
@@ -34,18 +38,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F"
+                "F",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "VC_VAW_SXVLN"
+                "Y18T29",
+                ""
               ]
             }
           },
@@ -54,18 +58,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

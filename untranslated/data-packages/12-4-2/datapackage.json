@@ -11,12 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "WT_LANDFIL"
+                "EN_MWT_COLLV",
+                "EN_MWT_GENV",
+                "EN_MWT_RCYV",
+                "EN_MWT_TREATR",
+                ""
               ]
             }
           },
@@ -30,15 +37,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EN_MWT_COLLV",
-                "EN_MWT_GENV",
-                "EN_MWT_RCYV",
-                "EN_MWT_TREATR"
+                "WT_LANDFIL",
+                ""
               ]
             }
           },
@@ -47,19 +51,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "T",
                 "PT",
-                "T"
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

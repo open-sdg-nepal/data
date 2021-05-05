@@ -11,16 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ISIC4_A",
-                "ISIC4_BTU"
+                "SL_ISV_IFEM",
+                ""
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -37,31 +41,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "Series",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SL_ISV_IFEM"
+                "ISIC4_A",
+                "ISIC4_BTU",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "ACTIVITY"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -70,11 +75,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

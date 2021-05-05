@@ -11,32 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3"
-              ]
-            },
-            "title": "EDUCATION_LEV"
+            "title": "Year"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "SE_TOT_CPLR",
+                ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -53,43 +41,60 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SE_TOT_CPLR"
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "R",
-                "U"
+                "U",
+                ""
               ]
             },
             "title": "URBANISATION"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                ""
+              ]
+            },
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -98,11 +103,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,12 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y_GE15"
+                "FB_ATM_TOTL",
+                "FB_CBK_BRCH",
+                ""
               ]
             }
           },
@@ -30,13 +35,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "FB_ATM_TOTL",
-                "FB_CBK_BRCH"
+                "Y_GE15",
+                ""
               ]
             }
           },
@@ -45,18 +49,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER"
+                "NUMBER",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

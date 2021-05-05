@@ -11,25 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y30T70"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NCD_CARDIO",
-                "NCD_CNCR",
-                "NCD_CRESPD",
-                "NCD_DIABTS"
+                "SH_DTH_NCD",
+                "SH_DTH_NCOM",
+                ""
               ]
             }
           },
@@ -47,20 +39,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_DTH_NCD",
-                "SH_DTH_NCOM"
+                "Y30T70",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NCD_CARDIO",
+                "NCD_CNCR",
+                "NCD_CRESPD",
+                "NCD_DIABTS",
+                ""
               ]
             }
           },
@@ -69,19 +73,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "NUMBER",
-                "PT"
+                "PT",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

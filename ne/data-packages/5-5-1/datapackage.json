@@ -11,6 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_GEN_LOCGELS",
+                "SG_GEN_PARL",
+                "SG_GEN_PARLN",
+                "SG_GEN_PARLNT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -25,34 +44,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F"
+                "F",
+                ""
               ]
             },
             "title": "SEX"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SG_GEN_LOCGELS",
-                "SG_GEN_PARL",
-                "SG_GEN_PARLN",
-                "SG_GEN_PARLNT"
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "PT",
                 "NUMBER",
-                "PT"
+                ""
               ]
             },
             "title": "Units"
@@ -61,11 +66,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

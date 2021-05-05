@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3"
+                "SE_ACS_CMPTR",
+                "SE_ACS_ELECT",
+                "SE_ACS_H2O",
+                ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -34,25 +39,25 @@
             "title": "REF_AREA"
           },
           {
-            "name": "Series",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SE_ACS_CMPTR",
-                "SE_ACS_ELECT",
-                "SE_ACS_H2O"
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PT"
+                "PT",
+                ""
               ]
             },
             "title": "Units"
@@ -61,11 +66,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

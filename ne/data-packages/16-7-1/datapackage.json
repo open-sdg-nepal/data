@@ -11,33 +11,31 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y0T45",
-                "Y_GE46",
-                "_U",
-                "_X"
-              ]
-            },
-            "title": "AGE"
+            "title": "Year"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "PC_DEFENCE",
-                "PC_FINANCE",
-                "PC_FOR_AFF",
-                "PC_GEN_EQU",
-                "PC_HUM_RIGH"
+                "SG_DMK_PARLCC_LC",
+                "SG_DMK_PARLCC_UC",
+                "SG_DMK_PARLMP_LC",
+                "SG_DMK_PARLMP_UC",
+                "SG_DMK_PARLSP_LC",
+                "SG_DMK_PARLSP_UC",
+                "SG_DMK_PARLYN_LC",
+                "SG_DMK_PARLYN_UC",
+                "SG_DMK_PARLYP_LC",
+                "SG_DMK_PARLYP_UC",
+                "SG_DMK_PARLYR_LC",
+                "SG_DMK_PARLYR_UC",
+                ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -54,45 +52,52 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
                 "M",
-                "_X"
+                "_X",
+                ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "Series",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SG_DMK_PARLCC_LC",
-                "SG_DMK_PARLCC_UC",
-                "SG_DMK_PARLMP_LC",
-                "SG_DMK_PARLMP_UC",
-                "SG_DMK_PARLSP_LC",
-                "SG_DMK_PARLSP_UC",
-                "SG_DMK_PARLYN_LC",
-                "SG_DMK_PARLYN_UC",
-                "SG_DMK_PARLYP_LC",
-                "SG_DMK_PARLYP_UC",
-                "SG_DMK_PARLYR_LC",
-                "SG_DMK_PARLYR_UC"
+                "_U",
+                "Y_GE46",
+                "_X",
+                "Y0T45",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "AGE"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_DEFENCE",
+                "PC_FINANCE",
+                "PC_FOR_AFF",
+                "PC_GEN_EQU",
+                "PC_HUM_RIGH",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "NUMBER",
+                "RO",
                 "PT",
-                "RO"
+                ""
               ]
             },
             "title": "Units"
@@ -101,11 +106,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

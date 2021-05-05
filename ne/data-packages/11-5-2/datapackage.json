@@ -11,21 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "VC_DSR_AGLH",
                 "VC_DSR_BSDN",
                 "VC_DSR_CDAN",
@@ -39,20 +33,31 @@
                 "VC_DSR_HOLH",
                 "VC_DSR_HSDN",
                 "VC_DSR_LSGP",
-                "VC_DSR_OBDN"
+                "VC_DSR_OBDN",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "USD",
                 "NUMBER",
                 "PT",
-                "USD"
+                ""
               ]
             },
             "title": "Units"
@@ -61,11 +66,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }
