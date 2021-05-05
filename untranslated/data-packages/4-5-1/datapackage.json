@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGG_2_3",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3"
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SE_AGP_CPRA",
+                "SE_ALP_CPLR",
+                "SE_AWP_CPRA",
+                "SE_GPI_PART",
+                "SE_GPI_PTNPRE",
+                "SE_GPI_TCAQ"
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "RO"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "global_indicators.4-5-1-title"
+}

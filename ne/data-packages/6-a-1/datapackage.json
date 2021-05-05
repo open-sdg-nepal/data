@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "DC_TOF_WASHL"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CON_USD"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-a-1",
+  "title": "पानी र सरसफाइ सम्बन्धी आधिकारिक विकास सहायताको मात्रा जुन सरकारको संयोजित खर्च योजनाको हिस्सा हो"
+}

@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "DC_TOF_SCHIPSL"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CON_USD"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-b-1",
+  "title": "क्षेत्र र अध्ययनको प्रकार द्वारा छात्रवृत्ति को लागि आधिकारिक विकास सहायता को मात्रा प्रवाह"
+}

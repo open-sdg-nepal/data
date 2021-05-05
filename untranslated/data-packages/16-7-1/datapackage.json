@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T45",
+                "Y_GE46",
+                "_U",
+                "_X"
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PC_DEFENCE",
+                "PC_FINANCE",
+                "PC_FOR_AFF",
+                "PC_GEN_EQU",
+                "PC_HUM_RIGH"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_X"
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SG_DMK_PARLCC_LC",
+                "SG_DMK_PARLCC_UC",
+                "SG_DMK_PARLMP_LC",
+                "SG_DMK_PARLMP_UC",
+                "SG_DMK_PARLSP_LC",
+                "SG_DMK_PARLSP_UC",
+                "SG_DMK_PARLYN_LC",
+                "SG_DMK_PARLYN_UC",
+                "SG_DMK_PARLYP_LC",
+                "SG_DMK_PARLYP_UC",
+                "SG_DMK_PARLYR_LC",
+                "SG_DMK_PARLYR_UC"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "PT",
+                "RO"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1",
+  "title": "global_indicators.16-7-1-title"
+}

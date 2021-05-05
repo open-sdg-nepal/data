@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AG_PRD_AGVAS",
+                "AG_PRD_ORTIND",
+                "AG_XPD_AGSGB"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IX",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-a-1",
+  "title": "सरकारी खर्चको लागि कृषि अभिमुखीकरण सूचकांक"
+}

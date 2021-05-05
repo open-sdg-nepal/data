@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SG_INF_ACCSS"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-10-2",
+  "title": "संवैधानिक, वैधानिक र / वा नीतिमा सार्वजनिक पहुँचको लागि सार्वजनिक ग्यारेन्टी लागू गर्ने र लागू गर्ने देशहरूको संख्या"
+}

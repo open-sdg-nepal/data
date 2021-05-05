@@ -1,0 +1,91 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y15T19",
+                "Y15T49",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "VC_VAW_MARR"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1",
+  "title": "१ ever बर्ष भन्दा बढि उमेरका साझेदार महिला र केटीहरूको अनुपात पिछले वा १२ महिनामा हिंसाको रूपमा र उमेर द्वारा हालको वा पूर्व घनिष्ठ साथीले शारीरिक, यौन वा मनोवैज्ञानिक हिंसाको सिकार भएको थियो।"
+}

@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ELV_1",
+                "ELV_2",
+                "ELV_3",
+                "ELV_4",
+                "ELV_5",
+                "ELV_6"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ER_MTN_GRNCVI"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2",
+  "title": "global_indicators.15-4-2-title"
+}

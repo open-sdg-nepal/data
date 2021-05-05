@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T4"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_STA_STNT",
+                "SH_STA_STNTN"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-1",
+  "title": "Unt बर्ष भन्दा कम उमेरका बच्चाहरू बीच स्टन्टि (को व्यावाधिकरण (उमेरका लागि उचाइ <-२ विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) बाल विकास मानक) को औसतबाट विचलन"
+}

@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "EG_EGY_PRIM"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "MJ_PER_GDP_CON_PPP_USD"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-3-1",
+  "title": "global_indicators.7-3-1-title"
+}

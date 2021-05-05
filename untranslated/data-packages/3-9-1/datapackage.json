@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_AAP_ASMORT",
+                "SH_AAP_MORT",
+                "SH_HAP_ASMORT",
+                "SH_HAP_MORT",
+                "SH_STA_AIRP",
+                "SH_STA_ASAIRP"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PER_100000_POP"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-9-1",
+  "title": "global_indicators.3-9-1-title"
+}

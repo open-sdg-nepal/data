@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ISCO08_0",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SL_EMP_EARN"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CUR_LCU"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1",
+  "title": "global_indicators.8-5-1-title"
+}

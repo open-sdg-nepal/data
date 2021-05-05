@@ -1,0 +1,121 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGG_2_3",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3"
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5"
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SE_AGP_CPRA",
+                "SE_ALP_CPLR",
+                "SE_AWP_CPRA",
+                "SE_GPI_PART",
+                "SE_GPI_PTNPRE",
+                "SE_GPI_TCAQ"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U"
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "RO"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "समता सूचकांक (महिला / पुरुष, ग्रामीण / शहरी, तल्लो / शीर्ष सम्पत्ती क्विन्टिल र अन्य जस्तै अशक्तताको स्थिति, आदिवासी जनजाति र द्वन्द्व प्रभावित, डेटा उपलब्ध हुने बित्तिकै) यस सूचीमा सबै शिक्षा सूचकहरूका लागि जुन भिन्नता हुन सक्छ"
+}

@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGG_AGR",
+                "AGG_ARMS",
+                "AGG_CLTH",
+                "AGG_IND",
+                "AGG_TXT"
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "TM_TRF_ZERO"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-a-1",
+  "title": "कम विकसित देशहरू र शून्य-ट्यारिफ भएका विकासशील देशहरूको आयातमा ट्यारिफ लाइनहरूको अनुपात लागू हुन्छ"
+}

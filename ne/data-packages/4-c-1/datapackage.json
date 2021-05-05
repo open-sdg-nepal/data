@@ -1,0 +1,89 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGG_2_3",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3"
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SE_TRA_GRDL"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "शिक्षकहरूको अनुपात: (क) पूर्व-प्राथमिक; (बी) प्राथमिक; (c) तल्लो माध्यमिक; र (घ) उच्च माध्यमिक शिक्षा जसले कमसेकम न्यूनतम संगठित शिक्षक प्रशिक्षण प्राप्त गरे (उदाहरणका लागि प्याडगोजिकल प्रशिक्षण) पूर्व-सेवा वा सेवा प्रदान गरिएको देशमा प्रासंगिक तहमा सिकाउनको लागि आवश्यक"
+}

@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "VC_DSR_AGLH",
+                "VC_DSR_BSDN",
+                "VC_DSR_CDAN",
+                "VC_DSR_CDYN",
+                "VC_DSR_CHLN",
+                "VC_DSR_CILN",
+                "VC_DSR_DDPA",
+                "VC_DSR_EFDN",
+                "VC_DSR_ESDN",
+                "VC_DSR_HFDN",
+                "VC_DSR_HOLH",
+                "VC_DSR_HSDN",
+                "VC_DSR_LSGP",
+                "VC_DSR_OBDN"
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "PT",
+                "USD"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-2",
+  "title": "global_indicators.11-5-2-title"
+}

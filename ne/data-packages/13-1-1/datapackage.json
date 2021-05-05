@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "VC_DSR_AFFCT",
+                "VC_DSR_DAFF",
+                "VC_DSR_IJILN",
+                "VC_DSR_MISS",
+                "VC_DSR_MMHN",
+                "VC_DSR_MORT",
+                "VC_DSR_MTMP",
+                "VC_DSR_PDAN",
+                "VC_DSR_PDLN",
+                "VC_DSR_PDYN"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "PER_100000_POP"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-1-1",
+  "title": "मृत्युको संख्या, हराइरहेको व्यक्ति र प्रत्यक्ष प्रभावित व्यक्तिहरू प्रत्येक १००,००० जनसंख्यामा प्रकोपका लागि जिम्मेवार छन्"
+}

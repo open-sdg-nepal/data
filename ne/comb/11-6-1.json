@@ -1,0 +1,1 @@
+{"data":{"Year":["2003","2009"],"Series":["EN_REF_WASCOL","EN_REF_WASCOL"],"REF_AREA":[null,null],"CUST_BREAKDOWN":["C01","C02"],"Units":["PT","PT"],"CUST_BREAKDOWN_LB":["Kathmandu","Ghorai"],"Value":[94,83]},"edges":{"From":["CUST_BREAKDOWN"],"To":["CUST_BREAKDOWN_LB"]}}

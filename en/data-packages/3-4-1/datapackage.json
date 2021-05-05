@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 to exact 70 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Non-communicable disease: Cardiovascular disease",
+                "Non-communicable disease: Cancer",
+                "Non-communicable disease: Chronic respiratory disease",
+                "Non-communicable disease: Diabetes"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deaths attributed non-communicable diseases (number) [3.4.1]",
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Percent"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+}

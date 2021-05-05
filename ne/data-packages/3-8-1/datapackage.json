@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_ACS_UNHC"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IX"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-1",
+  "title": "आवश्यक स्वास्थ्य सेवाको कभरेज (सामान्य र सबैभन्दा वञ्चित जनसंख्या बीच प्रजनन, मातृ, नवजात र बच्चा स्वास्थ्य, संक्रामक रोग, गैर-संचार रोग र सेवा क्षमता र पहुँच समावेश ट्रेसर हस्तक्षेपको आधारमा आवश्यक सेवाहरूको औसत कभरेजको रूपमा परिभाषित) )"
+}

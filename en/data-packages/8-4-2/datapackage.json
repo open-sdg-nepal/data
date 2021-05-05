@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Biomass (material flows)",
+                "Crops (material flows)",
+                "Crop residues (material flows)",
+                "Grazed biomass and fodder crops (material flows)",
+                "Wood (material flows)",
+                "Wild catch and harvest (material flows)",
+                "Metal ores (material flows)",
+                "Ferrous ores (material flows)",
+                "Non-ferrous ores (material flows)",
+                "Non-metallic minerals (material flows)",
+                "Fossil fuels (material flows)",
+                "Coal (material flows)",
+                "Petroleum (material flows)",
+                "Non-metallic minerals - construction dominant (material flows)",
+                "Non-metallic minerals - industrial or agricultural dominant (material flows)"
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Domestic material consumption per capita, by type of raw material [8.4.2]",
+                "Domestic material consumption per unit of GDP [8.4.2]",
+                "Domestic material consumption [8.4.2]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kilograms per constant USD",
+                "Metric Tons"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-4-2",
+  "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+}

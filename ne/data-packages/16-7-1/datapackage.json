@@ -1,0 +1,117 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T45",
+                "Y_GE46",
+                "_U",
+                "_X"
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PC_DEFENCE",
+                "PC_FINANCE",
+                "PC_FOR_AFF",
+                "PC_GEN_EQU",
+                "PC_HUM_RIGH"
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_X"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SG_DMK_PARLCC_LC",
+                "SG_DMK_PARLCC_UC",
+                "SG_DMK_PARLMP_LC",
+                "SG_DMK_PARLMP_UC",
+                "SG_DMK_PARLSP_LC",
+                "SG_DMK_PARLSP_UC",
+                "SG_DMK_PARLYN_LC",
+                "SG_DMK_PARLYN_UC",
+                "SG_DMK_PARLYP_LC",
+                "SG_DMK_PARLYP_UC",
+                "SG_DMK_PARLYR_LC",
+                "SG_DMK_PARLYR_UC"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "PT",
+                "RO"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1",
+  "title": "राष्ट्रिय वितरणको तुलनामा सार्वजनिक संस्थानहरू (राष्ट्रिय र स्थानीय विधायिका, सार्वजनिक सेवा, र न्यायपालिका) मा पद (सेक्स, उमेर, अशक्त र जनसंख्या समूह) को पदोन्नति।"
+}

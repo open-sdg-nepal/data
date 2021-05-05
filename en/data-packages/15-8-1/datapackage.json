@@ -1,0 +1,63 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",
+                "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Boolean or binary measure"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-8-1",
+  "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+}

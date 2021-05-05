@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ISIC4_C10T32X19"
+              ]
+            },
+            "title": "ACTIVITY"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "EN_ATM_CO2",
+                "EN_ATM_CO2GDP",
+                "EN_ATM_CO2MVA"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "KG_PER_CON_USD",
+                "T"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-4-1",
+  "title": "मूल्यको एकाई प्रति CO2 उत्सर्जन थपियो"
+}

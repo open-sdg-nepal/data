@@ -1,0 +1,121 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education"
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)"
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Gender parity index for participation rate in formal and non-formal education and training [4.5.1]",
+                "Gender parity index for participation rate in organized learning (one year before the official primary entry age) [4.5.1]",
+                "Gender parity index of trained teachers [4.5.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ratio"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+}

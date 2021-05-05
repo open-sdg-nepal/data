@@ -1,0 +1,114 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3"
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5"
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SE_TOT_CPLR"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U"
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-2",
+  "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+}

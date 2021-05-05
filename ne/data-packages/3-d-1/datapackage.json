@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IHR_01",
+                "IHR_02",
+                "IHR_03",
+                "IHR_04",
+                "IHR_05",
+                "IHR_06",
+                "IHR_07",
+                "IHR_08",
+                "IHR_09",
+                "IHR_10",
+                "IHR_11",
+                "IHR_12",
+                "IHR_13",
+                "SPAR_01",
+                "SPAR_02",
+                "SPAR_03",
+                "SPAR_04",
+                "SPAR_05",
+                "SPAR_06",
+                "SPAR_07",
+                "SPAR_08",
+                "SPAR_09",
+                "SPAR_10",
+                "SPAR_11",
+                "SPAR_12",
+                "SPAR_13"
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_IHR_CAPS"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-d-1",
+  "title": "अन्तर्राष्ट्रिय स्वास्थ्य नियमहरु (IHR) क्षमता र स्वास्थ्य आपतकालीन तयारी"
+}

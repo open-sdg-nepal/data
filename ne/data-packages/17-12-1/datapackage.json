@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGG_AGR",
+                "AGG_ARMS",
+                "AGG_CLTH",
+                "AGG_IND",
+                "AGG_TXT"
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "TM_TAX_DMFN",
+                "TM_TAX_DPRF"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-12-1",
+  "title": "औसत ट्यारिफहरू विकासोन्मुख देशहरू, कम विकसित देशहरू र साना टापु विकास गर्ने राज्यहरूको सामना गर्छन्"
+}

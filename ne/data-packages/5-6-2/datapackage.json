@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_LGR_ACSRHE",
+                "SH_LGR_ACSRHEC1",
+                "SH_LGR_ACSRHEC10",
+                "SH_LGR_ACSRHEC11",
+                "SH_LGR_ACSRHEC12",
+                "SH_LGR_ACSRHEC13",
+                "SH_LGR_ACSRHEC2",
+                "SH_LGR_ACSRHEC3",
+                "SH_LGR_ACSRHEC4",
+                "SH_LGR_ACSRHEC5",
+                "SH_LGR_ACSRHEC6",
+                "SH_LGR_ACSRHEC7",
+                "SH_LGR_ACSRHEC8",
+                "SH_LGR_ACSRHEC9",
+                "SH_LGR_ACSRHES1",
+                "SH_LGR_ACSRHES2",
+                "SH_LGR_ACSRHES3",
+                "SH_LGR_ACSRHES4"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-2",
+  "title": "कानून र नियमहरूको साथ देशहरूको संख्या जसले यौन र प्रजनन स्वास्थ्य सेवा, सूचना र शिक्षामा १ 15 बर्ष भन्दा माथिका महिला र पुरुषहरूको पूर्ण र समान पहुँचको ग्यारेन्टी गर्दछ।"
+}

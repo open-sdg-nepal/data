@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ER_H2O_PRDU",
+                "ER_H2O_RURP",
+                "ER_WAT_PART",
+                "ER_WAT_PRDU"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R"
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-b-1",
+  "title": "पानी र सरसफाई व्यवस्थापनमा स्थानीय समुदायको सहभागिताको लागि स्थापित र परिचालन नीति र प्रक्रियाहरू सहित स्थानीय प्रशासनिक एकाइहरूको अनुपात"
+}

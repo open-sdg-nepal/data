@@ -1,0 +1,31 @@
+Year,Series,Reference area,Sex,Occupation,Units,Value
+2004,Health workder density [3.c.1],,,Medical doctors,"Per 10,000 population",2.118
+2012,Health workder density [3.c.1],,,Medical doctors,"Per 10,000 population",5.159
+2013,Health workder density [3.c.1],,,Medical doctors,"Per 10,000 population",5.64
+2017,Health workder density [3.c.1],,,Medical doctors,"Per 10,000 population",9.101
+2018,Health workder density [3.c.1],,,Medical doctors,"Per 10,000 population",7.486
+2019,Health workder density [3.c.1],,,Medical doctors,"Per 10,000 population",8.091
+2004,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",4.652
+2012,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",15.98
+2013,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",18.729
+2014,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",21.369
+2017,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",28.479
+2018,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",31.084
+2019,Health workder density [3.c.1],,,Nursing and midwifery personnel,"Per 10,000 population",33.047
+2004,Health workder density [3.c.1],,,Dentists,"Per 10,000 population",0.096
+2017,Health workder density [3.c.1],,,Dentists,"Per 10,000 population",2.2
+2018,Health workder density [3.c.1],,,Dentists,"Per 10,000 population",0.967
+2019,Health workder density [3.c.1],,,Dentists,"Per 10,000 population",1.119
+2004,Health workder density [3.c.1],,,Pharmacists,"Per 10,000 population",0.105
+2012,Health workder density [3.c.1],,,Pharmacists,"Per 10,000 population",0.445
+2017,Health workder density [3.c.1],,,Pharmacists,"Per 10,000 population",0.981
+2018,Health workder density [3.c.1],,,Pharmacists,"Per 10,000 population",0.925
+2019,Health workder density [3.c.1],,,Pharmacists,"Per 10,000 population",1.346
+2017,"Health worker distribution, by sex and type of occupation [3.c.1]",,Female,Medical doctors,Percent,31.587
+2019,"Health worker distribution, by sex and type of occupation [3.c.1]",,Female,Medical doctors,Percent,33.099
+2018,"Health worker distribution, by sex and type of occupation [3.c.1]",,Female,Nursing personnel,Percent,99.773
+2019,"Health worker distribution, by sex and type of occupation [3.c.1]",,Female,Nursing personnel,Percent,99.794
+2017,"Health worker distribution, by sex and type of occupation [3.c.1]",,Male,Medical doctors,Percent,68.413
+2019,"Health worker distribution, by sex and type of occupation [3.c.1]",,Male,Medical doctors,Percent,66.901
+2018,"Health worker distribution, by sex and type of occupation [3.c.1]",,Male,Nursing personnel,Percent,0.227
+2019,"Health worker distribution, by sex and type of occupation [3.c.1]",,Male,Nursing personnel,Percent,0.206

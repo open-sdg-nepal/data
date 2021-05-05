@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "MF1",
+                "MF11",
+                "MF121",
+                "MF122",
+                "MF13",
+                "MF14",
+                "MF2",
+                "MF21",
+                "MF22",
+                "MF3",
+                "MF4",
+                "MF41",
+                "MF421",
+                "MF_AGG3A",
+                "MF_AGG3B"
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
+                "EN_MAT_DOMCMPT"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "KG_PER_CON_USD",
+                "T"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-4-2",
+  "title": "घरेलु सामग्री उपभोग, प्रति व्यक्ति घरेलु सामग्री खपत, र प्रति जीडीपी घरेलु सामग्री खपत"
+}
