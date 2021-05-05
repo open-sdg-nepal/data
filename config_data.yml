@@ -49,7 +49,7 @@ inputs:
       - FREQ
       - REPORTING_TYPE
     drop_singleton_dimensions: false
-    dsd: 'CSO_DSD.xml'
+    dsd: 'CBS_DSD.xml'
     import_codes: true
   #- class: InputSdmxMl_UnitedNationsApi
   # dimension_map:
@@ -88,7 +88,7 @@ inputs:
 # The defaults below show what is used when this is omitted.
 translations:
   - class: TranslationInputSdmx
-    source: 'CSO_DSD.xml'
+    source: 'CBS_DSD.xml'
     # source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
