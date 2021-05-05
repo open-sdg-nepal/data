@@ -63,7 +63,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-c-1-title"
+      "title": "Indicator of food price anomalies"
     },
     {
       "path": "15-1-1/data.csv",
@@ -117,7 +117,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-1-1-title"
+      "title": "Forest area as a proportion of total land area"
     },
     {
       "path": "15-2-1/data.csv",
@@ -174,7 +174,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-2-1-title"
+      "title": "Progress towards sustainable forest management"
     },
     {
       "path": "2-a-1/data.csv",
@@ -228,7 +228,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-a-1-title"
+      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "2-1-2/data.csv",
@@ -304,7 +304,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-2-title"
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
       "path": "17-3-2/data.csv",
@@ -355,7 +355,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-3-2-title"
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
       "path": "17-9-1/data.csv",
@@ -406,7 +406,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-9-1-title"
+      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
     },
     {
       "path": "15-a-1/data.csv",
@@ -457,7 +457,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-a-1-title"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "15-b-1/data.csv",
@@ -508,7 +508,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-b-1-title"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "1-a-1/data.csv",
@@ -559,7 +559,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-1-title"
+      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "2-a-2/data.csv",
@@ -610,7 +610,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-a-2-title"
+      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
     },
     {
       "path": "3-b-2/data.csv",
@@ -662,7 +662,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-2-title"
+      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "9-a-1/data.csv",
@@ -713,7 +713,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-a-1-title"
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "4-b-1/data.csv",
@@ -764,7 +764,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-b-1-title"
+      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
     },
     {
       "path": "8-a-1/data.csv",
@@ -816,7 +816,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-a-1-title"
+      "title": "Aid for Trade commitments and disbursements"
     },
     {
       "path": "6-a-1/data.csv",
@@ -867,7 +867,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-a-1-title"
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "10-b-1/data.csv",
@@ -918,7 +918,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-b-1-title"
+      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "17-4-1/data.csv",
@@ -969,7 +969,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-4-1-title"
+      "title": "Debt service as a proportion of exports of goods and services"
     },
     {
       "path": "7-1-1/data.csv",
@@ -1031,7 +1031,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-1-title"
+      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "7-1-2/data.csv",
@@ -1082,7 +1082,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-2-title"
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "7-3-1/data.csv",
@@ -1133,7 +1133,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-3-1-title"
+      "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
       "path": "7-b-1/data.csv",
@@ -1184,7 +1184,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-b-1-title"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "12-a-1/data.csv",
@@ -1235,7 +1235,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-a-1-title"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "7-2-1/data.csv",
@@ -1286,7 +1286,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-1-title"
+      "title": "Renewable energy share in the total final energy consumption"
     },
     {
       "path": "7-a-1/data.csv",
@@ -1337,7 +1337,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-a-1-title"
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "9-4-1/data.csv",
@@ -1401,7 +1401,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-4-1-title"
+      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "13-2-2/data.csv",
@@ -1514,7 +1514,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-6-2-title"
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "11-1-1/data.csv",
@@ -1565,7 +1565,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-1-1-title"
+      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
     },
     {
       "path": "8-4-2/data.csv",
@@ -1643,7 +1643,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-4-2-title"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "12-4-2/data.csv",
@@ -1708,7 +1708,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-4-2-title"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "12-5-1/data.csv",
@@ -1759,7 +1759,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-5-1-title"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "11-6-1/data.csv",
@@ -1832,7 +1832,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-6-1-title"
+      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
     },
     {
       "path": "12-6-1/data.csv",
@@ -1894,7 +1894,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-6-1-title"
+      "title": "Number of companies publishing sustainability reports"
     },
     {
       "path": "6-6-1/data.csv",
@@ -1949,7 +1949,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-6-1-title"
+      "title": "Change in the extent of water-related ecosystems over time"
     },
     {
       "path": "6-3-1/data.csv",
@@ -2000,7 +2000,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-3-1-title"
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "15-9-1/data.csv",
@@ -2062,7 +2062,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-9-1-title"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
     },
     {
       "path": "15-6-1/data.csv",
@@ -2117,7 +2117,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-6-1-title"
+      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
     },
     {
       "path": "2-5-1/data.csv",
@@ -2168,7 +2168,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-5-1-title"
+      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
       "path": "6-5-1/data.csv",
@@ -2219,7 +2219,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-5-1-title"
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "6-b-1/data.csv",
@@ -2283,7 +2283,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-b-1-title"
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2334,7 +2334,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-4-2-title"
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2385,7 +2385,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-4-1-title"
+      "title": "Change in water-use efficiency over time"
     },
     {
       "path": "15-8-1/data.csv",
@@ -2437,7 +2437,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-8-1-title"
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
     },
     {
       "path": "15-4-2/data.csv",
@@ -2503,7 +2503,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-4-2-title"
+      "title": "Mountain Green Cover Index"
     },
     {
       "path": "15-1-2/data.csv",
@@ -2555,7 +2555,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-1-2-title"
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
     },
     {
       "path": "15-4-1/data.csv",
@@ -2606,7 +2606,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-4-1-title"
+      "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
       "path": "14-b-1/data.csv",
@@ -2657,7 +2657,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-b-1-title"
+      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
       "path": "2-5-2/data.csv",
@@ -2708,7 +2708,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-5-2-title"
+      "title": "Proportion of local breeds classified as being at risk of extinction"
     },
     {
       "path": "15-5-1/data.csv",
@@ -2759,7 +2759,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-5-1-title"
+      "title": "Red List Index"
     },
     {
       "path": "8-10-1/data.csv",
@@ -2821,7 +2821,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-10-1-title"
+      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
       "path": "8-10-2/data.csv",
@@ -2893,7 +2893,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-10-2-title"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "9-3-2/data.csv",
@@ -2944,7 +2944,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-3-2-title"
+      "title": "Proportion of small-scale industries with a loan or line of credit"
     },
     {
       "path": "10-5-1/data.csv",
@@ -3001,7 +3001,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-5-1-title"
+      "title": "Financial Soundness Indicators"
     },
     {
       "path": "9-5-2/data.csv",
@@ -3052,7 +3052,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-5-2-title"
+      "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
       "path": "9-5-1/data.csv",
@@ -3103,7 +3103,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-5-1-title"
+      "title": "Research and development expenditure as a proportion of GDP"
     },
     {
       "path": "17-1-2/data.csv",
@@ -3154,7 +3154,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-1-2-title"
+      "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
       "path": "17-17-1/data.csv",
@@ -3207,7 +3207,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-17-1-title"
+      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
       "path": "17-3-1/data.csv",
@@ -3258,7 +3258,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-3-1-title"
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "16-6-1/data.csv",
@@ -3309,7 +3309,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-6-1-title"
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "17-1-1/data.csv",
@@ -3362,7 +3362,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-1-1-title"
+      "title": "Total government revenue as a proportion of GDP, by source"
     },
     {
       "path": "16-5-2/data.csv",
@@ -3413,7 +3413,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-5-2-title"
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "5-5-2/data.csv",
@@ -3475,7 +3475,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-2-title"
+      "title": "Proportion of women in managerial positions"
     },
     {
       "path": "9-1-2/data.csv",
@@ -3540,7 +3540,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-1-2-title"
+      "title": "Passenger and freight volumes, by mode of transport"
     },
     {
       "path": "9-c-1/data.csv",
@@ -3593,7 +3593,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-c-1-title"
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "17-6-1/data.csv",
@@ -3656,7 +3656,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-6-1-title"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "17-8-1/data.csv",
@@ -3707,7 +3707,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-8-1-title"
+      "title": "Proportion of individuals using the Internet"
     },
     {
       "path": "9-2-1/data.csv",
@@ -3761,7 +3761,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-1-title"
+      "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
       "path": "9-3-1/data.csv",
@@ -3812,7 +3812,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-3-1-title"
+      "title": "Proportion of small-scale industries in total industry value added"
     },
     {
       "path": "9-b-1/data.csv",
@@ -3863,7 +3863,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-b-1-title"
+      "title": "Proportion of medium and high-tech industry value added in total value added"
     },
     {
       "path": "8-1-1/data.csv",
@@ -3914,7 +3914,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-1-1-title"
+      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "11-a-1/data.csv",
@@ -3965,7 +3965,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-a-1-title"
+      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
     },
     {
       "path": "1-2-2/data.csv",
@@ -4027,7 +4027,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-2-title"
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "1-a-2/data.csv",
@@ -4078,7 +4078,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-2-title"
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
       "path": "4-a-1/data.csv",
@@ -4143,7 +4143,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-title"
+      "title": "Proportion of schools offering basic services, by type of service"
     },
     {
       "path": "4-3-1/data.csv",
@@ -4205,7 +4205,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-3-1-title"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "4-5-1/data.csv",
@@ -4311,7 +4311,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-5-1-title"
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
     },
     {
       "path": "4-2-1/data.csv",
@@ -4383,7 +4383,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-1-title"
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
     },
     {
       "path": "4-2-2/data.csv",
@@ -4445,7 +4445,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-2-title"
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "4-1-2/data.csv",
@@ -4620,7 +4620,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-c-1-title"
+      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
     },
     {
       "path": "10-7-2/data.csv",
@@ -4686,7 +4686,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-7-2-title"
+      "title": "Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "16-7-1/data.csv",
@@ -4789,7 +4789,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-7-1-title"
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "1-5-3/data.csv",
@@ -4840,7 +4840,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-3-title"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "11-b-1/data.csv",
@@ -4891,7 +4891,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-b-1-title"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "13-1-2/data.csv",
@@ -4942,7 +4942,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-2-title"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "1-5-4/data.csv",
@@ -4996,7 +4996,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-4-title"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "11-b-2/data.csv",
@@ -5050,7 +5050,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-b-2-title"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "13-1-3/data.csv",
@@ -5104,7 +5104,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-3-title"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "5-c-1/data.csv",
@@ -5155,7 +5155,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-c-1-title"
+      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
     },
     {
       "path": "5-5-1/data.csv",
@@ -5220,7 +5220,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-1-title"
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
       "path": "12-4-1/data.csv",
@@ -5274,7 +5274,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-4-1-title"
+      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
     },
     {
       "path": "16-10-2/data.csv",
@@ -5325,7 +5325,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-10-2-title"
+      "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
     },
     {
       "path": "10-6-1/data.csv",
@@ -5393,7 +5393,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-6-1-title"
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "16-8-1/data.csv",
@@ -5461,7 +5461,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-8-1-title"
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "5-1-1/data.csv",
@@ -5515,7 +5515,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-1-title"
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
     },
     {
       "path": "16-a-1/data.csv",
@@ -5567,7 +5567,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-a-1-title"
+      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
     },
     {
       "path": "17-16-1/data.csv",
@@ -5618,7 +5618,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-16-1-title"
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "17-15-1/data.csv",
@@ -5672,7 +5672,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-15-1-title"
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
     },
     {
       "path": "16-9-1/data.csv",
@@ -5733,7 +5733,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-9-1-title"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "17-19-2/data.csv",
@@ -5786,7 +5786,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-19-2-title"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "17-19-1/data.csv",
@@ -5837,7 +5837,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-19-1-title"
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
     },
     {
       "path": "17-18-2/data.csv",
@@ -5888,7 +5888,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-2-title"
+      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
     },
     {
       "path": "17-18-3/data.csv",
@@ -5942,7 +5942,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-3-title"
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "3-9-1/data.csv",
@@ -5998,7 +5998,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-1-title"
+      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "3-b-1/data.csv",
@@ -6051,7 +6051,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-1-title"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
       "path": "3-8-1/data.csv",
@@ -6102,7 +6102,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-1-title"
+      "title": "Coverage of essential health services"
     },
     {
       "path": "3-5-2/data.csv",
@@ -6174,7 +6174,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-2-title"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "3-d-2/data.csv",
@@ -6313,7 +6313,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-1-title"
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "3-2-1/data.csv",
@@ -6390,7 +6390,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-1-title"
+      "title": "Under‑5 mortality rate"
     },
     {
       "path": "3-2-2/data.csv",
@@ -6453,7 +6453,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-2-title"
+      "title": "Neonatal mortality rate"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6527,7 +6527,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-1-title"
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "3-7-1/data.csv",
@@ -6598,7 +6598,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-7-1-title"
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "6-1-1/data.csv",
@@ -6660,7 +6660,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-1-title"
+      "title": "Proportion of population using safely managed drinking water services"
     },
     {
       "path": "3-3-4/data.csv",
@@ -6721,7 +6721,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-4-title"
+      "title": "Hepatitis B incidence per 100,000 population"
     },
     {
       "path": "3-3-1/data.csv",
@@ -6796,7 +6796,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-1-title"
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "3-d-1/data.csv",
@@ -6882,7 +6882,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-d-1-title"
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
     },
     {
       "path": "5-6-2/data.csv",
@@ -6950,7 +6950,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-2-title"
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
       "path": "3-c-1/data.csv",
@@ -7028,7 +7028,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-c-1-title"
+      "title": "Health worker density and distribution"
     },
     {
       "path": "3-a-1/data.csv",
@@ -7100,7 +7100,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-a-1-title"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "6-2-1/data.csv",
@@ -7163,7 +7163,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-1-title"
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "2-2-3/data.csv",
@@ -7287,7 +7287,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-2-title"
+      "title": "Proportion of births attended by skilled health personnel"
     },
     {
       "path": "3-3-3/data.csv",
@@ -7338,7 +7338,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-3-title"
+      "title": "Malaria incidence per 1,000 population"
     },
     {
       "path": "3-1-1/data.csv",
@@ -7389,7 +7389,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-1-title"
+      "title": "Maternal mortality ratio"
     },
     {
       "path": "3-9-3/data.csv",
@@ -7451,7 +7451,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-3-title"
+      "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
       "path": "3-4-2/data.csv",
@@ -7515,7 +7515,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-2-title"
+      "title": "Suicide mortality rate"
     },
     {
       "path": "2-2-1/data.csv",
@@ -7578,7 +7578,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-1-title"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "3-6-1/data.csv",
@@ -7629,7 +7629,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-1-title"
+      "title": "Death rate due to road traffic injuries"
     },
     {
       "path": "3-9-2/data.csv",
@@ -7680,7 +7680,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-2-title"
+      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
       "path": "2-2-2/data.csv",
@@ -7745,7 +7745,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-2-title"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "3-5-1/data.csv",
@@ -7817,7 +7817,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-1-title"
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
       "path": "3-3-2/data.csv",
@@ -7868,7 +7868,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-2-title"
+      "title": "Tuberculosis incidence per 100,000 population"
     },
     {
       "path": "3-3-5/data.csv",
@@ -7919,7 +7919,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-5-title"
+      "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
       "path": "3-8-2/data.csv",
@@ -7971,7 +7971,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-2-title"
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "2-3-2/data.csv",
@@ -8034,7 +8034,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-2-title"
+      "title": "Average income of small-scale food producers, by sex and indigenous status"
     },
     {
       "path": "1-3-1/data.csv",
@@ -8116,7 +8116,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-title"
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
       "path": "10-2-1/data.csv",
@@ -8177,7 +8177,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-2-1-title"
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
       "path": "1-1-1/data.csv",
@@ -8252,7 +8252,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-title"
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "1-2-1/data.csv",
@@ -8314,7 +8314,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-1-title"
+      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "10-c-1/data.csv",
@@ -8365,7 +8365,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-c-1-title"
+      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "8-5-1/data.csv",
@@ -8446,7 +8446,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-5-1-title"
+      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
       "path": "10-4-1/data.csv",
@@ -8497,7 +8497,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-4-1-title"
+      "title": "Labour share of GDP"
     },
     {
       "path": "8-2-1/data.csv",
@@ -8548,7 +8548,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-2-1-title"
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "8-3-1/data.csv",
@@ -8621,7 +8621,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-3-1-title"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "8-7-1/data.csv",
@@ -8694,7 +8694,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-7-1-title"
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "9-2-2/data.csv",
@@ -8745,7 +8745,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-2-title"
+      "title": "Manufacturing employment as a proportion of total employment"
     },
     {
       "path": "8-6-1/data.csv",
@@ -8817,7 +8817,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-6-1-title"
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
       "path": "8-5-2/data.csv",
@@ -8891,7 +8891,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-5-2-title"
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
       "path": "10-7-3/data.csv",
@@ -9046,7 +9046,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-1-title"
+      "title": "Prevalence of undernourishment"
     },
     {
       "path": "1-4-1/data.csv",
@@ -9109,7 +9109,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-1-title"
+      "title": "Proportion of population living in households with access to basic services"
     },
     {
       "path": "3-7-2/data.csv",
@@ -9180,7 +9180,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-7-2-title"
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
       "path": "5-3-1/data.csv",
@@ -9252,7 +9252,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-1-title"
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "9-1-1/data.csv",
@@ -9303,7 +9303,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-1-1-title"
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "12-b-1/data.csv",
@@ -9356,7 +9356,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-b-1-title"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
       "path": "17-12-1/data.csv",
@@ -9422,7 +9422,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-12-1-title"
+      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
     },
     {
       "path": "17-10-1/data.csv",
@@ -9489,7 +9489,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-10-1-title"
+      "title": "Worldwide weighted tariff-average"
     },
     {
       "path": "10-a-1/data.csv",
@@ -9554,7 +9554,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-a-1-title"
+      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
     },
     {
       "path": "1-5-1/data.csv",
@@ -9615,7 +9615,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-1-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "11-5-1/data.csv",
@@ -9676,7 +9676,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-1-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "13-1-1/data.csv",
@@ -9737,7 +9737,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-1-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "1-5-2/data.csv",
@@ -9795,7 +9795,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-2-title"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "11-5-2/data.csv",
@@ -9861,7 +9861,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-2-title"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "16-2-2/data.csv",
@@ -9935,7 +9935,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-2-title"
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
     },
     {
       "path": "5-2-1/data.csv",
@@ -10013,7 +10013,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-2-1-title"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "16-2-1/data.csv",
@@ -10074,7 +10074,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-1-title"
+      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
       "path": "16-2-3/data.csv",
@@ -10145,1767 +10145,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-3-title"
-    },
-    {
-      "path": "17-14-1/data.csv",
-      "name": "17-14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-14-1-title"
-    },
-    {
-      "path": "17-13-1/data.csv",
-      "name": "17-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-13-1-title"
-    },
-    {
-      "path": "12-7-1/data.csv",
-      "name": "12-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-7-1-title"
-    },
-    {
-      "path": "13-3-2/data.csv",
-      "name": "13-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.13-3-2-title"
-    },
-    {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-2-2-title"
-    },
-    {
-      "path": "17-18-1/data.csv",
-      "name": "17-18-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-18-1-title"
-    },
-    {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-4-1-title"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-1-title"
-    },
-    {
-      "path": "14-4-1/data.csv",
-      "name": "14-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-4-1-title"
-    },
-    {
-      "path": "11-7-1/data.csv",
-      "name": "11-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-7-1-title"
-    },
-    {
-      "path": "11-4-1/data.csv",
-      "name": "11-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-4-1-title"
-    },
-    {
-      "path": "16-1-3/data.csv",
-      "name": "16-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-1-3-title"
-    },
-    {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-2-title"
-    },
-    {
-      "path": "14-7-1/data.csv",
-      "name": "14-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-7-1-title"
-    },
-    {
-      "path": "13-2-1/data.csv",
-      "name": "13-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.13-2-1-title"
-    },
-    {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-3-2-title"
-    },
-    {
-      "path": "1-a-3/data.csv",
-      "name": "1-a-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-a-3-title"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-6-2-title"
-    },
-    {
-      "path": "17-5-1/data.csv",
-      "name": "17-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-5-1-title"
-    },
-    {
-      "path": "12-8-1/data.csv",
-      "name": "12-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-8-1-title"
-    },
-    {
-      "path": "17-11-1/data.csv",
-      "name": "17-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-11-1-title"
-    },
-    {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-6-2-title"
-    },
-    {
-      "path": "4-7-1/data.csv",
-      "name": "4-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-7-1-title"
-    },
-    {
-      "path": "4-6-1/data.csv",
-      "name": "4-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-6-1-title"
-    },
-    {
-      "path": "10-3-1/data.csv",
-      "name": "10-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.10-3-1-title"
-    },
-    {
-      "path": "12-2-1/data.csv",
-      "name": "12-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-2-1-title"
-    },
-    {
-      "path": "10-1-1/data.csv",
-      "name": "10-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.10-1-1-title"
-    },
-    {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-4-1-title"
-    },
-    {
-      "path": "1-b-1/data.csv",
-      "name": "1-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-b-1-title"
-    },
-    {
-      "path": "5-3-2/data.csv",
-      "name": "5-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-2-title"
-    },
-    {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-1-1-title"
-    },
-    {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-3-1-title"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-9-1-title"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-4-1-title"
-    },
-    {
-      "path": "11-c-1/data.csv",
-      "name": "11-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-c-1-title"
-    },
-    {
-      "path": "8-4-1/data.csv",
-      "name": "8-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-4-1-title"
-    },
-    {
-      "path": "5-a-1/data.csv",
-      "name": "5-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-a-1-title"
-    },
-    {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-5-1-title"
-    },
-    {
-      "path": "14-a-1/data.csv",
-      "name": "14-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-a-1-title"
-    },
-    {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-1-1-title"
-    },
-    {
-      "path": "16-10-1/data.csv",
-      "name": "16-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-10-1-title"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-8-1-title"
-    },
-    {
-      "path": "17-2-1/data.csv",
-      "name": "17-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-2-1-title"
-    },
-    {
-      "path": "12-c-1/data.csv",
-      "name": "12-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-c-1-title"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-1-title"
-    },
-    {
-      "path": "13-b-1/data.csv",
-      "name": "13-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.13-b-1-title"
-    },
-    {
-      "path": "14-3-1/data.csv",
-      "name": "14-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-3-1-title"
-    },
-    {
-      "path": "8-8-2/data.csv",
-      "name": "8-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-8-2-title"
-    },
-    {
-      "path": "13-a-1/data.csv",
-      "name": "13-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.13-a-1-title"
-    },
-    {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-2-1-title"
-    },
-    {
-      "path": "12-2-2/data.csv",
-      "name": "12-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-2-2-title"
-    },
-    {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-2-1-title"
-    },
-    {
-      "path": "16-b-1/data.csv",
-      "name": "16-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-b-1-title"
-    },
-    {
-      "path": "8-b-1/data.csv",
-      "name": "8-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-b-1-title"
-    },
-    {
-      "path": "11-7-2/data.csv",
-      "name": "11-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-7-2-title"
-    },
-    {
-      "path": "5-a-2/data.csv",
-      "name": "5-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-a-2-title"
-    },
-    {
-      "path": "16-4-2/data.csv",
-      "name": "16-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-4-2-title"
-    },
-    {
-      "path": "3-b-3/data.csv",
-      "name": "3-b-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-b-3-title"
-    },
-    {
-      "path": "10-7-1/data.csv",
-      "name": "10-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.10-7-1-title"
-    },
-    {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.15-3-1-title"
-    },
-    {
-      "path": "11-3-2/data.csv",
-      "name": "11-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-3-2-title"
-    },
-    {
-      "path": "17-7-1/data.csv",
-      "name": "17-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-7-1-title"
-    },
-    {
-      "path": "16-7-2/data.csv",
-      "name": "16-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-7-2-title"
-    },
-    {
-      "path": "5-b-1/data.csv",
-      "name": "5-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-b-1-title"
-    },
-    {
-      "path": "14-5-1/data.csv",
-      "name": "14-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-5-1-title"
-    },
-    {
-      "path": "15-7-1/data.csv",
-      "name": "15-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.15-7-1-title"
-    },
-    {
-      "path": "2-b-1/data.csv",
-      "name": "2-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-b-1-title"
-    },
-    {
-      "path": "12-1-1/data.csv",
-      "name": "12-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-1-1-title"
-    },
-    {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-5-2-title"
-    },
-    {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-1-2-title"
-    },
-    {
-      "path": "13-3-1/data.csv",
-      "name": "13-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.13-3-1-title"
-    },
-    {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-3-2-title"
-    },
-    {
-      "path": "14-6-1/data.csv",
-      "name": "14-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-6-1-title"
-    },
-    {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-3-1-title"
-    },
-    {
-      "path": "16-4-1/data.csv",
-      "name": "16-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-4-1-title"
-    },
-    {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-1-4-title"
-    },
-    {
-      "path": "14-c-1/data.csv",
-      "name": "14-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-c-1-title"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-9-2-title"
-    },
-    {
-      "path": "16-3-1/data.csv",
-      "name": "16-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-3-1-title"
-    },
-    {
-      "path": "15-c-1/data.csv",
-      "name": "15-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.15-c-1-title"
+      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     }
   ]
 }
