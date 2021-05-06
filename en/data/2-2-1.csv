@@ -1,11 +1,19 @@
-Year,Series,Reference area,Age,Units,Value
-2001,Proportion of children moderately or severely stunted [2.2.1],,under 5 years old,Percent,57.07563
-2006,Proportion of children moderately or severely stunted [2.2.1],,under 5 years old,Percent,49.22741
-2011,Proportion of children moderately or severely stunted [2.2.1],,under 5 years old,Percent,40.51385
-2014,Proportion of children moderately or severely stunted [2.2.1],,under 5 years old,Percent,37.46835
-2016,Proportion of children moderately or severely stunted [2.2.1],,under 5 years old,Percent,36.02018
-2001,Children moderately or severely stunted (number) [2.2.1],,under 5 years old,Number,2055.38688
-2006,Children moderately or severely stunted (number) [2.2.1],,under 5 years old,Number,1596.51079
-2011,Children moderately or severely stunted (number) [2.2.1],,under 5 years old,Number,1208.71975
-2014,Children moderately or severely stunted (number) [2.2.1],,under 5 years old,Number,1057.80054
-2016,Children moderately or severely stunted (number) [2.2.1],,under 5 years old,Number,997.45743
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Nepal,Percent,37.4
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Nepal,Percent,31.5
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Province 1,Percent,24.9
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Province 2,Percent,34.2
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Bagmati,Percent,22.9
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Gandaki,Percent,22.6
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Lumbini,Percent,35.5
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Karnali,Percent,47.8
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Sudurpashchim,Percent,40.9
+2014,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Nepal,Percent,15.8
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Nepal,Percent,11.8
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Province 1,Percent,8.0
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Province 2,Percent,14.8
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Bagmati,Percent,7.3
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Gandaki,Percent,6.4
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Lumbini,Percent,13.0
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Karnali,Percent,20.5
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Sudurpashchim,Percent,15.4

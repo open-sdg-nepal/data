@@ -16,8 +16,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Secondary education (lower and upper secondary education)",
-                "Pre-primary education",
                 "Primary education",
                 "Lower secondary education",
                 "Upper secondary education"
@@ -26,80 +24,54 @@
             "title": "Education level"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)"
+                "Normal value"
               ]
             },
-            "title": "Income or wealth quantile"
+            "title": "Observation status"
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Nepal",
+                "Province 1",
+                "Province 2",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim"
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
-                "Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
-                "Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
-                "Gender parity index for participation rate in formal and non-formal education and training [4.5.1]",
-                "Gender parity index for participation rate in organized learning (one year before the official primary entry age) [4.5.1]",
-                "Gender parity index of trained teachers [4.5.1]"
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "URBANISATION",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
+            "title": "Unit of measure"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Ratio"
+                "Units"
               ]
             },
-            "title": "Unit of measure"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

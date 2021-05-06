@@ -1,4 +1,2 @@
 From,To
-Education level,Sex
-Education level,Degree of urbanisation
-Education level,Income or wealth quantile
+Reference area,Education level

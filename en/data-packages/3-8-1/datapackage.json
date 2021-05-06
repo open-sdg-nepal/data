@@ -11,40 +11,69 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "number",
+            "name": "AGE",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "15 to 49 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nepal",
+                "Province 1",
+                "Province 2",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim"
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Universal health coverage (UHC) service coverage index [3.8.1]"
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Index"
+                "Units"
               ]
             },
-            "title": "Unit of measure"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

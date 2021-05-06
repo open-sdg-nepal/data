@@ -1,11 +1,10 @@
-Year,Series,Reference area,Sex,Age,Units,Value
-2000,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",71.0
-2003,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",106.0
-2004,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",98.0
-2008,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",87.0
-2009,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",81.0
-2010,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",90.0
-2012,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",71.5
-2013,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",71.0
-2015,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",88.2
-2018,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",63.0
+Year,Observation status,Unit multiplier,SERIES,Reference area,Age,UNIT_MEASURE,Value
+2014,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Nepal,15 to 19 years old,Percent,71
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Nepal,15 to 19 years old,Percent,63
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Province 1,15 to 19 years old,Percent,61
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Province 2,15 to 19 years old,Percent,96
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Bagmati,15 to 19 years old,Percent,40
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Gandaki,15 to 19 years old,Percent,58
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Lumbini,15 to 19 years old,Percent,57
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Karnali,15 to 19 years old,Percent,81
+2019,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Sudurpashchim,15 to 19 years old,Percent,60

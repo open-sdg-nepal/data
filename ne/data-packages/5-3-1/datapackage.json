@@ -16,22 +16,45 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18",
+                "A",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "NP",
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
                 ""
               ]
             },
@@ -43,32 +66,16 @@
             "constraints": {
               "enum": [
                 "F",
+                "M",
                 ""
               ]
             },
             "title": "SEX"
           },
           {
-            "name": "AGE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Y20T24",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

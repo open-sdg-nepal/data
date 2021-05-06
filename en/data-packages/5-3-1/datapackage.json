@@ -11,25 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "20 to 24 years old"
+                "Normal value"
               ]
             },
-            "title": "Age"
+            "title": "Observation status"
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Nepal",
+                "Province 1",
+                "Province 2",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim"
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -37,33 +50,27 @@
             "constraints": {
               "enum": [
                 "",
-                "Female"
+                "Female",
+                "Male"
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Series",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
-                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Unit of measure"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Percent"
+                "Units"
               ]
             },
-            "title": "Unit of measure"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

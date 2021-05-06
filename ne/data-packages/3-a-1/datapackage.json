@@ -16,21 +16,45 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_PRV_SMOK",
+                "A",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "NP",
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
                 ""
               ]
             },
@@ -53,22 +77,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
+                "Y15T49",
                 ""
               ]
             },
             "title": "AGE"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

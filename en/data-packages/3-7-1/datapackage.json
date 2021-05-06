@@ -22,47 +22,54 @@
             "title": "Age"
           },
           {
-            "name": "REF_AREA",
-            "type": "number",
+            "name": "OBS_STATUS",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nepal",
+                "Province 1",
+                "Province 2",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim"
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1]"
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Percent"
+                "Units"
               ]
             },
-            "title": "Unit of measure"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

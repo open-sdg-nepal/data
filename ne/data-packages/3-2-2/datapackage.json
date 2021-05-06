@@ -16,53 +16,58 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_DYN_NMRT",
-                "SH_DYN_NMRTN",
+                "A",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "NP",
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
                 ""
               ]
             },
             "title": "REF_AREA"
           },
           {
-            "name": "AGE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "M0",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_1000_LIVE_BIRTHS",
-                "NUMBER",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -1,8 +1,1 @@
-Year,Value,Units,Series
-2011,82.20762,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
-2013,82.75045,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
-2014,88.74467,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
-2015,85.26952,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
-2016,87.73636,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
-2017,88.18694,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
-2019,86.97027,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

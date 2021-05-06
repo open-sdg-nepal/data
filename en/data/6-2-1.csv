@@ -1,94 +1,44 @@
-Year,Series,Reference area,Degree of urbanisation,Units,Value
-2000,Proportion of population practicing open defecation [6.2.1],,,Percent,66.88317
-2001,Proportion of population practicing open defecation [6.2.1],,,Percent,63.98527
-2002,Proportion of population practicing open defecation [6.2.1],,,Percent,61.24088
-2003,Proportion of population practicing open defecation [6.2.1],,,Percent,58.50689
-2004,Proportion of population practicing open defecation [6.2.1],,,Percent,55.78364
-2005,Proportion of population practicing open defecation [6.2.1],,,Percent,53.07146
-2006,Proportion of population practicing open defecation [6.2.1],,,Percent,50.37069
-2007,Proportion of population practicing open defecation [6.2.1],,,Percent,47.68124
-2008,Proportion of population practicing open defecation [6.2.1],,,Percent,45.00389
-2009,Proportion of population practicing open defecation [6.2.1],,,Percent,42.33896
-2010,Proportion of population practicing open defecation [6.2.1],,,Percent,39.68679
-2011,Proportion of population practicing open defecation [6.2.1],,,Percent,37.04739
-2012,Proportion of population practicing open defecation [6.2.1],,,Percent,34.42002
-2013,Proportion of population practicing open defecation [6.2.1],,,Percent,31.80613
-2014,Proportion of population practicing open defecation [6.2.1],,,Percent,29.20545
-2015,Proportion of population practicing open defecation [6.2.1],,,Percent,26.61907
-2016,Proportion of population practicing open defecation [6.2.1],,,Percent,24.04713
-2017,Proportion of population practicing open defecation [6.2.1],,,Percent,21.49045
-2000,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,74.21656
-2001,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,71.31458
-2002,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,68.4126
-2003,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,65.51062
-2004,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,62.60864
-2005,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,59.70666
-2006,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,56.80468
-2007,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,53.9027
-2008,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,51.00072
-2009,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,48.09874
-2010,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,45.19676
-2011,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,42.29478
-2012,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,39.3928
-2013,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,36.49082
-2014,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,33.58884
-2015,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,30.68686
-2016,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,27.78488
-2017,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,24.8829
-2000,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,19.47747
-2001,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,18.7634
-2002,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,18.04932
-2003,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,17.33525
-2004,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,16.62117
-2005,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,15.90709
-2006,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,15.19302
-2007,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,14.47894
-2008,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,13.76487
-2009,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,13.05079
-2010,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,12.33672
-2011,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,11.62264
-2012,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,10.90856
-2013,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,10.19449
-2014,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,9.48041
-2015,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,8.76634
-2016,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,8.05226
-2017,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,7.33819
-2005,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,55.24303
-2006,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,55.34751
-2007,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,55.45398
-2008,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,55.56213
-2009,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,55.67194
-2010,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,54.70482
-2011,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,53.7321
-2012,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,52.75477
-2013,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,51.77163
-2014,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,50.78327
-2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,49.78883
-2016,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,48.78854
-2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,47.78184
-2005,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,50.18665
-2006,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,50.18665
-2007,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,50.18665
-2008,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,50.18665
-2009,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,50.18665
-2010,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,49.29575
-2011,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,48.40486
-2012,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,47.51396
-2013,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,46.62307
-2014,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,45.73217
-2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,44.84127
-2016,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,43.95038
-2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,43.05948
-2005,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,83.56433
-2006,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,83.56433
-2007,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,83.56433
-2008,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,83.56433
-2009,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,83.56433
-2010,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,81.55405
-2011,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,79.54378
-2012,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,77.5335
-2013,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,75.52322
-2014,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,73.51294
-2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,71.50266
-2016,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,69.49239
-2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,67.48211
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Nepal,Percent,72.5
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Nepal,Percent,80.7
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Province 1,Percent,84.6
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Province 2,Percent,79.3
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Bagmati,Percent,88.2
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Gandaki,Percent,88.1
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Lumbini,Percent,84.6
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Karnali,Percent,55.2
+2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Sudurpashchim,Percent,57.6
+2014,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Nepal,Percent,71.6
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Nepal,Percent,94.5
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Province 1,Percent,96.6
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Province 2,Percent,84.1
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Bagmati,Percent,98.3
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Gandaki,Percent,99.0
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Lumbini,Percent,95.3
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Karnali,Percent,94.9
+2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Sudurpashchim,Percent,96.6
+2014,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Nepal,Percent,60.1
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Nepal,Percent,79.2
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Province 1,Percent,85.8
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Province 2,Percent,73.3
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Bagmati,Percent,70.8
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Gandaki,Percent,82.7
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Lumbini,Percent,83.4
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Karnali,Percent,86.2
+2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Sudurpashchim,Percent,85.2
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Nepal,Percent,92.7
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Province 1,Percent,95.3
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Province 2,Percent,93.4
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Bagmati,Percent,88.9
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Gandaki,Percent,94.4
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Lumbini,Percent,90.8
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Karnali,Percent,95.4
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Sudurpashchim,Percent,93.9
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Nepal,Percent,2.8
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Province 1,Percent,2.9
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Province 2,Percent,2.2
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Bagmati,Percent,3.7
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Gandaki,Percent,2.1
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Lumbini,Percent,4.0
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Karnali,Percent,0.3
+2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Sudurpashchim,Percent,1.0

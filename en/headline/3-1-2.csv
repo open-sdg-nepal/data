@@ -1,8 +1,1 @@
-Year,Value,Units,Series
-2000,11.9,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2001,10.9,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2006,18.7,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2011,36.0,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2014,55.6,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2016,58.0,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2019,77.2,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

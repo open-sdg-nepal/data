@@ -1,8 +1,10 @@
-Year,Series,Reference area,Units,Value
-2000,Proportion of births attended by skilled health personnel [3.1.2],,Percent,11.9
-2001,Proportion of births attended by skilled health personnel [3.1.2],,Percent,10.9
-2006,Proportion of births attended by skilled health personnel [3.1.2],,Percent,18.7
-2011,Proportion of births attended by skilled health personnel [3.1.2],,Percent,36.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],,Percent,55.6
-2016,Proportion of births attended by skilled health personnel [3.1.2],,Percent,58.0
-2019,Proportion of births attended by skilled health personnel [3.1.2],,Percent,77.2
+Year,Observation status,Unit multiplier,SERIES,Reference area,Age,UNIT_MEASURE,Value
+2014,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Nepal,15 to 49 years old,Percent,55.6
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Nepal,15 to 49 years old,Percent,77.2
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Province 1,15 to 49 years old,Percent,79.2
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Province 2,15 to 49 years old,Percent,63.6
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Bagmati,15 to 49 years old,Percent,86.6
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Gandaki,15 to 49 years old,Percent,86.4
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Lumbini,15 to 49 years old,Percent,77.2
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Karnali,15 to 49 years old,Percent,65.8
+2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],Sudurpashchim,15 to 49 years old,Percent,85.5
