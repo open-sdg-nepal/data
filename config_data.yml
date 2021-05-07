@@ -73,7 +73,7 @@ inputs:
   #    - TIME_DETAIL
   #    - OBS_STATUS
   - class: InputYamlMeta
-    path_pattern: indicator_config/*-*.yml
+    path_pattern: indicator-config/*-*.yml
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
 
