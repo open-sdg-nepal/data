@@ -1,5 +1,5 @@
 Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Nepal,Percent,38.6
+2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],,Percent,38.6
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Province 1,Percent,36.0
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Province 2,Percent,36.9
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Bagmati,Percent,28.6
@@ -7,7 +7,7 @@ Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Lumbini,Percent,42.0
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Karnali,Percent,55.2
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months [1.3.1],Sudurpashchim,Percent,53.8
-2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months [1.3.1],Nepal,Percent,41.5
+2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months [1.3.1],,Percent,41.5
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months [1.3.1],Province 1,Percent,39.2
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months [1.3.1],Province 2,Percent,39.1
 2019,Normal value,Units,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months [1.3.1],Bagmati,Percent,30.5

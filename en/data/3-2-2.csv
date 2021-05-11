@@ -1,6 +1,6 @@
 Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,Neonatal mortality rate [3.2.2],Nepal,Percent,23
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Nepal,Percent,16
+2014,Normal value,Units,Neonatal mortality rate [3.2.2],,Percent,23
+2019,Normal value,Units,Neonatal mortality rate [3.2.2],,Percent,16
 2019,Normal value,Units,Neonatal mortality rate [3.2.2],Province 1,Percent,20
 2019,Normal value,Units,Neonatal mortality rate [3.2.2],Province 2,Percent,10
 2019,Normal value,Units,Neonatal mortality rate [3.2.2],Bagmati,Percent,9

@@ -365,7 +365,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -618,7 +617,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -944,7 +942,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -1053,7 +1050,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -1198,7 +1194,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -1296,7 +1291,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -1743,7 +1737,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -2068,7 +2061,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -2406,7 +2398,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -2528,7 +2519,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -2613,7 +2603,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -2915,7 +2904,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -3120,7 +3108,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -3650,7 +3637,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -3916,7 +3902,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -4134,7 +4119,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -4615,7 +4599,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -4701,7 +4684,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -4895,7 +4877,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -5113,7 +5094,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -5691,7 +5671,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -5825,7 +5804,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -6367,7 +6345,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -6452,7 +6429,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -6766,7 +6742,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",
@@ -7248,7 +7223,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Nepal",
                 "Province 1",
                 "Province 2",
                 "Bagmati",

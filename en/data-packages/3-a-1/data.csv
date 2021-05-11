@@ -1,6 +1,6 @@
 Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2014,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Nepal,Female,15 to 49 years old,Percent,9.2
-2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Nepal,Female,15 to 49 years old,Percent,6.1
+2014,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 to 49 years old,Percent,9.2
+2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 to 49 years old,Percent,6.1
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Province 1,Female,15 to 49 years old,Percent,6.0
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Province 2,Female,15 to 49 years old,Percent,2.7
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Bagmati,Female,15 to 49 years old,Percent,5.4
@@ -8,7 +8,7 @@ Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,UNIT_MEASU
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Lumbini,Female,15 to 49 years old,Percent,8.0
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Karnali,Female,15 to 49 years old,Percent,11.0
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Sudurpashchim,Female,15 to 49 years old,Percent,8.0
-2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Nepal,Male,15 to 49 years old,Percent,45.2
+2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 to 49 years old,Percent,45.2
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Province 1,Male,15 to 49 years old,Percent,49.0
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Province 2,Male,15 to 49 years old,Percent,48.2
 2019,Normal value,Units,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Bagmati,Male,15 to 49 years old,Percent,37.4

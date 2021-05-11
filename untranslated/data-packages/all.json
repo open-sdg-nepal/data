@@ -336,7 +336,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -567,7 +566,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -865,7 +863,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -964,7 +961,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -1096,7 +1092,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -1185,7 +1180,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -1594,7 +1588,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -1891,7 +1884,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -2200,7 +2192,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -2311,7 +2302,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -2388,7 +2378,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -2664,7 +2653,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -2851,7 +2839,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -3336,7 +3323,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -3579,7 +3565,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -3778,7 +3763,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -4218,7 +4202,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -4296,7 +4279,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -4473,7 +4455,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -4672,7 +4653,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -5201,7 +5181,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -5323,7 +5302,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -5819,7 +5797,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -5896,7 +5873,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -6183,7 +6159,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",
@@ -6624,7 +6599,6 @@
             "constraints": {
               "enum": [
                 "",
-                "NP",
                 "NP1",
                 "NP2",
                 "NP3",

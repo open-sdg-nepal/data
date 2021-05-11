@@ -1,6 +1,6 @@
 Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,Under-five mortality rate [3.2.1],Nepal,Percent,38
-2019,Normal value,Units,Under-five mortality rate [3.2.1],Nepal,Percent,28
+2014,Normal value,Units,Under-five mortality rate [3.2.1],,Percent,38
+2019,Normal value,Units,Under-five mortality rate [3.2.1],,Percent,28
 2019,Normal value,Units,Under-five mortality rate [3.2.1],Province 1,Percent,32
 2019,Normal value,Units,Under-five mortality rate [3.2.1],Province 2,Percent,19
 2019,Normal value,Units,Under-five mortality rate [3.2.1],Bagmati,Percent,19

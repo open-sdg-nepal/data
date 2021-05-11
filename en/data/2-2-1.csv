@@ -1,6 +1,6 @@
 Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Nepal,Percent,37.4
-2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Nepal,Percent,31.5
+2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Percent,37.4
+2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Percent,31.5
 2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Province 1,Percent,24.9
 2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Province 2,Percent,34.2
 2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Bagmati,Percent,22.9
@@ -8,8 +8,8 @@ Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
 2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Lumbini,Percent,35.5
 2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Karnali,Percent,47.8
 2019,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],Sudurpashchim,Percent,40.9
-2014,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Nepal,Percent,15.8
-2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Nepal,Percent,11.8
+2014,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],,Percent,15.8
+2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],,Percent,11.8
 2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Province 1,Percent,8.0
 2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Province 2,Percent,14.8
 2019,Normal value,Units,Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard [2.2.1],Bagmati,Percent,7.3

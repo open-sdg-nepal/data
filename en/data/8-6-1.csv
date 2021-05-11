@@ -1,7 +1,7 @@
 Year,Observation status,Unit multiplier,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Value
-2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",Nepal,15 to 24 years old,,Percent,35.3
-2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",Nepal,15 to 24 years old,Urban,Percent,31.2
-2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",Nepal,15 to 24 years old,Rural,Percent,43.3
+2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",,15 to 24 years old,,Percent,35.3
+2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",,15 to 24 years old,Urban,Percent,31.2
+2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",,15 to 24 years old,Rural,Percent,43.3
 2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",Province 1,15 to 24 years old,,Percent,37.3
 2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",Province 2,15 to 24 years old,,Percent,48.3
 2017,Normal value,Units,"Proportion of youth not in education, employment or training [8.6.1]",Bagmati,15 to 24 years old,,Percent,20.9
