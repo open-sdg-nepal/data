@@ -1,7 +1,7 @@
 from sdg.open_sdg import open_sdg_check
 
 def alter_meta(meta):
-    if df.empty == False:
+    if data.empty == False:
         meta['reporting_status']='complete'
     return meta
 
