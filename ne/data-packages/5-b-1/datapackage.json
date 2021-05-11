@@ -22,17 +22,6 @@
             "title": "AGE"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A"
-              ]
-            },
-            "title": "OBS_STATUS"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -70,17 +59,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0"
-              ]
-            },
-            "title": "UNIT_MULT"
           },
           {
             "name": "Value",

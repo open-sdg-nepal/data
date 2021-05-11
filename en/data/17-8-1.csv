@@ -1,33 +1,33 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],,Female,15 to 49 years old,Percent,41.0
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Province 1,Female,15 to 49 years old,Percent,40.0
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Province 2,Female,15 to 49 years old,Percent,29.3
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Bagmati,Female,15 to 49 years old,Percent,63.8
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Gandaki,Female,15 to 49 years old,Percent,59.6
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Lumbini,Female,15 to 49 years old,Percent,32.3
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Karnali,Female,15 to 49 years old,Percent,14.7
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Sudurpashchim,Female,15 to 49 years old,Percent,17.0
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],,Male,15 to 49 years old,Percent,60.6
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Province 1,Male,15 to 49 years old,Percent,59.6
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Province 2,Male,15 to 49 years old,Percent,49.8
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Bagmati,Male,15 to 49 years old,Percent,75.1
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Gandaki,Male,15 to 49 years old,Percent,76.5
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Lumbini,Male,15 to 49 years old,Percent,57.3
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Karnali,Male,15 to 49 years old,Percent,33.1
-2019,Normal value,Units,Internet users per 100 inhabitants [17.8.1],Sudurpashchim,Male,15 to 49 years old,Percent,46.2
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],,Female,15 to 49 years old,Percent,35.3
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 1,Female,15 to 49 years old,Percent,32.5
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 2,Female,15 to 49 years old,Percent,24.5
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Bagmati,Female,15 to 49 years old,Percent,58.7
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Gandaki,Female,15 to 49 years old,Percent,52.7
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Lumbini,Female,15 to 49 years old,Percent,26.2
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Karnali,Female,15 to 49 years old,Percent,10.4
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Sudurpashchim,Female,15 to 49 years old,Percent,12.5
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],,Male,15 to 49 years old,Percent,55.5
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 1,Male,15 to 49 years old,Percent,56.9
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 2,Male,15 to 49 years old,Percent,44.3
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Bagmati,Male,15 to 49 years old,Percent,70.1
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Gandaki,Male,15 to 49 years old,Percent,66.7
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Lumbini,Male,15 to 49 years old,Percent,52.2
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Karnali,Male,15 to 49 years old,Percent,26.1
-2019,Normal value,Units,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Sudurpashchim,Male,15 to 49 years old,Percent,41.8
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2019,Internet users per 100 inhabitants [17.8.1],,Female,15 to 49 years old,Percent,41.0
+2019,Internet users per 100 inhabitants [17.8.1],Province 1,Female,15 to 49 years old,Percent,40.0
+2019,Internet users per 100 inhabitants [17.8.1],Province 2,Female,15 to 49 years old,Percent,29.3
+2019,Internet users per 100 inhabitants [17.8.1],Bagmati,Female,15 to 49 years old,Percent,63.8
+2019,Internet users per 100 inhabitants [17.8.1],Gandaki,Female,15 to 49 years old,Percent,59.6
+2019,Internet users per 100 inhabitants [17.8.1],Lumbini,Female,15 to 49 years old,Percent,32.3
+2019,Internet users per 100 inhabitants [17.8.1],Karnali,Female,15 to 49 years old,Percent,14.7
+2019,Internet users per 100 inhabitants [17.8.1],Sudurpashchim,Female,15 to 49 years old,Percent,17.0
+2019,Internet users per 100 inhabitants [17.8.1],,Male,15 to 49 years old,Percent,60.6
+2019,Internet users per 100 inhabitants [17.8.1],Province 1,Male,15 to 49 years old,Percent,59.6
+2019,Internet users per 100 inhabitants [17.8.1],Province 2,Male,15 to 49 years old,Percent,49.8
+2019,Internet users per 100 inhabitants [17.8.1],Bagmati,Male,15 to 49 years old,Percent,75.1
+2019,Internet users per 100 inhabitants [17.8.1],Gandaki,Male,15 to 49 years old,Percent,76.5
+2019,Internet users per 100 inhabitants [17.8.1],Lumbini,Male,15 to 49 years old,Percent,57.3
+2019,Internet users per 100 inhabitants [17.8.1],Karnali,Male,15 to 49 years old,Percent,33.1
+2019,Internet users per 100 inhabitants [17.8.1],Sudurpashchim,Male,15 to 49 years old,Percent,46.2
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],,Female,15 to 49 years old,Percent,35.3
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 1,Female,15 to 49 years old,Percent,32.5
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 2,Female,15 to 49 years old,Percent,24.5
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Bagmati,Female,15 to 49 years old,Percent,58.7
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Gandaki,Female,15 to 49 years old,Percent,52.7
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Lumbini,Female,15 to 49 years old,Percent,26.2
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Karnali,Female,15 to 49 years old,Percent,10.4
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Sudurpashchim,Female,15 to 49 years old,Percent,12.5
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],,Male,15 to 49 years old,Percent,55.5
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 1,Male,15 to 49 years old,Percent,56.9
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Province 2,Male,15 to 49 years old,Percent,44.3
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Bagmati,Male,15 to 49 years old,Percent,70.1
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Gandaki,Male,15 to 49 years old,Percent,66.7
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Lumbini,Male,15 to 49 years old,Percent,52.2
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Karnali,Male,15 to 49 years old,Percent,26.1
+2019,Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months [17.8.1],Sudurpashchim,Male,15 to 49 years old,Percent,41.8

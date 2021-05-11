@@ -23,17 +23,6 @@
             "title": "Age"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Normal value"
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -71,17 +60,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Units"
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "Value",

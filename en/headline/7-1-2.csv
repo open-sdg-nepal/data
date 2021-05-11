@@ -1,2 +1,2 @@
-Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2019,26.9,Normal value,Units,Percent,Proportion of population with primary reliance on clean fuels and technology [7.1.2]
+Year,Value,UNIT_MEASURE,SERIES
+2019,26.9,Percent,Proportion of population with primary reliance on clean fuels and technology [7.1.2]

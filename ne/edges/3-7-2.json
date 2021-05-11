@@ -1,1 +1,1 @@
-{"From":["OBS_STATUS","UNIT_MULT","AGE"],"To":["UNIT_MULT","AGE","REF_AREA"]}
+{"From":["AGE"],"To":["REF_AREA"]}

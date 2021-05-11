@@ -1,44 +1,44 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],,Percent,72.5
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],,Percent,80.7
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Province 1,Percent,84.6
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Province 2,Percent,79.3
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Bagmati,Percent,88.2
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Gandaki,Percent,88.1
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Lumbini,Percent,84.6
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Karnali,Percent,55.2
-2019,Normal value,Units,Proportion of population with basic handwashing facilities on premises [6.2.1],Sudurpashchim,Percent,57.6
-2014,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],,Percent,71.6
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],,Percent,94.5
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Province 1,Percent,96.6
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Province 2,Percent,84.1
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Bagmati,Percent,98.3
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Gandaki,Percent,99.0
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Lumbini,Percent,95.3
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Karnali,Percent,94.9
-2019,Normal value,Units,Proportion of population using safely managed sanitation services [6.2.1],Sudurpashchim,Percent,96.6
-2014,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],,Percent,60.1
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],,Percent,79.2
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Province 1,Percent,85.8
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Province 2,Percent,73.3
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Bagmati,Percent,70.8
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Gandaki,Percent,82.7
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Lumbini,Percent,83.4
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Karnali,Percent,86.2
-2019,Normal value,Units,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Sudurpashchim,Percent,85.2
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],,Percent,92.7
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Province 1,Percent,95.3
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Province 2,Percent,93.4
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Bagmati,Percent,88.9
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Gandaki,Percent,94.4
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Lumbini,Percent,90.8
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Karnali,Percent,95.4
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Sudurpashchim,Percent,93.9
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],,Percent,2.8
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Province 1,Percent,2.9
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Province 2,Percent,2.2
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Bagmati,Percent,3.7
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Gandaki,Percent,2.1
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Lumbini,Percent,4.0
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Karnali,Percent,0.3
-2019,Normal value,Units,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Sudurpashchim,Percent,1.0
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Proportion of population with basic handwashing facilities on premises [6.2.1],,Percent,72.5
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],,Percent,80.7
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Province 1,Percent,84.6
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Province 2,Percent,79.3
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Bagmati,Percent,88.2
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Gandaki,Percent,88.1
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Lumbini,Percent,84.6
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Karnali,Percent,55.2
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],Sudurpashchim,Percent,57.6
+2014,Proportion of population using safely managed sanitation services [6.2.1],,Percent,71.6
+2019,Proportion of population using safely managed sanitation services [6.2.1],,Percent,94.5
+2019,Proportion of population using safely managed sanitation services [6.2.1],Province 1,Percent,96.6
+2019,Proportion of population using safely managed sanitation services [6.2.1],Province 2,Percent,84.1
+2019,Proportion of population using safely managed sanitation services [6.2.1],Bagmati,Percent,98.3
+2019,Proportion of population using safely managed sanitation services [6.2.1],Gandaki,Percent,99.0
+2019,Proportion of population using safely managed sanitation services [6.2.1],Lumbini,Percent,95.3
+2019,Proportion of population using safely managed sanitation services [6.2.1],Karnali,Percent,94.9
+2019,Proportion of population using safely managed sanitation services [6.2.1],Sudurpashchim,Percent,96.6
+2014,Percentage of population using improved sanitation facilities which are not shared [6.2.1],,Percent,60.1
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],,Percent,79.2
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Province 1,Percent,85.8
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Province 2,Percent,73.3
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Bagmati,Percent,70.8
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Gandaki,Percent,82.7
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Lumbini,Percent,83.4
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Karnali,Percent,86.2
+2019,Percentage of population using improved sanitation facilities which are not shared [6.2.1],Sudurpashchim,Percent,85.2
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],,Percent,92.7
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Province 1,Percent,95.3
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Province 2,Percent,93.4
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Bagmati,Percent,88.9
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Gandaki,Percent,94.4
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Lumbini,Percent,90.8
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Karnali,Percent,95.4
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied [6.2.1],Sudurpashchim,Percent,93.9
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],,Percent,2.8
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Province 1,Percent,2.9
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Province 2,Percent,2.2
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Bagmati,Percent,3.7
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Gandaki,Percent,2.1
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Lumbini,Percent,4.0
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Karnali,Percent,0.3
+2019,Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed [6.2.1],Sudurpashchim,Percent,1.0

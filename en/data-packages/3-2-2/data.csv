@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,Neonatal mortality rate [3.2.2],,Percent,23
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],,Percent,16
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Province 1,Percent,20
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Province 2,Percent,10
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Bagmati,Percent,9
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Gandaki,Percent,18
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Lumbini,Percent,22
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Karnali,Percent,11
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],Sudurpashchim,Percent,25
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Neonatal mortality rate [3.2.2],,Percent,23
+2019,Neonatal mortality rate [3.2.2],,Percent,16
+2019,Neonatal mortality rate [3.2.2],Province 1,Percent,20
+2019,Neonatal mortality rate [3.2.2],Province 2,Percent,10
+2019,Neonatal mortality rate [3.2.2],Bagmati,Percent,9
+2019,Neonatal mortality rate [3.2.2],Gandaki,Percent,18
+2019,Neonatal mortality rate [3.2.2],Lumbini,Percent,22
+2019,Neonatal mortality rate [3.2.2],Karnali,Percent,11
+2019,Neonatal mortality rate [3.2.2],Sudurpashchim,Percent,25

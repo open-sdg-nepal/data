@@ -1,18 +1,18 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Percent,40.0
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Province 1,Percent,38.6
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Province 2,Percent,22.1
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Bagmati,Percent,42.3
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Gandaki,Percent,57.4
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Lumbini,Percent,55.7
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Karnali,Percent,36.5
-2019,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Sudurpashchim,Percent,40.3
-2014,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],,Percent,67.1
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],,Percent,70.2
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Province 1,Percent,71.6
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Province 2,Percent,52.8
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Bagmati,Percent,79.6
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Gandaki,Percent,87.9
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Lumbini,Percent,73.3
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Karnali,Percent,70.0
-2019,Normal value,Units,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Sudurpashchim,Percent,66.0
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Percent,40.0
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Province 1,Percent,38.6
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Province 2,Percent,22.1
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Bagmati,Percent,42.3
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Gandaki,Percent,57.4
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Lumbini,Percent,55.7
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Karnali,Percent,36.5
+2019,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Sudurpashchim,Percent,40.3
+2014,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],,Percent,67.1
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],,Percent,70.2
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Province 1,Percent,71.6
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Province 2,Percent,52.8
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Bagmati,Percent,79.6
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Gandaki,Percent,87.9
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Lumbini,Percent,73.3
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Karnali,Percent,70.0
+2019,Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey [3.b.1],Sudurpashchim,Percent,66.0

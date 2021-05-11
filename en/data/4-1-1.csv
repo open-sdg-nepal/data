@@ -1,21 +1,21 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],,Percent,39.2
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Province 1,Percent,43.1
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Province 2,Percent,25.7
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Bagmati,Percent,51.3
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Gandaki,Percent,53.4
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Lumbini,Percent,36.5
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Karnali,Percent,45.6
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Sudurpashchim,Percent,30.2
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (b) Age for grade 2/3 (6/7 years) [4.1.1],,Percent,14.5
-2019,Normal value,Units,Percentage of children who successfully completed three foundational reading tasks (c) Attending grade 2/3 [4.1.1],,Percent,19.9
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],,Percent,36.8
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Province 1,Percent,35.0
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Province 2,Percent,32.1
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Bagmati,Percent,50.3
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Gandaki,Percent,51.6
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Lumbini,Percent,35.1
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Karnali,Percent,33.0
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Sudurpashchim,Percent,21.8
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks  (e) Age for grade 2/3 (6/7 years) [4.1.1],,Percent,13.7
-2019,Normal value,Units,Percentage of children who successfully completed four foundational number tasks (f) Attending grade 2/3 [4.1.1],,Percent,19.7
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],,Percent,39.2
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Province 1,Percent,43.1
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Province 2,Percent,25.7
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Bagmati,Percent,51.3
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Gandaki,Percent,53.4
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Lumbini,Percent,36.5
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Karnali,Percent,45.6
+2019,Percentage of children who successfully completed three foundational reading tasks (a) Age 7-14 [4.1.1],Sudurpashchim,Percent,30.2
+2019,Percentage of children who successfully completed three foundational reading tasks (b) Age for grade 2/3 (6/7 years) [4.1.1],,Percent,14.5
+2019,Percentage of children who successfully completed three foundational reading tasks (c) Attending grade 2/3 [4.1.1],,Percent,19.9
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],,Percent,36.8
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Province 1,Percent,35.0
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Province 2,Percent,32.1
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Bagmati,Percent,50.3
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Gandaki,Percent,51.6
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Lumbini,Percent,35.1
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Karnali,Percent,33.0
+2019,Percentage of children who successfully completed four foundational number tasks (d) Age 7-14 [4.1.1],Sudurpashchim,Percent,21.8
+2019,Percentage of children who successfully completed four foundational number tasks  (e) Age for grade 2/3 (6/7 years) [4.1.1],,Percent,13.7
+2019,Percentage of children who successfully completed four foundational number tasks (f) Attending grade 2/3 [4.1.1],,Percent,19.7

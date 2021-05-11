@@ -1,33 +1,33 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,Percent,7.9
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 1,Female,Percent,6.6
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 2,Female,Percent,14.2
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Bagmati,Female,Percent,2.2
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Gandaki,Female,Percent,6.8
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Lumbini,Female,Percent,8.9
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Karnali,Female,Percent,12.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Sudurpashchim,Female,Percent,8.2
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Male,Percent,1.5
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 1,Male,Percent,0.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 2,Male,Percent,2.1
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Bagmati,Male,Percent,1.2
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Gandaki,Male,Percent,0.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Lumbini,Male,Percent,2.4
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Karnali,Male,Percent,1.7
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Sudurpashchim,Male,Percent,3.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,Percent,32.8
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 1,Female,Percent,28.5
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 2,Female,Percent,46.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Bagmati,Female,Percent,19.7
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Gandaki,Female,Percent,35.7
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Lumbini,Female,Percent,33.7
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Karnali,Female,Percent,44.3
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Sudurpashchim,Female,Percent,35.6
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Male,Percent,9.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 1,Male,Percent,8.1
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 2,Male,Percent,7.8
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Bagmati,Male,Percent,7.2
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Gandaki,Male,Percent,2.1
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Lumbini,Male,Percent,11.4
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Karnali,Male,Percent,17.0
-2019,Normal value,Units,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Sudurpashchim,Male,Percent,17.5
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,Percent,7.9
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 1,Female,Percent,6.6
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 2,Female,Percent,14.2
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Bagmati,Female,Percent,2.2
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Gandaki,Female,Percent,6.8
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Lumbini,Female,Percent,8.9
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Karnali,Female,Percent,12.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Sudurpashchim,Female,Percent,8.2
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Male,Percent,1.5
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 1,Male,Percent,0.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Province 2,Male,Percent,2.1
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Bagmati,Male,Percent,1.2
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Gandaki,Male,Percent,0.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Lumbini,Male,Percent,2.4
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Karnali,Male,Percent,1.7
+2019,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],Sudurpashchim,Male,Percent,3.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,Percent,32.8
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 1,Female,Percent,28.5
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 2,Female,Percent,46.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Bagmati,Female,Percent,19.7
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Gandaki,Female,Percent,35.7
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Lumbini,Female,Percent,33.7
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Karnali,Female,Percent,44.3
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Sudurpashchim,Female,Percent,35.6
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Male,Percent,9.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 1,Male,Percent,8.1
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Province 2,Male,Percent,7.8
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Bagmati,Male,Percent,7.2
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Gandaki,Male,Percent,2.1
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Lumbini,Male,Percent,11.4
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Karnali,Male,Percent,17.0
+2019,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],Sudurpashchim,Male,Percent,17.5

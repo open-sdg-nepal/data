@@ -1,9 +1,9 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Percent,26.9
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Province 1,Percent,17.5
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Province 2,Percent,18.3
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Bagmati,Percent,59.2
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Gandaki,Percent,28.2
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Lumbini,Percent,15.8
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Karnali,Percent,5.8
-2019,Normal value,Units,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Sudurpashchim,Percent,13.3
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Percent,26.9
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Province 1,Percent,17.5
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Province 2,Percent,18.3
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Bagmati,Percent,59.2
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Gandaki,Percent,28.2
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Lumbini,Percent,15.8
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Karnali,Percent,5.8
+2019,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Sudurpashchim,Percent,13.3
