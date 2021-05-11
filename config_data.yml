@@ -52,6 +52,8 @@ inputs:
       - NATURE
       - FREQ
       - REPORTING_TYPE
+      - OBS_STATUS
+      - UNIT_MULT
     drop_singleton_dimensions: false
     dsd: 'CBS_DSD.xml'
     import_codes: true
