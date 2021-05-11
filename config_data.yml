@@ -39,6 +39,10 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*-*.yml
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
   - class: InputSdmxMl_Multiple
     path_pattern: 'data/*.xml'
     dimension_map:
@@ -72,10 +76,7 @@ inputs:
   #    - REPORTING_TYPE
   #    - TIME_DETAIL
   #    - OBS_STATUS
-  - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
-  - class: InputWordMeta
-    path_pattern: meta/*-*.docm
+  
 
 # Translations
 # ------------
