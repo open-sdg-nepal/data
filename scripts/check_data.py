@@ -1,12 +1,12 @@
 from sdg.open_sdg import open_sdg_check
 
-def alter_data(df):
-    for col in df.loc[:, df.dtypes == object].columns:
-        df[col] = df[col].str.strip()
-    return df
+def alter_meta(meta, context):
+    if not context['data'] is None:
+        meta['reporting_status']='complete'
+    return meta
 
 # Validate the indicators.
-validation_successful = open_sdg_check(config='config_data.yml', alter_data=alter_data)
+validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta)
 
 # If everything was valid, perform the build.
 if not validation_successful:
