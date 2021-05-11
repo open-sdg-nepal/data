@@ -46,7 +46,7 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: 'data/*.xml'
     dimension_map:
-      REF_AREA|524: ''
+      REF_AREA|NP: ''
     drop_dimensions:
       - SOURCE_DETAIL
       - NATURE
