@@ -90,6 +90,9 @@ inputs:
 # project. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 translations:
+  - class: TranslationInputSdmx
+    source: 'CBS_DSD.xml'
+    # source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
@@ -97,9 +100,6 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
-  - class: TranslationInputSdmx
-    source: 'CBS_DSD.xml'
-    # source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
 
 # Reporting status extra fields
 # -----------------------------
