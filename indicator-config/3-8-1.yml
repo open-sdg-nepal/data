@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percent
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -19,10 +19,10 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.3-8-1-title
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.3-8-1-title
 indicator_number: 3.8.1
-national_geographical_coverage: ''
+national_geographical_coverage: Nepal
 page_content: ''
 permalink: ''
 precision: []
