@@ -11,44 +11,48 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T24",
-                "Y15T49"
-              ]
-            }
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NP1",
-                "NP2",
-                "NP3",
-                "NP4",
-                "NP5",
-                "NP6",
-                "NP7"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
           },
           {
             "name": "SERIES",
             "type": "string"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                "Y15T49",
+                ""
               ]
             }
           },
@@ -59,10 +63,6 @@
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

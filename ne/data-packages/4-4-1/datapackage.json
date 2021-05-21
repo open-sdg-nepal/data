@@ -11,33 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T24",
-                "Y15T49"
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NP1",
-                "NP2",
-                "NP3",
-                "NP4",
-                "NP5",
-                "NP6",
-                "NP7"
-              ]
-            },
-            "title": "REF_AREA"
+            "title": "Year"
           },
           {
             "name": "SERIES",
@@ -45,16 +21,45 @@
             "title": "SERIES"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "F",
-                "M"
+                "M",
+                ""
               ]
             },
             "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                "Y15T49",
+                ""
+              ]
+            },
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
@@ -65,11 +70,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

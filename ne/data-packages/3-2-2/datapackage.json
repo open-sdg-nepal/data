@@ -11,26 +11,31 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "NP1",
                 "NP2",
                 "NP3",
                 "NP4",
                 "NP5",
                 "NP6",
-                "NP7"
+                "NP7",
+                ""
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -41,11 +46,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

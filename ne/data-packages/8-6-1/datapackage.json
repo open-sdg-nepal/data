@@ -11,32 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T24"
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NP1",
-                "NP2",
-                "NP3",
-                "NP4",
-                "NP5",
-                "NP6",
-                "NP7"
-              ]
-            },
-            "title": "REF_AREA"
+            "title": "Year"
           },
           {
             "name": "SERIES",
@@ -44,31 +21,54 @@
             "title": "SERIES"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "REF_AREA",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "constraints": {
+              "enum": [
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                ""
+              ]
+            },
+            "title": "AGE"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "U",
                 "R",
-                "U"
+                ""
               ]
             },
             "title": "URBANISATION"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

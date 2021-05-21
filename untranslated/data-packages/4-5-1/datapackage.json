@@ -11,36 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "NP1",
                 "NP2",
                 "NP3",
                 "NP4",
                 "NP5",
                 "NP6",
-                "NP7"
+                "NP7",
+                ""
               ]
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
@@ -49,10 +53,6 @@
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }

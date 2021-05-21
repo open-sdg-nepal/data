@@ -11,57 +11,57 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T24"
-              ]
-            }
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NP1",
-                "NP2",
-                "NP3",
-                "NP4",
-                "NP5",
-                "NP6",
-                "NP7"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
           },
           {
             "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "U",
                 "R",
-                "U"
+                ""
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Year",
-            "type": "string"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

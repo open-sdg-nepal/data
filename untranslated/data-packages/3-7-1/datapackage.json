@@ -11,34 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y15T49"
-              ]
-            }
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "NP1",
                 "NP2",
                 "NP3",
                 "NP4",
                 "NP5",
                 "NP6",
-                "NP7"
+                "NP7",
+                ""
               ]
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T49",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
@@ -47,10 +51,6 @@
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "string"
           }
         ]
       }
