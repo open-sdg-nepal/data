@@ -12,28 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -46,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-3-1",
-  "title": "Proportion of informal employment in total employment, by sector and sex"
+  "title": "सेक्स द्वारा गैर कृषि रोजगारमा अनौपचारिक रोजगारीको अनुपात"
 }

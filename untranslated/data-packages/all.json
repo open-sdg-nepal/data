@@ -1976,24 +1976,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2001,7 +1984,7 @@
           }
         ]
       },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
+      "title": "global_indicators.8-3-1-title"
     },
     {
       "path": "13-1-1/data.csv",
