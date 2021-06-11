@@ -79,6 +79,8 @@ inputs:
   #    - TIME_DETAIL
   #    - OBS_STATUS
   
+sdmx_output:
+  constrain_meta: true
 
 # Translations
 # ------------
