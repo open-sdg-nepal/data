@@ -1,1 +1,6 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+2015,0.53,"Per 100,000 population",Mortality rate attributed to unintentional poisonings [3.9.3]
+2018,0.493308,"Per 100,000 population",Mortality rate attributed to unintentional poisonings [3.9.3]
+2019,0.468846,"Per 100,000 population",Mortality rate attributed to unintentional poisonings [3.9.3]
+2020,0.432154,"Per 100,000 population",Mortality rate attributed to unintentional poisonings [3.9.3]
+2022,0.371,"Per 100,000 population",Mortality rate attributed to unintentional poisonings [3.9.3]

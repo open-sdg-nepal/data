@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -26,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "2-a-1",
-  "title": "सरकारी खर्चको लागि कृषि अभिमुखीकरण सूचकांक"
+  "title": "The agriculture orientation index for government expenditures"
 }

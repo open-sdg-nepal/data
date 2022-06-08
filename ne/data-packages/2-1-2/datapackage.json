@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -26,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-2",
-  "title": "खाद्य असुरक्षा अनुभव स्केल (FIES) को आधारमा जनसंख्यामा मध्यम वा गम्भीर खाद्य असुरक्षाको व्याप्तता।"
+  "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
 }

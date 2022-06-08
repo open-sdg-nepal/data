@@ -1,1 +1,4 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+1996,66.0,Percent,Proportion of population below international poverty line [1.1.1]
+2004,49.9,Percent,Proportion of population below international poverty line [1.1.1]
+2010,15.0,Percent,Proportion of population below international poverty line [1.1.1]

@@ -1,1 +1,11 @@
-Year,Value
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+1996,Proportion of population living below the national poverty line [1.2.1],,Percent,30.9
+2004,Proportion of population living below the national poverty line [1.2.1],,Percent,41.8
+2010,Proportion of population living below the national poverty line [1.2.1],,Percent,25.2
+2010,Proportion of population living below the national poverty line [1.2.1],Province 1,Percent,16.7
+2010,Proportion of population living below the national poverty line [1.2.1],Madhesh,Percent,26.7
+2010,Proportion of population living below the national poverty line [1.2.1],Bagmati,Percent,20.6
+2010,Proportion of population living below the national poverty line [1.2.1],Gandaki,Percent,21.0
+2010,Proportion of population living below the national poverty line [1.2.1],Lumbini,Percent,25.3
+2010,Proportion of population living below the national poverty line [1.2.1],Karnali,Percent,38.6
+2010,Proportion of population living below the national poverty line [1.2.1],Sudurpashchim,Percent,45.6

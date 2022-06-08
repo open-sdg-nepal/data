@@ -12,17 +12,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Province 1",
-                "Province 2",
-                "Bagmati",
-                "Gandaki",
-                "Lumbini",
-                "Karnali",
-                "Sudurpashchim"
+                ""
               ]
             },
             "title": "Reference area"
@@ -39,7 +32,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

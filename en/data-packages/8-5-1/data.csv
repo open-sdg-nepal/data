@@ -1,1 +1,4 @@
-Year,Value
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2018,Average hourly earnings [8.5.1],,,Number,17809
+2018,Average hourly earnings [8.5.1],,Male,Number,19464
+2018,Average hourly earnings [8.5.1],,Female,Number,13630
