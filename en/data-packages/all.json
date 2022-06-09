@@ -3,6 +3,50 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Maternal mortality ratio"
+    },
+    {
       "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
@@ -89,50 +133,6 @@
         ]
       },
       "title": "The agriculture orientation index for government expenditures"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Maternal mortality ratio"
     },
     {
       "path": "3-1-2/data.csv",
