@@ -2,4 +2,5 @@ Disaggregation,Number of indicators,Number of values
 AGE,8,3
 EDUCATION_LEV,1,3
 REF_AREA,27,7
-SEX,8,2
+SEX,7,2
+URBANISATION,1,2

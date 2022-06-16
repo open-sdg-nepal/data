@@ -22,43 +22,13 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "NP1",
-                "NP2",
-                "NP3",
-                "NP4",
-                "NP5",
-                "NP6",
-                "NP7",
                 ""
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y15T49",
-                ""
-              ]
-            },
-            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",

@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-3",
+  "title": "जनसंख्याको अनुपात जसले विगत दुई बर्षमा विवाद अनुभव गरे र जसले औपचारिक वा अनौपचारिक विवाद समाधान संयन्त्रमा पहुँच गरेका छ, संयन्त्रको प्रकारद्वारा"
+}

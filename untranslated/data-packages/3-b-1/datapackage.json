@@ -20,9 +20,16 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "NP1",
+                "NP2",
+                "NP3",
+                "NP4",
+                "NP5",
+                "NP6",
+                "NP7",
                 ""
               ]
             }
@@ -33,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -11,6 +11,17 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 to 24 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -36,6 +47,18 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
