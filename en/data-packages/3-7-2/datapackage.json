@@ -11,29 +11,11 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 19 years old"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Province 1",
-                "Madhesh",
-                "Bagmati",
-                "Gandaki",
-                "Lumbini",
-                "Karnali",
-                "Sudurpashchim"
+                ""
               ]
             },
             "title": "Reference area"

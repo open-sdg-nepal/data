@@ -1,10 +1,4 @@
-Year,SERIES,Reference area,Age,UNIT_MEASURE,Value
-2014,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,71
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,63
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Province 1,15 to 19 years old,Percent,61
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Madhesh,15 to 19 years old,Percent,96
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Bagmati,15 to 19 years old,Percent,40
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Gandaki,15 to 19 years old,Percent,58
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Lumbini,15 to 19 years old,Percent,57
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Karnali,15 to 19 years old,Percent,81
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",Sudurpashchim,15 to 19 years old,Percent,60
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2014,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,"Per 1,000 population",71
+2019,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,"Per 1,000 population",63
+2022,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,"Per 1,000 population",51
