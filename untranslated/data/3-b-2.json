@@ -1,1 +1,1 @@
-{"Year":["2015","2018","2019","2020","2022"],"SERIES":["DC_TOF_HLTHNT","DC_TOF_HLTHNT","DC_TOF_HLTHNT","DC_TOF_HLTHNT","DC_TOF_HLTHNT"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT","PT"],"Value":[12.7,14.5,16.0,18.0,20.0]}
+{"Year":[2015,2018,2019,2020,2022],"SERIES":["DC_TOF_HLTHNT","DC_TOF_HLTHNT","DC_TOF_HLTHNT","DC_TOF_HLTHNT","DC_TOF_HLTHNT"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT","PT"],"Value":[12.7,14.5,16.0,18.0,20.0]}

@@ -11,33 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old",
-                "15 to 49 years old"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Province 1",
-                "Madhesh",
-                "Bagmati",
-                "Gandaki",
-                "Lumbini",
-                "Karnali",
-                "Sudurpashchim"
-              ]
-            },
-            "title": "Reference area"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SERIES",
@@ -45,16 +21,45 @@
             "title": "SDG Series"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Province 1",
+                "Madhesh",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                "15 to 49 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
@@ -65,11 +70,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

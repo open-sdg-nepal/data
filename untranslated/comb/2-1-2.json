@@ -1,1 +1,1 @@
-{"data":{"Year":["2019","2021","2022"],"SERIES":["AG_PRD_FIESMS","AG_PRD_FIESMS","AG_PRD_FIESMS"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"Value":[42.8,57.0,66.0]},"edges":[]}
+{"data":{"Year":[2019,2021,2022],"SERIES":["AG_PRD_FIESMS","AG_PRD_FIESMS","AG_PRD_FIESMS"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"Value":[42.8,57.0,66.0]},"edges":[]}

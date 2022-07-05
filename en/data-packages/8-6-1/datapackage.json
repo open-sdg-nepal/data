@@ -11,32 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Province 1",
-                "Madhesh",
-                "Bagmati",
-                "Gandaki",
-                "Lumbini",
-                "Karnali",
-                "Sudurpashchim"
-              ]
-            },
-            "title": "Reference area"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SERIES",
@@ -44,31 +21,54 @@
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "REF_AREA",
             "type": "string",
-            "title": "Unit of measure"
+            "constraints": {
+              "enum": [
+                "Province 1",
+                "Madhesh",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

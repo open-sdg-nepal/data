@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2019","2022"],"SERIES":["AG_PRD_ORTIND","AG_PRD_ORTIND","AG_PRD_ORTIND"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"Value":[0.15,0.21,0.26]},"edges":[]}
+{"data":{"Year":[2015,2019,2022],"SERIES":["AG_PRD_ORTIND","AG_PRD_ORTIND","AG_PRD_ORTIND"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"Value":[0.15,0.21,0.26]},"edges":[]}

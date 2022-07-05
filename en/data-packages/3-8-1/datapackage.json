@@ -11,37 +11,42 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 49 years old"
-              ]
-            },
-            "title": "Age"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Province 1",
                 "Madhesh",
                 "Bagmati",
                 "Gandaki",
                 "Lumbini",
                 "Karnali",
-                "Sudurpashchim"
+                "Sudurpashchim",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "AGE",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "15 to 49 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
@@ -52,11 +57,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

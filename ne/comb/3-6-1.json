@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2018","2019","2020","2022"],"SERIES":["SH_STA_TRAF","SH_STA_TRAF","SH_STA_TRAF","SH_STA_TRAF","SH_STA_TRAF"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT","PT"],"Value":[19.86,9.93,8.94,7.45,4.96]},"edges":[]}
+{"data":{"Year":[2015,2018,2019,2020,2022],"SERIES":["SH_STA_TRAF","SH_STA_TRAF","SH_STA_TRAF","SH_STA_TRAF","SH_STA_TRAF"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT","PT"],"Value":[19.86,9.93,8.94,7.45,4.96]},"edges":[]}

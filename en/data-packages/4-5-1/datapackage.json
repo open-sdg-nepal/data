@@ -11,39 +11,44 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Primary education",
-                "Lower secondary education",
-                "Upper secondary education"
-              ]
-            },
-            "title": "Education level"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Province 1",
                 "Madhesh",
                 "Bagmati",
                 "Gandaki",
                 "Lumbini",
                 "Karnali",
-                "Sudurpashchim"
+                "Sudurpashchim",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "UNIT_MEASURE",
@@ -54,11 +59,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

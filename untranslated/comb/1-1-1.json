@@ -1,1 +1,1 @@
-{"data":{"Year":["1996","2004","2010"],"SERIES":["SI_POV_DAY1","SI_POV_DAY1","SI_POV_DAY1"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"Value":[66.0,49.9,15.0]},"edges":[]}
+{"data":{"Year":[1996,2004,2010],"SERIES":["SI_POV_DAY1","SI_POV_DAY1","SI_POV_DAY1"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"Value":[66.0,49.9,15.0]},"edges":[]}
