@@ -57,27 +57,8 @@ inputs:
     drop_singleton_dimensions: false
     dsd: 'CBS_DSD.xml'
     import_codes: true
-  #- class: InputSdmxMl_UnitedNationsApi
-  # dimension_map:
-  #    UNIT_MEASURE: 'Units'
-  #    SERIES: 'Series'
-  #    REF_AREA|524: ''
-  #  reference_area: 524
-  #  import_codes: true
-  #  drop_singleton_dimensions: false
-  #  drop_dimensions:
-  #    - UPPER_BOUND
-  #    - LOWER_BOUND
-  #    - UNIT_MULT
-  #    - COMMENT_OBS
-  #    - SOURCE_DETAIL
-  #    - BASE_PER
-  #    - NATURE
-  #    - DATA_LAST_UPDATE
-  #    - FREQ
-  #    - REPORTING_TYPE
-  #    - TIME_DETAIL
-  #    - OBS_STATUS
+  - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
   
 
 # Translations
