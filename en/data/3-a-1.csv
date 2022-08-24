@@ -1,6 +1,23 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Percent,30.8
-2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Percent,26.18
-2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Percent,24.332
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Percent,21.56
-2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Percent,15.092
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,,Percent,30.8
+2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,,Percent,26.18
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,,Percent,24.332
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,,Percent,21.56
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,,Percent,15.092
+2014,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 to 49 years old,Percent,9.2
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 to 49 years old,Percent,6.1
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Province 1,Female,15 to 49 years old,Percent,6.0
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Madhesh,Female,15 to 49 years old,Percent,2.7
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Bagmati,Female,15 to 49 years old,Percent,5.4
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Gandaki,Female,15 to 49 years old,Percent,6.2
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Lumbini,Female,15 to 49 years old,Percent,8.0
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Karnali,Female,15 to 49 years old,Percent,11.0
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Sudurpashchim,Female,15 to 49 years old,Percent,8.0
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 to 49 years old,Percent,45.2
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Province 1,Male,15 to 49 years old,Percent,49.0
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Madhesh,Male,15 to 49 years old,Percent,48.2
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Bagmati,Male,15 to 49 years old,Percent,37.4
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Gandaki,Male,15 to 49 years old,Percent,40.2
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Lumbini,Male,15 to 49 years old,Percent,50.9
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Karnali,Male,15 to 49 years old,Percent,42.5
+2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],Sudurpashchim,Male,15 to 49 years old,Percent,50.4

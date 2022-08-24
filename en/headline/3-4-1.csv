@@ -1,6 +1,10 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,2.8,Percent,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
-2018,2.34,Percent,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
-2019,2.35,Percent,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
-2020,2.15,Percent,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
-2022,1.96,Percent,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
+2015,2.8,Probability,Deaths attributed non-communicable diseases (number) [3.4.1]
+2018,2.34,Probability,Deaths attributed non-communicable diseases (number) [3.4.1]
+2019,2.35,Probability,Deaths attributed non-communicable diseases (number) [3.4.1]
+2020,2.15,Probability,Deaths attributed non-communicable diseases (number) [3.4.1]
+2022,1.96,Probability,Deaths attributed non-communicable diseases (number) [3.4.1]
+2015,1090.0,Per million population,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
+2016,1186.0,Per million population,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
+2017,1215.0,Per million population,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"
+2018,1363.0,Per million population,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]"

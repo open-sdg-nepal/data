@@ -22,9 +22,16 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Province 1",
+                "Madhesh",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim",
                 ""
               ]
             },

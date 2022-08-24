@@ -1,3 +1,54 @@
 Year,Value,UNIT_MEASURE,SERIES
-2014,50.1,Percent,Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider [3.8.1]
-2019,82.0,Percent,Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider [3.8.1]
+2014,59.5,Percent,"3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)"
+2015,59.5,Percent,"3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)"
+2018,70.9,Percent,"3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)"
+2019,77.8,Percent,"3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)"
+2020,80.5,Percent,"3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)"
+2022,90.0,Percent,"3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)"
+2015,55.2,Percent,3.8.1 Coverage of essential health services _ b. Percent of institutional delivery
+2018,70.0,Percent,3.8.1 Coverage of essential health services _ b. Percent of institutional delivery
+2019,74.3,Percent,3.8.1 Coverage of essential health services _ b. Percent of institutional delivery
+2020,79.0,Percent,3.8.1 Coverage of essential health services _ b. Percent of institutional delivery
+2022,90.0,Percent,3.8.1 Coverage of essential health services _ b. Percent of institutional delivery
+2015,20.0,Percent,3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol
+2018,50.0,Percent,3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol
+2019,65.0,Percent,3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol
+2020,75.0,Percent,3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol
+2022,90.0,Percent,3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol
+2015,88.0,Percent,3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine
+2018,90.0,Percent,3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine
+2019,93.0,Percent,3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine
+2020,95.0,Percent,3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine
+2022,95.0,Percent,3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine
+2015,16.6,Percent,3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer
+2018,36.153846,Percent,3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer
+2019,46.923077,Percent,3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer
+2020,63.076923,Percent,3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer
+2022,90.0,Percent,3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer
+2015,39.9,Percent,3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy
+2018,90.0,Percent,3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy
+2019,91.7,Percent,3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy
+2020,93.3,Percent,3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy
+2022,95.0,Percent,3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy
+2015,11.7,Percent,3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication
+2018,31.25,Percent,3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication
+2019,38.75,Percent,3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication
+2020,50.0,Percent,3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication
+2022,60.0,Percent,3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication
+2015,25.0,Percent,3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication
+2018,33.076923,Percent,3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication
+2019,38.461538,Percent,3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication
+2020,46.538462,Percent,3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication
+2022,60.0,Percent,3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication
+2015,61.8,Percent,3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility
+2018,69.3,Percent,3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility
+2019,75.0,Percent,3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility
+2020,80.6,Percent,3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility
+2022,90.0,Percent,3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility
+2015,0.0,Percent,3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance
+2018,20.0,Percent,3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance
+2019,50.0,Percent,3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance
+2020,75.0,Percent,3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance
+2022,100.0,Percent,3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance
+2014,50.1,Percent,Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider
+2019,82.0,Percent,Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider

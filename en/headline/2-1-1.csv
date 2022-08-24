@@ -1,1 +1,4 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+1996,0.5,Percent,Prevalence of undernourishment [2.1.1]
+2004,0.35,Percent,Prevalence of undernourishment [2.1.1]
+2011,0.33,Percent,Prevalence of undernourishment [2.1.1]

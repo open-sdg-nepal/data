@@ -1,8 +1,25 @@
 Year,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],Province 1,Percent,21.2
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],Madhesh,Percent,49.1
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],Bagmati,Percent,14.4
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],Gandaki,Percent,18.5
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],Lumbini,Percent,31.2
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],Karnali,Percent,50.9
-2014,Proportion of population covered by at least one social protection benefit [1.3.1],,Percent,32.5
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],,Percent,41.5
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Province 1,Percent,39.2
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Madhesh,Percent,39.1
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Bagmati,Percent,30.5
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Gandaki,Percent,43.9
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Lumbini,Percent,44.8
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Karnali,Percent,60.4
+2019,Proportion of population covered by at least one social protection benefit [1.3.1],Sudurpashchim,Percent,59.0
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,,Percent,38.6
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Province 1,Percent,36.0
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Madhesh,Percent,36.9
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Bagmati,Percent,28.6
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Gandaki,Percent,41.2
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Lumbini,Percent,42.0
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Karnali,Percent,55.2
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months,Sudurpashchim,Percent,53.8
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,,Percent,41.5
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Province 1,Percent,39.2
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Madhesh,Percent,39.1
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Bagmati,Percent,30.5
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Gandaki,Percent,43.9
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Lumbini,Percent,44.8
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Karnali,Percent,60.4
+2019,Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months,Sudurpashchim,Percent,59.0

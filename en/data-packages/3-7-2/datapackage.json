@@ -22,13 +22,31 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Province 1",
+                "Madhesh",
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Karnali",
+                "Sudurpashchim",
                 ""
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 19 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",

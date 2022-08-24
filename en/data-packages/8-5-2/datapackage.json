@@ -50,6 +50,18 @@
             "title": "Sex"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

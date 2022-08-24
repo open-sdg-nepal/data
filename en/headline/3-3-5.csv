@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+2016,0.89,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ a. Leprosy cases (3.3.5)
+2017,0.92,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ a. Leprosy cases (3.3.5)
+2018,0.99,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ a. Leprosy cases (3.3.5)
+2019,0.69,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ a. Leprosy cases (3.3.5)
+2018,239.0,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ b. Kala-azar (Leishmaniasis) cases* (3.3.5)
+2019,216.0,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ b. Kala-azar (Leishmaniasis) cases* (3.3.5)
+2020,110.0,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ b. Kala-azar (Leishmaniasis) cases* (3.3.5)
+2017,811.0,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ d. Dengue cases
+2018,3424.0,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ d. Dengue cases
+2019,10808.0,Number,3.3.5 Number of people requiring interventions against neglected tropical diseases _ d. Dengue cases
