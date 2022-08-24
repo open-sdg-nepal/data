@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <message:Header>
-    <message:ID>IDREF3</message:ID>
+    <message:ID>IDREF1</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-06-08T03:08:08.5095796-04:00</message:Prepared>
+    <message:Prepared>2022-08-24T13:23:46.4286921-04:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -86,7 +86,7 @@
           </structure:Parent>
         </structure:Code>
       </structure:Codelist>
-      <structure:Codelist id="CL_SERIES" agencyID="CBS-SDGs" version="1.3" isFinal="true">
+      <structure:Codelist id="CL_SERIES" agencyID="CBS-SDGs" version="1.4" isFinal="true">
         <common:Name xml:lang="en">SDG Series Code List</common:Name>
         <structure:Code id="SI_POV_DAY1">
           <common:Annotations>
@@ -16763,402 +16763,1150 @@
         <structure:Code id="_L_NP_03_03_05_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.3.5</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030305</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5980</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ a. Leprosy cases (3.3.5)</common:Name>
+          <common:Description xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ a. Leprosy cases (3.3.5)</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_03_05_02">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.3.5</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030305</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5990</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ b. Kala-azar (Leishmaniasis) cases* (3.3.5)</common:Name>
+          <common:Description xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ b. Kala-azar (Leishmaniasis) cases* (3.3.5)</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_03_05_03">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.3.5</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030305</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6000</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ c. Lymphatic Filariasis cases</common:Name>
+          <common:Description xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ c. Lymphatic Filariasis cases</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_03_05_04">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.3.5</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030305</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6010</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ d. Dengue cases</common:Name>
+          <common:Description xml:lang="en">3.3.5 Number of people requiring interventions against neglected tropical diseases _ d. Dengue cases</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_05_02_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.5.2</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030502</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6020</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.5.2 Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol _ Percent of people aged 15 years and older having harmful use of alcohol (defined according to the national context)</common:Name>
+          <common:Description xml:lang="en">3.5.2 Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol _ Percent of people aged 15 years and older having harmful use of alcohol (defined according to the national context)</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6030</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ a, Percent of women having 4 antenatal care visits as per protocol (among live births)</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_02">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6040</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ b. Percent of institutional delivery</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ b. Percent of institutional delivery</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_03">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6050</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ c. Percent of women attending three PNC as per protocol</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_04">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6060</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ d. Percent of infants receiving 3 doses of Hepatitis B vaccine</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_05">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6070</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ e. Percent of women aged 30-49 years screened for cervical cancer</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_06">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6080</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ f. Percent of people living with HIV  receiving Antiretroviral combination therapy</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_07">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6090</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ g. Percent of population aged 15 years and above with raised blood pressure who are currently taking medication</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_08">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6100</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ h. Percent of population aged 15 years and above with raised blood glucose who are currently under medication</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_09">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6110</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ i. Percent of households within 30 minutes travel time to health facility</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_01_10">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6120</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance</common:Name>
+          <common:Description xml:lang="en">3.8.1 Coverage of essential health services _ j. Percent of poor people enrolled in health insurance</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_08_02_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.2</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030802</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population with large household expenditures on health as a share of total household expenditure or income</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6130</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income _ Percent of out of pocket expenditure in total health expenditure</common:Name>
+          <common:Description xml:lang="en">3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income _ Percent of out of pocket expenditure in total health expenditure</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_0b_02_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.b.2</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030b02</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Total net official development assistance to medical research and basic health sectors</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6140</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.b.2 Total net official development assistance to medical research and basic health sectors _  Percent of health sector budget for research and development</common:Name>
+          <common:Description xml:lang="en">3.b.2 Total net official development assistance to medical research and basic health sectors _  Percent of health sector budget for research and development</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_0b_03_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.b.3</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030b03</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6150</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis _ Percent of government health facilities with no stock out of essential drugs</common:Name>
+          <common:Description xml:lang="en">3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis _ Percent of government health facilities with no stock out of essential drugs</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_0c_01_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.c.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030c01</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Health worker density and distribution</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6160</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.c.1 Health worker density and distribution _ Total health expenditure as Percent of GDP</common:Name>
+          <common:Description xml:lang="en">3.c.1 Health worker density and distribution _ Total health expenditure as Percent of GDP</common:Description>
         </structure:Code>
         <structure:Code id="_L_NP_03_05_01_01">
           <common:Annotations>
             <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030501</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6170</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">3.5.1 Percent of hard drug users who ever visited Rehabilitation Centres for comprehensive services</common:Name>
+          <common:Description xml:lang="en">3.5.1 Percent of hard drug users who ever visited Rehabilitation Centres for comprehensive services</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_01_03_01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.3.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6180</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months</common:Name>
+          <common:Description xml:lang="en">Percentage of household members living in households that received any type of social transfers and benefits in the last 3 months</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_01_03_01_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.3.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6190</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months</common:Name>
+          <common:Description xml:lang="en">Percentage of household members living in households that received any type of social transfers and benefits in the last 12 months</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_02_02_01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020201</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5Â years of age</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6200</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard</common:Name>
+          <common:Description xml:lang="en">Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median height for age of the WHO standard</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_02_02_02_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020202</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5Â years of age, by type (wasting and overweight)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median weight for age of the WHO standard</common:Name>
+          <common:Description xml:lang="en">Percentage of children under age 5 who fall below minus three standard deviations (severe) of the median weight for age of the WHO standard</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_02_02_02_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020202</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5Â years of age, by type (wasting and overweight)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6220</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children under age 5 who are above three standard deviations (severe) of the median weight for height of the WHO standard</common:Name>
+          <common:Description xml:lang="en">Percentage of children under age 5 who are above three standard deviations (severe) of the median weight for height of the WHO standard</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_03_08_01_11">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6230</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women age 15-49 years with a live birth in the last 2 years who during the pregnancy of the most recent live birth were attended at least once by skilled health personnel</common:Name>
+          <common:Description xml:lang="en">Percentage of women age 15-49 years with a live birth in the last 2 years who during the pregnancy of the most recent live birth were attended at least once by skilled health personnel</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_03_08_01_12">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6240</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women age 15-49 years with a live birth in the last 2 years who during the pregnancy of the most recent live birth were attended at least four times by any provider</common:Name>
+          <common:Description xml:lang="en">Percentage of women age 15-49 years with a live birth in the last 2 years who during the pregnancy of the most recent live birth were attended at least four times by any provider</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_03_08_01_13">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6250</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women age 15-49 years with a live birth in the last 2 years who during the pregnancy of the most recent live birth were attended at least eight times by any provider</common:Name>
+          <common:Description xml:lang="en">Percentage of women age 15-49 years with a live birth in the last 2 years who during the pregnancy of the most recent live birth were attended at least eight times by any provider</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_03_08_01_14">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.8.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030801</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Coverage of essential health services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6260</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider</common:Name>
+          <common:Description xml:lang="en">Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_03_b_01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.b.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030b01</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of the target population covered by all vaccines included in their national programme</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6270</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey</common:Name>
+          <common:Description xml:lang="en">Percentage of children who at age 12-23 months had received all basic vaccinations at any time before the survey</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_03_b_01_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.b.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030b01</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of the target population covered by all vaccines included in their national programme</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6280</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who at age 24-35 months had received all vaccinations recommended in the national immunization schedule</common:Name>
+          <common:Description xml:lang="en">Percentage of children who at age 24-35 months had received all vaccinations recommended in the national immunization schedule</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_04_01_01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6290</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who successfully completed three foundational reading tasks (a)���� Age 7-14</common:Name>
+          <common:Description xml:lang="en">Percentage of children who successfully completed three foundational reading tasks (a)���� Age 7-14</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_04_01_01_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6300</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who successfully completed three foundational reading tasks (b)���� Age for grade 2/3 (6/7 years)</common:Name>
+          <common:Description xml:lang="en">Percentage of children who successfully completed three foundational reading tasks (b)���� Age for grade 2/3 (6/7 years)</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_04_01_01_03">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6310</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who successfully completed three foundational reading tasks (c)���� Attending grade 2/3</common:Name>
+          <common:Description xml:lang="en">Percentage of children who successfully completed three foundational reading tasks (c)���� Attending grade 2/3</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_04_01_01_04">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6320</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who successfully completed four foundational number tasks (d)���� Age 7-14</common:Name>
+          <common:Description xml:lang="en">Percentage of children who successfully completed four foundational number tasks (d)���� Age 7-14</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_04_01_01_05">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6330</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who successfully completed four foundational number tasks  (e)���� Age for grade 2/3 (6/7 years)</common:Name>
+          <common:Description xml:lang="en">Percentage of children who successfully completed four foundational number tasks  (e)���� Age for grade 2/3 (6/7 years)</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_04_01_01_06">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6340</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of children who successfully completed four foundational number tasks (f)���� Attending grade 2/3</common:Name>
+          <common:Description xml:lang="en">Percentage of children who successfully completed four foundational number tasks (f)���� Attending grade 2/3</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_06_02_01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C060201</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6350</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of population using improved sanitation facilities which are not shared</common:Name>
+          <common:Description xml:lang="en">Percentage of population using improved sanitation facilities which are not shared</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_06_02_01_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C060201</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6360</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied</common:Name>
+          <common:Description xml:lang="en">Percentage of population with an improved sanitation facility that does not flush to a sewer and ever emptied</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_06_02_01_03">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C060201</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6370</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed</common:Name>
+          <common:Description xml:lang="en">Percentage of population with an improved sanitation facility that does not flush to a sewer and with waste disposed in-situ or removed</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_NP_17_08_01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.8.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C170801</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of individuals using the Internet</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6380</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months</common:Name>
+          <common:Description xml:lang="en">Percentage of women and men age 15-49 years who used the internet  at least once a week during the last 3 months</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_ACTIVITY" agencyID="IAEG-SDGs" version="1.1" isFinal="true">
@@ -20173,7 +20921,7 @@
           <common:Name xml:lang="en">SDG Series</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
-              <Ref id="CL_SERIES" version="1.3" agencyID="CBS-SDGs" package="codelist" class="Codelist" />
+              <Ref id="CL_SERIES" version="1.4" agencyID="CBS-SDGs" package="codelist" class="Codelist" />
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
@@ -20385,7 +21133,7 @@
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
-                  <Ref id="CL_SERIES" version="1.3" agencyID="CBS-SDGs" package="codelist" class="Codelist" />
+                  <Ref id="CL_SERIES" version="1.4" agencyID="CBS-SDGs" package="codelist" class="Codelist" />
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
